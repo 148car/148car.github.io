@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>美美子 w. 媽 TOKYO TRIP</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-cream: #FDFBFA; 
+            --soft-gray: #F8F8F8;
+            --earth-brown: #8E8282;
+            --text-dark: #444444;
+            --border-light: #F0F0F0;
+        }
+
+        body {
+            font-family: 'Noto Sans TC', sans-serif;
+            background-color: var(--bg-cream);
+            color: var(--text-dark);
+            margin: 0;
+            padding-bottom: 120px;
+            overflow-x: hidden;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .rounded-card { border-radius: 20px; overflow: hidden; }
+        .shadow-card { box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06); }
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+
+        .day-tab.active {
+            background-color: var(--earth-brown);
+            color: white;
+        }
+
+        .timeline-line {
+            position: absolute;
+            left: 20px;
+            top: 40px;
+            bottom: 20px;
+            width: 2px;
+            background: #E5E7EB;
+            z-index: 0;
+        }
+
+        .timeline-dot {
+            width: 12px;
+            height: 12px;
+            background: var(--earth-brown);
+            border-radius: 50%;
+            position: absolute;
+            left: 15px;
+            top: 40px;
+            z-index: 10;
+            border: 3px solid white;
+        }
+
+        .btn-toggle-tips {
+            width: 100%;
+            padding: 10px;
+            margin-top: 12px;
+            background-color: var(--soft-gray);
+            border-radius: 12px;
+            font-size: 12px;
+            color: #777;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            font-weight: 500;
+        }
+
+        .tips-container {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            background-color: #FFF;
+        }
+
+        .tips-container.open {
+            max-height: 800px;
+            padding: 15px 0 5px 0;
+        }
+
+        .card-img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .fade-in { animation: fadeIn 0.5s ease-out; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
+
+        .bottom-nav {
+            background-color: rgba(255, 255, 255, 0.95);
+            backdrop-blur: 15px;
+            border-top: 1px solid rgba(0, 0, 0, 0.05);
+        }
+
+        .nav-btn.active { color: var(--earth-brown); font-weight: 700; }
+        
+        .spot-badge {
+            background: #F3F4F6;
+            color: #6B7280;
+            font-size: 10px;
+            padding: 3px 10px;
+            border-radius: 8px;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        
+        .important-badge {
+            background: #FEF2F2;
+            color: #EF4444;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="pt-8 px-6 pb-4 bg-white/70 backdrop-blur-md sticky top-0 z-50 text-center">
+        <h1 class="text-base font-bold mb-5 text-gray-700">美美子 w. 媽 TOKYO TRIP</h1>
+        <div class="flex overflow-x-auto no-scrollbar space-x-3 pb-2" id="day-selector">
+            <div onclick="switchDay(1)" id="tab-1" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 1</div>
+                <div class="font-bold text-base">3/4</div>
+            </div>
+            <div onclick="switchDay(2)" id="tab-2" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 2</div>
+                <div class="font-bold text-base">3/5</div>
+            </div>
+            <div onclick="switchDay(3)" id="tab-3" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 3</div>
+                <div class="font-bold text-base">3/6</div>
+            </div>
+            <div onclick="switchDay(4)" id="tab-4" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 4</div>
+                <div class="font-bold text-base">3/7</div>
+            </div>
+            <div onclick="switchDay(5)" id="tab-5" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 5</div>
+                <div class="font-bold text-base">3/8</div>
+            </div>
+            <div onclick="switchDay(6)" id="tab-6" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 6</div>
+                <div class="font-bold text-base">3/9</div>
+            </div>
+        </div>
+    </header>
+
+    <main class="px-6 mt-6 pb-10" id="content-area"></main>
+
+    <nav class="fixed bottom-0 left-0 right-0 bottom-nav h-24 flex items-center justify-around z-50 px-10 pb-4">
+        <button onclick="showSection('itinerary')" id="nav-itinerary" class="nav-btn flex flex-col items-center text-gray-400">
+            <span class="text-2xl">📅</span>
+            <span class="text-[11px] mt-1">行程</span>
+        </button>
+        <button onclick="showSection('tickets')" id="nav-tickets" class="nav-btn flex flex-col items-center text-gray-400">
+            <span class="text-2xl">🎫</span>
+            <span class="text-[11px] mt-1">票券</span>
+        </button>
+        <button onclick="showSection('shopping')" id="nav-shopping" class="nav-btn flex flex-col items-center text-gray-400">
+            <span class="text-2xl">🛍️</span>
+            <span class="text-[11px] mt-1">購物</span>
+        </button>
+    </nav>
+
+    <script>
+        let currentDay = 1;
+        let currentSection = 'itinerary';
+
+        window.onload = () => {
+            switchDay(1);
+        };
+
+        function toggleTips(id) {
+            const container = document.getElementById(id);
+            if(!container) return;
+            container.classList.toggle('open');
+            const btn = container.previousElementSibling;
+            btn.innerHTML = container.classList.contains('open') ? '▲ 收起貼心提醒' : '▼ 展開貼心提醒';
+        }
+
+        function switchDay(day) {
+            currentDay = day;
+            currentSection = 'itinerary';
+            updateNavUI();
+            
+            document.querySelectorAll('.day-tab').forEach(tab => tab.classList.remove('active'));
+            document.getElementById('tab-' + day).classList.add('active');
+            
+            const content = document.getElementById('content-area');
+            content.innerHTML = '';
+            
+            if (day === 1) renderDay1(content);
+            else if (day === 2) renderDay2(content);
+            else if (day === 3) renderDay3(content);
+            else if (day === 4) renderDay4(content);
+            else if (day === 5) renderDay5(content);
+            else if (day === 6) renderDay6(content);
+            
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function showSection(section) {
+            currentSection = section;
+            updateNavUI();
+            const content = document.getElementById('content-area');
+            content.innerHTML = '';
+            if (section === 'itinerary') switchDay(currentDay);
+            else if (section === 'shopping') renderShopping(content);
+            else if (section === 'tickets') renderTickets(content);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function updateNavUI() {
+            document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById('nav-' + currentSection).classList.add('active');
+        }
+
+        function createCard(badge, title, subtitle, imgUrl, tipsHtml, isImportant = false) {
+            const id = 'tips-' + Math.random().toString(36).substr(2, 9);
+            return `
+                <div class="relative pl-10 mb-8 fade-in">
+                    <div class="timeline-dot"></div>
+                    <div class="bg-white rounded-card shadow-card overflow-hidden border border-gray-100">
+                        <img src="${imgUrl}" class="card-img" alt="${title}" onerror="this.src='https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=800&auto=format&fit=crop'">
+                        <div class="p-6">
+                            <span class="spot-badge ${isImportant ? 'important-badge' : ''}">${badge}</span>
+                            <h3 class="font-bold text-xl text-gray-800 tracking-tight">${title}</h3>
+                            <p class="text-gray-500 text-sm mt-2 leading-relaxed">${subtitle}</p>
+                            
+                            <button onclick="toggleTips('${id}')" class="btn-toggle-tips">
+                                ▼ 展開貼心提醒
+                            </button>
+                            <div id="${id}" class="tips-container">
+                                <div class="text-xs text-gray-600 leading-loose border-t pt-4">
+                                    ${tipsHtml}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderDay1(container) {
+            container.innerHTML = `
+                <div class="relative">
+                    <div class="timeline-line"></div>
+                    <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 1 抵達東京</h2></div>
+                    ${createCard('16:25 出發', '✈️ 中華航空 CI104', '桃園機場 T2 ➔ 成田機場 T2', 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=800&auto=format&fit=crop', '• 20:25 準時降落成田機場。<br>• 記得在機上先填好 VJW 或準備好紙本入境卡。<br>• 領取行李預計花費 1 小時。')}
+                    ${createCard('交通方式', '🚆 京成電鐵 Access 特快', '成田機場 ➔ 淺草站', 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?q=80&w=800&auto=format&fit=crop', '• 淺草站下車後，請尋找 <b>A2b 出口</b>。<br>• A2b 有直達地面的大電梯，這對推大行李的人非常重要。')}
+                    ${createCard('入住住宿', '🏨 格拉斯麗淺草酒店', 'Hotel Gracery Asakusa', 'https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?q=80&w=800&auto=format&fit=crop', '• 淺草地區晚間有很多宵夜可以選擇。<br>• 飯店環境新且便利。')}
+                </div>`;
+        }
+
+        function renderDay2(container) {
+            container.innerHTML = `
+                <div class="relative">
+                    <div class="timeline-line"></div>
+                    <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 2 富士周遊包車</h2></div>
+                    ${createCard('08:00 出發', '🚗 包車接送', '從淺草格拉斯麗酒店出發', 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 重要提醒：</span><br>• 今日需支付司機<b>尾款 48,000 日幣</b> (限現金)。<br>• 建議提早 10 分鐘在飯店大廳會合。', true)}
+                    ${createCard('景點一', '⛩️ 北口本宮富士淺間神社', '世界遺產，古老的參道與神木', 'https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=800&auto=format&fit=crop', '• 神社入口巨大的鳥居非常壯觀。<br>• 參道林蔭茂密，環境清幽祥和。')}
+                    ${createCard('景點二', '🗻 富士吉田本町通', '日川時計店：經典街景拍照點', 'https://images.unsplash.com/photo-1490806678282-461b20356f21?q=80&w=800&auto=format&fit=crop', '• 拍攝時請注意交通，切勿站在路中間。<br>• 這是拍到富士山就在街道盡頭的網美點。')}
+                    ${createCard('景點三', '🦢 山中湖', '看天鵝與富士山交織', 'https://images.unsplash.com/photo-1570674232745-16fb0b717b62?q=80&w=800&auto=format&fit=crop', '• 可以在湖邊與天鵝合影。<br>• 天氣好時富士山景觀非常壯麗。')}
+                    ${createCard('景點四', '🍜 ほうとう不動 東戀路店', '雲朵造型建築：午餐時刻', 'https://images.unsplash.com/photo-1610452330752-0949d01f8a84?q=80&w=800&auto=format&fit=crop', '• 品嚐山梨名產 Houtou (餺飥麵)。<br>• 建築物本身就是一個巨大的藝術品。')}
+                    ${createCard('景點五', '🌸 大石公園', '河口湖畔與富士山全景', 'https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?q=80&w=800&auto=format&fit=crop', '• 這裡有著名的自然生活館。<br>• 湖邊步道種植季節花卉，拍照超美。')}
+                    ${createCard('景點六', '🏪 Lawson 河口湖站店', '必拍網美超商打卡點', 'https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=800&auto=format&fit=crop', '• 雖然最近有限制，但從對向側拍超商與富士山依然是經典。<br>• 可以順便採買晚上回飯店的零食。')}
+                    ${createCard('入住住宿', '🏨 精進湖：松傑山酒店', '山之酒店 (Hotel Shoji Mount)', 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=800&auto=format&fit=crop', '• 精進湖是富士五湖中最寧靜的。<br>• 隔天早上有機會在房內看到「逆富士」。')}
+                </div>`;
+        }
+
+        function renderDay3(container) {
+            container.innerHTML = `
+                <div class="relative">
+                    <div class="timeline-line"></div>
+                    <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 3 精進湖 ➔ 錦糸町</h2></div>
+                    ${createCard('清晨行程', '🌅 精進湖日出', '欣賞絕美日出與逆富士', 'https://images.unsplash.com/photo-1570674232745-16fb0b717b62?q=80&w=800&auto=format&fit=crop', '• 房內目前無早餐，建議早起看日出後，可考慮跟飯店現場加購早餐。')}
+                    ${createCard('10:30 關鍵', '🚌 藍線周遊巴士', '精進湖入口/民宿村 ➔ 河口湖站', 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 極重要：</span><br>• 早上只有這班巴士前往河口湖，務必準時搭乘！<br>• 預計 12:10 抵達河口湖站。', true)}
+                    ${createCard('回程交通', '🚌 高速巴士轉乘', '河口湖站 ➔ 新宿 (Busta 新宿)', 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=800&auto=format&fit=crop', '• 預計 13:55 抵達新宿。<br>• 抵達後如果肚子餓，可以先在新宿附近簡單用餐。<br>• 隨後搭乘 JR 直達錦糸町站。')}
+                    ${createCard('入住住宿', '🏨 黎凡特東武酒店', '錦糸町 (Kinshicho) 放行李', 'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=800&auto=format&fit=crop', '• Check-in 休息一下，準備迎接豐富的晚間行程。<br>• 與琳穎在此時段或晚點會合。')}
+                    ${createCard('景點一', '⛩️ 淺草寺 ➔ 雷門', '經典地標巡禮', 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=800&auto=format&fit=crop', '• 在仲見世通逛逛、吃點小食。<br>• 晚上點燈後的淺草寺也非常美。')}
+                    ${createCard('景點二', '🗼 東京晴空塔', 'WBC 應援活動場地', 'https://images.unsplash.com/photo-1536098565842-04539647243b?q=80&w=800&auto=format&fit=crop', '• 晴空塔會有 WBC 慶祝活動與相關應援。<br>• 附近有許多周邊商品店。')}
+                    ${createCard('備選行程', '🏮 阿美橫町', '熱鬧的市集與藥妝', 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=800&auto=format&fit=crop', '• 若時間充裕可以加入此點。')}
+                    ${createCard('18:00 重要', '⚾ WBC 台日大戰應援', '回飯店開戰！', 'https://images.unsplash.com/photo-1508344928928-7165b67de128?q=80&w=800&auto=format&fit=crop', '• 買好炸雞、啤酒與零食，和琳穎一起看轉播應援！', true)}
+                    ${createCard('賽後逛街', '🛍️ 錦糸町百貨巡禮', '飯店周邊深夜逛街', 'https://images.unsplash.com/photo-1519739029704-c157693ec813?q=80&w=800&auto=format&fit=crop', '• <b>ARCAKIT</b>: 3F 有 3COINS+plus, 4F 有 UNIQLO。<br>• <b>PARCO</b>: 各種美食與品牌。')}
+                </div>`;
+        }
+
+        function renderDay4(container) {
+            container.innerHTML = `
+                <div class="relative">
+                    <div class="timeline-line"></div>
+                    <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 4 東京經典之旅</h2></div>
+                    ${createCard('景點一', '🐱 豪德寺招財貓', '滿山滿谷的招財貓', 'https://images.unsplash.com/photo-1574158622682-e40e69881006?q=80&w=800&auto=format&fit=crop', '• 非常療癒的神社，可以買一隻小招財貓回家供奉。<br>• 接著步行或搭乘電車前往鄰近的下北澤。')}
+                    ${createCard('景點二', '下北澤散策', '文青古著與特色小店', 'https://images.unsplash.com/photo-1490642223853-99b8b5f30302?q=80&w=800&auto=format&fit=crop', '• 下北澤有許多獨立咖啡廳與獨特的小雜貨。')}
+                    ${createCard('景點三', '⛩️ 明治神宮 & 原宿', '城市森林與潮流中心', 'https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=800&auto=format&fit=crop', '• 明治神宮路途多礫石，建議穿著緩震舒適的運動鞋。')}
+                    ${createCard('景點四', '澀谷散策', '澀谷十字路口與展望台', 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=800&auto=format&fit=crop', '• 若想去 Shibuya Sky 展望台，請務必至少兩週前線上預約熱門時段。')}
+                </div>`;
+        }
+
+        function renderDay5(container) {
+            container.innerHTML = `
+                <div class="relative">
+                    <div class="timeline-line"></div>
+                    <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 5 棒球與藝術</h2></div>
+                    ${createCard('早上行程', '⚾ 東京巨蛋 (Tokyo Dome)', '棒球賽觀賽體驗', 'https://images.unsplash.com/photo-1508344928928-7165b67de128?q=80&w=800&auto=format&fit=crop', '• 雖然是早上，但巨蛋周邊商店可以買周邊商品。<br>• 現場門票請務必提前確認是電子票還是紙本。')}
+                    ${createCard('下午景點', '🏙️ 麻布台之丘展覽', 'Azabudai Hills & 押山清高展', 'https://images.unsplash.com/photo-1536098565842-04539647243b?q=80&w=800&auto=format&fit=crop', '• 除了賞櫻與拍東京鐵塔，重點是參觀押山清高線的展覽。<br>• 這是東京目前最時尚的新地標。')}
+                    ${createCard('晚上自由行', '🛍️ 新宿百貨採購', '最後一波大採買', 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=800&auto=format&fit=crop', '• 新宿 Lumine、伊勢丹百貨等都在這。<br>• 如果體力不堪負荷也可回錦糸町百貨逛。')}
+                </div>`;
+        }
+
+        function renderDay6(container) {
+            container.innerHTML = `
+                <div class="relative">
+                    <div class="timeline-line"></div>
+                    <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 6 平安返家</h2></div>
+                    ${createCard('交通提醒', '🚌 利木津巴士 (Limousine)', '飯店門口直達成田機場', 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=800&auto=format&fit=crop', '<span class="text-blue-500 font-bold">⚠️ 提醒事項：</span><br>• 請於 3/8 回飯店時，先向櫃台預約 3/9 早上的巴士班次。<br>• 黎凡特東武酒店门口即是站牌。', true)}
+                    ${createCard('09:20 起飛', '✈️ 桃園我回來了', '成田機場 ➔ 桃園機場 T2', 'https://images.unsplash.com/photo-1569154941061-e231b4725ef1?q=80&w=800&auto=format&fit=crop', '• 12:30 抵達台灣。<br>• 滿載回憶平安返家！')}
+                </div>`;
+        }
+
+        function renderShopping(container) {
+            container.innerHTML = `
+                <div class="fade-in space-y-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-8">購物清單備忘 🛍️</h2>
+                    <div class="bg-white rounded-card shadow-card p-6 border border-orange-50">
+                        <img src="https://images.unsplash.com/photo-1517433670267-08bbd4be890f?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="富士山吐司">
+                        <h3 class="font-bold text-lg text-gray-800">富士山吐司 🍞</h3>
+                        <p class="text-gray-500 text-sm mt-2">河口湖特產，外形超可愛。建議大石公園購買。</p>
+                    </div>
+                    <div class="bg-white rounded-card shadow-card p-6 border border-green-50">
+                        <img src="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="藥妝">
+                        <h3 class="font-bold text-lg text-gray-800">錦糸町藥妝大採買 💊</h3>
+                        <p class="text-gray-500 text-sm mt-2">OS Drug、大國藥妝。重點：EVE、合利他命、止痛藥、眼藥水。</p>
+                    </div>
+                </div>`;
+        }
+
+        function renderTickets(container) {
+            container.innerHTML = `
+                <div class="fade-in space-y-6">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-8">票券整理 🎫</h2>
+                    <div class="bg-red-50 rounded-card shadow-card p-6 border border-red-100">
+                        <h3 class="font-bold text-red-700">🚗 包車尾款 ¥48,000 (現金)</h3>
+                        <p class="text-red-600 text-sm mt-1">3/5 使用。請確保現金充足，分開存放更安全。</p>
+                    </div>
+                    <div class="bg-blue-50 rounded-card shadow-card p-6 border border-blue-100">
+                        <h3 class="font-bold text-blue-700">⚾ 棒球賽 & 展覽門票</h3>
+                        <p class="text-blue-600 text-sm mt-1">3/8 使用。請確認電子票證已下載至 Apple/Google Wallet。</p>
+                    </div>
+                    <div class="bg-indigo-50 rounded-card shadow-card p-6 border border-indigo-100">
+                        <h3 class="font-bold text-indigo-700">🚌 利木津巴士 (Limousine)</h3>
+                        <p class="text-indigo-600 text-sm mt-1">3/9 使用。請提早跟飯店櫃台預約座位。</p>
+                    </div>
+                </div>`;
+        }
+    </script>
+</body>
+</html>
