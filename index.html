@@ -90,6 +90,10 @@
             display: block;
         }
 
+        @media (min-width: 768px) {
+            .card-img { height: 240px; }
+        }
+
         .fade-in { animation: fadeIn 0.5s ease-out; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
 
@@ -120,51 +124,55 @@
 </head>
 <body>
 
-    <header class="pt-8 px-6 pb-4 bg-white/70 backdrop-blur-md sticky top-0 z-50 text-center">
-        <h1 class="text-base font-bold mb-5 text-gray-700">美美子 w. 媽 TOKYO TRIP</h1>
-        <div class="flex overflow-x-auto no-scrollbar space-x-3 pb-2" id="day-selector">
-            <div onclick="switchDay(1)" id="tab-1" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
-                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 1</div>
-                <div class="font-bold text-base">3/4</div>
-            </div>
-            <div onclick="switchDay(2)" id="tab-2" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
-                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 2</div>
-                <div class="font-bold text-base">3/5</div>
-            </div>
-            <div onclick="switchDay(3)" id="tab-3" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
-                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 3</div>
-                <div class="font-bold text-base">3/6</div>
-            </div>
-            <div onclick="switchDay(4)" id="tab-4" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
-                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 4</div>
-                <div class="font-bold text-base">3/7</div>
-            </div>
-            <div onclick="switchDay(5)" id="tab-5" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
-                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 5</div>
-                <div class="font-bold text-base">3/8</div>
-            </div>
-            <div onclick="switchDay(6)" id="tab-6" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
-                <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 6</div>
-                <div class="font-bold text-base">3/9</div>
+    <header class="bg-white/70 backdrop-blur-md sticky top-0 z-50">
+        <div class="max-w-2xl mx-auto pt-8 px-6 pb-4 text-center">
+            <h1 class="text-base font-bold mb-5 text-gray-700">美美子 w. 媽 TOKYO TRIP</h1>
+            <div class="flex overflow-x-auto no-scrollbar space-x-3 pb-2" id="day-selector">
+                <div onclick="switchDay(1)" id="tab-1" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                    <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 1</div>
+                    <div class="font-bold text-base">3/4</div>
+                </div>
+                <div onclick="switchDay(2)" id="tab-2" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                    <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 2</div>
+                    <div class="font-bold text-base">3/5</div>
+                </div>
+                <div onclick="switchDay(3)" id="tab-3" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                    <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 3</div>
+                    <div class="font-bold text-base">3/6</div>
+                </div>
+                <div onclick="switchDay(4)" id="tab-4" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                    <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 4</div>
+                    <div class="font-bold text-base">3/7</div>
+                </div>
+                <div onclick="switchDay(5)" id="tab-5" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                    <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 5</div>
+                    <div class="font-bold text-base">3/8</div>
+                </div>
+                <div onclick="switchDay(6)" id="tab-6" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
+                    <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 6</div>
+                    <div class="font-bold text-base">3/9</div>
+                </div>
             </div>
         </div>
     </header>
 
-    <main class="px-6 mt-6 pb-10" id="content-area"></main>
+    <main class="max-w-2xl mx-auto px-6 mt-6 pb-10" id="content-area"></main>
 
-    <nav class="fixed bottom-0 left-0 right-0 bottom-nav h-24 flex items-center justify-around z-50 px-10 pb-4">
-        <button onclick="showSection('itinerary')" id="nav-itinerary" class="nav-btn flex flex-col items-center text-gray-400">
-            <span class="text-2xl">📅</span>
-            <span class="text-[11px] mt-1">行程</span>
-        </button>
-        <button onclick="showSection('tickets')" id="nav-tickets" class="nav-btn flex flex-col items-center text-gray-400">
-            <span class="text-2xl">🎫</span>
-            <span class="text-[11px] mt-1">票券</span>
-        </button>
-        <button onclick="showSection('shopping')" id="nav-shopping" class="nav-btn flex flex-col items-center text-gray-400">
-            <span class="text-2xl">🛍️</span>
-            <span class="text-[11px] mt-1">購物</span>
-        </button>
+    <nav class="fixed bottom-0 left-0 right-0 bottom-nav z-50">
+        <div class="max-w-2xl mx-auto h-24 flex items-center justify-around px-10 pb-4">
+            <button onclick="showSection('itinerary')" id="nav-itinerary" class="nav-btn flex flex-col items-center text-gray-400">
+                <span class="text-2xl">📅</span>
+                <span class="text-[11px] mt-1">行程</span>
+            </button>
+            <button onclick="showSection('tickets')" id="nav-tickets" class="nav-btn flex flex-col items-center text-gray-400">
+                <span class="text-2xl">🎫</span>
+                <span class="text-[11px] mt-1">票券</span>
+            </button>
+            <button onclick="showSection('shopping')" id="nav-shopping" class="nav-btn flex flex-col items-center text-gray-400">
+                <span class="text-2xl">🛍️</span>
+                <span class="text-[11px] mt-1">購物</span>
+            </button>
+        </div>
     </nav>
 
     <script>
@@ -325,8 +333,9 @@
 
         function renderShopping(container) {
             container.innerHTML = `
-                <div class="fade-in space-y-6">
+                <div class="fade-in">
                     <h2 class="text-2xl font-bold text-gray-800 mb-8">購物清單備忘 🛍️</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="bg-white rounded-card shadow-card p-6 border border-orange-50">
                         <img src="https://images.unsplash.com/photo-1517433670267-08bbd4be890f?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="富士山吐司">
                         <h3 class="font-bold text-lg text-gray-800">富士山吐司 🍞</h3>
@@ -337,13 +346,15 @@
                         <h3 class="font-bold text-lg text-gray-800">錦糸町藥妝大採買 💊</h3>
                         <p class="text-gray-500 text-sm mt-2">OS Drug、大國藥妝。重點：EVE、合利他命、止痛藥、眼藥水。</p>
                     </div>
+                    </div>
                 </div>`;
         }
 
         function renderTickets(container) {
             container.innerHTML = `
-                <div class="fade-in space-y-6">
+                <div class="fade-in">
                     <h2 class="text-2xl font-bold text-gray-800 mb-8">票券整理 🎫</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="bg-red-50 rounded-card shadow-card p-6 border border-red-100">
                         <h3 class="font-bold text-red-700">🚗 包車尾款 ¥48,000 (現金)</h3>
                         <p class="text-red-600 text-sm mt-1">3/5 使用。請確保現金充足，分開存放更安全。</p>
@@ -355,6 +366,7 @@
                     <div class="bg-indigo-50 rounded-card shadow-card p-6 border border-indigo-100">
                         <h3 class="font-bold text-indigo-700">🚌 利木津巴士 (Limousine)</h3>
                         <p class="text-indigo-600 text-sm mt-1">3/9 使用。請提早跟飯店櫃台預約座位。</p>
+                    </div>
                     </div>
                 </div>`;
         }
