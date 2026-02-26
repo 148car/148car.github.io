@@ -175,6 +175,48 @@
         </div>
     </nav>
 
+    <!-- 願望清單 Modal -->
+    <div id="wishlist-modal" class="hidden fixed inset-0 z-[200] flex items-end justify-center" onclick="closeWishlistModal()">
+        <div class="absolute inset-0 bg-black/40"></div>
+        <div class="relative bg-white rounded-t-3xl w-full max-w-2xl px-6 pt-5 pb-10 shadow-2xl" onclick="event.stopPropagation()">
+            <div class="w-10 h-1 bg-gray-200 rounded-full mx-auto mb-5"></div>
+            <h3 class="font-bold text-lg text-gray-800 mb-5">新增願望清單</h3>
+
+            <!-- 圖片上傳 -->
+            <div class="mb-4">
+                <label class="block text-xs text-gray-400 mb-2 font-medium uppercase tracking-wide">商品圖片</label>
+                <div class="border-2 border-dashed border-gray-200 rounded-2xl overflow-hidden cursor-pointer" onclick="document.getElementById('img-input').click()">
+                    <img id="wishlist-preview" class="hidden w-full h-40 object-cover" alt="預覽">
+                    <div id="upload-placeholder" class="flex flex-col items-center justify-center h-28 text-gray-300">
+                        <span class="text-3xl mb-1">📷</span>
+                        <span class="text-xs">點擊上傳圖片</span>
+                    </div>
+                </div>
+                <input type="file" id="img-input" accept="image/*" class="hidden" onchange="handleImageUpload(event)">
+            </div>
+
+            <!-- 商品名稱 -->
+            <div class="mb-4">
+                <label class="block text-xs text-gray-400 mb-2 font-medium uppercase tracking-wide">商品名稱 <span class="text-red-400">*</span></label>
+                <input type="text" id="wishlist-name" placeholder="例：龍角散潤喉糖"
+                    class="w-full border border-gray-200 rounded-2xl px-4 py-3 text-sm bg-gray-50 focus:outline-none focus:border-[#8E8282]">
+            </div>
+
+            <!-- 購買地點 -->
+            <div class="mb-7">
+                <label class="block text-xs text-gray-400 mb-2 font-medium uppercase tracking-wide">購買地點</label>
+                <input type="text" id="wishlist-location" placeholder="例：松本清、OS Drug"
+                    class="w-full border border-gray-200 rounded-2xl px-4 py-3 text-sm bg-gray-50 focus:outline-none focus:border-[#8E8282]">
+            </div>
+
+            <!-- 按鈕 -->
+            <div class="flex gap-3">
+                <button onclick="closeWishlistModal()" class="flex-1 py-3 rounded-2xl bg-gray-100 text-gray-500 text-sm font-medium">取消</button>
+                <button onclick="saveWishlistItem()" class="flex-1 py-3 rounded-2xl text-white text-sm font-bold" style="background-color: var(--earth-brown)">儲存</button>
+            </div>
+        </div>
+    </div>
+
     <script>
         let currentDay = 1;
         let currentSection = 'itinerary';
@@ -332,22 +374,102 @@
         }
 
         function renderShopping(container) {
+            const wishlist = JSON.parse(localStorage.getItem('wishlist') || '[]');
+            const wishlistCards = wishlist.map((item, i) => `
+                <div class="bg-white rounded-card shadow-card p-4 border border-gray-50 relative fade-in">
+                    <button onclick="deleteWishlistItem(${i})" class="absolute top-3 right-3 text-gray-300 hover:text-red-400 text-sm leading-none">✕</button>
+                    ${item.imgSrc
+                        ? `<img src="${item.imgSrc}" class="w-full h-28 object-cover rounded-xl mb-3">`
+                        : `<div class="w-full h-20 bg-gray-50 rounded-xl mb-3 flex items-center justify-center text-3xl">🛍️</div>`}
+                    <h3 class="font-bold text-sm text-gray-800 pr-4 leading-snug">${item.name}</h3>
+                    ${item.location ? `<p class="text-gray-400 text-xs mt-1">📍 ${item.location}</p>` : ''}
+                </div>
+            `).join('');
+
             container.innerHTML = `
                 <div class="fade-in">
-                    <h2 class="text-2xl font-bold text-gray-800 mb-8">購物清單備忘 🛍️</h2>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div class="bg-white rounded-card shadow-card p-6 border border-orange-50">
-                        <img src="https://images.unsplash.com/photo-1517433670267-08bbd4be890f?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="富士山吐司">
-                        <h3 class="font-bold text-lg text-gray-800">富士山吐司 🍞</h3>
-                        <p class="text-gray-500 text-sm mt-2">河口湖特產，外形超可愛。建議大石公園購買。</p>
+                    <h2 class="text-2xl font-bold text-gray-800 mb-6">購物清單備忘 🛍️</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+                        <div class="bg-white rounded-card shadow-card p-6 border border-orange-50">
+                            <img src="https://images.unsplash.com/photo-1517433670267-08bbd4be890f?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="富士山吐司">
+                            <h3 class="font-bold text-lg text-gray-800">富士山吐司 🍞</h3>
+                            <p class="text-gray-500 text-sm mt-2">河口湖特產，外形超可愛。建議大石公園購買。</p>
+                        </div>
+                        <div class="bg-white rounded-card shadow-card p-6 border border-green-50">
+                            <img src="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="藥妝">
+                            <h3 class="font-bold text-lg text-gray-800">錦糸町藥妝大採買 💊</h3>
+                            <p class="text-gray-500 text-sm mt-2">OS Drug、大國藥妝。重點：EVE、合利他命、止痛藥、眼藥水。</p>
+                        </div>
                     </div>
-                    <div class="bg-white rounded-card shadow-card p-6 border border-green-50">
-                        <img src="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=800&auto=format&fit=crop" class="w-full h-32 object-cover rounded-xl mb-4" alt="藥妝">
-                        <h3 class="font-bold text-lg text-gray-800">錦糸町藥妝大採買 💊</h3>
-                        <p class="text-gray-500 text-sm mt-2">OS Drug、大國藥妝。重點：EVE、合利他命、止痛藥、眼藥水。</p>
+
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="font-bold text-base text-gray-700">我的願望清單 ✨</h3>
+                        <button onclick="openWishlistModal()" class="flex items-center gap-1 px-4 py-2 rounded-2xl text-white text-sm font-bold" style="background-color: var(--earth-brown)">
+                            ＋ 新增
+                        </button>
                     </div>
-                    </div>
+                    ${wishlist.length === 0
+                        ? `<div class="text-center text-gray-300 py-10 text-sm bg-white rounded-card border border-gray-100">
+                                還沒有願望清單<br>點擊「新增」來加入想買的商品！
+                           </div>`
+                        : `<div class="grid grid-cols-2 md:grid-cols-3 gap-4">${wishlistCards}</div>`}
                 </div>`;
+        }
+
+        function openWishlistModal() {
+            document.getElementById('wishlist-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeWishlistModal() {
+            document.getElementById('wishlist-modal').classList.add('hidden');
+            document.body.style.overflow = '';
+            document.getElementById('wishlist-name').value = '';
+            document.getElementById('wishlist-location').value = '';
+            document.getElementById('wishlist-preview').src = '';
+            document.getElementById('wishlist-preview').classList.add('hidden');
+            document.getElementById('upload-placeholder').classList.remove('hidden');
+            document.getElementById('img-input').value = '';
+        }
+
+        function handleImageUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const preview = document.getElementById('wishlist-preview');
+                preview.src = e.target.result;
+                preview.classList.remove('hidden');
+                document.getElementById('upload-placeholder').classList.add('hidden');
+            };
+            reader.readAsDataURL(file);
+        }
+
+        function saveWishlistItem() {
+            const name = document.getElementById('wishlist-name').value.trim();
+            const location = document.getElementById('wishlist-location').value.trim();
+            const preview = document.getElementById('wishlist-preview');
+            const imgSrc = preview.classList.contains('hidden') ? '' : preview.src;
+
+            if (!name) {
+                document.getElementById('wishlist-name').focus();
+                return;
+            }
+
+            const items = JSON.parse(localStorage.getItem('wishlist') || '[]');
+            items.push({ name, location, imgSrc });
+            localStorage.setItem('wishlist', JSON.stringify(items));
+            closeWishlistModal();
+            if (currentSection === 'shopping') {
+                renderShopping(document.getElementById('content-area'));
+            }
+        }
+
+        function deleteWishlistItem(index) {
+            const items = JSON.parse(localStorage.getItem('wishlist') || '[]');
+            items.splice(index, 1);
+            localStorage.setItem('wishlist', JSON.stringify(items));
+            renderShopping(document.getElementById('content-area'));
         }
 
         function renderTickets(container) {
