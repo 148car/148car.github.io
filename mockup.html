@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>美美子 w. 媽 TOKYO TRIP — Preview</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Background glow blobs */
+    body::before {
+      content: '';
+      position: fixed;
+      top: -200px;
+      left: -200px;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(139,92,246,0.15) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    body::after {
+      content: '';
+      position: fixed;
+      bottom: -200px;
+      right: -200px;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(236,72,153,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    /* Title above phone */
+    .title-tag {
+      margin-bottom: 28px;
+      text-align: center;
+      z-index: 10;
+    }
+    .title-tag h1 {
+      font-size: 20px;
+      font-weight: 800;
+      color: white;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+    .title-tag p {
+      font-size: 13px;
+      color: rgba(255,255,255,0.45);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    /* Phone outer shell */
+    .phone-wrap {
+      position: relative;
+      z-index: 10;
+      filter: drop-shadow(0 40px 80px rgba(0,0,0,0.7)) drop-shadow(0 0 60px rgba(139,92,246,0.2));
+    }
+
+    .phone {
+      position: relative;
+      width: 390px;
+      height: 844px;
+      background: #1c1c1e;
+      border-radius: 54px;
+      box-shadow:
+        inset 0 0 0 1.5px #555,
+        inset 0 0 0 3px #2a2a2a,
+        0 0 0 1px #111;
+      overflow: hidden;
+    }
+
+    /* Left buttons */
+    .btn-left-1, .btn-left-2, .btn-left-3 {
+      position: absolute;
+      left: -4px;
+      background: #2e2e30;
+      border-radius: 3px 0 0 3px;
+      box-shadow: -1px 0 0 #111;
+    }
+    .btn-left-1 { top: 148px; width: 4px; height: 32px; }
+    .btn-left-2 { top: 200px; width: 4px; height: 62px; }
+    .btn-left-3 { top: 272px; width: 4px; height: 62px; }
+
+    /* Right button */
+    .btn-right {
+      position: absolute;
+      right: -4px;
+      top: 186px;
+      width: 4px;
+      height: 92px;
+      background: #2e2e30;
+      border-radius: 0 3px 3px 0;
+      box-shadow: 1px 0 0 #111;
+    }
+
+    /* Screen area */
+    .screen {
+      position: absolute;
+      inset: 0;
+      border-radius: 54px;
+      overflow: hidden;
+      background: white;
+    }
+
+    /* Status bar */
+    .status-bar {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 52px;
+      background: white;
+      z-index: 20;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      padding: 0 32px 10px;
+    }
+    .status-time {
+      font-size: 15px;
+      font-weight: 700;
+      color: #000;
+      letter-spacing: -0.3px;
+    }
+    .status-icons {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+
+    /* Dynamic Island */
+    .dynamic-island {
+      position: absolute;
+      top: 13px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 126px;
+      height: 36px;
+      background: #000;
+      border-radius: 20px;
+      z-index: 30;
+    }
+
+    /* App iframe */
+    iframe {
+      position: absolute;
+      top: 52px;
+      left: 0;
+      width: 100%;
+      height: calc(100% - 52px - 34px);
+      border: none;
+      display: block;
+    }
+
+    /* Home indicator */
+    .home-bar {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 134px;
+      height: 5px;
+      background: rgba(0,0,0,0.3);
+      border-radius: 10px;
+      z-index: 20;
+    }
+
+    /* Caption below */
+    .caption {
+      margin-top: 28px;
+      text-align: center;
+      z-index: 10;
+    }
+    .caption p {
+      font-size: 12px;
+      color: rgba(255,255,255,0.3);
+      letter-spacing: 1.5px;
+    }
+
+    /* Scale down for smaller screens */
+    @media (max-height: 980px) {
+      .phone { transform: scale(0.88); transform-origin: top center; }
+      .phone-wrap { margin-bottom: -100px; }
+    }
+    @media (max-height: 860px) {
+      .phone { transform: scale(0.76); transform-origin: top center; }
+      .phone-wrap { margin-bottom: -200px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="title-tag">
+    <h1>美美子 w. 媽 TOKYO TRIP ⚾ 🇹🇼 🔥</h1>
+    <p>March 4 – 9, 2026</p>
+  </div>
+
+  <div class="phone-wrap">
+    <div class="phone">
+      <!-- Side buttons -->
+      <div class="btn-left-1"></div>
+      <div class="btn-left-2"></div>
+      <div class="btn-left-3"></div>
+      <div class="btn-right"></div>
+
+      <!-- Screen -->
+      <div class="screen">
+        <div class="status-bar">
+          <span class="status-time">9:41</span>
+          <div class="status-icons">
+            <!-- Signal bars -->
+            <svg width="18" height="13" viewBox="0 0 18 13" fill="none">
+              <rect x="0" y="8" width="3" height="5" rx="1" fill="#000"/>
+              <rect x="5" y="5.5" width="3" height="7.5" rx="1" fill="#000"/>
+              <rect x="10" y="2.5" width="3" height="10.5" rx="1" fill="#000"/>
+              <rect x="15" y="0" width="3" height="13" rx="1" fill="#000"/>
+            </svg>
+            <!-- WiFi -->
+            <svg width="17" height="13" viewBox="0 0 17 13" fill="none">
+              <circle cx="8.5" cy="11.5" r="1.5" fill="#000"/>
+              <path d="M4.5 7.5a5.7 5.7 0 0 1 8 0" stroke="#000" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M1.5 4.5a10.5 10.5 0 0 1 14 0" stroke="#000" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            <!-- Battery -->
+            <div style="display:flex;align-items:center;">
+              <div style="width:27px;height:13px;border:1.5px solid #000;border-radius:3.5px;padding:2px;position:relative;">
+                <div style="width:80%;height:100%;background:#000;border-radius:1.5px;"></div>
+              </div>
+              <div style="width:2px;height:7px;background:#000;border-radius:0 1.5px 1.5px 0;margin-left:1px;"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="dynamic-island"></div>
+
+        <iframe src="index.html" title="Tokyo Trip App"></iframe>
+
+        <div class="home-bar"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="caption">
+    <p>✦ &nbsp; WBC 2026 &nbsp; ✦ &nbsp; TOKYO &nbsp; ✦</p>
+  </div>
+
+</body>
+</html>
