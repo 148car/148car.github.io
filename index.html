@@ -273,7 +273,12 @@
             document.getElementById('nav-' + currentSection).classList.add('active');
         }
 
-        function createWeatherBanner(location, icon, condition, high, low, rain, tip) {
+        function createWeatherBanner(location, icon, condition, high, low, rain, tip, fujiVisibility = '') {
+            const fujiRow = fujiVisibility ? `
+                        <div class="mt-1.5 pt-1.5 border-t border-gray-100 flex items-center gap-1.5 text-[11px]">
+                            <span class="text-base">🗻</span>
+                            <span class="text-blue-500 font-medium">${fujiVisibility}</span>
+                        </div>` : '';
             return `
                 <div class="pl-10 mb-6 fade-in">
                 <div class="flex items-center gap-4 bg-white rounded-2xl shadow-card border border-gray-100 px-5 py-4">
@@ -288,6 +293,7 @@
                             <span>💧 降雨 ${rain}%</span>
                             <span>👗 ${tip}</span>
                         </div>
+                        ${fujiRow}
                     </div>
                 </div>
                 </div>`;
@@ -336,7 +342,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 2 富士周遊包車</h2></div>
-                    ${createWeatherBanner('富士山區', '☀️', '晴、早晚易結霜', 8, -1, 10, '必備手套＋暖暖包，比東京冷 5°C')}
+                    ${createWeatherBanner('富士山區', '☀️', '晴、早晚易結霜', 8, -1, 10, '必備手套＋暖暖包，比東京冷 5°C', '晴天能見度高，富士山全貌清晰可見（最佳觀賞日）')}
                     ${createCard('08:00 出發', '🚗 包車接送', '從淺草格拉斯麗酒店出發', 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 重要提醒：</span><br>• 今日需支付司機<b>尾款 48,000 日幣</b> (限現金)。<br>• 建議提早 10 分鐘在飯店大廳會合。', true, 'https://maps.google.com/?q=Hotel+Gracery+Asakusa')}
                     ${createCard('景點一', '⛩️ 北口本宮富士淺間神社', '世界遺產，古老的參道與神木', 'https://lh3.googleusercontent.com/places/ANJU3DtGZ7oTeYxnNuL1v37bNlhSydmfMq01nHo5F-4eU42EkGjj2pUQSnLT_vqcAg6RzNB58DoRDvJqZQJZNydklGARL98HrJ7XDXQ=s1600-w3594', '• 神社入口巨大的鳥居非常壯觀。<br>• 參道林蔭茂密，環境清幽祥和。', false, 'https://maps.google.com/?q=北口本宮冨士浅間神社')}
                     ${createCard('景點二', '🗻 富士吉田本町通', '日川時計店：經典街景拍照點', 'https://media.walkerland.com.tw/wlk_media/thumbnail/images/upload/article/2025/04/m33046/90c94e90c4e824f4c721f083738705d5aae0d6b2-800x533.webp', '• 拍攝時請注意交通，切勿站在路中間。<br>• 這是拍到富士山就在街道盡頭的網美點。', false, 'https://maps.google.com/?q=富士吉田市本町通り')}
@@ -353,7 +359,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 3 精進湖 ➔ 錦糸町</h2></div>
-                    ${createWeatherBanner('精進湖→東京', '⛅', '多雲，午後轉晴', 10, 2, 20, '早晨湖邊寒冷，回東京後明顯回暖')}
+                    ${createWeatherBanner('精進湖→東京', '⛅', '多雲，午後轉晴', 10, 2, 20, '早晨湖邊寒冷，回東京後明顯回暖', '清晨雲霧消散前有機會見到逆富士，日出後能見度漸佳')}
                     ${createCard('清晨行程', '🌅 精進湖日出', '欣賞絕美日出與逆富士', 'https://images.unsplash.com/photo-1570674232745-16fb0b717b62?q=80&w=800&auto=format&fit=crop', '• 房內目前無早餐，建議早起看日出後，可考慮跟飯店現場加購早餐。', false, 'https://maps.google.com/?q=精進湖')}
                     ${createCard('10:30 關鍵', '🚌 藍線周遊巴士', '精進湖入口/民宿村 ➔ 河口湖站', 'https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 極重要：</span><br>• 早上只有這班巴士前往河口湖，務必準時搭乘！<br>• 預計 12:10 抵達河口湖站。', true, 'https://maps.google.com/?q=精進湖入口バス停')}
                     ${createCard('回程交通', '🚌 高速巴士轉乘', '河口湖站 ➔ 新宿 (Busta 新宿)', 'https://images.unsplash.com/photo-1490806678282-461b20356f21?q=80&w=800&auto=format&fit=crop', '• 預計 13:55 抵達新宿。<br>• 抵達後如果肚子餓，可以先在新宿附近簡單用餐。<br>• 隨後搭乘 JR 直達錦糸町站。', false, 'https://maps.google.com/?q=河口湖駅')}
