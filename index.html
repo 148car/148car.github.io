@@ -273,6 +273,26 @@
             document.getElementById('nav-' + currentSection).classList.add('active');
         }
 
+        function createWeatherBanner(location, icon, condition, high, low, rain, tip) {
+            return `
+                <div class="pl-10 mb-6 fade-in">
+                <div class="flex items-center gap-4 bg-white rounded-2xl shadow-card border border-gray-100 px-5 py-4">
+                    <div class="text-4xl leading-none">${icon}</div>
+                    <div class="flex-1 min-w-0">
+                        <div class="text-[10px] text-gray-400 font-medium uppercase tracking-widest mb-0.5">${location} · 歷史均值參考</div>
+                        <div class="flex items-baseline gap-2">
+                            <span class="text-xl font-bold text-gray-800">${high}°C</span>
+                            <span class="text-sm text-gray-400">/ ${low}°C · ${condition}</span>
+                        </div>
+                        <div class="flex flex-wrap gap-x-3 mt-1 text-[11px] text-gray-400">
+                            <span>💧 降雨 ${rain}%</span>
+                            <span>👗 ${tip}</span>
+                        </div>
+                    </div>
+                </div>
+                </div>`;
+        }
+
         function createCard(badge, title, subtitle, imgUrl, tipsHtml, isImportant = false, mapUrl = '') {
             const id = 'tips-' + Math.random().toString(36).substr(2, 9);
             return `
@@ -304,6 +324,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 1 抵達東京</h2></div>
+                    ${createWeatherBanner('東京', '🌤️', '晴時多雲', 12, 6, 15, '厚外套＋薄圍巾')}
                     ${createCard('16:25 出發', '✈️ 中華航空 CI104', '桃園機場 T2 ➔ 成田機場 T2', 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=800&auto=format&fit=crop', '• 20:25 準時降落成田機場。<br>• 記得在機上先填好 VJW 或準備好紙本入境卡。<br>• 領取行李預計花費 1 小時。', false, 'https://maps.google.com/?q=成田国際空港+第2ターミナル')}
                     ${createCard('交通方式', '🚆 京成電鐵 Access 特快', '成田機場 ➔ 淺草站', 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?q=80&w=800&auto=format&fit=crop', '• 淺草站下車後，請尋找 <b>A2b 出口</b>。<br>• A2b 有直達地面的大電梯，這對推大行李的人非常重要。<br>• 如果不會走，可以參考這個網址：<a href="https://wind.suzukihiro.tw/access-express2025/" target="_blank" style="color:#8E8282;text-decoration:underline;">wind.suzukihiro.tw 搭乘教學</a><br>• 🕐 時刻表：<a href="https://keisei.ekitan.com/naritaacs/T5?uid=23117&dir=50&path=20240809184650315&USR=PC&dw=0&slCode=682-7&d=1&rsf=" target="_blank" style="color:#8E8282;text-decoration:underline;">點此查看完整時刻表</a><br><br><b>🗺 路線圖</b><br><img src="https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/assets/images/top/routemap_express.jpg" class="w-full rounded-xl mt-2" alt="京成 Access 特快路線圖"><br><br><b>🕐 班次表</b><br><img src="https://img.gototravel.tw/flickr/44553130261_1dbd56ffc2_z.jpg" class="w-full rounded-xl mt-2" alt="京成 Access 特快班次表">', false, 'https://maps.google.com/?q=成田空港第2ビル駅')}
                     ${createCard('入住住宿', '🏨 格拉斯麗淺草酒店', 'Hotel Gracery Asakusa', 'https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?q=80&w=800&auto=format&fit=crop', '• 淺草地區晚間有很多宵夜可以選擇。<br>• 飯店環境新且便利。', false, 'https://maps.google.com/?q=Hotel+Gracery+Asakusa')}
@@ -315,6 +336,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 2 富士周遊包車</h2></div>
+                    ${createWeatherBanner('富士山區', '☀️', '晴、早晚易結霜', 8, -1, 10, '必備手套＋暖暖包，比東京冷 5°C')}
                     ${createCard('08:00 出發', '🚗 包車接送', '從淺草格拉斯麗酒店出發', 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 重要提醒：</span><br>• 今日需支付司機<b>尾款 48,000 日幣</b> (限現金)。<br>• 建議提早 10 分鐘在飯店大廳會合。', true, 'https://maps.google.com/?q=Hotel+Gracery+Asakusa')}
                     ${createCard('景點一', '⛩️ 北口本宮富士淺間神社', '世界遺產，古老的參道與神木', 'https://lh3.googleusercontent.com/places/ANJU3DtGZ7oTeYxnNuL1v37bNlhSydmfMq01nHo5F-4eU42EkGjj2pUQSnLT_vqcAg6RzNB58DoRDvJqZQJZNydklGARL98HrJ7XDXQ=s1600-w3594', '• 神社入口巨大的鳥居非常壯觀。<br>• 參道林蔭茂密，環境清幽祥和。', false, 'https://maps.google.com/?q=北口本宮冨士浅間神社')}
                     ${createCard('景點二', '🗻 富士吉田本町通', '日川時計店：經典街景拍照點', 'https://media.walkerland.com.tw/wlk_media/thumbnail/images/upload/article/2025/04/m33046/90c94e90c4e824f4c721f083738705d5aae0d6b2-800x533.webp', '• 拍攝時請注意交通，切勿站在路中間。<br>• 這是拍到富士山就在街道盡頭的網美點。', false, 'https://maps.google.com/?q=富士吉田市本町通り')}
@@ -331,6 +353,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 3 精進湖 ➔ 錦糸町</h2></div>
+                    ${createWeatherBanner('精進湖→東京', '⛅', '多雲，午後轉晴', 10, 2, 20, '早晨湖邊寒冷，回東京後明顯回暖')}
                     ${createCard('清晨行程', '🌅 精進湖日出', '欣賞絕美日出與逆富士', 'https://images.unsplash.com/photo-1570674232745-16fb0b717b62?q=80&w=800&auto=format&fit=crop', '• 房內目前無早餐，建議早起看日出後，可考慮跟飯店現場加購早餐。', false, 'https://maps.google.com/?q=精進湖')}
                     ${createCard('10:30 關鍵', '🚌 藍線周遊巴士', '精進湖入口/民宿村 ➔ 河口湖站', 'https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 極重要：</span><br>• 早上只有這班巴士前往河口湖，務必準時搭乘！<br>• 預計 12:10 抵達河口湖站。', true, 'https://maps.google.com/?q=精進湖入口バス停')}
                     ${createCard('回程交通', '🚌 高速巴士轉乘', '河口湖站 ➔ 新宿 (Busta 新宿)', 'https://images.unsplash.com/photo-1490806678282-461b20356f21?q=80&w=800&auto=format&fit=crop', '• 預計 13:55 抵達新宿。<br>• 抵達後如果肚子餓，可以先在新宿附近簡單用餐。<br>• 隨後搭乘 JR 直達錦糸町站。', false, 'https://maps.google.com/?q=河口湖駅')}
@@ -348,6 +371,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 4 東京經典之旅</h2></div>
+                    ${createWeatherBanner('東京', '☀️', '晴、適合戶外', 13, 6, 10, '白天暖和，傍晚轉涼備薄外套')}
                     ${createCard('景點一', '🐱 豪德寺招財貓', '滿山滿谷的招財貓', 'https://images.unsplash.com/photo-1574158622682-e40e69881006?q=80&w=800&auto=format&fit=crop', '• 非常療癒的神社，可以買一隻小招財貓回家供奉。<br>• 接著步行或搭乘電車前往鄰近的下北澤。', false, 'https://maps.google.com/?q=豪徳寺')}
                     ${createCard('景點二', '下北澤散策', '文青古著與特色小店', 'https://images.unsplash.com/photo-1490642223853-99b8b5f30302?q=80&w=800&auto=format&fit=crop', '• 下北澤有許多獨立咖啡廳與獨特的小雜貨。', false, 'https://maps.google.com/?q=下北沢')}
                     ${createCard('景點三', '⛩️ 明治神宮 & 原宿', '城市森林與潮流中心', 'https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=800&auto=format&fit=crop', '• 明治神宮路途多礫石，建議穿著緩震舒適的運動鞋。', false, 'https://maps.google.com/?q=明治神宮')}
@@ -360,6 +384,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 5 棒球與藝術</h2></div>
+                    ${createWeatherBanner('東京', '⛅', '多雲，偶有陣雨', 11, 5, 30, '建議備傘，日夜溫差大')}
                     ${createCard('早上行程', '⚾ 東京巨蛋 (Tokyo Dome)', '棒球賽觀賽體驗', 'https://images.unsplash.com/photo-1508344928928-7165b67de128?q=80&w=800&auto=format&fit=crop', '• 雖然是早上，但巨蛋周邊商店可以買周邊商品。<br>• 現場門票請務必提前確認是電子票還是紙本。', false, 'https://maps.google.com/?q=東京ドーム')}
                     ${createCard('下午景點', '🏙️ 麻布台之丘展覽', 'Azabudai Hills & 押山清高展', 'https://images.unsplash.com/photo-1536098565842-04539647243b?q=80&w=800&auto=format&fit=crop', '• 除了賞櫻與拍東京鐵塔，重點是參觀押山清高線的展覽。<br>• 這是東京目前最時尚的新地標。', false, 'https://maps.google.com/?q=麻布台ヒルズ')}
                     ${createCard('晚上自由行', '🛍️ 新宿百貨採購', '最後一波大採買', 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=800&auto=format&fit=crop', '• 新宿 Lumine、伊勢丹百貨等都在這。<br>• 如果體力不堪負荷也可回錦糸町百貨逛。', false, 'https://maps.google.com/?q=新宿伊勢丹')}
@@ -371,6 +396,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 6 平安返家</h2></div>
+                    ${createWeatherBanner('東京', '🌤️', '晴時多雲', 12, 5, 15, '天氣穩定，適合出門搭機')}
                     ${createCard('交通提醒', '🚌 利木津巴士 (Limousine)', '飯店門口直達成田機場', 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=800&auto=format&fit=crop', '<span class="text-blue-500 font-bold">⚠️ 提醒事項：</span><br>• 請於 3/8 回飯店時，先向櫃台預約 3/9 早上的巴士班次。<br>• 黎凡特東武酒店门口即是站牌。', true, 'https://maps.google.com/?q=レバント東武ホテル+錦糸町')}
                     ${createCard('09:20 起飛', '✈️ 桃園我回來了', '成田機場 ➔ 桃園機場 T2', 'https://images.unsplash.com/photo-1569154941061-e231b4725ef1?q=80&w=800&auto=format&fit=crop', '• 12:30 抵達台灣。<br>• 滿載回憶平安返家！', false, 'https://maps.google.com/?q=成田国際空港')}
                 </div>`;
