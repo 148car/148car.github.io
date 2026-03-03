@@ -8,7 +8,7 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
-      min-height: 100vh;
+      height: 100vh;
       background: linear-gradient(145deg, #0d0d1a 0%, #1a1230 40%, #0d1a2e 100%);
       display: flex;
       flex-direction: column;
@@ -18,7 +18,6 @@
       overflow: hidden;
     }
 
-    /* Ambient glow */
     .glow-1 {
       position: fixed; top: -150px; left: -150px;
       width: 500px; height: 500px;
@@ -33,48 +32,46 @@
     }
 
     .title-tag {
-      margin-bottom: 24px;
+      margin-bottom: 20px;
       text-align: center;
       z-index: 10;
+      flex-shrink: 0;
     }
     .title-tag h1 {
-      font-size: 19px; font-weight: 800;
-      color: white; letter-spacing: 0.3px; margin-bottom: 5px;
+      font-size: 18px; font-weight: 800;
+      color: white; letter-spacing: 0.3px; margin-bottom: 4px;
     }
     .title-tag p {
       font-size: 11px; color: rgba(255,255,255,0.38);
       letter-spacing: 2.5px; text-transform: uppercase;
     }
 
-    /* ── Scene wrapper ── */
+    /* Scene scales dynamically via JS */
     .scene {
       position: relative;
       z-index: 10;
-      /* drop-shadow on the whole scene */
-      filter: drop-shadow(0 50px 90px rgba(0,0,0,0.75))
-              drop-shadow(0 0 50px rgba(120,80,255,0.18));
+      transform-origin: top center;
+      filter: drop-shadow(0 40px 80px rgba(0,0,0,0.75))
+              drop-shadow(0 0 40px rgba(120,80,255,0.2));
     }
 
-    /* ── Device shell ── */
+    /* Fixed device dimensions — JS scales the .scene to fit */
     .device {
       position: relative;
       width: 414px;
       height: 855px;
     }
 
-    /* iframe sits inside screen area */
     .device iframe {
       position: absolute;
       top: 15px; left: 15px;
-      width: 384px;
-      height: 825px;
+      width: 384px; height: 825px;
       border: none;
       border-radius: 44px;
       display: block;
       background: #fff;
     }
 
-    /* SVG frame overlaid on top — pointer-events:none so clicks pass to iframe */
     .frame-svg {
       position: absolute;
       top: 0; left: 0;
@@ -83,7 +80,6 @@
       z-index: 5;
     }
 
-    /* Status bar overlay */
     .status-bar {
       position: absolute;
       top: 15px; left: 15px;
@@ -100,62 +96,46 @@
     .status-time { font-size: 15px; font-weight: 700; color: #000; letter-spacing: -0.3px; }
     .status-icons { display: flex; align-items: center; gap: 6px; }
 
-    /* Dynamic Island */
     .dynamic-island {
       position: absolute;
-      top: 28px;
-      left: 50%; transform: translateX(-50%);
+      top: 28px; left: 50%; transform: translateX(-50%);
       width: 126px; height: 36px;
-      background: #000;
-      border-radius: 20px;
-      z-index: 8;
-      pointer-events: none;
+      background: #000; border-radius: 20px;
+      z-index: 8; pointer-events: none;
     }
 
-    /* Home indicator */
     .home-bar {
       position: absolute;
-      bottom: 22px;
-      left: 50%; transform: translateX(-50%);
+      bottom: 22px; left: 50%; transform: translateX(-50%);
       width: 134px; height: 5px;
-      background: rgba(0,0,0,0.28);
-      border-radius: 10px;
-      z-index: 8;
-      pointer-events: none;
+      background: rgba(0,0,0,0.28); border-radius: 10px;
+      z-index: 8; pointer-events: none;
     }
 
-    /* ── Physical buttons (outside device) ── */
-    /* Action button top-left */
+    /* Physical buttons */
     .btn-action {
-      position: absolute;
-      left: -5px; top: 148px;
+      position: absolute; left: -5px; top: 148px;
       width: 5px; height: 34px;
       background: linear-gradient(to right, #2a2a2c, #3e3e40);
       border-radius: 3px 0 0 3px;
       box-shadow: -1px 0 2px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.08);
     }
-    /* Volume up */
     .btn-vol-up {
-      position: absolute;
-      left: -5px; top: 196px;
+      position: absolute; left: -5px; top: 196px;
       width: 5px; height: 64px;
       background: linear-gradient(to right, #2a2a2c, #3e3e40);
       border-radius: 3px 0 0 3px;
       box-shadow: -1px 0 2px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.08);
     }
-    /* Volume down */
     .btn-vol-down {
-      position: absolute;
-      left: -5px; top: 270px;
+      position: absolute; left: -5px; top: 270px;
       width: 5px; height: 64px;
       background: linear-gradient(to right, #2a2a2c, #3e3e40);
       border-radius: 3px 0 0 3px;
       box-shadow: -1px 0 2px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.08);
     }
-    /* Power / side button */
     .btn-power {
-      position: absolute;
-      right: -5px; top: 190px;
+      position: absolute; right: -5px; top: 190px;
       width: 5px; height: 90px;
       background: linear-gradient(to left, #2a2a2c, #3e3e40);
       border-radius: 0 3px 3px 0;
@@ -163,25 +143,13 @@
     }
 
     .caption {
-      margin-top: 24px;
+      margin-top: 18px;
       text-align: center;
       z-index: 10;
+      flex-shrink: 0;
     }
     .caption p {
-      font-size: 11px;
-      color: rgba(255,255,255,0.25);
-      letter-spacing: 2px;
-    }
-
-    /* Scale for smaller screens */
-    @media (max-height: 1020px) {
-      .scene { transform: scale(0.9); transform-origin: top center; margin-bottom: -80px; }
-    }
-    @media (max-height: 920px) {
-      .scene { transform: scale(0.78); transform-origin: top center; margin-bottom: -180px; }
-    }
-    @media (max-height: 800px) {
-      .scene { transform: scale(0.66); transform-origin: top center; margin-bottom: -290px; }
+      font-size: 11px; color: rgba(255,255,255,0.25); letter-spacing: 2px;
     }
   </style>
 </head>
@@ -196,11 +164,8 @@
 
   <div class="scene">
     <div class="device">
-
-      <!-- iframe content (behind frame) -->
       <iframe src="index.html" title="Tokyo Trip"></iframe>
 
-      <!-- Status bar overlay -->
       <div class="status-bar">
         <span class="status-time">9:41</span>
         <div class="status-icons">
@@ -215,22 +180,16 @@
         </div>
       </div>
 
-      <!-- Dynamic Island -->
       <div class="dynamic-island"></div>
-
-      <!-- Home bar -->
       <div class="home-bar"></div>
 
-      <!-- Physical buttons -->
       <div class="btn-action"></div>
       <div class="btn-vol-up"></div>
       <div class="btn-vol-down"></div>
       <div class="btn-power"></div>
 
-      <!-- SVG frame on top of everything -->
       <svg class="frame-svg" viewBox="0 0 414 855" xmlns="http://www.w3.org/2000/svg">
         <defs>
-          <!-- Titanium black frame gradient -->
           <linearGradient id="tframe" x1="0%" y1="0%" x2="100%" y2="100%">
             <stop offset="0%"   stop-color="#4c4c50"/>
             <stop offset="18%"  stop-color="#6c6c70"/>
@@ -239,59 +198,41 @@
             <stop offset="75%"  stop-color="#2e2e30"/>
             <stop offset="100%" stop-color="#505054"/>
           </linearGradient>
-          <!-- Edge highlight -->
           <linearGradient id="highlight" x1="0%" y1="0%" x2="0%" y2="100%">
             <stop offset="0%"   stop-color="rgba(255,255,255,0.18)"/>
             <stop offset="50%"  stop-color="rgba(255,255,255,0.04)"/>
             <stop offset="100%" stop-color="rgba(255,255,255,0.10)"/>
           </linearGradient>
-          <!-- Glass reflection on screen -->
           <linearGradient id="glassshine" x1="0%" y1="0%" x2="60%" y2="100%">
             <stop offset="0%"   stop-color="rgba(255,255,255,0.07)"/>
             <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
           </linearGradient>
         </defs>
 
-        <!-- FRAME: outer shape minus screen hole (evenodd = transparent inside) -->
-        <!-- Outer: 414×855 r=54 | Inner screen: x=15,y=15 w=384 h=825 r=44 -->
         <path fill-rule="evenodd" fill="url(#tframe)"
           d="
             M54,0 L360,0 Q414,0 414,54 L414,801 Q414,855 360,855 L54,855 Q0,855 0,801 L0,54 Q0,0 54,0 Z
             M59,15 L355,15 Q399,15 399,59 L399,796 Q399,840 355,840 L59,840 Q15,840 15,796 L15,59 Q15,15 59,15 Z
           "/>
-
-        <!-- Outer edge highlight line -->
         <path fill="none" stroke="url(#highlight)" stroke-width="1"
           d="M54,0.5 L360,0.5 Q413.5,0.5 413.5,54 L413.5,801 Q413.5,854.5 360,854.5 L54,854.5 Q0.5,854.5 0.5,801 L0.5,54 Q0.5,0.5 54,0.5 Z"/>
-
-        <!-- Inner screen edge shadow -->
         <path fill="none" stroke="rgba(0,0,0,0.5)" stroke-width="1.5"
           d="M59,15.75 L355,15.75 Q398.25,15.75 398.25,59 L398.25,796 Q398.25,839.25 355,839.25 L59,839.25 Q15.75,839.25 15.75,796 L15.75,59 Q15.75,15.75 59,15.75 Z"/>
-
-        <!-- Subtle glass shine over entire screen -->
         <path fill="url(#glassshine)" fill-rule="evenodd"
           d="
             M54,0 L360,0 Q414,0 414,54 L414,450 L0,450 L0,54 Q0,0 54,0 Z
             M59,15 L355,15 Q399,15 399,59 L399,450 L15,450 L15,59 Q15,15 59,15 Z
           "/>
-
-        <!-- USB-C port -->
         <rect x="173" y="843" width="68" height="7" rx="3.5" fill="#111"/>
         <rect x="174" y="844" width="66" height="5" rx="2.5" fill="#0a0a0a"/>
-
-        <!-- Speaker holes left of USB-C -->
         <circle cx="148" cy="847" r="1.8" fill="#111"/>
         <circle cx="156" cy="847" r="1.8" fill="#111"/>
         <circle cx="164" cy="847" r="1.8" fill="#111"/>
-        <!-- Speaker holes right of USB-C -->
         <circle cx="250" cy="847" r="1.8" fill="#111"/>
         <circle cx="258" cy="847" r="1.8" fill="#111"/>
         <circle cx="266" cy="847" r="1.8" fill="#111"/>
-
-        <!-- Microphone dot -->
         <circle cx="282" cy="847" r="1.4" fill="#1a1a1a"/>
       </svg>
-
     </div>
   </div>
 
@@ -299,5 +240,25 @@
     <p>✦ &nbsp; WBC 2026 &nbsp; ✦ &nbsp; TOKYO &nbsp; ✦</p>
   </div>
 
+  <script>
+    function fitPhone() {
+      const PHONE_H = 855;
+      const PHONE_W = 414;
+      // reserve space for title (~70px) + margins (20+18px) + caption (~30px)
+      const reservedH = 70 + 20 + 18 + 30;
+      const reservedW = 40;
+      const maxH = window.innerHeight - reservedH;
+      const maxW = window.innerWidth - reservedW;
+      const scaleByH = maxH / PHONE_H;
+      const scaleByW = maxW / PHONE_W;
+      const scale = Math.min(scaleByH, scaleByW, 1);
+      document.querySelector('.scene').style.transform = `scale(${scale})`;
+      // compensate margin so caption stays close
+      const shrink = PHONE_H * (1 - scale);
+      document.querySelector('.scene').style.marginBottom = `-${shrink}px`;
+    }
+    fitPhone();
+    window.addEventListener('resize', fitPhone);
+  </script>
 </body>
 </html>
