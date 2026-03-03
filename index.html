@@ -180,7 +180,7 @@
         <div class="absolute inset-0 bg-black/40"></div>
         <div class="relative bg-white rounded-t-3xl w-full max-w-2xl px-6 pt-5 pb-10 shadow-2xl" onclick="event.stopPropagation()">
             <div class="w-10 h-1 bg-gray-200 rounded-full mx-auto mb-5"></div>
-            <h3 class="font-bold text-lg text-gray-800 mb-5">新增願望清單</h3>
+            <h3 id="wishlist-modal-title" class="font-bold text-lg text-gray-800 mb-5">新增願望清單</h3>
 
             <!-- 圖片上傳 -->
             <div class="mb-4">
@@ -220,6 +220,7 @@
     <script>
         let currentDay = 1;
         let currentSection = 'itinerary';
+        let editingWishlistIndex = -1;
 
         window.onload = () => {
             switchDay(1);
@@ -377,11 +378,14 @@
             const wishlist = JSON.parse(localStorage.getItem('wishlist') || '[]');
             const wishlistCards = wishlist.map((item, i) => `
                 <div class="bg-white rounded-card shadow-card p-4 border border-gray-50 relative fade-in">
-                    <button onclick="deleteWishlistItem(${i})" class="absolute top-3 right-3 text-gray-300 hover:text-red-400 text-sm leading-none">✕</button>
+                    <div class="absolute top-3 right-3 flex gap-1">
+                        <button onclick="editWishlistItem(${i})" class="text-gray-300 hover:text-[#8E8282] text-xs p-1" title="編輯">✏️</button>
+                        <button onclick="deleteWishlistItem(${i})" class="text-gray-300 hover:text-red-400 text-xs p-1" title="刪除">✕</button>
+                    </div>
                     ${item.imgSrc
                         ? `<img src="${item.imgSrc}" class="w-full h-28 object-cover rounded-xl mb-3">`
                         : `<div class="w-full h-20 bg-gray-50 rounded-xl mb-3 flex items-center justify-center text-3xl">🛍️</div>`}
-                    <h3 class="font-bold text-sm text-gray-800 pr-4 leading-snug">${item.name}</h3>
+                    <h3 class="font-bold text-sm text-gray-800 pr-10 leading-snug">${item.name}</h3>
                     ${item.location ? `<p class="text-gray-400 text-xs mt-1">📍 ${item.location}</p>` : ''}
                 </div>
             `).join('');
@@ -417,11 +421,32 @@
         }
 
         function openWishlistModal() {
+            editingWishlistIndex = -1;
+            document.getElementById('wishlist-modal-title').textContent = '新增願望清單';
+            document.getElementById('wishlist-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function editWishlistItem(index) {
+            const items = JSON.parse(localStorage.getItem('wishlist') || '[]');
+            const item = items[index];
+            editingWishlistIndex = index;
+            document.getElementById('wishlist-modal-title').textContent = '編輯願望清單';
+            document.getElementById('wishlist-name').value = item.name;
+            document.getElementById('wishlist-location').value = item.location || '';
+            if (item.imgSrc) {
+                const preview = document.getElementById('wishlist-preview');
+                preview.src = item.imgSrc;
+                preview.classList.remove('hidden');
+                document.getElementById('upload-placeholder').classList.add('hidden');
+            }
             document.getElementById('wishlist-modal').classList.remove('hidden');
             document.body.style.overflow = 'hidden';
         }
 
         function closeWishlistModal() {
+            editingWishlistIndex = -1;
+            document.getElementById('wishlist-modal-title').textContent = '新增願望清單';
             document.getElementById('wishlist-modal').classList.add('hidden');
             document.body.style.overflow = '';
             document.getElementById('wishlist-name').value = '';
@@ -457,7 +482,11 @@
             }
 
             const items = JSON.parse(localStorage.getItem('wishlist') || '[]');
-            items.push({ name, location, imgSrc });
+            if (editingWishlistIndex >= 0) {
+                items[editingWishlistIndex] = { name, location, imgSrc };
+            } else {
+                items.push({ name, location, imgSrc });
+            }
             localStorage.setItem('wishlist', JSON.stringify(items));
             closeWishlistModal();
             if (currentSection === 'shopping') {
