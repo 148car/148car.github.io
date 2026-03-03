@@ -58,18 +58,18 @@
     /* ── Device shell ── */
     .device {
       position: relative;
-      width: 390px;
-      height: 844px;
+      width: 414px;
+      height: 855px;
     }
 
     /* iframe sits inside screen area */
     .device iframe {
       position: absolute;
-      top: 14px; left: 14px;
-      width: 362px;
-      height: 816px;
+      top: 15px; left: 15px;
+      width: 384px;
+      height: 825px;
       border: none;
-      border-radius: 42px;
+      border-radius: 44px;
       display: block;
       background: #fff;
     }
@@ -78,7 +78,7 @@
     .frame-svg {
       position: absolute;
       top: 0; left: 0;
-      width: 390px; height: 844px;
+      width: 414px; height: 855px;
       pointer-events: none;
       z-index: 5;
     }
@@ -86,14 +86,14 @@
     /* Status bar overlay */
     .status-bar {
       position: absolute;
-      top: 14px; left: 14px;
-      width: 362px; height: 54px;
-      border-radius: 42px 42px 0 0;
+      top: 15px; left: 15px;
+      width: 384px; height: 54px;
+      border-radius: 44px 44px 0 0;
       background: white;
       display: flex;
       align-items: flex-end;
       justify-content: space-between;
-      padding: 0 30px 10px;
+      padding: 0 32px 10px;
       z-index: 6;
       pointer-events: none;
     }
@@ -103,9 +103,9 @@
     /* Dynamic Island */
     .dynamic-island {
       position: absolute;
-      top: 27px;
+      top: 28px;
       left: 50%; transform: translateX(-50%);
-      width: 122px; height: 35px;
+      width: 126px; height: 36px;
       background: #000;
       border-radius: 20px;
       z-index: 8;
@@ -117,7 +117,7 @@
       position: absolute;
       bottom: 22px;
       left: 50%; transform: translateX(-50%);
-      width: 130px; height: 5px;
+      width: 134px; height: 5px;
       background: rgba(0,0,0,0.28);
       border-radius: 10px;
       z-index: 8;
@@ -228,7 +228,7 @@
       <div class="btn-power"></div>
 
       <!-- SVG frame on top of everything -->
-      <svg class="frame-svg" viewBox="0 0 390 844" xmlns="http://www.w3.org/2000/svg">
+      <svg class="frame-svg" viewBox="0 0 414 855" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <!-- Titanium black frame gradient -->
           <linearGradient id="tframe" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -253,43 +253,43 @@
         </defs>
 
         <!-- FRAME: outer shape minus screen hole (evenodd = transparent inside) -->
-        <!-- Outer: 390×844 r=52 | Inner screen: x=14,y=14 w=362 h=816 r=42 -->
+        <!-- Outer: 414×855 r=54 | Inner screen: x=15,y=15 w=384 h=825 r=44 -->
         <path fill-rule="evenodd" fill="url(#tframe)"
           d="
-            M52,0 L338,0 Q390,0 390,52 L390,792 Q390,844 338,844 L52,844 Q0,844 0,792 L0,52 Q0,0 52,0 Z
-            M56,14 L334,14 Q376,14 376,56 L376,788 Q376,830 334,830 L56,830 Q14,830 14,788 L14,56 Q14,14 56,14 Z
+            M54,0 L360,0 Q414,0 414,54 L414,801 Q414,855 360,855 L54,855 Q0,855 0,801 L0,54 Q0,0 54,0 Z
+            M59,15 L355,15 Q399,15 399,59 L399,796 Q399,840 355,840 L59,840 Q15,840 15,796 L15,59 Q15,15 59,15 Z
           "/>
 
         <!-- Outer edge highlight line -->
         <path fill="none" stroke="url(#highlight)" stroke-width="1"
-          d="M52,0.5 L338,0.5 Q389.5,0.5 389.5,52 L389.5,792 Q389.5,843.5 338,843.5 L52,843.5 Q0.5,843.5 0.5,792 L0.5,52 Q0.5,0.5 52,0.5 Z"/>
+          d="M54,0.5 L360,0.5 Q413.5,0.5 413.5,54 L413.5,801 Q413.5,854.5 360,854.5 L54,854.5 Q0.5,854.5 0.5,801 L0.5,54 Q0.5,0.5 54,0.5 Z"/>
 
         <!-- Inner screen edge shadow -->
         <path fill="none" stroke="rgba(0,0,0,0.5)" stroke-width="1.5"
-          d="M56,14.75 L334,14.75 Q375.25,14.75 375.25,56 L375.25,788 Q375.25,829.25 334,829.25 L56,829.25 Q14.75,829.25 14.75,788 L14.75,56 Q14.75,14.75 56,14.75 Z"/>
+          d="M59,15.75 L355,15.75 Q398.25,15.75 398.25,59 L398.25,796 Q398.25,839.25 355,839.25 L59,839.25 Q15.75,839.25 15.75,796 L15.75,59 Q15.75,15.75 59,15.75 Z"/>
 
         <!-- Subtle glass shine over entire screen -->
         <path fill="url(#glassshine)" fill-rule="evenodd"
           d="
-            M52,0 L338,0 Q390,0 390,52 L390,440 L0,440 L0,52 Q0,0 52,0 Z
-            M56,14 L334,14 Q376,14 376,56 L376,440 L14,440 L14,56 Q14,14 56,14 Z
+            M54,0 L360,0 Q414,0 414,54 L414,450 L0,450 L0,54 Q0,0 54,0 Z
+            M59,15 L355,15 Q399,15 399,59 L399,450 L15,450 L15,59 Q15,15 59,15 Z
           "/>
 
         <!-- USB-C port -->
-        <rect x="161" y="832" width="68" height="7" rx="3.5" fill="#111"/>
-        <rect x="162" y="833" width="66" height="5" rx="2.5" fill="#0a0a0a"/>
+        <rect x="173" y="843" width="68" height="7" rx="3.5" fill="#111"/>
+        <rect x="174" y="844" width="66" height="5" rx="2.5" fill="#0a0a0a"/>
 
         <!-- Speaker holes left of USB-C -->
-        <circle cx="136" cy="836" r="1.8" fill="#111"/>
-        <circle cx="144" cy="836" r="1.8" fill="#111"/>
-        <circle cx="152" cy="836" r="1.8" fill="#111"/>
+        <circle cx="148" cy="847" r="1.8" fill="#111"/>
+        <circle cx="156" cy="847" r="1.8" fill="#111"/>
+        <circle cx="164" cy="847" r="1.8" fill="#111"/>
         <!-- Speaker holes right of USB-C -->
-        <circle cx="238" cy="836" r="1.8" fill="#111"/>
-        <circle cx="246" cy="836" r="1.8" fill="#111"/>
-        <circle cx="254" cy="836" r="1.8" fill="#111"/>
+        <circle cx="250" cy="847" r="1.8" fill="#111"/>
+        <circle cx="258" cy="847" r="1.8" fill="#111"/>
+        <circle cx="266" cy="847" r="1.8" fill="#111"/>
 
-        <!-- Microphone dot (bottom center-right) -->
-        <circle cx="270" cy="836" r="1.4" fill="#1a1a1a"/>
+        <!-- Microphone dot -->
+        <circle cx="282" cy="847" r="1.4" fill="#1a1a1a"/>
       </svg>
 
     </div>
