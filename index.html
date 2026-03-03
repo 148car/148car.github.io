@@ -99,7 +99,8 @@
 
         .bottom-nav {
             background-color: rgba(255, 255, 255, 0.95);
-            backdrop-blur: 15px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
             border-top: 1px solid rgba(0, 0, 0, 0.05);
         }
 
@@ -200,6 +201,7 @@
                 <label class="block text-xs text-gray-400 mb-2 font-medium uppercase tracking-wide">商品名稱 <span class="text-red-400">*</span></label>
                 <input type="text" id="wishlist-name" placeholder="例：龍角散潤喉糖"
                     class="w-full border border-gray-200 rounded-2xl px-4 py-3 text-sm bg-gray-50 focus:outline-none focus:border-[#8E8282]">
+                <p id="wishlist-name-error" class="hidden text-red-400 text-xs mt-1 pl-1">⚠️ 請填寫商品名稱再儲存</p>
             </div>
 
             <!-- 購買地點 -->
@@ -449,7 +451,12 @@
             document.getElementById('wishlist-modal-title').textContent = '新增願望清單';
             document.getElementById('wishlist-modal').classList.add('hidden');
             document.body.style.overflow = '';
-            document.getElementById('wishlist-name').value = '';
+            const nameInput = document.getElementById('wishlist-name');
+            nameInput.value = '';
+            nameInput.style.borderColor = '';
+            nameInput.style.backgroundColor = '';
+            const errMsg = document.getElementById('wishlist-name-error');
+            if (errMsg) errMsg.classList.add('hidden');
             document.getElementById('wishlist-location').value = '';
             document.getElementById('wishlist-preview').src = '';
             document.getElementById('wishlist-preview').classList.add('hidden');
@@ -471,26 +478,40 @@
         }
 
         function saveWishlistItem() {
-            const name = document.getElementById('wishlist-name').value.trim();
+            const nameInput = document.getElementById('wishlist-name');
+            const name = nameInput.value.trim();
             const location = document.getElementById('wishlist-location').value.trim();
             const preview = document.getElementById('wishlist-preview');
             const imgSrc = preview.classList.contains('hidden') ? '' : preview.src;
 
             if (!name) {
-                document.getElementById('wishlist-name').focus();
+                nameInput.focus();
+                nameInput.style.borderColor = '#EF4444';
+                nameInput.style.backgroundColor = '#FFF5F5';
+                const errMsg = document.getElementById('wishlist-name-error');
+                if (errMsg) errMsg.classList.remove('hidden');
+                setTimeout(() => {
+                    nameInput.style.borderColor = '';
+                    nameInput.style.backgroundColor = '';
+                    if (errMsg) errMsg.classList.add('hidden');
+                }, 2500);
                 return;
             }
 
-            const items = JSON.parse(localStorage.getItem('wishlist') || '[]');
-            if (editingWishlistIndex >= 0) {
-                items[editingWishlistIndex] = { name, location, imgSrc };
-            } else {
-                items.push({ name, location, imgSrc });
-            }
-            localStorage.setItem('wishlist', JSON.stringify(items));
-            closeWishlistModal();
-            if (currentSection === 'shopping') {
-                renderShopping(document.getElementById('content-area'));
+            try {
+                const items = JSON.parse(localStorage.getItem('wishlist') || '[]');
+                if (editingWishlistIndex >= 0) {
+                    items[editingWishlistIndex] = { name, location, imgSrc };
+                } else {
+                    items.push({ name, location, imgSrc });
+                }
+                localStorage.setItem('wishlist', JSON.stringify(items));
+                closeWishlistModal();
+                if (currentSection === 'shopping') {
+                    renderShopping(document.getElementById('content-area'));
+                }
+            } catch (e) {
+                alert('儲存失敗，請確認瀏覽器是否允許儲存，或圖片檔案是否過大。');
             }
         }
 
