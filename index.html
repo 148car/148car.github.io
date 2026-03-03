@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>美美子 w. 媽 TOKYO TRIP</title>
+    <title>美美子 w. 媽 TOKYO TRIP ⚾ 🇹🇼 🔥</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
@@ -127,7 +127,7 @@
 
     <header class="bg-white/70 backdrop-blur-md sticky top-0 z-50">
         <div class="max-w-2xl mx-auto pt-8 px-6 pb-4 text-center">
-            <h1 class="text-base font-bold mb-5 text-gray-700">美美子 w. 媽 TOKYO TRIP</h1>
+            <h1 class="text-base font-bold mb-5 text-gray-700">美美子 w. 媽 TOKYO TRIP ⚾ 🇹🇼 🔥</h1>
             <div class="flex overflow-x-auto no-scrollbar space-x-3 pb-2" id="day-selector">
                 <div onclick="switchDay(1)" id="tab-1" class="day-tab flex-shrink-0 px-5 py-3 rounded-2xl bg-white shadow-sm text-center min-w-[85px] cursor-pointer transition-all">
                     <div class="text-[10px] opacity-50 uppercase tracking-tighter">Day 1</div>
@@ -273,12 +273,34 @@
             document.getElementById('nav-' + currentSection).classList.add('active');
         }
 
-        function createWeatherBanner(location, icon, condition, high, low, rain, tip, fujiVisibility = '') {
-            const fujiRow = fujiVisibility ? `
-                        <div class="mt-1.5 pt-1.5 border-t border-gray-100 flex items-center gap-1.5 text-[11px]">
-                            <span class="text-base">🗻</span>
-                            <span class="text-blue-500 font-medium">${fujiVisibility}</span>
-                        </div>` : '';
+        function createWeatherBanner(location, icon, condition, high, low, rain, tip, fujiData = null) {
+            let fujiRow = '';
+            if (fujiData) {
+                const { percent, label, note } = fujiData;
+                const r = 24;
+                const circ = +(2 * Math.PI * r).toFixed(2);
+                const dash = +((percent / 100) * circ).toFixed(2);
+                const gap = +(circ - dash).toFixed(2);
+                const color = percent >= 70 ? '#22c55e' : percent >= 40 ? '#f59e0b' : '#ef4444';
+                const trackColor = percent >= 70 ? '#dcfce7' : percent >= 40 ? '#fef3c7' : '#fee2e2';
+                fujiRow = `
+                        <div class="mt-2 pt-2 border-t border-gray-100 flex items-center gap-3">
+                            <svg width="68" height="68" viewBox="0 0 60 60" style="flex-shrink:0">
+                                <circle cx="30" cy="30" r="${r}" fill="none" stroke="${trackColor}" stroke-width="7"/>
+                                <circle cx="30" cy="30" r="${r}" fill="none" stroke="${color}" stroke-width="7"
+                                    stroke-dasharray="${dash} ${gap}"
+                                    stroke-linecap="round"
+                                    transform="rotate(-90, 30, 30)"/>
+                                <text x="30" y="26" text-anchor="middle" font-size="12" font-weight="bold" fill="${color}" font-family="sans-serif">${percent}%</text>
+                                <text x="30" y="38" text-anchor="middle" font-size="8" fill="#9ca3af" font-family="sans-serif">能見</text>
+                            </svg>
+                            <div class="min-w-0">
+                                <div class="text-[10px] text-gray-400 font-medium mb-0.5">🗻 富士山能見機率（歷史均值）</div>
+                                <div class="text-[12px] font-bold" style="color:${color}">${label}</div>
+                                ${note ? `<div class="text-[10px] text-gray-400 mt-0.5">${note}</div>` : ''}
+                            </div>
+                        </div>`;
+            }
             return `
                 <div class="pl-10 mb-6 fade-in">
                 <div class="flex items-center gap-4 bg-white rounded-2xl shadow-card border border-gray-100 px-5 py-4">
@@ -331,9 +353,10 @@
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 1 抵達東京</h2></div>
                     ${createWeatherBanner('東京', '🌤️', '晴時多雲', 12, 6, 15, '厚外套＋薄圍巾')}
-                    ${createCard('16:25 出發', '✈️ 中華航空 CI104', '桃園機場 T2 ➔ 成田機場 T2', 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=800&auto=format&fit=crop', '• 20:25 準時降落成田機場。<br>• 記得在機上先填好 VJW 或準備好紙本入境卡。<br>• 領取行李預計花費 1 小時。', false, 'https://maps.google.com/?q=成田国際空港+第2ターミナル')}
-                    ${createCard('交通方式', '🚆 京成電鐵 Access 特快', '成田機場 ➔ 淺草站', 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?q=80&w=800&auto=format&fit=crop', '• 淺草站下車後，請尋找 <b>A2b 出口</b>。<br>• A2b 有直達地面的大電梯，這對推大行李的人非常重要。<br>• 如果不會走，可以參考這個網址：<a href="https://wind.suzukihiro.tw/access-express2025/" target="_blank" style="color:#8E8282;text-decoration:underline;">wind.suzukihiro.tw 搭乘教學</a><br>• 🕐 時刻表：<a href="https://keisei.ekitan.com/naritaacs/T5?uid=23117&dir=50&path=20240809184650315&USR=PC&dw=0&slCode=682-7&d=1&rsf=" target="_blank" style="color:#8E8282;text-decoration:underline;">點此查看完整時刻表</a><br><br><b>🗺 路線圖</b><br><img src="https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/assets/images/top/routemap_express.jpg" class="w-full rounded-xl mt-2" alt="京成 Access 特快路線圖"><br><br><b>🕐 班次表</b><br><img src="https://img.gototravel.tw/flickr/44553130261_1dbd56ffc2_z.jpg" class="w-full rounded-xl mt-2" alt="京成 Access 特快班次表">', false, 'https://maps.google.com/?q=成田空港第2ビル駅')}
-                    ${createCard('入住住宿', '🏨 格拉斯麗淺草酒店', 'Hotel Gracery Asakusa', 'https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?q=80&w=800&auto=format&fit=crop', '• 淺草地區晚間有很多宵夜可以選擇。<br>• 飯店環境新且便利。', false, 'https://maps.google.com/?q=Hotel+Gracery+Asakusa')}
+                    ${createCard('16:25 出發', '✈️ 中華航空 CI104', '桃園機場 T2 ➔ 成田機場 T2', 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=800&auto=format&fit=crop', '• 20:25 準時降落成田機場。<br>• 記得在機上先填好 VJW 或準備好紙本入境卡。<br>• 領取行李預計花費 1 小時。<br><br><b>🎫 電子機票</b><br><div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;"><a href="https://drive.google.com/file/d/1m9NmXqjG0ZKFG5Z85gBe584DYmsSiH5U/view?usp=sharing" target="_blank" style="display:inline-flex;align-items:center;gap:6px;background:#F0F4FF;border-radius:10px;padding:9px 14px;font-size:12px;color:#4A6CF7;text-decoration:none;font-weight:600;">📄 媽媽的機票</a><a href="https://drive.google.com/file/d/1FE3AaxojWRF6dvLU0Ka3IdDgQXKSr21_/view?usp=sharing" target="_blank" style="display:inline-flex;align-items:center;gap:6px;background:#F0F4FF;border-radius:10px;padding:9px 14px;font-size:12px;color:#4A6CF7;text-decoration:none;font-weight:600;">📄 美美子的機票</a></div><br><b style="font-size:11px;color:#9ca3af;">媽媽</b><iframe src="https://drive.google.com/file/d/1m9NmXqjG0ZKFG5Z85gBe584DYmsSiH5U/preview" width="100%" height="400" style="border-radius:12px;border:1px solid #e5e7eb;margin-top:4px;display:block;" allow="autoplay"></iframe><br><b style="font-size:11px;color:#9ca3af;">美美子</b><iframe src="https://drive.google.com/file/d/1FE3AaxojWRF6dvLU0Ka3IdDgQXKSr21_/preview" width="100%" height="400" style="border-radius:12px;border:1px solid #e5e7eb;margin-top:4px;display:block;" allow="autoplay"></iframe>', false, 'https://maps.google.com/?q=成田国際空港+第2ターミナル')}
+                    ${createCard('交通方式', '🚆 京成電鐵 Access 特快', '成田機場 ➔ 淺草站', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjW27BOyGqMQlt3zZ_x0Jes5uU7L-Ve0lAzg&s', '• 淺草站下車後，請尋找 <b>A2b 出口</b>。<br>• A2b 有直達地面的大電梯，這對推大行李的人非常重要。<br>• 如果不會走，可以參考這個網址：<a href="https://wind.suzukihiro.tw/access-express2025/" target="_blank" style="color:#8E8282;text-decoration:underline;">wind.suzukihiro.tw 搭乘教學</a><br>• 🕐 時刻表：<a href="https://keisei.ekitan.com/naritaacs/T5?uid=23117&dir=50&path=20240809184650315&USR=PC&dw=0&slCode=682-7&d=1&rsf=" target="_blank" style="color:#8E8282;text-decoration:underline;">點此查看完整時刻表</a><br><br><b>🗺 路線圖</b><br><img src="https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/assets/images/top/routemap_express.jpg" class="w-full rounded-xl mt-2" alt="京成 Access 特快路線圖"><br><br><b>🕐 班次表</b><br><img src="https://img.gototravel.tw/flickr/44553130261_1dbd56ffc2_z.jpg" class="w-full rounded-xl mt-2" alt="京成 Access 特快班次表">', false, 'https://maps.google.com/?q=成田空港第2ビル駅')}
+                    ${createCard('入住住宿', '🏨 格拉斯麗淺草酒店', 'Hotel Gracery Asakusa', 'https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?q=80&w=800&auto=format&fit=crop', '• 淺草地區晚間有很多宵夜可以選擇。<br>• 飯店環境新且便利。<br><br><b>🗺 周邊地圖</b><br><img src="https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/265/2016/10/05063501/chart_zh_tw_asakusa_gwh.jpg" class="w-full rounded-xl mt-2" alt="格拉斯麗淺草酒店周邊地圖">', false, 'https://maps.google.com/?q=Hotel+Gracery+Asakusa')}
+                    ${createCard('周邊景點', '🏮 淺草周邊散策', '雷門・仲見世通・淺草寺', 'https://mimigo.tw/wp-content/uploads/20231208143150_0.jpeg', '• 雷門是淺草最著名的地標，夜晚亮燈後非常漂亮。<br>• 仲見世通是日本最古老的商店街之一，可以買伴手禮。<br>• 淺草寺是東京最古老的寺廟，建議早晨或夜晚前往人較少。', false, 'https://maps.google.com/?q=浅草寺')}
                 </div>`;
         }
 
@@ -342,15 +365,26 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 2 富士周遊包車</h2></div>
-                    ${createWeatherBanner('富士山區', '☀️', '晴、早晚易結霜', 8, -1, 10, '必備手套＋暖暖包，比東京冷 5°C', '晴天能見度高，富士山全貌清晰可見（最佳觀賞日）')}
+                    ${createWeatherBanner('富士山區', '☀️', '晴、早晚易結霜', 8, -1, 10, '必備手套＋暖暖包，比東京冷 5°C', { percent: 78, label: '能見度高，全貌清晰可見', note: '3月晴天最佳觀賞時機，上午視野最清朗' })}
                     ${createCard('08:00 出發', '🚗 包車接送', '從淺草格拉斯麗酒店出發', 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 重要提醒：</span><br>• 今日需支付司機<b>尾款 48,000 日幣</b> (限現金)。<br>• 建議提早 10 分鐘在飯店大廳會合。', true, 'https://maps.google.com/?q=Hotel+Gracery+Asakusa')}
                     ${createCard('景點一', '⛩️ 北口本宮富士淺間神社', '世界遺產，古老的參道與神木', 'https://lh3.googleusercontent.com/places/ANJU3DtGZ7oTeYxnNuL1v37bNlhSydmfMq01nHo5F-4eU42EkGjj2pUQSnLT_vqcAg6RzNB58DoRDvJqZQJZNydklGARL98HrJ7XDXQ=s1600-w3594', '• 神社入口巨大的鳥居非常壯觀。<br>• 參道林蔭茂密，環境清幽祥和。', false, 'https://maps.google.com/?q=北口本宮冨士浅間神社')}
+                    <div class="relative pl-10 mb-8 fade-in">
+                        <div class="timeline-dot" style="background:#dc2626;border-color:#fca5a5;"></div>
+                        <div style="background:linear-gradient(135deg,#dc2626 0%,#9b1c1c 100%);border-radius:16px;overflow:hidden;display:flex;align-items:stretch;color:white;">
+                            <img src="https://img.ltn.com.tw/Upload/sports/page/800/2024/11/26/phpbQbekL.jpg" style="width:110px;object-fit:cover;flex-shrink:0;">
+                            <div style="padding:14px 16px;flex:1;display:flex;flex-direction:column;justify-content:center;">
+                                <div style="font-size:10px;font-weight:700;letter-spacing:2px;opacity:0.7;margin-bottom:5px;">🔔 11:00 賽事提醒</div>
+                                <div style="font-size:16px;font-weight:900;line-height:1.3;margin-bottom:5px;">⚾ WBC 台灣 🇹🇼 vs 澳洲 🇦🇺</div>
+                                <div style="font-size:11px;opacity:0.85;line-height:1.5;">比賽開始！趕快找個有電視的地方看轉播，為中華隊加油！</div>
+                            </div>
+                        </div>
+                    </div>
                     ${createCard('景點二', '🗻 富士吉田本町通', '日川時計店：經典街景拍照點', 'https://media.walkerland.com.tw/wlk_media/thumbnail/images/upload/article/2025/04/m33046/90c94e90c4e824f4c721f083738705d5aae0d6b2-800x533.webp', '• 拍攝時請注意交通，切勿站在路中間。<br>• 這是拍到富士山就在街道盡頭的網美點。', false, 'https://maps.google.com/?q=富士吉田市本町通り')}
-                    ${createCard('景點三', '🦢 山中湖', '看天鵝與富士山交織', 'https://images.unsplash.com/photo-1570674232745-16fb0b717b62?q=80&w=800&auto=format&fit=crop', '• 可以在湖邊與天鵝合影。<br>• 天氣好時富士山景觀非常壯麗。', false, 'https://maps.google.com/?q=山中湖')}
-                    ${createCard('景點四', '🍜 ほうとう不動 東戀路店', '雲朵造型建築：午餐時刻', 'https://images.unsplash.com/photo-1610452330752-0949d01f8a84?q=80&w=800&auto=format&fit=crop', '• 品嚐山梨名產 Houtou (餺飥麵)。<br>• 建築物本身就是一個巨大的藝術品。', false, 'https://maps.google.com/?q=ほうとう不動+東恋路店')}
-                    ${createCard('景點五', '🌸 大石公園', '河口湖畔與富士山全景', 'https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?q=80&w=800&auto=format&fit=crop', '• 這裡有著名的自然生活館。<br>• 湖邊步道種植季節花卉，拍照超美。', false, 'https://maps.google.com/?q=大石公園+河口湖')}
-                    ${createCard('景點六', '🏪 Lawson 河口湖站店', '必拍網美超商打卡點', 'https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=800&auto=format&fit=crop', '• 雖然最近有限制，但從對向側拍超商與富士山依然是經典。<br>• 可以順便採買晚上回飯店的零食。', false, 'https://maps.google.com/?q=ローソン+河口湖駅前店')}
-                    ${createCard('入住住宿', '🏨 精進湖：松傑山酒店', '山之酒店 (Hotel Shoji Mount)', 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=800&auto=format&fit=crop', '• 精進湖是富士五湖中最寧靜的。<br>• 隔天早上有機會在房內看到「逆富士」。', false, 'https://maps.google.com/?q=精進マウントホテル')}
+                    ${createCard('景點三', '🦢 山中湖', '看天鵝與富士山交織', 'https://res.klook.com/images/w_1200,h_630,c_fill,q_65/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hcsbw62rv6vfz0ixdpdh/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E7%BE%8E%E6%99%AF%E6%8B%8D%E7%85%A7%E4%B8%80%E6%97%A5%E9%81%8A%EF%BD%9C%E5%B1%B1%E4%B8%AD%E6%B9%96%E5%96%82%E5%A4%A9%E9%B5%9D%E5%BF%8D%E9%87%8E%E5%85%AB%E6%B5%B7%E7%BE%85%E6%A3%AE%E4%BE%BF%E5%88%A9%E5%BA%97%E6%B2%B3%E5%8F%A3%E6%B9%96%E5%A4%A7%E7%9F%B3%E5%85%AC%E5%9C%92%E6%97%A5%E5%B7%9D%E6%99%82%E8%A8%88%E5%BA%97%E6%96%B0%E5%80%89%E5%B1%B1%E6%B7%BA%E9%96%93%E5%85%AC%E5%9C%92(%E6%9D%B1%E4%BA%AC%E5%87%BA%E7%99%BC%EF%BC%89-Klook%E5%AE%A2%E8%B7%AF.jpg', '• 可以在湖邊與天鵝合影。<br>• 天氣好時富士山景觀非常壯麗。', false, 'https://maps.google.com/?q=山中湖')}
+                    ${createCard('景點四', '🍜 ほうとう不動 東戀路店', '雲朵造型建築：午餐時刻', 'https://curly.com.tw/wp-content/uploads/2023/06/P1033109.jpg', '• 品嚐山梨名產 Houtou (餺飥麵)。<br>• 建築物本身就是一個巨大的藝術品。', false, 'https://maps.google.com/?q=ほうとう不動+東恋路店')}
+                    ${createCard('景點五', '🌸 大石公園', '河口湖畔與富士山全景', 'https://static.popdaily.com.tw/u/202303/60d3ba62-a0cd-429a-bc03-b8977f04b139.jpeg', '• 這裡有著名的自然生活館。<br>• 湖邊步道種植季節花卉，拍照超美。', false, 'https://maps.google.com/?q=大石公園+河口湖')}
+                    ${createCard('景點六', '🏪 Lawson 河口湖站店', '必拍網美超商打卡點', 'https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_828/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/szrra8s1wptpotya9dlj/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%97%A5%E5%B7%9D%E6%99%82%E8%A8%88%E5%BA%97+%E7%BE%85%E6%A3%AE%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%AB%99%E5%89%8D%E5%BA%97+%E7%AE%B1%E6%A0%B9%E9%9B%95%E5%88%BB%E4%B9%8B%E6%A3%AE%E7%BE%8E%E8%A1%93%E9%A4%A8+%E5%A4%A2%E4%B9%8B%E5%A4%A7%E6%A9%8B%E4%B8%80%E6%97%A5%E9%81%8A%EF%BD%9C%E6%9D%B1%E4%BA%AC%E5%87%BA%E7%99%BC.jpg', '• 雖然最近有限制，但從對向側拍超商與富士山依然是經典。<br>• 可以順便採買晚上回飯店的零食。', false, 'https://maps.google.com/?q=ローソン+河口湖駅前店')}
+                    ${createCard('入住住宿', '🏨 精進湖：松傑山酒店', '山之酒店 (Hotel Shoji Mount)', 'https://asiayo.com/_next/image/?url=https%3A%2F%2Fimage-store.asiayo.com%2Fbnb%2F71349%2F750xauto%2Fdesc_wtUP0OsT6Faxuz.webp&w=1080&q=75', '• 精進湖是富士五湖中最寧靜的。<br>• 隔天早上有機會在房內看到「逆富士」。', false, 'https://maps.google.com/?q=精進マウントホテル')}
                 </div>`;
         }
 
@@ -359,7 +393,7 @@
                 <div class="relative">
                     <div class="timeline-line"></div>
                     <div class="mb-8 pl-10"><h2 class="text-2xl font-bold text-gray-800">Day 3 精進湖 ➔ 錦糸町</h2></div>
-                    ${createWeatherBanner('精進湖→東京', '⛅', '多雲，午後轉晴', 10, 2, 20, '早晨湖邊寒冷，回東京後明顯回暖', '清晨雲霧消散前有機會見到逆富士，日出後能見度漸佳')}
+                    ${createWeatherBanner('精進湖→東京', '⛅', '多雲，午後轉晴', 10, 2, 20, '早晨湖邊寒冷，回東京後明顯回暖', { percent: 52, label: '清晨有機會，午後雲增', note: '日出前後雲霧較少，是逆富士的黃金時段' })}
                     ${createCard('清晨行程', '🌅 精進湖日出', '欣賞絕美日出與逆富士', 'https://images.unsplash.com/photo-1570674232745-16fb0b717b62?q=80&w=800&auto=format&fit=crop', '• 房內目前無早餐，建議早起看日出後，可考慮跟飯店現場加購早餐。', false, 'https://maps.google.com/?q=精進湖')}
                     ${createCard('10:30 關鍵', '🚌 藍線周遊巴士', '精進湖入口/民宿村 ➔ 河口湖站', 'https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?q=80&w=800&auto=format&fit=crop', '<span class="text-red-500 font-bold">⚠️ 極重要：</span><br>• 早上只有這班巴士前往河口湖，務必準時搭乘！<br>• 預計 12:10 抵達河口湖站。', true, 'https://maps.google.com/?q=精進湖入口バス停')}
                     ${createCard('回程交通', '🚌 高速巴士轉乘', '河口湖站 ➔ 新宿 (Busta 新宿)', 'https://images.unsplash.com/photo-1490806678282-461b20356f21?q=80&w=800&auto=format&fit=crop', '• 預計 13:55 抵達新宿。<br>• 抵達後如果肚子餓，可以先在新宿附近簡單用餐。<br>• 隨後搭乘 JR 直達錦糸町站。', false, 'https://maps.google.com/?q=河口湖駅')}
@@ -555,9 +589,81 @@
         }
 
         function renderTickets(container) {
+            const ticketCard = (type, gradient, from, fromCity, fromTerminal, to, toCity, toTerminal, flight, dep, arr, date, driveUrl) => `
+                <div style="background:${gradient};border-radius:22px;overflow:visible;position:relative;color:white;margin-bottom:24px;" class="shadow-card fade-in">
+                    <!-- decorative bg circles -->
+                    <div style="position:absolute;top:-28px;right:-28px;width:110px;height:110px;border-radius:50%;background:rgba(255,255,255,0.06);pointer-events:none;"></div>
+                    <div style="position:absolute;bottom:-20px;left:-20px;width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,0.05);pointer-events:none;"></div>
+
+                    <div style="padding:22px 22px 0 22px;">
+                        <!-- header -->
+                        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:18px;">
+                            <div style="font-size:11px;font-weight:700;letter-spacing:3px;opacity:0.55;">CHINA AIRLINES ✦ 中華航空</div>
+                            <div style="background:rgba(255,255,255,0.18);padding:4px 12px;border-radius:20px;font-size:11px;font-weight:600;">${type}</div>
+                        </div>
+
+                        <!-- route -->
+                        <div style="display:flex;align-items:center;gap:10px;margin-bottom:20px;">
+                            <div style="text-align:center;flex-shrink:0;">
+                                <div style="font-size:38px;font-weight:900;letter-spacing:-2px;line-height:1;">${from}</div>
+                                <div style="font-size:10px;opacity:0.65;margin-top:3px;">${fromCity}</div>
+                                <div style="font-size:9px;opacity:0.45;">${fromTerminal}</div>
+                            </div>
+                            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:5px;">
+                                <div style="font-size:12px;font-weight:700;letter-spacing:1px;opacity:0.8;">${flight}</div>
+                                <div style="position:relative;width:100%;display:flex;align-items:center;">
+                                    <div style="flex:1;height:1.5px;background:rgba(255,255,255,0.25);"></div>
+                                    <div style="font-size:22px;margin:0 2px;filter:drop-shadow(0 1px 3px rgba(0,0,0,0.3));">✈️</div>
+                                    <div style="flex:1;height:1.5px;background:rgba(255,255,255,0.25);"></div>
+                                </div>
+                                <div style="font-size:9px;opacity:0.45;">約 2h 00m</div>
+                            </div>
+                            <div style="text-align:center;flex-shrink:0;">
+                                <div style="font-size:38px;font-weight:900;letter-spacing:-2px;line-height:1;">${to}</div>
+                                <div style="font-size:10px;opacity:0.65;margin-top:3px;">${toCity}</div>
+                                <div style="font-size:9px;opacity:0.45;">${toTerminal}</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- dashed divider with notches -->
+                    <div style="position:relative;margin:0 0;">
+                        <div style="position:absolute;left:-12px;top:50%;transform:translateY(-50%);width:24px;height:24px;border-radius:50%;background:var(--bg-cream);z-index:2;"></div>
+                        <div style="position:absolute;right:-12px;top:50%;transform:translateY(-50%);width:24px;height:24px;border-radius:50%;background:var(--bg-cream);z-index:2;"></div>
+                        <div style="border-top:2px dashed rgba(255,255,255,0.25);margin:0 20px;"></div>
+                    </div>
+
+                    <!-- bottom info -->
+                    <div style="padding:16px 22px 20px 22px;">
+                        <div style="display:flex;justify-content:space-between;align-items:flex-end;">
+                            <div>
+                                <div style="font-size:9px;opacity:0.5;margin-bottom:4px;letter-spacing:1px;">DEPARTURE</div>
+                                <div style="font-size:28px;font-weight:800;line-height:1;">${dep}</div>
+                            </div>
+                            <div style="text-align:center;">
+                                <div style="font-size:9px;opacity:0.5;margin-bottom:4px;letter-spacing:1px;">DATE</div>
+                                <div style="font-size:13px;font-weight:700;">${date}</div>
+                            </div>
+                            <div style="text-align:right;">
+                                <div style="font-size:9px;opacity:0.5;margin-bottom:4px;letter-spacing:1px;">ARRIVAL</div>
+                                <div style="font-size:28px;font-weight:800;line-height:1;">${arr}</div>
+                            </div>
+                        </div>
+                        ${driveUrl ? `<a href="${driveUrl}" target="_blank" style="display:flex;align-items:center;justify-content:center;gap:6px;margin-top:14px;background:rgba(255,255,255,0.15);border-radius:12px;padding:10px;font-size:12px;font-weight:600;color:white;text-decoration:none;">📄 查看電子機票原檔</a>` : ''}
+                    </div>
+                </div>`;
+
             container.innerHTML = `
                 <div class="fade-in">
-                    <h2 class="text-2xl font-bold text-gray-800 mb-8">票券整理 🎫</h2>
+                    <h2 class="text-2xl font-bold text-gray-800 mb-6">票券整理 🎫</h2>
+
+                    <!-- Flight Tickets -->
+                    <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">✈️ 機票</h3>
+                    ${ticketCard('去程', 'linear-gradient(135deg, #1a3a5c 0%, #2563a8 100%)', 'TPE', '台北桃園', '第二航廈', 'NRT', '東京成田', '第二航廈', 'CI106', '16:25', '20:25', 'MAR 4, 2026', 'https://drive.google.com/file/d/1m9NmXqjG0ZKFG5Z85gBe584DYmsSiH5U/view?usp=sharing')}
+                    ${ticketCard('回程', 'linear-gradient(135deg, #5b2d8e 0%, #c2185b 100%)', 'NRT', '東京成田', '第二航廈', 'TPE', '台北桃園', '第二航廈', 'CI107', '09:20', '12:20', 'MAR 9, 2026', 'https://drive.google.com/file/d/1FE3AaxojWRF6dvLU0Ka3IdDgQXKSr21_/view?usp=sharing')}
+
+                    <!-- Other Tickets -->
+                    <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4 mt-2">🎟️ 其他票券</h3>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="bg-red-50 rounded-card shadow-card p-6 border border-red-100">
                         <h3 class="font-bold text-red-700">🚗 包車尾款 ¥48,000 (現金)</h3>
@@ -571,6 +677,12 @@
                         <h3 class="font-bold text-indigo-700">🚌 利木津巴士 (Limousine)</h3>
                         <p class="text-indigo-600 text-sm mt-1">3/9 使用。請提早跟飯店櫃台預約座位。</p>
                     </div>
+                    </div>
+
+                    <!-- Game Schedule -->
+                    <h3 class="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4 mt-6">⚾ 賽程表</h3>
+                    <div class="bg-white rounded-card shadow-card border border-gray-100 overflow-hidden fade-in">
+                        <img src="https://lh3.googleusercontent.com/d/1sko9gi6SWY9OgAr2xuzGckzFwV6w8u_c" class="w-full" alt="賽程表">
                     </div>
                 </div>`;
         }
