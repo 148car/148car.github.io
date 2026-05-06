@@ -95,7 +95,8 @@ h1{font-size:22px;font-weight:600;margin-bottom:4px}
 
   <div class="tab-bar">
     <button data-tab="today" class="active">今日複習</button>
-    <button data-tab="all">全部題目</button>
+    <button data-tab="p2">Part 2</button>
+    <button data-tab="p3">Part 3</button>
   </div>
 
   <div id="cardList"></div>
@@ -757,7 +758,12 @@ function renderHome(){
   const list = document.getElementById('cardList');
   list.innerHTML = '';
 
-  let cards = currentTab === "today" ? getTodayDeck() : DATA;
+  let cards;
+  if (currentTab === "today") cards = getTodayDeck();
+  else if (currentTab === "p2") cards = DATA.filter(c => c.type === "P2");
+  else if (currentTab === "p3") cards = DATA.filter(c => c.type === "P3");
+  else cards = DATA;
+
   if (cards.length === 0 && currentTab === "today"){
     list.innerHTML = '<div class="empty">🎉 今天的題目都複習完了！<br>明天再來吧～</div>';
     return;
@@ -767,9 +773,10 @@ function renderHome(){
     const cs = getCardState(c.id);
     const isDue = cs.nextDue <= today();
     const reviewed = cs.reviewed > 0 ? `已練 ${cs.reviewed} 次` : '尚未練習';
-    const dueText = currentTab === "all" ? (isDue ? '今日待複習' : `${cs.nextDue} 複習`) : '';
+    const isBrowse = currentTab !== "today";
+    const dueText = isBrowse ? (isDue ? '今日待複習' : `${cs.nextDue} 複習`) : '';
     const el = document.createElement('div');
-    el.className = 'card' + (isDue && currentTab === "all" ? ' due' : '');
+    el.className = 'card' + (isDue && isBrowse ? ' due' : '');
     const storyBadge = c.story ? `<span class="story-tag">${STORY_LABELS[c.story]?.split(/[（(]/)[0].trim() || c.story}</span>` : '';
     el.innerHTML = `
       <span class="tag ${c.type.toLowerCase()}">${c.type}</span>
