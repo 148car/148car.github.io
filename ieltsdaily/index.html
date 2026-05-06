@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>IELTS 口說每日複習</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{font-family:-apple-system,"PingFang TC","Noto Sans TC",sans-serif;background:#f5f5f7;color:#1d1d1f;line-height:1.6;font-size:16px}
+.app{max-width:680px;margin:0 auto;padding:16px;padding-bottom:calc(120px + env(safe-area-inset-bottom))}
+header{padding:16px 4px 24px}
+h1{font-size:22px;font-weight:600;margin-bottom:4px}
+.sub{color:#86868b;font-size:14px}
+.stats{display:flex;gap:12px;margin-top:14px}
+.stat{flex:1;background:#fff;border-radius:12px;padding:12px 14px}
+.stat .num{font-size:22px;font-weight:600}
+.stat .lbl{font-size:12px;color:#86868b;margin-top:2px}
+.section-title{font-size:13px;font-weight:600;color:#86868b;text-transform:uppercase;letter-spacing:.5px;margin:20px 4px 10px}
+.card{background:#fff;border-radius:14px;padding:16px;margin-bottom:10px;cursor:pointer;border:1px solid transparent;transition:transform .1s}
+.card:active{transform:scale(.98)}
+.card .tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;background:#eef;color:#446;font-weight:600;margin-right:6px}
+.card .tag.p2{background:#fee;color:#a44}
+.card .tag.p3{background:#efe;color:#484}
+.card .story-tag{display:inline-block;font-size:10px;padding:2px 7px;border-radius:8px;background:#fef3c7;color:#92400e;font-weight:500;margin-left:4px}
+.story-box{background:#fef3c7;border-radius:12px;padding:12px 14px;margin-top:14px;font-size:13px;color:#78350f}
+.story-box .label{font-weight:600;margin-bottom:6px;display:block}
+.story-box .links a{display:inline-block;background:#fff;color:#78350f;padding:4px 10px;border-radius:8px;margin:3px 4px 0 0;text-decoration:none;font-size:12px}
+.story-box .links a:active{background:#fde68a}
+.card .topic{font-size:15px;font-weight:600;margin-bottom:4px;margin-top:4px}
+.card .prompt{font-size:13px;color:#86868b;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card .meta{font-size:11px;color:#a8a8ad;margin-top:8px;display:flex;gap:10px}
+.card.due{border-left:3px solid #ff9500}
+.empty{text-align:center;color:#86868b;padding:30px;background:#fff;border-radius:14px}
+
+/* Card detail overlay */
+.overlay{position:fixed;inset:0;background:#f5f5f7;z-index:100;overflow-y:auto;display:none;flex-direction:column}
+.overlay.show{display:flex}
+.overlay header{display:flex;align-items:center;gap:12px;padding:14px 16px;background:#fff;border-bottom:1px solid #e5e5ea;position:sticky;top:0;z-index:1}
+.icon-btn{background:none;border:none;font-size:22px;cursor:pointer;padding:6px 10px;color:#1d1d1f}
+.overlay-title{flex:1;font-size:15px;font-weight:600}
+.detail{padding:18px;flex:1;max-width:680px;width:100%;margin:0 auto}
+.prompt-box{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:14px;border-left:3px solid #007aff}
+.prompt-box .tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px;background:#eef;color:#446;font-weight:600;margin-bottom:8px}
+.prompt-box .topic{font-size:18px;font-weight:600;margin-bottom:6px}
+.prompt-box .q{font-size:14px;color:#3a3a3c;line-height:1.6}
+.prompt-box .kw{font-size:12px;color:#86868b;margin-top:8px;background:#f5f5f7;padding:8px 10px;border-radius:8px}
+
+.reveal-btn{display:block;width:100%;padding:16px;background:#007aff;color:#fff;border:none;border-radius:14px;font-size:16px;font-weight:600;cursor:pointer;margin:16px 0;font-family:inherit}
+.reveal-btn:active{transform:scale(.98)}
+
+.toolbar{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.toolbar button{flex:1;min-width:64px;padding:10px;background:#fff;border:1px solid #e5e5ea;border-radius:10px;font-size:13px;cursor:pointer;font-family:inherit;color:#1d1d1f}
+.toolbar button.active{background:#1d1d1f;color:#fff;border-color:#1d1d1f}
+
+.answer{background:#fff;border-radius:14px;padding:18px;margin-bottom:14px}
+.answer p{margin-bottom:10px;font-size:16px;line-height:1.7}
+.answer p.cn{color:#3a3a3c;font-size:15px}
+.answer p.en{color:#1d1d1f}
+.answer .row{padding:12px 0;border-bottom:1px solid #f0f0f5}
+.answer .row:last-child{border-bottom:none}
+.answer .row .en{margin-bottom:6px}
+.answer .row .cn{font-size:14px;color:#86868b;margin:0}
+
+.diff-bar{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid #e5e5ea;padding:12px 16px calc(16px + env(safe-area-inset-bottom));display:none;gap:8px;z-index:110}
+.diff-bar.show{display:flex}
+.diff-bar button{flex:1;padding:14px 8px;border:none;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+.diff-easy{background:#34c759;color:#fff}
+.diff-mid{background:#ffcc00;color:#1d1d1f}
+.diff-hard{background:#ff3b30;color:#fff}
+.diff-bar button:active{transform:scale(.96)}
+
+.tts-btn{display:inline-flex;align-items:center;gap:4px;font-size:13px;padding:6px 10px;background:#f5f5f7;border:none;border-radius:8px;cursor:pointer;color:#007aff;font-family:inherit;margin-bottom:12px}
+.tts-btn:hover{background:#e5e5ea}
+
+.tab-bar{display:flex;background:#fff;border-radius:12px;padding:4px;margin-bottom:14px}
+.tab-bar button{flex:1;padding:8px;border:none;background:transparent;border-radius:8px;font-size:13px;cursor:pointer;font-family:inherit;color:#86868b;font-weight:500}
+.tab-bar button.active{background:#1d1d1f;color:#fff}
+
+.reset-btn{margin-top:30px;padding:10px;background:none;border:1px solid #e5e5ea;border-radius:10px;color:#86868b;font-size:13px;cursor:pointer;width:100%;font-family:inherit}
+</style>
+</head>
+<body>
+
+<div class="app" id="home">
+  <header>
+    <h1>IELTS 口說每日複習</h1>
+    <div class="sub" id="dateLabel"></div>
+    <div class="stats">
+      <div class="stat"><div class="num" id="streakNum">0</div><div class="lbl">連續天數</div></div>
+      <div class="stat"><div class="num" id="todayNum">0</div><div class="lbl">今日完成</div></div>
+      <div class="stat"><div class="num" id="totalNum">0</div><div class="lbl">總題數</div></div>
+    </div>
+  </header>
+
+  <div class="tab-bar">
+    <button data-tab="today" class="active">今日複習</button>
+    <button data-tab="all">全部題目</button>
+  </div>
+
+  <div id="cardList"></div>
+
+  <button class="reset-btn" onclick="resetProgress()">清除學習進度</button>
+</div>
+
+<div class="overlay" id="overlay">
+  <header>
+    <button class="icon-btn" onclick="closeCard()">✕</button>
+    <div class="overlay-title" id="ovTitle"></div>
+    <button class="icon-btn" onclick="prevCard()">‹</button>
+    <button class="icon-btn" onclick="nextCard()">›</button>
+  </header>
+  <div class="detail" id="detail"></div>
+</div>
+
+<div class="diff-bar" id="diffBar">
+  <button class="diff-hard" onclick="rate('hard')">困難<br><small>明天再來</small></button>
+  <button class="diff-mid" onclick="rate('mid')">普通<br><small>2 天後</small></button>
+  <button class="diff-easy" onclick="rate('easy')">簡單<br><small>4 天後</small></button>
+</div>
+
+<script>
+const DATA = [
+  {
+    id:"p2-city",
+    type:"P2",
+    topic:"去過且喜歡的城市",
+    story:"jiufen",
+    prompt:"Describe a city you enjoyed visiting. You should say: where it is, when you visited it, how long you stayed there, what you did there, and explain why you enjoyed visiting it.",
+    en:"Well, I'd like to recommend Jiufen, which is a famous mountain town in the northern part of Taiwan, not far from Taipei. It used to be a mining village, but nowadays it has become one of the most popular tourist destinations in Taiwan. In Jiufen, visitors can walk along the old streets, which are lined with small shops selling traditional snacks like taro balls, fish balls, and peanut ice cream rolls. There are also many tea houses on the hillside, where people can sit down, enjoy some tea, and take in the stunning views of the mountains and the Pacific Ocean. One reason many travelers love this place is that it has a very nostalgic atmosphere. Some people even say it looks like scenes from the Japanese animation Spirited Away, so it's also a perfect place for taking photos. The main reason I would recommend it is that it perfectly combines Taiwanese culture, local food, and natural scenery. Whenever I go there, I feel like I can slow down, relax, and escape from the fast pace of city life. Another great thing is that it is very convenient to get there, since it only takes about an hour by bus from Taipei. So overall, I think Jiufen is absolutely worth visiting, especially for travelers who want to experience a more traditional and scenic side of Taiwan.",
+    cn:"我想推薦九份，它是台灣北部一個很有名的山城，離台北不遠。它以前是一個採礦村，但現在已經變成台灣最受歡迎的旅遊景點之一。在九份，遊客可以沿著老街散步，街道兩旁有許多小店，賣著傳統小吃，像是芋圓、魚丸和花生冰淇淋捲。山坡上也有很多茶館，遊客可以坐下來喝茶，同時欣賞山景和太平洋的壯麗景色。很多旅客喜歡這個地方的一個原因是，它有一種非常懷舊的氛圍。有些人甚至說，它看起來很像日本動畫《神隱少女》的場景，所以也很適合拍照。我想推薦它最主要的原因是，它完美結合了台灣文化、在地美食和自然風景。每次我去那裡，我都覺得自己可以放慢腳步、放鬆心情，暫時逃離忙碌的都市生活。另外一個優點是交通非常方便，從台北搭公車大約一小時就能到。總的來說，我覺得九份真的非常值得一去，特別是對想體驗台灣更傳統、更有風景魅力一面的旅客。"
+  },
+  {
+    id:"p2-nature",
+    type:"P2",
+    topic:"愛護自然之人",
+    story:"grandfather",
+    prompt:"Describe a person who loves to look after the natural world.",
+    pairs:[
+      ["One person I know who really loves to look after the natural world is my grandfather, who lives near a mountain in Yunlin.","我認識一個真的很熱愛照顧大自然的人，就是我的爺爺，他住在雲林靠近山的地方。"],
+      ["I visit him almost every summer, and every time I go there, I can clearly see how much he enjoys taking care of the plants around his house.","我幾乎每年夏天都會去拜訪他，每次去都能清楚感受到他有多享受照顧屋子周圍植物這件事。"],
+      ["He grows a wide variety of things — vegetables, herbs, and flowers.","他種了各式各樣的東西——蔬菜、香草和花卉。"],
+      ["In his backyard, he has planted tomatoes, spring onions, and sweet potatoes, as well as different kinds of edible herbs.","在後院裡，他種了番茄、蔥和地瓜，還有各種可食用的香草植物。"],
+      ["Because he used to be a science teacher before retiring, he has extensive knowledge about plants.","因為他退休前是自然科老師，所以他對植物有非常豐富的知識。"],
+      ["Whenever we walk around his garden together, he proudly shows me how well his plants are doing, and sometimes he even teaches me how to recognise useful herbs and avoid poisonous ones.","每當我們一起在花園裡走動，他會驕傲地給我看他的植物長得多好，有時候還會教我辨認有用的香草，以及如何避開有毒的植物。"],
+      ["He grows most of these plants right beside his house, where the environment is clean and filled with sunshine.","他把大部分植物種在房子旁邊，那裡環境乾淨、陽光充足。"],
+      ["Since the area is close to the mountains, the air is fresh and the soil is particularly fertile, making it ideal for growing vegetables.","由於那一帶靠近山區，空氣清新，土壤特別肥沃，非常適合種蔬菜。"],
+      ["He visits his garden every single day without fail, carefully tending to each plant with great patience.","他每天都一定會去花園，耐心地照料每一株植物。"],
+      ["For him, growing plants is both meaningful and somewhat challenging.","對他來說，種植物既有意義，又有一定的挑戰性。"],
+      ["He always says that gardening teaches people patience and encourages children to appreciate nature.","他常說園藝能教人學會耐心，也能培養孩子珍惜大自然的心。"],
+      ["While many people nowadays set up home gardens on their balconies, and both traditional and modern agriculture focus heavily on efficiency, my grandfather believes that the most important thing is simply to enjoy the process of growing.","現代很多人在陽台設置家庭菜園，傳統農業和現代農業也都非常注重效率，但我爺爺認為最重要的事，是享受種植的過程本身。"],
+      ["I feel truly inspired by him, because he does not just grow these plants for food — he genuinely loves every step of the journey.","我真的深受他啟發，因為他種植物不只是為了食物，他真心熱愛種植過程中的每一個環節。"],
+      ["Because of his dedication and care, his garden is always full of life and incredibly productive.","因為他的用心與照料，他的花園總是充滿生機，也非常豐收。"],
+      ["Spending time with him always makes me feel relaxed, and it reminds me to slow down, appreciate nature, and live a healthier life.","和他相處總讓我感到放鬆，也提醒我要放慢腳步、欣賞大自然、過更健康的生活。"]
+    ]
+  },
+  {
+    id:"p2-job",
+    type:"P2",
+    topic:"想從事的短期海外工作",
+    story:"art-japan",
+    prompt:"Describe a short-term job you want to have in a foreign country. You should say: where it is, how you know of it, what the job is, and explain why you want to do it.",
+    en:"A short-term job I would really like to have in a foreign country is working as an art assistant or art teacher in a small studio, probably in Japan. I studied fine arts at university, and I've had some experience in art-related activities in Taiwan. Because of this background, I've always been interested in working in an art studio and sharing creative skills with others. In this job, I would mainly assist teachers in art classes, prepare materials like brushes and paper, and possibly help demonstrate some basic drawing techniques to students. I think I would mostly work with children, which would make the experience more fun and interactive. The main reason I want to do this job is that I really enjoy creative work, and I also like interacting with people. Teaching art allows me to express my ideas while also helping others improve their skills. Another reason is that working in a foreign country would give me a chance to experience a different culture and step out of my comfort zone. I believe it would be a meaningful short-term experience that combines both personal growth and enjoyment.",
+    cn:"我想在國外做的一份短期工作，是在一間小型藝術工作室當助教或老師，地點可能是在日本。我在大學主修美術，並且在台灣有一些與藝術相關的經驗。因為這樣的背景，我一直對在藝術工作室工作，以及把創作技能分享給他人很有興趣。在這份工作中，我主要會協助老師上課、準備像畫筆和紙張這樣的材料，也可能會示範一些基本的繪畫技巧。我想我應該會主要和小朋友互動，這會讓整個經驗更有趣、更有互動性。我想做這份工作的主要原因是，我很喜歡創作，同時也喜歡和人互動。教藝術可以讓我表達自己的想法，也能幫助他人提升能力。另外一個原因是，在國外工作可以讓我體驗不同文化，並且走出自己的舒適圈。我相信這會是一個結合個人成長與樂趣的有意義短期經驗。"
+  },
+  {
+    id:"p2-advice",
+    type:"P2",
+    topic:"給別人建議",
+    story:"ai-comp",
+    prompt:"Describe a time when you gave advice to others. You should say: when it was, to whom you gave the advice, what the advice was, and explain why you gave the advice.",
+    en:"One time I gave advice to others was during an AI competition last year. I was working as a product manager, and my team and I were developing an AI generation tool. I gave advice to my teammates after our first internal demo. At that time, some parts of our product were a bit complicated, especially the user interface, which made it difficult for new users to understand. My advice was to simplify the interface and make the workflow more intuitive. For example, I suggested reducing unnecessary steps and adding clearer instructions so users could understand how the system worked more easily. The reason I gave this advice was that I wanted to improve the user experience and make the product more accessible, especially for people who were not familiar with AI. After we applied these changes, the product became much easier to use, and we received more positive feedback from both users and judges. In the end, we even won an award in the competition. Overall, it was a meaningful experience because it showed me how important it is to give constructive advice and work as a team to improve a product.",
+    cn:"我曾經給別人建議的一次，是在去年參加 AI 比賽的時候。我當時是產品經理，和團隊一起開發一個 AI 生成工具。在第一次內部 demo 之後，我給團隊一些建議。當時產品有些地方太複雜，特別是介面，讓新使用者不容易理解。我的建議是簡化介面，讓操作流程更直覺。例如減少不必要的步驟，並加入更清楚的說明。我給這些建議的原因，是希望改善使用者體驗，讓不熟 AI 的人也能使用。後來我們採用了這些建議，產品變得更容易使用，也得到評審和使用者更多正面回饋，最後還得獎。這是一個很有意義的經驗，讓我學到給建議和團隊合作的重要性。"
+  },
+  {
+    id:"p2-helpful",
+    type:"P2",
+    topic:"樂於助人的人",
+    story:"brother-art",
+    prompt:"Describe a person who often helps others. You should say: who this person is, how often he/she helps others.",
+    en:"A person I know who often helps others is my brother. He works in our family art studio, where my mom teaches painting and drawing to children. He helps others almost every day, especially when he is assisting in art classes. For example, he helps students prepare materials, teaches them basic drawing techniques, and gives them advice on how to improve their work. What I admire most is that he is very patient and supportive. Even when students make mistakes, he encourages them and helps them build confidence. Thanks to his help, some of the students have even won prizes in drawing competitions, which shows how much of a positive impact he has. I think he often helps others because he truly enjoys sharing his knowledge and seeing others grow. That's why I really admire him.",
+    cn:"我認識一個很常幫助別人的人是我的哥哥。他在我們家的藝術工作室工作，我媽媽在那裡教小朋友畫畫。他幾乎每天都在幫助別人，特別是在上課的時候。例如，他會幫學生準備材料、教基本的畫畫技巧，還會給他們建議幫助進步。我最欣賞的是，他非常有耐心又願意支持學生。即使學生犯錯，他也會鼓勵他們、幫助他們建立信心。在他的幫助下，有些學生甚至在比賽中得獎，這也顯示他對別人的正面影響。我覺得他會這麼常幫助別人，是因為他真的很享受分享知識、看到別人成長。"
+  },
+
+  {
+    id:"p3-job-1",type:"P3",topic:"想從事的短期海外工作",
+    prompt:"What short-term job do young people do in other countries?",
+    keywords:"cafés, restaurants",
+    en:"I think many young people in other countries take short-term jobs in places like cafés or restaurants. These jobs are quite popular because they are relatively easy to find and don't require a lot of experience. For example, they might work as baristas, waiters, or cashiers, where they serve customers, take orders, and prepare drinks. These kinds of jobs are usually flexible, so students can balance their work and studies. Another reason is that working in a café helps them improve their communication skills and become more independent. So overall, I think café jobs are a very common and practical choice for young people.",
+    cn:"我覺得很多國外年輕人會做像咖啡店或餐廳這樣的短期工作。這類工作很受歡迎，因為比較容易找到，而且不需要太多經驗。例如，他們可能會當咖啡師、服務生或收銀員，負責服務客人、點餐和準備飲料。這類工作通常時間彈性，所以學生可以兼顧工作和學業。另外，在咖啡店工作也可以幫助他們提升溝通能力，並變得更獨立。所以整體來說，我覺得咖啡店工作是年輕人很常見且實用的選擇。"
+  },
+  {
+    id:"p3-job-2",type:"P3",topic:"想從事的短期海外工作",
+    prompt:"What challenges do young people face when working abroad?",
+    keywords:"language barriers, feel lonely and isolated",
+    en:"I think young people may face several challenges when working abroad. One of the biggest difficulties is language barriers, especially if they are not fluent in the local language. This can make it hard for them to communicate with colleagues or customers. Another common challenge is that they may feel lonely or isolated, because they are far away from their family and friends. It can take time to build new relationships in a different country. In addition, they might also need to adapt to a new culture and working environment, which can be stressful at the beginning. So overall, working abroad can be challenging, but it is also a valuable learning experience.",
+    cn:"我覺得年輕人在國外工作可能會面臨幾個挑戰。最大的一個問題是語言障礙，特別是當他們不熟悉當地語言時，會很難和同事或客人溝通。另一個常見的挑戰是，他們可能會感到孤單或有孤立感，因為離家人和朋友很遠。在新的國家建立人際關係需要時間。此外，他們也需要適應新的文化和工作環境，這在一開始可能會讓人感到壓力。所以整體來說，在國外工作雖然有挑戰，但同時也是一個很有價值的學習經驗。"
+  },
+  {
+    id:"p3-job-3",type:"P3",topic:"想從事的短期海外工作",
+    prompt:"What are the benefits of working for an international company?",
+    keywords:"different cultures, improve language skills",
+    en:"I think there are several benefits of working for an international company. One major advantage is that people can experience different cultures and working environments, which helps them become more open-minded and adaptable. Another benefit is that it can help improve their language skills, especially English, because they often need to communicate with colleagues or clients from different countries. In addition, working in an international company can provide more career opportunities, since employees may have the chance to work on global projects or even relocate to other countries. So overall, I think it is a great way to develop both professional skills and personal growth.",
+    cn:"我覺得在國際公司工作有很多好處。首先，人們可以接觸不同的文化和工作環境，這能幫助他們變得更開放、更有適應能力。另一個好處是可以提升語言能力，特別是英文，因為他們需要和來自不同國家的同事或客戶溝通。此外，在國際公司工作也能帶來更多職涯機會，例如參與國際專案，甚至有機會被派到其他國家工作。總的來說，我認為這是一個同時提升專業能力和個人成長的好方法。"
+  },
+  {
+    id:"p3-job-4",type:"P3",topic:"想從事的短期海外工作",
+    prompt:"What personal skills are required to work in an international company?",
+    keywords:"fluent in language, open-minded and adaptable",
+    en:"I think several personal skills are required to work in an international company. First of all, it is important to be fluent in the local language or English, so that people can communicate effectively with colleagues and clients from different countries. Another important skill is being open-minded and adaptable, because people may need to work with different cultures and working styles. Being flexible helps them adjust more easily to new environments. In addition, having good communication and teamwork skills is also essential, since international companies often involve collaboration across different teams and countries. So overall, I think both language ability and a positive attitude are key to succeeding in an international workplace.",
+    cn:"我覺得在國際公司工作需要幾個重要的個人能力。首先，流利的語言能力很重要，例如當地語言或英文，這樣才能和來自不同國家的同事或客戶有效溝通。另一個重要能力是開放的心態和適應能力，因為需要和不同文化和工作方式的人合作，具備彈性會讓人更容易適應新環境。此外，良好的溝通能力和團隊合作能力也很重要，因為國際公司通常需要跨團隊、跨國合作。總的來說，我認為語言能力和正向的態度是成功的關鍵。"
+  },
+  {
+    id:"p3-job-5",type:"P3",topic:"想從事的短期海外工作",
+    prompt:"What kind of work can young people do in foreign countries?",
+    keywords:"cafés, restaurants, retail, hotels",
+    en:"I think young people can do different kinds of work in foreign countries. A very common option is working in cafés or restaurants, because these jobs are relatively easy to find and don't require much experience. For example, they might work as baristas, waiters, or cashiers, where they serve customers, take orders, and prepare drinks. These jobs are usually flexible, so students can balance their work and studies. Besides that, some young people may also work in retail stores or hotels, especially in tourist areas. These jobs allow them to interact with people from different backgrounds. So overall, I think service-related jobs are the most common choice for young people working abroad.",
+    cn:"我覺得年輕人在國外可以從事不同種類的工作。其中一個很常見的選擇是在咖啡店或餐廳工作，因為這類工作比較容易找到，而且不需要太多經驗。例如，他們可能會當咖啡師、服務生或收銀員，負責服務客人、點餐和準備飲料。這類工作通常時間彈性，所以學生可以兼顧工作和學業。除此之外，有些年輕人也會在零售店或飯店工作，特別是在觀光區。這些工作讓他們有機會接觸來自不同背景的人。總的來說，我認為服務業是年輕人在國外最常見的工作類型。"
+  },
+  {
+    id:"p3-job-6",type:"P3",topic:"想從事的短期海外工作",
+    prompt:"Why are some people unwilling to work in other countries?",
+    keywords:"language barriers, lonely, stressful",
+    en:"I think some people are unwilling to work in other countries for several reasons. One of the main reasons is language barriers, especially if they are not fluent in the local language. This can make it difficult for them to communicate with colleagues or customers, which may reduce their confidence. Another reason is that they may feel lonely or isolated, since they are far away from their family and friends. Building new relationships in a different country can take time, so some people may feel uncomfortable. In addition, working abroad can be quite stressful, because people need to adapt to a new culture and working environment. This can be overwhelming, especially at the beginning. So overall, these challenges may discourage some people from working abroad.",
+    cn:"我覺得有些人不願意在國外工作有幾個原因。首先是語言障礙，特別是當他們不熟悉當地語言時，會很難和同事或客戶溝通，這可能會降低他們的自信心。另一個原因是，他們可能會感到孤單或有孤立感，因為離家人和朋友很遠。在新的國家建立人際關係需要時間，這會讓人感到不自在。此外，在國外工作也可能很有壓力，因為需要適應新的文化和工作環境，特別是在剛開始的時候，會讓人感到不知所措。總的來說，這些挑戰會讓一些人不願意到國外工作。"
+  },
+
+  {
+    id:"p3-advice-1",type:"P3",topic:"給別人建議",
+    prompt:"Should people prepare before giving advice?",
+    keywords:"wrong advice → negative results",
+    en:"Yes, I think people should prepare before giving advice, especially if the situation is important. This is because giving the wrong advice may lead to negative results. By preparing, people can better understand the problem and give more practical and helpful suggestions.",
+    cn:""
+  },
+  {
+    id:"p3-advice-2",type:"P3",topic:"給別人建議",
+    prompt:"Is it good to ask advice from strangers online?",
+    keywords:"reference only, not fully trust",
+    en:"I think it can be helpful, but people should be careful. On the one hand, online platforms allow us to get different opinions quickly. However, the advice may not always be reliable, since we don't know the background of the person. So it's better to treat it as a reference rather than fully trust it.",
+    cn:""
+  },
+  {
+    id:"p3-advice-3",type:"P3",topic:"給別人建議",
+    prompt:"What are the personalities of people whose job is to give advice to others?",
+    keywords:"patience, good at listening, responsible, open-minded",
+    en:"I think they need to be patient and good at listening. They should also be responsible, because their advice may affect other people's decisions. In addition, being open-minded is important, so they can understand different perspectives and give balanced suggestions.",
+    cn:""
+  },
+  {
+    id:"p3-advice-4",type:"P3",topic:"給別人建議",
+    prompt:"What are the problems if you ask too many people for advice?",
+    keywords:"hesitant, indecisive, lose independent thinking",
+    en:"One problem is that people may receive too many different opinions, which can be quite confusing. As a result, they may feel hesitant or become indecisive when making a decision. Another issue is that relying too much on others may reduce their ability to think independently. Over time, they might lose confidence in their own judgment.",
+    cn:""
+  },
+  {
+    id:"p3-advice-5",type:"P3",topic:"給別人建議",
+    prompt:"Why do some people think it is better to ask for advice from friends than from parents?",
+    keywords:"closer in age, comfortable, parents traditional",
+    en:"I think it's because friends are usually closer in age, so they may better understand each other's situation. Also, people may feel more comfortable sharing personal problems with friends. In contrast, parents sometimes have more traditional views, which may not always match younger people's ideas.",
+    cn:""
+  },
+  {
+    id:"p3-advice-6",type:"P3",topic:"給別人建議",
+    prompt:"When would old people ask young people for advice?",
+    keywords:"technology, smartphones, modern trends",
+    en:"Older people may ask young people for advice when it comes to technology, such as using smartphones or social media. This is because younger generations are more familiar with these tools. In addition, they might also ask for advice about modern trends or new lifestyles.",
+    cn:""
+  },
+
+  {
+    id:"p3-help-1",type:"P3",topic:"樂於助人的人",
+    prompt:"Do you think schools should teach children to do household chores?",
+    keywords:"household chores 做家務, responsibility, life skills",
+    en:"Yes, I definitely think schools should teach children to do household chores. This is because it helps them develop a sense of responsibility from a young age. In addition, learning basic life skills like cleaning or organizing can make them more independent in the future.",
+    cn:""
+  },
+  {
+    id:"p3-help-2",type:"P3",topic:"樂於助人的人",
+    prompt:"Why are employees reluctant to ask their managers for help?",
+    keywords:"reluctant 不情願, incompetent 沒能力, unprofessional 不專業",
+    en:"I think some employees are reluctant to ask their managers for help because they are worried about how they will be seen. For example, they may be afraid of looking incompetent or unprofessional. Another reason is that some managers seem very busy or strict, which makes employees feel uncomfortable asking for help.",
+    cn:""
+  },
+  {
+    id:"p3-help-3",type:"P3",topic:"樂於助人的人",
+    prompt:"What can children do to help their parents?",
+    keywords:"laundry, washing dishes, cleaning room",
+    en:"Children can help their parents by doing simple household chores, such as doing the laundry, washing dishes, or cleaning their own room. Even small tasks can reduce their parents' workload and show appreciation for their efforts.",
+    cn:""
+  },
+  {
+    id:"p3-help-4",type:"P3",topic:"樂於助人的人",
+    prompt:"Should children help their parents with household chores?",
+    keywords:"definitely, parents work weekdays, tired",
+    en:"Yes, definitely. I think children should help their parents with household chores. Nowadays, many parents have to work during weekdays, and they often feel tired after work. If children can help with some tasks at home, it can make a big difference and also teach them responsibility.",
+    cn:""
+  },
+  {
+    id:"p3-help-5",type:"P3",topic:"樂於助人的人",
+    prompt:"What kind of help do people need when looking for a new job?",
+    keywords:"CV, interview, career advice, emotional support",
+    en:"When people are looking for a new job, they often need help with writing a strong CV and preparing for job interviews. These are important because they directly affect their chances of getting hired. In addition, they may need career advice, such as choosing the right industry or understanding job market trends. Some people also need emotional support, especially if they are feeling stressed or uncertain about their future. Overall, both practical and emotional support are important during the job search process.",
+    cn:""
+  },
+  {
+    id:"p3-help-6",type:"P3",topic:"樂於助人的人",
+    prompt:"Who should people ask for help, colleagues or family members?",
+    keywords:"depends on situation, work vs personal",
+    en:"I think it depends on the situation. If the problem is work-related, it is usually better to ask colleagues, because they have more relevant experience and understand the working environment. On the other hand, if it is a personal problem, people may prefer to ask family members, since they can provide emotional support and understand them better. In some cases, people may even combine both, depending on what kind of help they need.",
+    cn:""
+  },
+
+  // ============== 2026 5-8 月新題 ==============
+  {
+    id:"p2-inspire",type:"P2",topic:"激勵做有趣事的人",story:"grandfather",
+    prompt:"Describe a person who inspired you to do something interesting. You should say: who he/she is, how you knew him/her, what interesting thing you did, and explain how he/she inspired you to do it.",
+    en:"One person who inspired me to do something interesting is my grandfather. He used to be a science teacher before he retired, and I spent a lot of time with him when I was a child. I still remember one summer vacation when I visited him in Yunlin, which is in the countryside of Taiwan. He took me hiking in the small forest near his farm. During the walk, he taught me about different insects and plants. For example, he showed me how to recognize poisonous herbs and told me fascinating stories about how farmers in the past used plants as medicine. This experience really inspired me to love nature. After that trip, I became more interested in outdoor activities, like hiking and stargazing. Even now, whenever I spend time in the mountains, I always think of him and the knowledge he shared with me. I think this was inspiring because he not only gave me scientific knowledge but also encouraged me to be curious and explore the world.",
+    cn:"啟發我做有趣事情的人是我的爺爺。他在退休之前是一位自然老師，我小時候經常跟他在一起。我還記得有一個暑假，我去雲林爺爺家。他帶我到農場旁邊的小森林爬山。在散步的過程中，他教我關於不同的昆蟲和植物。比如，他告訴我怎麼辨認有毒的草藥，還分享了一些農夫過去如何用植物當藥材的故事。這次經歷真的啟發我開始熱愛大自然。從那次之後，我對戶外活動更有興趣，比如爬山和觀星。即使到現在，只要我在山裡，我就會想起爺爺和他分享給我的知識。我覺得這段經歷很鼓舞人心，因為他不只是給了我科學知識，也鼓勵我保持好奇心，去探索世界。"
+  },
+  {
+    id:"p3-inspire-1",type:"P3",topic:"激勵做有趣事的人",
+    prompt:"Who can influence children more, teachers or parents?",
+    keywords:"teachers spend more hours, discipline",
+    en:"I think teachers can influence children more, especially when they are young. Children spend many hours at school every day, and teachers often shape their behavior through discipline and encouragement. Of course, parents also play an important role at home, but in terms of daily influence, I'd say teachers have a slightly stronger impact during school years.",
+    cn:"我覺得老師對小孩的影響更大，特別是年紀小的時候。孩子每天在學校待好幾個小時，老師常常透過管教和鼓勵塑造他們的行為。當然父母在家裡也扮演重要角色，但就日常影響來說，我覺得在求學期間老師的影響稍微更強一點。"
+  },
+  {
+    id:"p3-inspire-2",type:"P3",topic:"激勵做有趣事的人",
+    prompt:"What qualities should a role model have?",
+    keywords:"honest, kind, humble, hardworking",
+    en:"A good role model should be honest, kind, and hardworking. They should also be humble, because pride and arrogance can give young people the wrong impression. In addition, role models should be willing to share their knowledge and inspire others. Personally, my grandfather has all these qualities, which is why I respect him so much.",
+    cn:"好的榜樣應該誠實、善良、努力，也應該謙虛，因為傲慢會給年輕人錯誤的印象。此外，榜樣也要願意分享知識、激勵他人。對我來說，我爺爺擁有這些特質，所以我特別尊敬他。"
+  },
+  {
+    id:"p3-inspire-3",type:"P3",topic:"激勵做有趣事的人",
+    prompt:"Are famous people good role models for young people?",
+    keywords:"depends, fame vs values",
+    en:"It depends on the person. Some celebrities or athletes work really hard and behave well, so they can be great role models. But others care more about fame and money, which can give young people the wrong values. So I think parents and teachers should help children choose carefully who to look up to.",
+    cn:"要看是誰。有些名人或運動員真的很努力、行為也好，可以是很棒的榜樣。但有些人更在乎名利，這會給年輕人錯誤的價值觀。所以我覺得父母和老師應該幫孩子選擇可以仰望的對象。"
+  },
+  {
+    id:"p3-inspire-4",type:"P3",topic:"激勵做有趣事的人",
+    prompt:"Do you think TV programs can inspire children?",
+    keywords:"educational, curiosity, parental guidance",
+    en:"Yes, definitely. There are many educational programs that teach children about science, nature, or history. These shows can make learning fun and spark curiosity. However, parents should still choose carefully, because not all programs are suitable. Quality matters more than quantity when it comes to children's TV.",
+    cn:"我覺得可以。很多教育節目教孩子科學、自然或歷史。這些節目可以讓學習變有趣，激發好奇心。但父母還是要慎選，因為不是所有節目都適合。對小孩的電視內容來說，品質比數量重要。"
+  },
+
+  {
+    id:"p2-plans",type:"P2",topic:"常做計劃的人",story:"brother-art",
+    prompt:"Describe a person who makes plans a lot. You should say: who he/she is, how you knew him/her, what plans he/she makes, and explain your feelings about him/her.",
+    en:"A person I know who makes plans a lot is my brother. He works in our family art studio, where my mom teaches painting and drawing to children. Because the studio is busy almost every day, he is in charge of organizing the schedule, preparing materials, and planning each class in detail. He always writes everything down in his notebook—what to teach, which students need extra help, and even what to buy from the art supply shop. What surprises me most is that he plans not only for work but also for his personal life. For example, he plans his weekly workout, his weekend trips, and even small things like what to cook for dinner. At first, I thought he was a little too organized, but later I realized that his careful planning is exactly why everything in the studio runs so smoothly. Thanks to his planning, the children always have a well-prepared environment, and my mom can focus on teaching. I really admire him because he is responsible, patient, and never leaves things to chance.",
+    cn:"我認識一個很常做計劃的人，就是我的哥哥。他在我們家的藝術工作室工作，我媽媽在那裡教小朋友畫畫和繪畫。因為工作室幾乎每天都很忙，他負責排課表、準備材料、仔細規劃每一堂課。他總是把所有事情都寫在筆記本裡——要教什麼、哪些學生需要額外幫助、甚至要去美術社買什麼東西。最讓我驚訝的是，他不只在工作上做計劃，連個人生活也是。例如，他會規劃每週的運動、週末出遊，連晚餐要煮什麼這種小事都會計劃。一開始我覺得他有點太有條理了，但後來才發現工作室能順利運作，正是因為他細心的規劃。多虧了他的計劃，小朋友總能在準備充足的環境中上課，我媽也能專心教學。我真的很欣賞他，因為他負責、有耐心，而且從不會把事情交給運氣。"
+  },
+  {
+    id:"p3-plans-1",type:"P3",topic:"常做計劃的人",
+    prompt:"Why do people plan their day?",
+    keywords:"organized, efficient, reduce stress",
+    en:"People plan their day because it helps them stay organized and use their time more efficiently. With a clear plan, they don't waste time deciding what to do next. It also reduces stress, because they know exactly what they need to focus on. Especially for busy people, planning is essential for getting things done.",
+    cn:"人們做每日計劃是因為這樣比較有條理，能更有效運用時間。有了清楚的計劃，就不用浪費時間想接下來做什麼。也能降低壓力，因為知道該專注什麼。特別對忙碌的人來說，做計劃才能把事情完成。"
+  },
+  {
+    id:"p3-plans-2",type:"P3",topic:"常做計劃的人",
+    prompt:"Is it good for parents to plan everything for their children?",
+    keywords:"independence, freedom, guide not control",
+    en:"Not really. Although parents have good intentions, planning everything can prevent children from learning to make their own decisions. Children need some freedom to discover their interests and develop independence. I think parents should guide them, but also leave some space for children to plan things on their own.",
+    cn:"我覺得不太好。雖然父母是出於好意，但什麼都安排好會讓孩子無法學會自己做決定。孩子需要一些自由，去探索興趣、培養獨立。父母應該引導，但也要留一些空間讓孩子自己規劃。"
+  },
+  {
+    id:"p3-plans-3",type:"P3",topic:"常做計劃的人",
+    prompt:"How does technology help people make plans?",
+    keywords:"calendar apps, to-do lists, sharing",
+    en:"Technology really makes planning easier. There are many apps for calendars, to-do lists, and reminders. For example, I use Google Calendar to set appointments, and my brother uses Notion to plan everything from his work to his weekend trips. Technology also helps people share plans with others quickly.",
+    cn:"科技真的讓做計劃更簡單。現在有很多日曆、待辦清單和提醒的 app。例如我用 Google Calendar 排約會，我哥用 Notion 規劃從工作到週末旅行的所有事。科技也讓人能快速和別人分享計劃。"
+  },
+  {
+    id:"p3-plans-4",type:"P3",topic:"常做計劃的人",
+    prompt:"Do you think it's necessary to make a plan before starting work?",
+    keywords:"effective, avoid mistakes, flexible",
+    en:"Yes, I think so. A clear plan helps people work more effectively and avoid mistakes. Without a plan, it's easy to forget important details or waste time. Of course, plans should also be flexible, because situations can change. But starting with a basic plan is always better than working without one.",
+    cn:"我覺得有必要。清楚的計劃能讓人工作更有效率、避免犯錯。沒有計劃很容易忘記重要細節或浪費時間。當然計劃也要有彈性，因為情況可能改變。但有基本計劃總是比沒有好。"
+  },
+
+  {
+    id:"p2-nophone",type:"P2",topic:"不被允許用手機的場合",story:"blackout",
+    prompt:"Describe an occasion when you were not allowed to use a mobile phone. You should say: when it was, where it was, why you were not allowed, and how you felt.",
+    en:"One time I was not allowed to use a mobile phone was during a sudden power outage at home in Taipei last summer. It happened in the evening, around seven or eight, and the whole neighborhood went dark all at once. Although technically nobody told me I couldn't use my phone, my battery was almost empty, and I had no way to charge it. So I decided to save the battery in case of emergency. Without my phone, I felt strange at first because I usually check it every few minutes. I couldn't scroll social media, reply to messages, or watch videos. The room was hot because the air conditioner stopped working, so I opened the windows to get some fresh air. I sat in the living room with my family, and since none of us could use any electronics, we just talked and spent time together. It actually felt peaceful because the whole place became quiet. I felt that even though it was inconvenient, this short break from the phone was a nice reminder that we depend on technology more than we realize.",
+    cn:"有一次我不能使用手機，是去年夏天台北家裡突然停電。大概晚上七八點，整條街突然變得漆黑。雖然嚴格來說沒人禁止我用手機，但我的電池快沒電了，又沒辦法充電，所以我決定省下電量以備不時之需。沒了手機，一開始我覺得很奇怪，因為我平常每幾分鐘就會看一次。我沒辦法滑社群、回訊息、看影片。房間因為沒冷氣很熱，我打開窗戶透氣。我和家人坐在客廳，因為都沒辦法用電子產品，我們就聊天、相處。其實感覺很平靜，因為整個家都安靜下來。我覺得雖然不方便，但這段短暫離開手機的時光，提醒了我們對科技的依賴比想像中更深。"
+  },
+  {
+    id:"p3-nophone-1",type:"P3",topic:"不被允許用手機的場合",
+    prompt:"Should mobile phones be banned in some places?",
+    keywords:"classrooms, hospitals, libraries, distract",
+    en:"Yes, in certain situations. For example, mobile phones should be banned in classrooms, libraries, hospitals, and during meetings, because they distract people from focusing. However, banning them everywhere is not realistic, since phones are essential for daily communication and emergencies.",
+    cn:"在某些場合應該禁止。例如教室、圖書館、醫院、開會時應該禁用手機，因為會分散注意力。但全面禁止不切實際，因為手機是日常溝通和緊急聯絡的重要工具。"
+  },
+  {
+    id:"p3-nophone-2",type:"P3",topic:"不被允許用手機的場合",
+    prompt:"Do you think children spend too much time on phones?",
+    keywords:"eyesight, sleep, set time limits",
+    en:"Yes, definitely. Many children today use phones for hours every day, mostly for games or social media. This can affect their eyesight, sleep, and even their ability to communicate face-to-face. I think parents should set time limits and encourage outdoor activities to balance phone use.",
+    cn:"絕對是。現在很多小孩每天用手機好幾個小時，大多是玩遊戲或滑社群。這會影響視力、睡眠，甚至面對面溝通的能力。父母應該設時間限制，鼓勵戶外活動來平衡。"
+  },
+  {
+    id:"p3-nophone-3",type:"P3",topic:"不被允許用手機的場合",
+    prompt:"How has the mobile phone changed our lives?",
+    keywords:"convenience, dependence, lose memory skills",
+    en:"The mobile phone has changed everything. We can now communicate, work, shop, and learn just from our phones. It saves a lot of time and makes life more convenient. However, it also makes people more dependent on technology, and some lose the ability to remember simple things like phone numbers or directions.",
+    cn:"手機改變了一切。現在我們可以用手機溝通、工作、購物、學習，省下很多時間，讓生活更方便。但也讓人更依賴科技，有些人甚至記不得電話號碼或路線等簡單的事。"
+  },
+  {
+    id:"p3-nophone-4",type:"P3",topic:"不被允許用手機的場合",
+    prompt:"Is it harmful to use phones for too long?",
+    keywords:"eye strain, neck pain, less interaction",
+    en:"Yes, using phones for too long can be harmful. It can cause eye strain, neck pain, and poor sleep, especially if used at night. It can also reduce face-to-face interaction with family and friends. I think it's important to take breaks and put the phone down sometimes.",
+    cn:"用手機太久確實有害。會造成眼睛疲勞、脖子痠、睡不好，特別是晚上用。也會減少和家人朋友的面對面互動。所以休息一下、把手機放下很重要。"
+  },
+
+  {
+    id:"p2-app",type:"P2",topic:"程式或 APP",story:"instagram-quokka",
+    prompt:"Describe a program or app on your computer or phone. You should say: what it is, when/how you use it, where you found it, and explain your feelings about it.",
+    en:"An app I'd like to talk about is Instagram, which I use almost every day on my phone. I downloaded it many years ago when I was still in college, and it has become one of the most important apps in my daily life. I mainly use it for two reasons. First, I follow my friends and a lot of artists, so I can see their photos, art works, and updates. It's a fun way to stay connected, especially with friends I don't see often. Second, I use it to discover interesting things—like cute animals, travel spots, or new restaurants. I still remember the first time I saw a quokka on Instagram. A short video of a smiling quokka popped up in my feed, and I immediately fell in love with it. I started searching for more videos and learning about Australia. What I love about Instagram is that the design is very simple and visual. I can find inspiration just by scrolling for a few minutes. Of course, I try not to spend too much time on it, but overall, I think it's a creative and entertaining app that has really enriched my daily life.",
+    cn:"我想介紹的 app 是 Instagram，我幾乎每天都會在手機上用。我大學時就下載了，現在它是我生活中最重要的 app 之一。我主要用它有兩個原因。第一，我追蹤很多朋友和藝術家，可以看到他們的照片、作品和近況。這是一個很有趣的方式，特別是和不常見面的朋友保持聯繫。第二，我用它來發現有趣的東西——像可愛的動物、旅遊景點、新餐廳。我還記得第一次在 IG 看到 Quokka，一段微笑 Quokka 的短影片跳進我的版面，我立刻愛上牠。我開始查更多影片，了解澳洲。我喜歡 IG 的地方是它的設計很簡單又視覺化，滑幾分鐘就能找到很多靈感。當然我也盡量不要花太多時間在上面，但整體來說，它是個很有創意又娛樂的 app，真的豐富了我的日常。"
+  },
+  {
+    id:"p3-app-1",type:"P3",topic:"程式或 APP",
+    prompt:"What kind of apps are popular in your country?",
+    keywords:"Line, Instagram, Shopee, Foodpanda",
+    en:"In Taiwan, social media apps like Instagram, Facebook, and Line are extremely popular. Almost everyone uses Line for messaging. Shopping apps like Shopee and food delivery apps like Foodpanda are also very common. Younger people also use video apps like TikTok and YouTube every day.",
+    cn:"在台灣，Instagram、Facebook、Line 等社群 app 非常熱門，幾乎人人都用 Line 傳訊息。蝦皮這類購物 app、Foodpanda 這類外送 app 也很普及。年輕人每天還會用 TikTok 和 YouTube 等影音 app。"
+  },
+  {
+    id:"p3-app-2",type:"P3",topic:"程式或 APP",
+    prompt:"Do you think apps are good or bad for children?",
+    keywords:"depends, educational vs games, parental control",
+    en:"It really depends on which apps. Some educational apps can help children learn languages or basic science in a fun way. But many apps, especially games and social media, can be addictive and waste a lot of time. So I think parents should choose carefully and set limits.",
+    cn:"要看是哪種 app。有些教育類 app 能用有趣的方式幫小孩學語言或基本科學。但很多 app，特別是遊戲和社群，會讓人上癮、浪費很多時間。所以父母應該慎選並設限制。"
+  },
+  {
+    id:"p3-app-3",type:"P3",topic:"程式或 APP",
+    prompt:"Should governments control which apps people can use?",
+    keywords:"only when harmful, freedom to choose",
+    en:"I think governments should only step in when an app is harmful—for example, if it leaks private information or contains illegal content. But for everyday apps, people should have the freedom to choose. Too much control can limit innovation and personal freedom.",
+    cn:"我覺得只有當 app 有害時政府才應該介入，例如洩漏隱私或內容違法。日常 app 應讓使用者自由選擇。過度管制會限制創新和個人自由。"
+  },
+  {
+    id:"p3-app-4",type:"P3",topic:"程式或 APP",
+    prompt:"What kind of new app would you like to create?",
+    keywords:"daily review, flashcards, voice recording",
+    en:"I'd love to create a daily review app to help people memorize things—like English vocabulary or speaking answers. It would use simple flashcards, voice recording, and gentle reminders. Since I'm preparing for IELTS now, I really wish such an app existed for me. I think many learners would find it useful.",
+    cn:"我想做一個每日複習的 app，幫人背東西——像英文單字或口說答案。它會有簡單的字卡、錄音功能、溫柔的提醒。我現在在準備雅思，真的希望有這樣的 app。我相信很多學習者會覺得有用。"
+  },
+
+  {
+    id:"p2-music",type:"P2",topic:"擅長音樂的朋友",story:"emma",
+    prompt:"Describe a friend of yours who is good at music/singing. You should say: who he/she is, when/where you listen to his/her music/singing, what kind of music/songs he/she is good at, and explain how you feel when listening to his/her music/singing.",
+    en:"One of my friends who is really good at music is Emma. She's my college classmate and also the lead singer in our school band. She's not only a great singer but also a talented musician. She can play several instruments such as the guitar, piano, and ukulele, which makes her music even more special. I often listen to her singing during school events or when she uploads her cover songs online. Her soft and emotional voice always touches people's hearts, and she can easily change her style depending on the song. She's especially good at pop and R&B songs, like those by Adele or IU. She also shares her performances on social media, where she has already accumulated almost 10,000 fans. Many people leave positive comments saying her voice is comforting and beautiful. Whenever I listen to her sing, I feel relaxed and inspired. Her music helps me forget stress and reminds me how powerful music can be. I really admire her passion, talent, and confidence.",
+    cn:"我有一位非常擅長音樂的朋友叫 Emma。她是我大學的同學，也是學校樂團的主唱。她不僅歌唱得好，還是一位多才多藝的音樂人。她會彈吉他、鋼琴和烏克麗麗，這讓她的音樂更有特色。我常常在學校活動時聽她唱歌，也會在她上傳翻唱影片時聽。她的聲音柔和又有感情，能打動人心，而且能根據不同的歌曲改變唱腔。她特別擅長唱流行樂和 R&B，像 Adele 或 IU 的歌。她也會在社群媒體上分享表演影片，目前已經累積了將近一萬名粉絲，很多人留言稱讚她的聲音溫柔又動人。每次聽她唱歌，我都覺得放鬆又受到啟發。她的音樂讓我忘記壓力，也提醒我音樂的力量。我真的很欣賞她的熱情、天賦和自信。"
+  },
+  {
+    id:"p3-music-1",type:"P3",topic:"擅長音樂的朋友",
+    prompt:"What kind of music is popular in your country?",
+    keywords:"K-pop, Mandarin pop, fashion influence",
+    en:"In Taiwan, K-pop is extremely popular, especially among young people. Many teenagers love Korean groups because of their catchy rhythms and stylish performances. Mandarin pop is still popular too, especially with older generations. K-pop has also influenced fashion and dance culture, and many fans even learn Korean to sing along.",
+    cn:"在台灣，K-pop 非常受歡迎，特別在年輕人之間。很多青少年喜歡韓國團體因為節奏好聽、表演有風格。華語流行樂在較年長的世代依然熱門。K-pop 也影響了時尚和舞蹈文化，很多粉絲還學韓文跟著唱。"
+  },
+  {
+    id:"p3-music-2",type:"P3",topic:"擅長音樂的朋友",
+    prompt:"What kind of music do young people like?",
+    keywords:"K-pop, hip-hop, indie, express emotion",
+    en:"Most young people in my country love K-pop because it's upbeat, energetic, and fun to listen to. They enjoy watching music videos and dance performances, which are very well produced. Besides K-pop, some young people also enjoy hip-hop or indie music, which helps them express their emotions and individuality.",
+    cn:"我們國家大部分年輕人都喜歡 K-pop，因為節奏明快、有活力、很好聽。他們喜歡看 MV 和舞蹈表演，製作都很精良。除此之外，有些年輕人也喜歡嘻哈或獨立音樂，能表達情緒和個性。"
+  },
+  {
+    id:"p3-music-3",type:"P3",topic:"擅長音樂的朋友",
+    prompt:"Do you think music is beneficial for children at school?",
+    keywords:"creativity, concentration, teamwork",
+    en:"Yes, definitely. Music helps children develop creativity and concentration. When students sing or play instruments together, they also learn teamwork and patience. I believe music classes make learning more enjoyable and help reduce academic stress.",
+    cn:"絕對是。音樂能幫小孩發展創意和專注力。學生一起唱歌或演奏樂器時，也能學會團隊合作和耐心。音樂課讓學習更有趣，也能減輕學業壓力。"
+  },
+  {
+    id:"p3-music-4",type:"P3",topic:"擅長音樂的朋友",
+    prompt:"What are the benefits of children learning a musical instrument?",
+    keywords:"discipline, patience, confidence, mental health",
+    en:"Learning an instrument helps children develop discipline and patience, because daily practice is required to improve. It also boosts their confidence when they perform. In addition, playing music can be a great way to relax and express emotions, which is good for mental health.",
+    cn:"學樂器能讓小孩培養紀律和耐心，因為要每天練習才會進步。表演時也能增強自信。彈樂器也是放鬆和表達情緒的好方法，對心理健康有益。"
+  },
+
+  {
+    id:"p2-family",type:"P2",topic:"家族長期保留的物品",story:"grandfather",
+    prompt:"Describe something important that has been kept in your family for a long time. You should say: what it is, when family had it, how they got it, and explain why it is important to your family.",
+    en:"Something important that has been kept in my family for a long time is my grandfather's plant journal. It is a thick handwritten notebook where he recorded his observations of plants, herbs, and small animals over the years. He started writing it when he was a young science teacher, more than fifty years ago, and he continued adding to it after he retired. The notebook itself is quite old now—the cover is faded and some pages are yellowed—but every page is full of his neat handwriting, with little drawings of leaves and flowers next to the notes. I think it is important because it represents not only his knowledge but also his love for nature. Every time I visit him in Yunlin, he likes to open the notebook and tell me stories about how he discovered each plant or how farmers in the past used herbs as medicine. He has told me that one day this notebook will be passed on to me. I feel really honored, because it's much more than a notebook—it's a record of my grandfather's life and a precious connection between our generations.",
+    cn:"我們家族長期保存的一件重要物品，是爺爺的植物筆記本。那是一本很厚的手寫筆記，記錄了他多年來對植物、香草和小動物的觀察。他從年輕時當自然老師就開始寫，距今已超過五十年，退休後也持續補充。筆記本本身已經有點舊了——封面褪色，有些頁面變黃——但每一頁都滿滿是他工整的字跡，旁邊還畫著葉子和花的小圖。我覺得它很重要，因為它代表的不只是他的知識，還有他對大自然的熱愛。每次我去雲林看他，他都喜歡翻開筆記本，告訴我他怎麼發現每一種植物，或是農夫以前怎麼用香草當藥材的故事。他告訴我有一天這本筆記會傳給我。我覺得很榮幸，因為它不只是一本筆記，更是爺爺一生的紀錄，也是世代之間珍貴的連結。"
+  },
+  {
+    id:"p3-family-1",type:"P3",topic:"家族長期保留的物品",
+    prompt:"Why do some families keep old objects?",
+    keywords:"memories, emotions, family stories",
+    en:"Families keep old objects because they carry memories and emotions. An old photo, a piece of furniture, or a handwritten letter can remind people of loved ones or important moments in their lives. These objects are often more valuable than new things, because they connect generations and tell family stories.",
+    cn:"家庭保留舊物是因為它們承載回憶和情感。一張舊照片、一件家具、一封手寫信，都能讓人想起所愛的人或人生重要時刻。這些物品往往比新物品更有價值，因為連結了世代並傳承家族故事。"
+  },
+  {
+    id:"p3-family-2",type:"P3",topic:"家族長期保留的物品",
+    prompt:"Do you think people today value old things less than before?",
+    keywords:"depends, modern trends vs vintage interest",
+    en:"I think it depends. In modern society, many people prefer new and trendy things, especially with constant advertising. But there's also a growing interest in vintage items and antiques, especially among younger people who want to reduce waste. So while the average person may value newness more, others still appreciate the meaning of old things.",
+    cn:"我覺得要看狀況。現代社會大家喜歡新潮的東西，受到廣告影響。但也有越來越多人欣賞復古和古董，特別是想減少浪費的年輕人。所以一般人可能更看重新東西，但仍有人珍惜舊物的意義。"
+  },
+  {
+    id:"p3-family-3",type:"P3",topic:"家族長期保留的物品",
+    prompt:"What kind of things do you think will become valuable in the future?",
+    keywords:"handwritten notes, physical photos, tangible memories",
+    en:"I think handwritten notes and physical photos will become more valuable in the future, because everything is digital now. Anything that captures a moment in a personal way—like a letter, a journal, or a hand-drawn picture—will become rare and meaningful. Real, tangible memories will be treasured.",
+    cn:"我覺得手寫的字條和實體照片以後會更有價值，因為現在一切都數位化。能用個人方式捕捉時刻的東西——像信、日記、手繪——會變得稀有又有意義。真實、具體的回憶會被珍惜。"
+  },
+  {
+    id:"p3-family-4",type:"P3",topic:"家族長期保留的物品",
+    prompt:"Is it important to pass family things to the next generation?",
+    keywords:"stories, traditions, identity",
+    en:"Yes, I think it's very important. Family objects carry stories and traditions that can't be found in books. By passing them down, parents and grandparents share their experiences and values with younger generations. It also gives children a stronger sense of identity and connection with their roots.",
+    cn:"我覺得非常重要。家族物品承載著書上找不到的故事和傳統。透過傳承，父母和祖父母把經驗和價值觀分享給下一代，也讓孩子有更強的身份認同和根源感。"
+  },
+
+  {
+    id:"p2-story",type:"P2",topic:"最近讀的故事",story:"little-prince",
+    prompt:"Describe a story (e.g. a fairy tale) you have read recently. You should say: what it's about, when you read it, whether you liked it, and what you learned from it.",
+    en:"A story I read recently is The Little Prince by Antoine de Saint-Exupéry. It's a classic French novella, and although I first read it as a child, I picked it up again last month when I found my old copy on the bookshelf. The story is about a young prince who travels from his small planet to different worlds, meeting strange characters along the way—like a king with no subjects, a businessman who counts stars, and a fox who teaches him the meaning of love. Eventually, he lands on Earth and becomes friends with a pilot who has crashed in the desert. What I love about this story is that even though it looks simple and is written for children, it has very deep meanings about friendship, responsibility, and what truly matters in life. One of my favorite lines is, 'What is essential is invisible to the eye.' Reading it again as an adult, I felt like I understood the story in a totally new way. It reminded me to slow down, appreciate small moments, and value the people around me. That's why this short book has become one of my all-time favorites.",
+    cn:"我最近讀的一個故事是法國作家聖修伯里寫的《小王子》。這是一本經典的法文短篇小說，雖然我小時候就讀過，但上個月在書架上發現舊版本，又重新拿起來讀。故事講的是一位小王子從他的小星球出發，去拜訪不同的世界，途中遇到很多奇特的角色——比如一個沒有臣民的國王、一個只會數星星的商人，還有一隻狐狸，是這隻狐狸教他什麼是愛。最後他降落在地球上，跟一位墜機的飛行員成為朋友。我喜歡這個故事的原因是，雖然看起來簡單、是寫給小孩的，但其實有很深的含義，講的是友誼、責任、和人生中真正重要的事情。我最喜歡的一句話是「真正重要的東西，眼睛是看不見的。」長大後重讀，感覺像是用全新的角度理解這個故事。它提醒我要放慢腳步，珍惜小小的時刻，重視身邊的人。所以這本短短的書，成為我最喜歡的書之一。"
+  },
+  {
+    id:"p3-story-1",type:"P3",topic:"最近讀的故事",
+    prompt:"Why do parents like to read stories to their children?",
+    keywords:"language, bonding, values",
+    en:"Parents read stories to their children for many reasons. First, it helps children develop language skills and imagination. Second, it's a special bonding time before bedtime, which makes children feel loved and safe. Stories also teach important values like honesty, kindness, and bravery in a fun way.",
+    cn:"父母念故事給小孩聽有很多理由。第一，能幫小孩發展語言能力和想像力。第二，睡前念故事是親子相處的特別時間，讓孩子感到被愛和安全。故事也用有趣的方式教重要價值觀，像誠實、善良、勇敢。"
+  },
+  {
+    id:"p3-story-2",type:"P3",topic:"最近讀的故事",
+    prompt:"What kinds of stories do children like?",
+    keywords:"magic, adventure, animals, fairy tales",
+    en:"Children usually like stories with magic, adventure, and animals. Fairy tales like Cinderella or Snow White are classic favorites because they have clear good and bad characters. Children also love stories with funny situations or talking animals, because they make them laugh and use their imagination.",
+    cn:"小孩通常喜歡有魔法、冒險、動物的故事。像灰姑娘、白雪公主這類童話是經典最愛，因為角色善惡分明。小孩也愛有趣情節或會說話動物的故事，能讓他們笑、發揮想像力。"
+  },
+  {
+    id:"p3-story-3",type:"P3",topic:"最近讀的故事",
+    prompt:"Do you think stories told by parents are better than those in books?",
+    keywords:"both have value, personal vs illustrated",
+    en:"Both have their value. Stories told by parents feel more personal and warm, because parents can use different voices, expressions, and add their own ideas. But books often have beautiful illustrations and well-developed plots. I think the best is when parents read books out loud, combining the strengths of both.",
+    cn:"兩者都有價值。父母自己講的故事比較親切溫暖，因為父母可以用不同聲音、表情、加入自己的點子。但書通常有漂亮插圖和完整劇情。我覺得最好的方式是父母念出書本，結合兩者的優點。"
+  },
+  {
+    id:"p3-story-4",type:"P3",topic:"最近讀的故事",
+    prompt:"Is it good for adults to read fairy tales?",
+    keywords:"deep messages, fresh perspective, relax",
+    en:"Yes, I think so. Fairy tales might seem simple, but they often contain deep messages about life, love, and human nature. Reading them as an adult can give us a fresh perspective and remind us of values we may have forgotten. They also help us relax and reconnect with our childhood imagination.",
+    cn:"我覺得不錯。童話看起來簡單，但常常蘊含人生、愛情、人性的深刻訊息。長大後讀能帶來新觀點，提醒我們可能遺忘的價值觀。也能讓人放鬆，重新和童年的想像力連結。"
+  },
+
+  {
+    id:"p2-animal",type:"P2",topic:"想了解的野生動物",story:"instagram-quokka",
+    prompt:"Describe a wild animal that you would like to learn more about. You should say: what it is, when you saw it, where you saw it, and explain why you are curious about it.",
+    en:"A wild animal I would really like to learn more about is the quokka, a small marsupial that lives mainly on Rottnest Island in Australia. I first came across it on Instagram a few years ago, when a video of a smiling quokka popped up in my feed. It immediately caught my attention because it looked almost too cute to be real, with its big round eyes and a face that always seems to be smiling. After that, I watched many short videos of tourists taking selfies with quokkas. They looked friendly, relaxed, and not afraid of humans at all, which made them even more popular online. What I find especially interesting is that many of my friends joke that I look like a quokka, because I have chubby cheeks and a small body. So I feel a kind of funny personal connection with this animal. I'd love to learn more about how they survive in the wild—what they eat, how they avoid predators, and why they always look so happy. I really hope that one day I can travel to Rottnest Island and see a quokka with my own eyes.",
+    cn:"我很想多了解的一種野生動物是 Quokka，一種主要生活在澳洲羅特尼斯島的小型有袋類動物。我幾年前第一次在 IG 上看到牠，一段微笑 Quokka 的影片跳進我的版面，立刻吸引了我的注意，因為牠長得太可愛了，圓圓的大眼睛和總是在微笑的臉。後來我看了很多觀光客和 Quokka 自拍的短影片。牠們看起來友善、放鬆，一點都不怕人，這讓牠們在網路上更紅。我特別覺得有趣的是，很多朋友都開玩笑說我長得像 Quokka，因為我臉頰圓圓的、身形比較小，所以我跟這隻動物有種有趣的連結感。我想多了解牠們在野外怎麼生存——吃什麼、怎麼躲避天敵、為什麼總是看起來這麼開心。我真的很希望有一天能去羅特尼斯島，親眼看到 Quokka。"
+  },
+  {
+    id:"p3-animal-1",type:"P3",topic:"想了解的野生動物",
+    prompt:"Why do some people like to keep wild animals as pets?",
+    keywords:"unique, attention, but not appropriate",
+    en:"Some people keep wild animals as pets because they think these animals are special or unique. They want something different from a normal cat or dog. Others may feel proud or want attention from their friends. However, I personally don't think it's a good idea, because wild animals belong in nature.",
+    cn:"有些人養野生動物當寵物是覺得牠們特別或獨特，想擁有跟一般貓狗不一樣的寵物。也有些人是想得到關注或炫耀。但我個人覺得不好，因為野生動物應該屬於大自然。"
+  },
+  {
+    id:"p3-animal-2",type:"P3",topic:"想了解的野生動物",
+    prompt:"Do you think zoos are necessary?",
+    keywords:"education and conservation vs welfare",
+    en:"I have mixed feelings about zoos. On one hand, they help people, especially children, learn about animals they would never see in real life. They also help with research and conservation. On the other hand, some animals don't live happily in cages, so I think zoos should focus more on protecting endangered species rather than entertainment.",
+    cn:"我對動物園感受複雜。一方面，動物園讓人、尤其小孩，看到平時見不到的動物，也有助於研究和保育。另一方面，有些動物在籠子裡並不開心，所以動物園應該更專注保育瀕危物種，而不只是娛樂。"
+  },
+  {
+    id:"p3-animal-3",type:"P3",topic:"想了解的野生動物",
+    prompt:"How can we protect wild animals?",
+    keywords:"laws, support groups, reduce pollution",
+    en:"There are many ways to protect wild animals. Governments can pass laws to stop hunting and protect their habitats. Ordinary people can support animal protection groups, avoid buying products made from wild animals, and educate themselves and their children. Reducing pollution and climate change also helps because it protects the environments where animals live.",
+    cn:"保護野生動物的方法很多。政府可以立法禁止狩獵、保護棲地。一般人可以支持動保團體、不買野生動物製品、教育自己和孩子。減少污染和氣候變遷也有幫助，因為這保護了動物的生存環境。"
+  },
+  {
+    id:"p3-animal-4",type:"P3",topic:"想了解的野生動物",
+    prompt:"Do you think it's important for children to learn about wild animals?",
+    keywords:"empathy, ecosystems, documentaries",
+    en:"Yes, definitely. Learning about wild animals helps children understand nature and develop empathy. It also teaches them about ecosystems and why every species matters. I think schools should include more lessons about wildlife, and parents can also take children to nature reserves or watch documentaries together.",
+    cn:"絕對重要。認識野生動物能幫小孩了解自然、培養同理心，也能學到生態系和每個物種都重要。學校應該多教野生動物相關的內容，父母也可以帶小孩去自然保育區或一起看紀錄片。"
+  },
+
+  {
+    id:"p2-athlete",type:"P2",topic:"欣賞的運動員",story:"dai-tzu-ying",
+    prompt:"Describe a famous athlete you admire. You should say: who he/she is, how you knew him/her, what he/she has achieved, and explain why you admire him/her.",
+    en:"A famous athlete I really admire is Tai Tzu-ying, a Taiwanese badminton player who is known around the world. I first heard about her when I was watching the Tokyo Olympics on TV with my family, and she made it all the way to the final and won a silver medal for Taiwan. She is famous not just for her skill but also for her unique playing style—her movements look soft and effortless, but she can deliver powerful and unexpected shots that often surprise her opponents. Many people call her the 'magician' on the court because she makes the game look like art. What I admire most about her is her humility and mental strength. Even after becoming the world number one for many years, she still trains hard every day and rarely talks about her achievements. When she loses, she doesn't make excuses, and when she wins, she always thanks her team and her fans. I think she is a great example for young people in Taiwan, because she shows that talent is important, but discipline, humility, and a positive attitude matter even more. That's why I really look up to her.",
+    cn:"我非常欣賞的一位運動員是戴資穎，一位世界知名的台灣羽球選手。我第一次認識她是和家人一起看東京奧運，她一路打進決賽，幫台灣拿下銀牌。她不只技術高超，打法也非常獨特——動作看起來柔和輕鬆，但她能打出強大又出乎意料的球，常讓對手措手不及。很多人稱她為球場上的「魔術師」，因為她把比賽打得像藝術一樣。我最欣賞她的是她的謙遜和心理素質。即使連續好幾年世界排名第一，她每天還是努力訓練，也很少談自己的成就。輸的時候她不找藉口，贏的時候她總是感謝團隊和球迷。我覺得她是台灣年輕人很好的榜樣，因為她讓我們看到，天賦固然重要，但紀律、謙遜和正面的態度更重要。所以我真的很尊敬她。"
+  },
+  {
+    id:"p3-athlete-1",type:"P3",topic:"欣賞的運動員",
+    prompt:"Why do you think famous athletes are good role models?",
+    keywords:"hard work, dedication, never give up",
+    en:"Famous athletes are good role models because they show what hard work and dedication can achieve. To reach the top, they have to train every day, manage stress, and overcome failures. Young people can learn a lot from their stories—not just about sports, but also about discipline, persistence, and never giving up.",
+    cn:"知名運動員是很好的榜樣，因為他們展現努力和毅力能達到的成就。要登頂，他們必須每天訓練、管理壓力、克服失敗。年輕人能從他們的故事學到很多——不只關於運動，還有紀律、堅持、永不放棄。"
+  },
+  {
+    id:"p3-athlete-2",type:"P3",topic:"欣賞的運動員",
+    prompt:"Do you think athletes should be paid more than other professions?",
+    keywords:"short career, demanding, fair compensation",
+    en:"I think top athletes deserve high salaries because their careers are short and very physically demanding. They also bring joy and pride to many fans. However, comparing them to teachers or doctors is difficult—those professions also contribute hugely to society. So I'd say it's fair, but not necessarily that they should always earn more.",
+    cn:"我覺得頂尖運動員的高薪是合理的，因為他們職業生涯短、體力消耗大，也帶給粉絲歡樂和榮耀。但和老師、醫生比較很難——那些職業對社會也很重要。所以我覺得合理，但不一定永遠該賺更多。"
+  },
+  {
+    id:"p3-athlete-3",type:"P3",topic:"欣賞的運動員",
+    prompt:"Should children be encouraged to play sports?",
+    keywords:"healthy, confidence, teamwork",
+    en:"Yes, definitely. Sports help children stay healthy, build confidence, and develop teamwork skills. They also learn how to handle winning and losing, which is important for emotional growth. Of course, children should choose sports they enjoy, and parents shouldn't put too much pressure on them to become professionals.",
+    cn:"絕對應該。運動能讓孩子保持健康、培養自信、學會團隊合作，也能學會如何面對輸贏，對情緒成長很重要。當然孩子應該選自己喜歡的運動，父母也不應該逼他們一定要當職業選手。"
+  },
+  {
+    id:"p3-athlete-4",type:"P3",topic:"欣賞的運動員",
+    prompt:"Is it good or bad to be a professional athlete?",
+    keywords:"passion vs short career and pressure",
+    en:"Being a professional athlete has both good and bad sides. The good side is that they can do what they love, earn money, and become famous. The bad side is that the career is short, injuries are common, and the pressure is huge. So while it's a dream for many, it's also a very tough path.",
+    cn:"當職業運動員有好有壞。好的一面是能做自己熱愛的事、賺錢、成名。壞的一面是生涯短、容易受傷、壓力極大。所以雖然是很多人的夢想，但也是一條非常辛苦的路。"
+  },
+
+  {
+    id:"p2-smile",type:"P2",topic:"大家微笑的場合",story:"airport-tommy",
+    prompt:"Describe an occasion when most people were smiling. You should say: when it was, where it was, who were there, and explain why most people were smiling.",
+    en:"One occasion when most people were smiling was at the airport, when I went to pick up my long-distance boyfriend Tommy who was flying back from the United States. We had been apart for almost six months, so I was extremely excited and emotional that day. I arrived at the arrival hall about an hour early, just in case. As I waited, I noticed that almost everyone around me was smiling. There were children jumping up and down waiting for their parents, an elderly couple holding flowers for their daughter, and a young woman taking a video of a 'welcome home' sign she had made. The whole atmosphere felt warm and full of love. Even strangers would smile at each other when our eyes accidentally met. When Tommy finally walked through the gate with his suitcase, I felt my heart almost jump out of my chest. We hugged each other for a long time without saying a word. I noticed people around us were smiling too, as if they were sharing in our happiness. That day, I realized that airports are actually one of the happiest places in the world, because they are where loved ones reunite. It was a small but unforgettable moment.",
+    cn:"有一次大多數人都在微笑，是我去機場接我的遠距離男朋友 Tommy 從美國飛回來的時候。我們分開將近六個月，所以那天我超級興奮又激動。我大概提早一小時就到入境大廳。等待的時候，我注意到周圍幾乎每個人都在笑。有小孩跳來跳去等爸媽、有老夫妻拿著花要給女兒、還有一位年輕女生在拍自己做的「歡迎回家」牌子。整個氣氛很溫暖、充滿愛。陌生人之間眼神對到也會互相微笑。當 Tommy 終於拉著行李走出閘門時，我覺得心臟快要跳出來了。我們抱了好久都沒說話。我注意到周圍的人也都在笑，好像在分享我們的喜悅。那天我才發現，機場其實是世界上最快樂的地方之一，因為那是愛人重逢的地方。是一個小小卻難忘的時刻。"
+  },
+  {
+    id:"p3-smile-1",type:"P3",topic:"大家微笑的場合",
+    prompt:"Why do people smile?",
+    keywords:"happy, polite, universal language",
+    en:"People smile for many reasons. Most often, they smile when they are happy or amused, but they also smile to be polite or to make others feel comfortable. Smiling is a universal language—even when we don't speak the same language as someone, a smile can express friendliness and warmth.",
+    cn:"人們笑有很多原因。最常見的是開心或覺得好笑時，也會出於禮貌或讓別人感到自在而笑。微笑是世界共通的語言——即使語言不通，一個微笑就能傳達友善和溫暖。"
+  },
+  {
+    id:"p3-smile-2",type:"P3",topic:"大家微笑的場合",
+    prompt:"Is smiling important in everyday life?",
+    keywords:"positive energy, build relationships, kindness",
+    en:"Yes, smiling is very important. It makes people feel welcome and creates positive energy. In daily life, a simple smile can brighten someone's mood, especially during stressful times. It also helps build better relationships at work, school, and at home. I think smiling is one of the easiest ways to spread kindness.",
+    cn:"微笑非常重要。能讓人感到被歡迎，創造正向能量。日常生活中，一個簡單的微笑能讓人心情變好，特別在壓力大的時候。也能幫助在職場、學校、家裡建立更好的關係。我覺得微笑是最簡單的善意。"
+  },
+  {
+    id:"p3-smile-3",type:"P3",topic:"大家微笑的場合",
+    prompt:"Do you think people smile more or less than in the past?",
+    keywords:"city stress, phones, smaller towns",
+    en:"I think people may smile less than in the past, especially in big cities. Modern life is busy and stressful, and many people walk around looking at their phones instead of the people around them. In smaller towns or in older generations, smiling at strangers is still more common.",
+    cn:"我覺得現代人可能比過去笑得少，特別是在大城市。現代生活忙碌又有壓力，很多人邊走邊滑手機，而不是看身邊的人。在小鎮或上一代，對陌生人微笑還是比較常見。"
+  },
+  {
+    id:"p3-smile-4",type:"P3",topic:"大家微笑的場合",
+    prompt:"Are there any situations where people should not smile?",
+    keywords:"funerals, serious meetings, sensitive moments",
+    en:"Yes, there are. For example, at funerals or in serious meetings, smiling might seem inappropriate or disrespectful. Also, when someone is going through a difficult time, smiling at the wrong moment can hurt their feelings. So we should always pay attention to the situation and the people around us before smiling.",
+    cn:"有的。例如在喪禮或嚴肅會議上微笑可能不合宜或不尊重。當別人正在難過時，錯誤時機的微笑也會傷害感情。所以微笑前要看狀況和身邊的人。"
+  }
+];
+
+// ============= Story labels (人物/場景共用) =============
+const STORY_LABELS = {
+  "grandfather": "🌿 爺爺（雲林、退休自然老師、種植物）",
+  "brother-art": "🎨 哥哥（家裡藝術工作室、教小朋友畫畫）",
+  "emma": "🎤 Emma（大學同學、樂團主唱、會多種樂器）",
+  "ai-comp": "🏆 AI 比賽（PM 經驗、簡化介面、得獎）",
+  "art-japan": "🇯🇵 日本藝術工作室（短期海外工作）",
+  "jiufen": "⛰️ 九份（山城、老街、茶館、神隱少女）",
+  "blackout": "🔌 停電（台北家裡、沒手機、和家人聊天）",
+  "instagram-quokka": "📱 IG / Quokka（社群、可愛動物）",
+  "little-prince": "📖 小王子（重讀經典、人生意義）",
+  "dai-tzu-ying": "🏸 戴資穎（台灣羽球、世界冠軍、謙遜）",
+  "airport-tommy": "✈️ 機場接機（遠距離男友 Tommy 從美國回來）"
+};
+
+// ============= State =============
+const STORAGE_KEY = "ielts_daily_v1";
+const today = () => new Date().toISOString().slice(0,10);
+const dayDiff = (a,b) => Math.round((new Date(a)-new Date(b))/86400000);
+
+let state = loadState();
+let currentTab = "today";
+let currentDeck = [];
+let currentIdx = 0;
+let displayMode = "both"; // en | cn | both
+let showAnswer = false;
+
+function loadState(){
+  try {
+    const s = JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
+    return {
+      cards: s.cards || {},
+      streak: s.streak || 0,
+      lastDate: s.lastDate || null,
+      todayCount: s.todayDate === today() ? (s.todayCount||0) : 0,
+      todayDate: today()
+    };
+  } catch { return {cards:{},streak:0,lastDate:null,todayCount:0,todayDate:today()}; }
+}
+function saveState(){
+  state.todayDate = today();
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+function getCardState(id){
+  return state.cards[id] || {nextDue: today(), reviewed: 0, lastDiff: null};
+}
+
+// ============= Deck =============
+function getTodayDeck(){
+  const t = today();
+  return DATA.filter(c => {
+    const cs = getCardState(c.id);
+    return cs.nextDue <= t;
+  }).sort((a,b) => {
+    const dueA = getCardState(a.id).nextDue;
+    const dueB = getCardState(b.id).nextDue;
+    return dueA.localeCompare(dueB);
+  });
+}
+
+function rate(level){
+  const card = currentDeck[currentIdx];
+  const cs = getCardState(card.id);
+  const days = level === "easy" ? 4 : level === "mid" ? 2 : 1;
+  const next = new Date();
+  next.setDate(next.getDate() + days);
+  state.cards[card.id] = {
+    nextDue: next.toISOString().slice(0,10),
+    reviewed: cs.reviewed + 1,
+    lastDiff: level
+  };
+  // update streak/today count
+  if (state.lastDate !== today()){
+    if (state.lastDate && dayDiff(today(), state.lastDate) === 1) state.streak += 1;
+    else state.streak = 1;
+    state.lastDate = today();
+  }
+  state.todayCount = (state.todayDate === today() ? state.todayCount : 0) + 1;
+  state.todayDate = today();
+  saveState();
+  nextCard();
+  renderHome();
+}
+
+// ============= Render =============
+function renderHome(){
+  document.getElementById('dateLabel').textContent = today() + " · 加油 💪";
+  document.getElementById('streakNum').textContent = state.streak;
+  document.getElementById('todayNum').textContent = state.todayCount;
+  document.getElementById('totalNum').textContent = DATA.length;
+
+  const list = document.getElementById('cardList');
+  list.innerHTML = '';
+
+  let cards = currentTab === "today" ? getTodayDeck() : DATA;
+  if (cards.length === 0 && currentTab === "today"){
+    list.innerHTML = '<div class="empty">🎉 今天的題目都複習完了！<br>明天再來吧～</div>';
+    return;
+  }
+
+  cards.forEach((c,i) => {
+    const cs = getCardState(c.id);
+    const isDue = cs.nextDue <= today();
+    const reviewed = cs.reviewed > 0 ? `已練 ${cs.reviewed} 次` : '尚未練習';
+    const dueText = currentTab === "all" ? (isDue ? '今日待複習' : `${cs.nextDue} 複習`) : '';
+    const el = document.createElement('div');
+    el.className = 'card' + (isDue && currentTab === "all" ? ' due' : '');
+    const storyBadge = c.story ? `<span class="story-tag">${STORY_LABELS[c.story]?.split(/[（(]/)[0].trim() || c.story}</span>` : '';
+    el.innerHTML = `
+      <span class="tag ${c.type.toLowerCase()}">${c.type}</span>
+      <span style="font-size:12px;color:#86868b">${c.topic}</span>
+      ${storyBadge}
+      <div class="topic">${c.type === 'P3' ? c.prompt : c.topic}</div>
+      ${c.type === 'P2' ? `<div class="prompt">${c.prompt}</div>` : ''}
+      <div class="meta"><span>${reviewed}</span>${dueText ? `<span>${dueText}</span>` : ''}</div>
+    `;
+    el.onclick = () => openCard(cards, i);
+    list.appendChild(el);
+  });
+}
+
+// ============= Card detail =============
+function openCard(deck, idx){
+  currentDeck = deck;
+  currentIdx = idx;
+  showAnswer = false;
+  displayMode = "both";
+  renderCard();
+  document.getElementById('overlay').classList.add('show');
+}
+function closeCard(){
+  document.getElementById('overlay').classList.remove('show');
+  document.getElementById('diffBar').classList.remove('show');
+  speechSynthesis.cancel();
+}
+function nextCard(){
+  speechSynthesis.cancel();
+  if (currentIdx < currentDeck.length - 1){
+    currentIdx += 1;
+    showAnswer = false;
+    displayMode = "both";
+    renderCard();
+  } else {
+    closeCard();
+  }
+}
+function prevCard(){
+  speechSynthesis.cancel();
+  if (currentIdx > 0){
+    currentIdx -= 1;
+    showAnswer = false;
+    displayMode = "both";
+    renderCard();
+  }
+}
+
+function renderCard(){
+  const c = currentDeck[currentIdx];
+  document.getElementById('ovTitle').textContent = `${currentIdx + 1} / ${currentDeck.length} · ${c.topic}`;
+  const detail = document.getElementById('detail');
+  const diffBar = document.getElementById('diffBar');
+
+  let promptHtml = `
+    <div class="prompt-box">
+      <span class="tag">${c.type} · ${c.topic}</span>
+      ${c.type === 'P2' ? `<div class="topic">${c.topic}</div>` : ''}
+      <div class="q">${c.prompt}</div>
+      ${c.keywords ? `<div class="kw">💡 關鍵字: ${c.keywords}</div>` : ''}
+    </div>
+  `;
+
+  if (!showAnswer){
+    detail.innerHTML = promptHtml + `
+      <button class="reveal-btn" onclick="reveal()">顯示答案</button>
+      <p style="text-align:center;color:#86868b;font-size:13px;padding:20px">先試著開口講一次再看答案 🎤</p>
+    `;
+    diffBar.classList.remove('show');
+    return;
+  }
+
+  // answer rendering
+  let answerHtml = '';
+  if (c.pairs){
+    // sentence-by-sentence
+    answerHtml = '<div class="answer">';
+    c.pairs.forEach(([en,cn]) => {
+      answerHtml += `<div class="row">`;
+      if (displayMode !== "cn") answerHtml += `<p class="en">${en}</p>`;
+      if (displayMode !== "en") answerHtml += `<p class="cn">${cn}</p>`;
+      answerHtml += `</div>`;
+    });
+    answerHtml += '</div>';
+  } else {
+    answerHtml = '<div class="answer">';
+    if (displayMode !== "cn") answerHtml += `<p class="en">${c.en}</p>`;
+    if (displayMode !== "en" && c.cn) answerHtml += `<p class="cn">${c.cn}</p>`;
+    answerHtml += '</div>';
+  }
+
+  // story reuse links
+  let storyHtml = '';
+  if (c.story && STORY_LABELS[c.story]){
+    const sameStory = DATA.filter(x => x.story === c.story && x.id !== c.id);
+    if (sameStory.length > 0){
+      const links = sameStory.map(x => `<a href="javascript:void(0)" onclick="jumpToCard('${x.id}')">${x.topic}</a>`).join('');
+      storyHtml = `<div class="story-box">
+        <span class="label">💡 同一個故事可以套用於：</span>
+        <div style="margin-bottom:8px;font-size:12px;color:#92400e">${STORY_LABELS[c.story]}</div>
+        <div class="links">${links}</div>
+      </div>`;
+    } else {
+      storyHtml = `<div class="story-box">
+        <span class="label">💡 故事核心</span>
+        <div style="font-size:12px;color:#92400e">${STORY_LABELS[c.story]}</div>
+      </div>`;
+    }
+  }
+
+  detail.innerHTML = promptHtml + `
+    <button class="tts-btn" onclick="speak()">🔊 朗讀英文</button>
+    <div class="toolbar">
+      <button class="${displayMode === 'both' ? 'active' : ''}" onclick="setMode('both')">雙語</button>
+      <button class="${displayMode === 'en' ? 'active' : ''}" onclick="setMode('en')">英文</button>
+      <button class="${displayMode === 'cn' ? 'active' : ''}" onclick="setMode('cn')">中文</button>
+    </div>
+    ${answerHtml}
+    ${storyHtml}
+  `;
+  diffBar.classList.add('show');
+}
+
+function jumpToCard(id){
+  const idx = DATA.findIndex(c => c.id === id);
+  if (idx >= 0){
+    currentDeck = DATA;
+    currentIdx = idx;
+    showAnswer = false;
+    displayMode = "both";
+    speechSynthesis.cancel();
+    renderCard();
+  }
+}
+
+function reveal(){ showAnswer = true; renderCard(); }
+function setMode(m){ displayMode = m; renderCard(); }
+
+function speak(){
+  speechSynthesis.cancel();
+  const c = currentDeck[currentIdx];
+  let text = c.pairs ? c.pairs.map(p => p[0]).join(' ') : c.en;
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = "en-US";
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+
+function resetProgress(){
+  if (!confirm('確定要清除所有學習進度嗎？')) return;
+  localStorage.removeItem(STORAGE_KEY);
+  state = loadState();
+  renderHome();
+}
+
+// tab switching
+document.querySelectorAll('.tab-bar button').forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll('.tab-bar button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentTab = btn.dataset.tab;
+    renderHome();
+  };
+});
+
+// keyboard navigation in overlay
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('overlay').classList.contains('show')) return;
+  if (e.key === 'Escape') closeCard();
+  else if (e.key === 'ArrowRight') nextCard();
+  else if (e.key === 'ArrowLeft') prevCard();
+  else if (e.key === ' ' && !showAnswer){ e.preventDefault(); reveal(); }
+});
+
+renderHome();
+</script>
+</body>
+</html>
