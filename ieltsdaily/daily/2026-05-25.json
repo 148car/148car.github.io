@@ -1,0 +1,70 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T02:00:00Z",
+  "listening": {
+    "title": "The hidden world of mushrooms",
+    "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
+    "source": "BBC 6 Minute English",
+    "topic": "How fungi communicate and support forest ecosystems",
+    "topic_zh": "真菌如何溝通並維持森林生態系統",
+    "transcript_excerpt": "Welcome to 6 Minute English. I'm Neil and I'm joined today by Sam. Today we're talking about something literally under our feet — the fascinating world of fungi. Now Sam, did you know there are more species of fungi on Earth than plants? That's right, and they play a crucial role in almost every ecosystem on the planet. They break down dead material, returning nutrients to the soil. But what's really extraordinary is recent research suggesting that trees in a forest communicate through underground fungal networks. Scientists call this the 'wood wide web'. When a tree is stressed — say, it's being attacked by insects — it can send chemical signals through this mycelium network to warn neighbouring trees. Those trees then boost their own defences before the threat arrives. It's a level of cooperation we never imagined possible in plants. And here's another surprising fact: these fungal networks don't just carry warning signals. They also transfer nutrients between trees. Older, larger trees — sometimes called 'mother trees' — have been observed actively sharing carbon and water with younger, weaker seedlings growing in their shade. This discovery has completely changed how scientists view forests.",
+    "vocabulary": [
+      {"word": "fungi", "type": "noun", "definition": "plural of fungus; organisms including mushrooms that feed on organic matter", "definition_zh": "真菌（複數）；包括蘑菇的有機體，以有機物為食", "example": "Fungi play a vital role in decomposing dead matter in forest ecosystems."},
+      {"word": "ecosystem", "type": "noun", "definition": "a biological community of interacting organisms and their physical environment", "definition_zh": "生態系統；生物群落與物理環境的互動系統", "example": "Climate change threatens the delicate balance of marine ecosystems worldwide."},
+      {"word": "mycelium", "type": "noun", "definition": "a network of thread-like strands forming the body of a fungus underground", "definition_zh": "菌絲體；地下真菌主體形成的絲狀網絡", "example": "The mycelium spreads through the soil, connecting the roots of different trees."},
+      {"word": "decompose", "type": "verb", "definition": "to break down into simpler substances through biological or chemical processes", "definition_zh": "分解；透過生物或化學過程分解為更簡單的物質", "example": "Bacteria and fungi decompose fallen leaves, releasing nutrients back into the soil."},
+      {"word": "symbiotic", "type": "adjective", "definition": "describing a mutually beneficial relationship between two different organisms", "definition_zh": "共生的；描述兩種不同生物之間互利關係的形容詞", "example": "The symbiotic relationship between trees and fungi has evolved over millions of years."}
+    ],
+    "questions": [
+      {"q": "According to the passage, what is the 'wood wide web'?", "options": ["A: A social media platform for scientists", "B: An internet network in forests", "C: A fungal communication network connecting trees", "D: A type of spider web found in forests"], "answer": "C", "explanation": "The 'wood wide web' refers to underground fungal (mycelium) networks through which trees communicate and share nutrients."},
+      {"q": "What happens when a tree is attacked by insects?", "options": ["A: It dies immediately without warning others", "B: It sends chemical signals through the fungal network to alert neighbours", "C: It produces more leaves to protect itself", "D: It releases toxic chemicals into the air"], "answer": "B", "explanation": "Trees send chemical warning signals through the mycelium network, allowing neighbouring trees to boost their defences in advance."},
+      {"q": "What role do 'mother trees' play in the fungal network?", "options": ["A: They block nutrients from reaching smaller trees", "B: They absorb all available resources in the forest", "C: They actively share carbon and water with younger seedlings", "D: They produce the largest amounts of mycelium"], "answer": "C", "explanation": "Mother trees (older, larger trees) actively share carbon and water with younger, weaker seedlings through the fungal network."}
+    ]
+  },
+  "reading": {
+    "title": "The Underground Internet: How Forests Communicate",
+    "passage": "For centuries, trees were considered solitary organisms competing for sunlight and nutrients. However, groundbreaking research over the past two decades has fundamentally altered this understanding, revealing that forests function as highly connected, cooperative communities.\n\nAt the heart of this discovery lies the mycorrhizal network — a web of fungal threads that interweaves through soil and attaches to the roots of trees. These networks, sometimes spanning several hectares, facilitate the transfer of carbon, water, and minerals between individual trees. Far from being passive conduits, the fungi actively regulate these exchanges, apparently favouring certain host trees over others.\n\nSuzanne Simard, a forest ecologist at the University of British Columbia, demonstrated that trees recognise their own kin. Her experiments revealed that Douglas firs allocate more carbon to seedlings that share their genetic makeup than to unrelated plants. This preferential treatment may enhance the survival prospects of related individuals, suggesting a form of evolutionary strategy previously unrecognised in plant biology.\n\nFurthermore, the network serves as an early warning system. When trees are subjected to drought, disease, or insect attack, distress signals travel through the fungal web. Recipient trees respond by synthesising defensive compounds before the threat reaches them directly, substantially reducing damage across the forest.\n\nCritics argue that anthropomorphising these processes risks misrepresenting the underlying biology. Trees lack nervous systems, and what appears to be communication is better described as electrochemical signalling — sophisticated, certainly, but fundamentally different from conscious behaviour. Nevertheless, the ecological implications are profound: old-growth forests with dense, mature fungal networks demonstrate significantly greater resilience to environmental disturbance than younger woodland.",
+    "questions": [
+      {"type": "TFNG", "statement": "Trees have always been known to cooperate with each other through underground networks.", "answer": "False", "explanation": "The passage states trees were 'considered solitary organisms' for centuries; cooperation was only recently discovered."},
+      {"type": "TFNG", "statement": "Mycorrhizal networks can cover areas of several hectares.", "answer": "True", "explanation": "The passage explicitly states these networks are 'sometimes spanning several hectares.'"},
+      {"type": "TFNG", "statement": "Douglas firs provide equal amounts of carbon to all nearby seedlings regardless of genetic relationship.", "answer": "False", "explanation": "Simard's research showed Douglas firs allocate MORE carbon to genetically related seedlings than to unrelated plants."},
+      {"type": "MCQ", "q": "What is the main criticism raised against interpretations of forest communication?", "options": ["A: The research methods are scientifically flawed", "B: Trees cannot transfer substances through fungal networks", "C: Describing tree signalling as 'communication' anthropomorphises the process", "D: Old-growth forests are less resilient than younger forests"], "answer": "C", "explanation": "Critics argue calling electrochemical processes 'communication' risks anthropomorphising trees, which lack nervous systems."}
+    ]
+  },
+  "speaking": {
+    "topic": "A natural place you find fascinating",
+    "topic_zh": "一個你覺得很有趣的自然場所",
+    "part2": {
+      "cue_card": "Describe a natural place you find fascinating.\n\nYou should say:\n• where this place is\n• what it looks like\n• when you first learned about or visited it\n\nand explain why you find it so fascinating.",
+      "band_tips": [
+        "Use precise vocabulary: instead of 'big' say 'vast', 'expansive', or 'sprawling'",
+        "Add sensory details — describe what you see, hear, smell, and feel in that place",
+        "Show personal connection: explain how this place changed your perspective on nature"
+      ]
+    },
+    "part3": [
+      {"q": "How important is it for people to have access to natural environments?", "q_zh": "人們接觸自然環境有多重要？", "key_points": ["Mental health benefits: stress reduction and improved wellbeing", "Educational value: direct experience of biodiversity", "Equity issue: urban green space access varies by socioeconomic status"]},
+      {"q": "Do you think younger generations are less connected to nature than previous generations?", "q_zh": "你認為年輕一代比以前的世代更不親近自然嗎？", "key_points": ["Screen time and urbanisation create distance from nature", "Social media can actually inspire environmental awareness", "Counter-trend: growing interest in outdoor activities and urban gardening"]},
+      {"q": "How can governments better protect natural ecosystems?", "q_zh": "政府如何更好地保護自然生態系統？", "key_points": ["Expand protected area networks and enforce conservation laws", "Provide financial incentives for sustainable land use", "Foster international cooperation for transboundary ecosystems"]},
+      {"q": "What role does scientific research play in our understanding of nature?", "q_zh": "科學研究在我們了解自然方面扮演什麼角色？", "key_points": ["Reveals hidden processes (e.g., fungal networks) that challenge assumptions", "Provides evidence base for conservation policy decisions", "Raises ethical questions about how we categorise and value living beings"]}
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that protecting natural environments should be the top priority of governments worldwide, while others argue that economic development is more important. Discuss both views and give your own opinion.",
+    "task2_question_zh": "有些人認為保護自然環境應是各國政府的首要任務，而另一些人則認為經濟發展更重要。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {"phrase": "There is growing recognition that...", "when_to_use": "Introducing a widely accepted trend or fact", "when_to_use_zh": "引入廣泛認可的趨勢或事實時使用", "example": "There is growing recognition that biodiversity loss poses as serious a threat to human wellbeing as climate change."},
+      {"phrase": "While it is undeniable that..., it can be argued that...", "when_to_use": "Acknowledging one side before presenting a counterargument", "when_to_use_zh": "承認某一觀點後接著提出反駁論點", "example": "While it is undeniable that economic growth lifts millions out of poverty, it can be argued that environmental degradation ultimately undermines long-term prosperity."},
+      {"phrase": "The evidence suggests that X is inextricably linked to Y", "when_to_use": "Showing a strong relationship between two ideas", "when_to_use_zh": "顯示兩個概念之間密不可分的關係", "example": "The evidence suggests that human wellbeing is inextricably linked to the health of natural ecosystems."},
+      {"phrase": "A more nuanced approach would involve...", "when_to_use": "Proposing a balanced or sophisticated solution", "when_to_use_zh": "提出更細膩、平衡的解決方案時", "example": "A more nuanced approach would involve integrating environmental safeguards into economic planning from the outset."},
+      {"phrase": "In the long run, failure to... will inevitably result in...", "when_to_use": "Warning about future consequences of current inaction", "when_to_use_zh": "警告當前不作為的長期後果", "example": "In the long run, failure to protect forest ecosystems will inevitably result in the collapse of agricultural systems that depend on stable climates."}
+    ],
+    "outline": {
+      "intro": "Paraphrase the question. State that while economic development is necessary, environmental protection is ultimately a prerequisite for sustainable prosperity — give your opinion clearly in the final sentence.",
+      "body1": "Present the pro-development view: economic growth funds healthcare, education, and infrastructure; developing nations argue they have the right to industrialise as wealthy nations did.",
+      "body2": "Counter with the environmental view: ecosystem services (clean air, water, soil fertility) underpin all economic activity; short-term growth that destroys natural capital is ultimately self-defeating.",
+      "conclusion": "Restate your opinion: the false dichotomy between economy and environment should be rejected; sustainable development frameworks show both goals can be pursued simultaneously."
+    }
+  }
+}

@@ -1,0 +1,49 @@
+name: Daily IELTS Content
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 10:00 AM Taiwan (UTC+8)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regenerate even if today already exists'
+        type: boolean
+        default: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install anthropic feedparser requests beautifulsoup4 lxml
+
+      - name: Generate daily content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          ARGS=""
+          [ "${{ github.event.inputs.force }}" = "true" ] && ARGS="--force"
+          python scripts/generate_daily_ielts.py $ARGS
+
+      - name: Commit and push
+        run: |
+          git config user.name "IELTS Daily Bot"
+          git config user.email "action@github.com"
+          git add ieltsdaily/daily/
+          if git diff --staged --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "daily: IELTS content $(date -u +%Y-%m-%d)"
+            git push
+          fi
