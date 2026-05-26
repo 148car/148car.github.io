@@ -10,7 +10,8 @@ from bs4 import BeautifulSoup
 
 BASE_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "ieltsdaily", "daily")
-BBC_RSS    = "https://podcasts.files.bbci.co.uk/p02pc9pj.rss"
+# BBC News Science & Environment — reliable IELTS-level content
+BBC_RSS    = "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
 HEADERS    = {"User-Agent": "Mozilla/5.0 (compatible; IELTSBot/1.0)"}
 
 
@@ -121,21 +122,28 @@ Requirements: vocabulary = 5 items, listening questions = 3, reading questions =
 
 def generate(episode: dict) -> dict:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-    resp = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4096,
-        messages=[{"role": "user", "content": PROMPT.format(
-            title=episode["title"],
-            content=episode["content"][:2500],
-        )}],
-    )
-    raw = resp.content[0].text.strip()
-    raw = re.sub(r"^```(?:json)?\s*", "", raw)
-    raw = re.sub(r"\s*```$", "", raw)
-    data = json.loads(raw)
-    data["listening"]["url"]   = episode["url"]
-    data["listening"]["title"] = episode["title"]
-    return data
+
+    for attempt in range(3):
+        resp = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=8192,
+            messages=[{"role": "user", "content": PROMPT.format(
+                title=episode["title"],
+                content=episode["content"][:2000],
+            )}],
+        )
+        raw = resp.content[0].text.strip()
+        raw = re.sub(r"^```(?:json)?\s*", "", raw)
+        raw = re.sub(r"\s*```$", "", raw)
+        try:
+            data = json.loads(raw)
+            data["listening"]["url"]   = episode["url"]
+            data["listening"]["title"] = episode["title"]
+            return data
+        except json.JSONDecodeError as e:
+            print(f"  Attempt {attempt+1}: JSON parse failed ({e}), retrying...")
+
+    raise RuntimeError("Failed to get valid JSON from Claude after 3 attempts")
 
 
 def save(data: dict, date: str) -> str:
