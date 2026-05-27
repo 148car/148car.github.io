@@ -1,0 +1,213 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T06:11:44.279503Z",
+  "listening": {
+    "title": "Nasa unveils next steps to build permanent Moon base",
+    "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "NASA has announced plans to establish a permanent base on the Moon, involving hopping drones and roving vehicles to explore and develop the lunar surface.",
+    "topic_zh": "美國太空總署宣布建立永久月球基地的計劃，包括使用跳躍式無人機和漫遊車探索及開發月球表面。",
+    "transcript_excerpt": "Welcome to 6 Minute English. Today, we're exploring one of the most ambitious space projects in human history — NASA's plan to build a permanent base on the Moon. Now, you might be thinking: haven't we been to the Moon before? And yes, that's true. Astronauts first walked on the lunar surface back in 1969. But what NASA is proposing now is something far more permanent and far more complex. Rather than brief visits, the agency wants humans to live and work on the Moon for extended periods of time. To make this happen, NASA has unveiled a series of cutting-edge technologies. Among the most exciting are hopping drones — small robotic vehicles that can leap across the rugged lunar terrain, collecting data and surveying areas that wheeled rovers simply cannot reach. These drones could prove invaluable in mapping the Moon's surface and identifying resources such as water ice, which is believed to exist in permanently shadowed craters near the lunar poles. Meanwhile, roving vehicles would serve as mobile laboratories, allowing scientists to conduct experiments directly on the Moon's surface. The long-term goal is to establish infrastructure — roads, power systems, and habitats — that could one day support a self-sustaining human settlement. This would not only advance our scientific understanding of the Moon but could also serve as a launchpad for future missions to Mars. The question is no longer whether we can reach the Moon, but whether we can truly make it our home.",
+    "vocabulary": [
+      {
+        "word": "permanent base",
+        "type": "noun",
+        "definition": "A fixed, long-lasting facility or settlement designed to be occupied continuously rather than temporarily",
+        "definition_zh": "永久基地：設計用於持續而非臨時佔用的固定、長期設施或定居點",
+        "example": "Establishing a permanent base on the Moon would require significant advances in life-support technology."
+      },
+      {
+        "word": "hopping drone",
+        "type": "noun",
+        "definition": "A robotic aerial or surface vehicle that moves by making short jumps or leaps, enabling it to traverse uneven or difficult terrain",
+        "definition_zh": "跳躍式無人機：一種通過短距離跳躍移動的機器人飛行或地面載具，能夠穿越崎嶇或困難的地形",
+        "example": "The hopping drone was able to access rocky craters that the wheeled rover could not navigate."
+      },
+      {
+        "word": "lunar terrain",
+        "type": "noun",
+        "definition": "The physical surface features and landscape of the Moon, typically characterised by craters, dust, and rocky formations",
+        "definition_zh": "月球地形：月球的地表特徵和景觀，通常以隕石坑、塵埃和岩石構造為特色",
+        "example": "Mapping the lunar terrain in detail is essential before any construction of a Moon base can begin."
+      },
+      {
+        "word": "self-sustaining",
+        "type": "adjective",
+        "definition": "Able to maintain itself or continue functioning without relying on external resources or support",
+        "definition_zh": "自給自足的：能夠在不依賴外部資源或支援的情況下維持自身運作",
+        "example": "Scientists hope that a self-sustaining lunar colony could eventually produce its own food, water, and energy."
+      },
+      {
+        "word": "infrastructure",
+        "type": "noun",
+        "definition": "The fundamental systems and structures — such as power, transport, and communications — necessary to support an organised community or operation",
+        "definition_zh": "基礎設施：支撐有組織社區或運作所必需的基本系統和結構，例如電力、交通和通訊",
+        "example": "Building reliable infrastructure on the Moon is considered one of the greatest engineering challenges of the 21st century."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, what is the PRIMARY purpose of the hopping drones mentioned in NASA's plan?",
+        "options": [
+          "A: To transport astronauts between different lunar locations",
+          "B: To collect data and survey areas that wheeled rovers cannot access",
+          "C: To relay communication signals back to Earth",
+          "D: To carry construction materials for building habitats"
+        ],
+        "answer": "B",
+        "explanation": "The transcript clearly states that hopping drones can 'leap across the rugged lunar terrain, collecting data and surveying areas that wheeled rovers simply cannot reach', making B the correct answer."
+      },
+      {
+        "q": "What resource does the speaker suggest may be found in permanently shadowed craters near the Moon's poles?",
+        "options": [
+          "A: Helium-3 gas deposits",
+          "B: Iron and titanium ore",
+          "C: Water ice",
+          "D: Frozen carbon dioxide"
+        ],
+        "answer": "C",
+        "explanation": "The transcript explicitly mentions 'identifying resources such as water ice, which is believed to exist in permanently shadowed craters near the lunar poles', confirming C as the correct answer."
+      },
+      {
+        "q": "How does the speaker describe the broader long-term significance of building a permanent Moon base?",
+        "options": [
+          "A: It would replace the International Space Station as humanity's main orbital facility",
+          "B: It would allow private companies to mine the Moon commercially",
+          "C: It could serve as a launchpad for future missions to Mars",
+          "D: It would enable continuous astronomical observations free from Earth's atmosphere"
+        ],
+        "answer": "C",
+        "explanation": "The transcript states the Moon base 'could also serve as a launchpad for future missions to Mars', making C the correct answer."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Building a Permanent Human Settlement on the Moon: Challenges and Prospects",
+    "passage": "In recent years, space agencies and private enterprises have renewed their interest in establishing a permanent human presence on the Moon. NASA's Artemis programme, alongside contributions from international partners, represents the most coordinated effort in decades to return humans to the lunar surface — this time with the explicit aim of staying. Central to these ambitions is the development of advanced robotic systems, including autonomous hopping drones capable of surveying geologically complex terrain, and roving vehicles designed to function as mobile research laboratories. One of the most scientifically significant objectives is the search for water ice, believed to be concentrated in permanently shadowed regions near the lunar south pole. If confirmed in sufficient quantities, this resource could be extracted and converted into both drinking water and rocket propellant through a process known as electrolysis, dramatically reducing the cost and logistical complexity of long-duration lunar missions. However, establishing a permanent Moon base poses formidable engineering and biological challenges. The lunar environment is characterised by extreme temperature fluctuations, ranging from approximately 127 degrees Celsius during the day to minus 173 degrees at night. Astronauts are also exposed to elevated levels of cosmic radiation due to the Moon's lack of a protective magnetic field and atmosphere. Furthermore, prolonged exposure to lunar dust, known as regolith, poses serious risks to both human health and mechanical equipment. To address these challenges, engineers are exploring the use of 3D-printing technology to construct habitats from regolith itself, thereby minimising the need to transport heavy building materials from Earth. Proponents of lunar colonisation argue that the Moon could serve not only as a scientific outpost but also as a strategic gateway for deeper space exploration, including eventual crewed missions to Mars. Critics, however, question whether the enormous financial investment required is justified given pressing needs on Earth. The debate reflects broader tensions between the pursuit of scientific progress and the prioritisation of immediate human welfare.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Water ice found on the Moon could potentially be converted into rocket propellant through electrolysis.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that water ice 'could be extracted and converted into both drinking water and rocket propellant through a process known as electrolysis', directly confirming this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Moon's surface temperature remains relatively stable throughout the lunar day and night cycle.",
+        "answer": "False",
+        "explanation": "The passage directly contradicts this, describing 'extreme temperature fluctuations, ranging from approximately 127 degrees Celsius during the day to minus 173 degrees at night', indicating highly unstable temperatures."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The majority of scientists currently support lunar colonisation over prioritising social programmes on Earth.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that critics question the financial investment, but it does not provide any data or information about the majority view among scientists regarding this comparison."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, why are engineers considering using regolith for habitat construction?",
+        "options": [
+          "A: Because regolith is significantly stronger than conventional building materials",
+          "B: Because it reduces the need to transport heavy construction materials from Earth",
+          "C: Because regolith provides superior insulation against cosmic radiation",
+          "D: Because 3D-printing machines cannot function with Earth-based materials in low gravity"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 3D-printing with regolith is being explored 'thereby minimising the need to transport heavy building materials from Earth', making B the correct and directly supported answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a scientific achievement or technological development that you find particularly impressive or inspiring.",
+    "topic_zh": "描述一項你認為特別令人印象深刻或鼓舞人心的科學成就或技術發展。",
+    "part2": {
+      "cue_card": "Describe a scientific achievement or technological development that you find particularly impressive or inspiring.\n\nYou should say:\n• What the achievement or development is\n• When and how you first learned about it\n• Why you find it impressive or significant\n\nAnd explain what impact you think it could have on humanity in the future.",
+      "band_tips": [
+        "Use sophisticated vocabulary related to science and technology, such as 'groundbreaking', 'unprecedented', 'transformative potential', and 'paradigm shift', to demonstrate a wide lexical range and push toward Band 7-9.",
+        "Organise your response clearly using discourse markers such as 'To begin with', 'What strikes me most', and 'Looking ahead', so the examiner can follow your line of reasoning — this directly boosts your Coherence and Cohesion score.",
+        "Go beyond simply describing the achievement — analyse its broader implications for society, science, or future generations, as this demonstrates the higher-order thinking that distinguishes Band 8-9 responses from lower bands."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should prioritise funding space exploration over addressing problems on Earth, such as poverty or climate change?",
+        "q_zh": "你認為政府應該優先資助太空探索，而不是解決地球上的問題，如貧困或氣候變遷嗎？",
+        "key_points": [
+          "Acknowledge the tension between long-term scientific investment and immediate humanitarian needs, noting that this is a false dichotomy — both can be pursued simultaneously with proper fiscal planning.",
+          "Argue that space research often generates technologies with direct Earth-based applications, such as satellite weather monitoring used in climate science and GPS systems that support agricultural logistics in developing nations.",
+          "Suggest a proportional funding model whereby a fixed percentage of national budgets is allocated to both areas, ensuring neither is entirely sacrificed for the other."
+        ]
+      },
+      {
+        "q": "How might the establishment of a permanent Moon base change international relations and cooperation between countries?",
+        "q_zh": "建立永久月球基地可能如何改變國際關係和國家間的合作？",
+        "key_points": [
+          "A joint Moon base could foster unprecedented scientific cooperation, much like the International Space Station has done, creating shared goals that transcend political and ideological differences.",
+          "Conversely, competition for lunar resources — particularly water ice and rare minerals — could intensify geopolitical rivalries, especially between major space powers such as the United States, China, and Russia.",
+          "International legal frameworks governing lunar activities, such as the Outer Space Treaty of 1967, may need to be updated to prevent territorial disputes and ensure equitable access to lunar resources."
+        ]
+      },
+      {
+        "q": "What qualities and skills do you think would be most important for people who are selected to live on a permanent Moon base?",
+        "q_zh": "你認為被選中居住在永久月球基地的人，最需要具備哪些素質和技能？",
+        "key_points": [
+          "Technical expertise in engineering, medicine, or geology would be indispensable, as residents would need to maintain life-support systems, conduct research, and respond to medical emergencies without immediate external assistance.",
+          "Psychological resilience and adaptability are equally critical, given the extreme isolation, confined living conditions, and the psychological stress of being hundreds of thousands of kilometres from Earth.",
+          "Strong collaborative and communication skills would be essential for managing interpersonal dynamics within a small, diverse team operating under conditions of constant pressure and limited personal space."
+        ]
+      },
+      {
+        "q": "Some people believe that humans will eventually need to colonise other planets or moons to survive as a species. To what extent do you agree with this view?",
+        "q_zh": "有些人認為，人類最終將需要殖民其他星球或衛星才能作為一個物種存活下去。你在多大程度上同意這個觀點？",
+        "key_points": [
+          "There is a compelling case for multi-planetary habitation as a form of existential insurance — a single catastrophic event, such as an asteroid impact or runaway climate change, could render Earth uninhabitable, making off-world colonies a form of civilisational backup.",
+          "However, critics argue that this perspective could inadvertently reduce the urgency of protecting Earth's ecosystems by providing a psychological 'escape hatch', potentially making societies less motivated to address environmental degradation.",
+          "A more balanced view suggests that developing the capability for space colonisation and prioritising Earth's sustainability are not mutually exclusive, and that the technologies developed for one endeavour often benefit the other."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that the vast sums of money spent on space exploration and the development of Moon or Mars bases could be better used to solve problems on Earth, such as hunger, disease, and poverty. Others argue that space exploration is essential for the long-term survival and progress of humanity. Discuss both views and give your own opinion.",
+    "task2_question_zh": "一些人認為，花費在太空探索和開發月球或火星基地上的鉅額資金，可以更好地用於解決地球上的問題，如飢餓、疾病和貧困。另一些人則認為，太空探索對人類的長期生存和進步至關重要。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "proponents of this view contend that",
+        "when_to_use": "Use when introducing and summarising the arguments of one side of a debate in a balanced, academic discussion essay",
+        "when_to_use_zh": "在討論型文章中，介紹和總結辯論一方論點時使用",
+        "example": "Proponents of this view contend that the technological spinoffs from space research have yielded enormous benefits for everyday life on Earth."
+      },
+      {
+        "phrase": "while this argument has considerable merit, it overlooks the fact that",
+        "when_to_use": "Use to concede a point before pivoting to a counter-argument, demonstrating sophisticated and nuanced reasoning",
+        "when_to_use_zh": "在承認一個觀點後轉向反駁論點時使用，展示複雜而細緻的推理能力",
+        "example": "While this argument has considerable merit, it overlooks the fact that space investment and humanitarian aid are not necessarily competing priorities."
+      },
+      {
+        "phrase": "the long-term implications of",
+        "when_to_use": "Use when shifting the discussion from immediate, short-term concerns to broader, future-oriented consequences, which is particularly effective in conclusion paragraphs",
+        "when_to_use_zh": "在將討論從即時的短期問題轉移到更廣泛的未來導向後果時使用，在結論段落中特別有效",
+        "example": "The long-term implications of abandoning space exploration could include humanity's inability to respond to existential threats such as asteroid impacts."
+      },
+      {
+        "phrase": "it would be overly simplistic to suggest that",
+        "when_to_use": "Use to challenge a reductive or binary argument, signalling critical thinking and analytical depth to the examiner",
+        "when_to_use_zh": "用於挑戰簡化或二元論點，向考官展示批判性思維和分析深度",
+        "example": "It would be overly simplistic to suggest that every dollar spent on space research is a dollar taken away from addressing global poverty."
+      },
+      {
+        "phrase": "on balance, I am inclined to argue that",
+        "when_to_use": "Use in the conclusion or when stating a personal opinion in a discussion essay, indicating a carefully weighed judgement rather than a dogmatic stance",
+        "when_to_use_zh": "在討論型文章的結論或陳述個人意見時使用，表示經過仔細權衡的判斷而非教條式立場",
+        "example": "On balance, I am inclined to argue that a measured investment in space exploration is both justifiable and strategically necessary for human civilisation."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a thought-provoking observation about humanity's dual challenge — surviving present crises while preparing for future ones. Paraphrase the question carefully, then present a clear thesis stating that while earthly problems demand urgent attention, strategic investment in space exploration is simultaneously justifiable and necessary.",
+      "body1": "Present the argument against prioritising space spending: the moral urgency of addressing hunger, disease, and inequality means that diverting hundreds of billions of dollars to Moon bases appears ethically questionable when millions lack basic healthcare and nutrition. Use concrete statistics where possible and acknowledge the emotional and political weight of this position.",
+      "body2": "Present the counter-argument in favour of space exploration: historically, space programmes have generated technologies — from GPS to water purification systems — that have directly improved life on Earth. Furthermore, establishing off-world presence serves as a long-term existential safeguard for humanity, and the two goals of Earth welfare and space development need not be mutually exclusive.",
+      "conclusion": "Restate your balanced opinion that both priorities can and should coexist through proportional investment and international cooperation. Avoid simply summarising — end with a forward-looking statement about humanity's responsibility to both its present citizens and future generations."
+    }
+  }
+}
