@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T05:48:49.460530Z",
+  "listening": {
+    "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+    "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A Russian attempt to repair an air leak in a tunnel section of the International Space Station triggered a safe-haven procedure for five astronauts onboard.",
+    "topic_zh": "俄羅斯嘗試修復國際太空站隧道區域的空氣洩漏，導致站上五名太空人啟動避難程序。",
+    "transcript_excerpt": "Living and working in space is never without risk, but for the crew of the International Space Station, a recent incident served as a stark reminder of just how fragile life can be hundreds of kilometres above Earth. A small but significant air leak was detected in the tunnel area connecting two modules of the station, prompting engineers on the ground and cosmonauts onboard to take immediate action. Russian specialists attempted to locate and seal the source of the leak, a procedure that required isolating the affected section of the station. As a precaution, five of the six crew members were instructed to shelter in a designated safe-haven module while the repair work was carried out. This is standard protocol when there is any uncertainty about the structural integrity of a pressurised compartment. The crew remained in the safe area for several hours before mission controllers confirmed it was safe to return to their normal workspaces. Thankfully, no injuries were reported, and the station's life-support systems remained stable throughout the incident. Experts noted that while air leaks on the ISS are not uncommon, each one demands swift and coordinated responses from both the crew and ground teams. The event has once again highlighted the extraordinary challenges faced by those who live and work in the hostile environment of outer space, where even a minor technical fault can rapidly escalate into a life-threatening emergency.",
+    "vocabulary": [
+      {
+        "word": "safe-haven procedure",
+        "type": "phrase",
+        "definition": "An emergency protocol in which crew members move to a designated secure area of a spacecraft to protect themselves from potential danger while a hazard is being addressed.",
+        "definition_zh": "緊急程序，指船員移動至太空船內指定安全區域，在危險排除前保護自身安全。",
+        "example": "The commander initiated the safe-haven procedure as soon as the pressure drop was detected in the forward module."
+      },
+      {
+        "word": "air leak",
+        "type": "noun",
+        "definition": "An unintended escape of pressurised air or atmosphere from a sealed environment such as a spacecraft, which can be hazardous if not promptly contained.",
+        "definition_zh": "加壓空氣從密封環境（如太空船）中意外洩漏，若未及時處理可能造成危險。",
+        "example": "Engineers worked through the night to pinpoint the source of the air leak before it worsened."
+      },
+      {
+        "word": "isolate",
+        "type": "verb",
+        "definition": "To separate or cut off a particular section or module from the rest of a system in order to contain a problem or prevent it from spreading.",
+        "definition_zh": "將某一特定區段或模組與系統其餘部分隔離，以控制問題或防止其擴散。",
+        "example": "The ground team instructed the crew to isolate the damaged compartment before attempting any repairs."
+      },
+      {
+        "word": "structural integrity",
+        "type": "phrase",
+        "definition": "The ability of a structure or component to withstand its intended load without breaking down, deforming, or failing, especially under pressure.",
+        "definition_zh": "結構或組件在壓力下承受預定負荷而不破裂、變形或失效的能力。",
+        "example": "Engineers routinely monitor the structural integrity of the ISS to ensure crew safety."
+      },
+      {
+        "word": "escalate",
+        "type": "verb",
+        "definition": "To increase rapidly in intensity, severity, or scope, often referring to a situation becoming more serious or dangerous than initially anticipated.",
+        "definition_zh": "情況迅速加劇、惡化，通常指問題變得比最初預期更嚴重或危險。",
+        "example": "What began as a minor fault quickly escalated into a full emergency requiring immediate evacuation of the module."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why were five crew members instructed to move to a safe-haven module?",
+        "options": [
+          "A: A fire broke out in the main living quarters of the station.",
+          "B: A Russian cosmonaut attempted repairs on a leaking tunnel section of the ISS.",
+          "C: The station's oxygen supply had completely run out.",
+          "D: A meteorite struck the outer hull of the station."
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that Russian specialists were attempting to repair an air leak in the tunnel area, and as a precautionary measure five crew members were moved to a safe-haven module during the procedure."
+      },
+      {
+        "q": "How long did the crew remain in the safe-haven area according to the passage?",
+        "options": [
+          "A: A few minutes until the leak was sealed.",
+          "B: Several days until a replacement part arrived.",
+          "C: Several hours until mission controllers confirmed it was safe.",
+          "D: Overnight until a full structural inspection was completed."
+        ],
+        "answer": "C",
+        "explanation": "The transcript explicitly states that the crew remained in the safe area for several hours before mission controllers confirmed it was safe to return to their normal workspaces."
+      },
+      {
+        "q": "What does the speaker suggest about air leaks on the ISS?",
+        "options": [
+          "A: They are extremely rare events that almost never occur.",
+          "B: They are always caused by human error during maintenance.",
+          "C: They are not uncommon but always require swift and coordinated responses.",
+          "D: They automatically seal themselves due to the station's advanced technology."
+        ],
+        "answer": "C",
+        "explanation": "The passage states that while air leaks on the ISS are not uncommon, each one demands swift and coordinated responses from both crew and ground teams, indicating they happen but always require careful management."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Emergency Protocols and the Challenges of Life Aboard the International Space Station",
+    "passage": "The International Space Station (ISS), orbiting approximately 400 kilometres above Earth, represents one of humanity's most ambitious collaborative engineering achievements. Jointly operated by space agencies including NASA, Roscosmos, ESA, JAXA, and CSA, the station serves as a permanent research laboratory where astronauts conduct experiments in microgravity conditions that are impossible to replicate on Earth. However, sustaining human life in such an extreme environment requires constant vigilance and robust emergency management systems.\n\nOne of the most serious hazards aboard the ISS is a breach in the station's pressurised hull, which can result in a progressive loss of breathable atmosphere. When an air leak is detected, crew members follow strict protocols developed over decades of spaceflight experience. Typically, the affected module or tunnel section is isolated to prevent pressure loss from spreading to other compartments, while both onboard crew and ground-based engineers work collaboratively to identify and seal the source. If there is any uncertainty about the severity of the situation, crew members may be required to shelter in a pre-designated safe-haven module until the risk has been assessed and mitigated.\n\nThe psychological demands placed on astronauts during such emergencies are considerable. Unlike terrestrial emergencies, where rescue services can arrive within minutes, astronauts must rely entirely on their training, their colleagues, and remote support from mission control. Communication delays, equipment limitations, and the physical constraints of operating in a pressurised suit all add layers of complexity to what might otherwise be a straightforward repair task.\n\nDespite these challenges, the ISS has maintained an impressive safety record over more than two decades of continuous human habitation. This record is attributable to meticulous pre-mission training, redundant life-support systems, and the extraordinary professionalism of the international crews who have lived and worked aboard the station. Nevertheless, each new incident serves as a valuable reminder that space exploration, however routine it may appear, remains an inherently dangerous endeavour.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The ISS is operated exclusively by NASA and Roscosmos without involvement from other space agencies.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that the ISS is jointly operated by multiple space agencies including NASA, Roscosmos, ESA, JAXA, and CSA, directly contradicting the claim that only NASA and Roscosmos are involved."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Astronauts on the ISS can be reached by terrestrial rescue services within a few hours in the event of a life-threatening emergency.",
+        "answer": "False",
+        "explanation": "The passage directly contradicts this by stating that unlike terrestrial emergencies where rescue services can arrive within minutes, astronauts must rely entirely on their own training and remote support, implying terrestrial rescue is not a viable option."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The ISS has been continuously inhabited by human crew members for more than twenty years.",
+        "answer": "True",
+        "explanation": "The passage refers to the station's more than two decades of continuous human habitation, confirming that the ISS has been occupied by astronauts for over twenty years."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the PRIMARY reason the ISS has maintained a strong safety record?",
+        "options": [
+          "A: The station is located close enough to Earth that evacuations are straightforward.",
+          "B: Thorough pre-mission training, redundant systems, and crew professionalism.",
+          "C: Air leaks and other hazards are automatically detected and sealed by onboard computers.",
+          "D: The station is rarely used for high-risk experiments that could cause emergencies."
+        ],
+        "answer": "B",
+        "explanation": "The passage attributes the ISS's impressive safety record to meticulous pre-mission training, redundant life-support systems, and the extraordinary professionalism of its international crews, making option B the most accurate and complete answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you or someone you know had to deal with an unexpected or dangerous situation.",
+    "topic_zh": "描述一次你或你認識的人必須應對意外或危險狀況的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you or someone you know had to deal with an unexpected or dangerous situation.\n\nYou should say:\n• What the situation was and where it took place\n• Who was involved and what actions were taken\n• What the outcome of the situation was\n\nAnd explain how this experience changed the way you or the person involved thinks about safety and preparation.",
+      "band_tips": [
+        "Use a wide range of past tenses naturally, including past perfect and past continuous, to describe the sequence of events with precision (e.g. 'By the time help arrived, we had already managed to...').",
+        "Incorporate sophisticated vocabulary related to risk, emergency response, and emotional states to demonstrate lexical range — words like 'apprehensive', 'coordinate a response', 'mitigate the risk', and 'composure' will impress the examiner.",
+        "To reach Band 8-9, reflect critically on the experience rather than simply narrating it — discuss what the situation revealed about human behaviour under pressure, the importance of preparation, or how it reshaped your perspective on risk management."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments invest enough money in training people to respond to emergencies?",
+        "q_zh": "你認為政府在培訓人們應對緊急情況方面投入了足夠的資金嗎？",
+        "key_points": [
+          "Argue that while some developed nations have robust emergency training programmes, many developing countries lack sufficient funding for adequate first-responder training and public safety education.",
+          "Highlight the long-term economic and social benefits of investing in emergency preparedness, such as reduced casualties, faster recovery times, and lower healthcare costs following disasters.",
+          "Consider the role of public awareness campaigns and compulsory safety training in schools and workplaces as cost-effective ways to build a more resilient society."
+        ]
+      },
+      {
+        "q": "How has technology changed the way people respond to dangerous situations compared to the past?",
+        "q_zh": "與過去相比，科技如何改變了人們應對危險情況的方式？",
+        "key_points": [
+          "Modern communication technologies such as smartphones, GPS, and satellite systems allow for near-instantaneous alerts and enable emergency services to locate and reach victims far more quickly than in previous decades.",
+          "Advanced monitoring systems, including sensors on infrastructure like bridges and buildings, can detect structural weaknesses or hazardous conditions before they become life-threatening emergencies.",
+          "However, over-reliance on technology can create vulnerabilities — if systems fail during a crisis, people who lack traditional survival skills may be at greater risk than those in earlier eras."
+        ]
+      },
+      {
+        "q": "To what extent should individuals be responsible for their own safety when participating in high-risk activities such as space travel or extreme sports?",
+        "q_zh": "在從事太空旅行或極限運動等高風險活動時，個人應在多大程度上為自身安全負責？",
+        "key_points": [
+          "Individuals voluntarily choosing high-risk activities should bear significant personal responsibility, including undergoing rigorous training, purchasing appropriate insurance, and thoroughly understanding the risks involved before participation.",
+          "Nevertheless, regulatory authorities and organisations offering such activities have a duty of care to establish and enforce minimum safety standards, conduct regular equipment inspections, and ensure all participants are adequately briefed on emergency procedures.",
+          "The debate ultimately centres on balancing personal freedom with collective responsibility — while autonomy should be respected, society also bears indirect costs when individuals are injured, suggesting a shared responsibility model is most appropriate."
+        ]
+      },
+      {
+        "q": "Do you think space exploration is worth the enormous financial cost and risk to human life?",
+        "q_zh": "你認為太空探索值得付出巨大的財務成本和生命風險嗎？",
+        "key_points": [
+          "Proponents argue that space exploration has generated transformative technologies with everyday applications — from GPS and satellite communications to advances in materials science and medical imaging — making it a worthwhile long-term investment for humanity.",
+          "Critics contend that the vast sums allocated to space programmes could more effectively address urgent terrestrial challenges such as poverty, climate change, and public health, where the benefits to human welfare are more immediate and measurable.",
+          "A balanced perspective might suggest that unmanned missions and robotic exploration offer many of the scientific benefits of space research at a fraction of the cost and without endangering human lives, representing a pragmatic middle ground."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Space exploration is an extremely costly endeavour that puts human lives at risk, yet governments around the world continue to invest billions in it. Some people believe that the money spent on space programmes would be better used to solve problems on Earth, such as poverty and climate change. To what extent do you agree or disagree with this view? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "task2_question_zh": "太空探索是一項極為昂貴且危及人命的事業，然而世界各國政府持續投入數十億資金於此。部分人士認為，用於太空計畫的資金若改用於解決地球上的問題（如貧困與氣候變遷）將更為妥善。你在多大程度上同意或不同意這一觀點？請提供理由並引用相關例子。",
+    "essay_type": "opinion",
+    "useful_phrases": [
+      {
+        "phrase": "While it is tempting to argue that..., a more nuanced position would suggest that...",
+        "when_to_use": "Use in the introduction or when transitioning between opposing viewpoints to demonstrate critical thinking and avoid oversimplification.",
+        "when_to_use_zh": "用於引言或在對立觀點之間過渡時，展現批判性思維並避免過於簡化。",
+        "example": "While it is tempting to argue that space funding should be redirected entirely to earthly concerns, a more nuanced position would suggest that both priorities can be pursued simultaneously."
+      },
+      {
+        "phrase": "The evidence overwhelmingly suggests that...",
+        "when_to_use": "Use when presenting a well-supported argument backed by examples or logical reasoning, particularly in body paragraphs where you are making your strongest point.",
+        "when_to_use_zh": "在呈現有充分例證或邏輯支持的論點時使用，尤其適合在主體段落中提出最有力的論點。",
+        "example": "The evidence overwhelmingly suggests that investment in space technology has yielded significant practical benefits for society through spin-off technologies."
+      },
+      {
+        "phrase": "It would be shortsighted to overlook the fact that...",
+        "when_to_use": "Use to introduce an important counterargument or a dimension of the issue that critics often ignore, demonstrating awareness of multiple perspectives.",
+        "when_to_use_zh": "用於引入重要的反駁論點或批評者常忽視的面向，展現對多元觀點的認識。",
+        "example": "It would be shortsighted to overlook the fact that many of the technologies developed for space missions have directly improved life on Earth."
+      },
+      {
+        "phrase": "One could make a compelling case for... on the grounds that...",
+        "when_to_use": "Use when acknowledging the merits of the opposing view in a balanced essay, or when introducing your own main argument with authority and academic confidence.",
+        "when_to_use_zh": "在平衡論述中承認對立觀點的優點，或以學術自信引入自身主要論點時使用。",
+        "example": "One could make a compelling case for redirecting space budgets to humanitarian aid on the grounds that the benefits would be more immediate and equitably distributed."
+      },
+      {
+        "phrase": "Ultimately, the crux of the matter lies in...",
+        "when_to_use": "Use in the conclusion paragraph to synthesise the essay's key arguments and bring the discussion to a focused and intellectually satisfying close.",
+        "when_to_use_zh": "用於結論段落，統整文章核心論點，使討論達到聚焦且令人信服的結尾。",
+        "example": "Ultimately, the crux of the matter lies in whether society views space exploration as a luxury or as a long-term investment in human survival and scientific progress."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by acknowledging the tension between the high cost of space exploration and pressing global challenges. Paraphrase the question accurately, then state a clear, qualified position — for example, that while the concerns about resource allocation are valid, completely abandoning space investment would be counterproductive, as the two priorities are not mutually exclusive.",
+      "body1": "Argue in favour of continued space investment by highlighting the indirect but tangible benefits it generates on Earth. Use specific examples such as satellite technology enabling weather forecasting and disaster response, GPS systems underpinning global logistics and emergency services, and medical technologies derived from space research. Emphasise that these innovations ultimately benefit the very communities that critics claim are being neglected.",
+      "body2": "Concede the opposing view by acknowledging that funding priorities must be carefully balanced and that space budgets should not come at the direct expense of urgent humanitarian needs. Suggest that the solution lies not in choosing between space and Earth, but in governments committing proportionally greater resources to both domains — and in ensuring that private sector investment in commercial spaceflight reduces the public financial burden.",
+      "conclusion": "Restate your position that space exploration and earthly problem-solving are complementary rather than competing priorities. Conclude by emphasising that the long-term survival of humanity may ultimately depend on both — managing our planet responsibly while simultaneously developing the capability to extend human civilisation beyond it."
+    }
+  }
+}
