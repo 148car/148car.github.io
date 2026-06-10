@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T06:16:23.825186Z",
+  "listening": {
+    "title": "Nasa names next astronauts for Artemis Moon programme",
+    "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "NASA has announced the crew for its next Artemis mission, although they will not be landing on or even approaching the Moon.",
+    "topic_zh": "NASA宣布了下一次阿提米斯任務的太空人名單，但他們不會登陸月球，甚至不會接近月球。",
+    "transcript_excerpt": "Welcome to 6 Minute English. Today we're talking about space exploration and NASA's ambitious Artemis programme. Now, you might have heard that NASA recently announced the names of the astronauts who will crew the next Artemis mission. Sounds exciting, right? But here's the surprising part — these astronauts won't actually be setting foot on the Moon, and they won't even be getting particularly close to it. So what exactly will they be doing? Well, the Artemis programme is NASA's long-term effort to return humans to the lunar surface for the first time since the Apollo missions of the 1970s. The programme involves a series of increasingly complex missions, each one building on the last. The upcoming crewed mission is essentially a test flight — designed to check that the Orion spacecraft and the Space Launch System rocket can safely carry people beyond low Earth orbit and back again. Think of it a bit like a dress rehearsal before the main performance. The astronauts will travel further from Earth than any human has gone since Apollo 17 in 1972, looping around the Moon without landing. It's a critical step in proving the technology works before NASA commits to actually putting boots on the lunar surface.",
+    "vocabulary": [
+      {
+        "word": "lunar surface",
+        "type": "noun",
+        "definition": "the outer layer or ground of the Moon, referring to the physical terrain on which one could land or walk",
+        "definition_zh": "月球表面，指月球的外層地形，是可以降落或行走的區域",
+        "example": "Scientists hope that future missions will allow astronauts to collect rock samples directly from the lunar surface."
+      },
+      {
+        "word": "crewed mission",
+        "type": "noun",
+        "definition": "a space flight or expedition that carries human astronauts on board, as opposed to an unmanned or robotic mission",
+        "definition_zh": "載人任務，指搭載人類太空人的太空飛行，相對於無人或機器人任務",
+        "example": "The agency confirmed that the crewed mission would launch no earlier than next spring, pending final safety checks."
+      },
+      {
+        "word": "dress rehearsal",
+        "type": "phrase",
+        "definition": "a full practice run of something important, conducted under realistic conditions before the actual event takes place",
+        "definition_zh": "彩排，指在正式活動前在接近真實條件下進行的完整預演",
+        "example": "Engineers described the uncrewed test flight as a dress rehearsal to identify any potential problems before humans were on board."
+      },
+      {
+        "word": "low Earth orbit",
+        "type": "noun",
+        "definition": "a region of space relatively close to Earth, typically between 160 and 2,000 kilometres above the surface, where most satellites and space stations operate",
+        "definition_zh": "低地球軌道，指地球表面上方約160至2000公里之間的太空區域，大多數衛星和太空站在此運行",
+        "example": "The International Space Station operates within low Earth orbit, making it far less distant than a lunar mission."
+      },
+      {
+        "word": "commit to",
+        "type": "phrase",
+        "definition": "to firmly decide or pledge to do something, especially after careful consideration, with the intention of following through",
+        "definition_zh": "承諾、決心去做某事，特別是在仔細考慮後，並有貫徹到底的意圖",
+        "example": "The government has committed to investing several billion dollars in domestic space exploration over the next decade."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, what is the primary purpose of the upcoming Artemis crewed mission?",
+        "options": [
+          "A: To land astronauts on the Moon for the first time since the 1970s",
+          "B: To test whether the spacecraft and rocket can safely carry people beyond low Earth orbit",
+          "C: To establish a permanent lunar base for future research",
+          "D: To collect rock samples from the surface of the Moon"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states the mission is 'essentially a test flight — designed to check that the Orion spacecraft and the Space Launch System rocket can safely carry people beyond low Earth orbit and back again.'"
+      },
+      {
+        "q": "How does the speaker describe the upcoming crewed Artemis mission in terms of its place in the programme?",
+        "options": [
+          "A: The final and most challenging mission in the entire programme",
+          "B: A standalone mission with no connection to future lunar landings",
+          "C: A preparatory step, likened to a dress rehearsal before the main performance",
+          "D: The first mission to carry astronauts into low Earth orbit"
+        ],
+        "answer": "C",
+        "explanation": "The speaker uses the metaphor 'a bit like a dress rehearsal before the main performance' to describe the mission's role as preparation for later, more complex missions involving an actual lunar landing."
+      },
+      {
+        "q": "According to the passage, how will the distance travelled by the Artemis crew compare to previous human spaceflight?",
+        "options": [
+          "A: They will travel further from Earth than any human has since the Apollo 17 mission in 1972",
+          "B: They will break the record set by the International Space Station crew",
+          "C: They will travel the same distance as the crew of the first Apollo Moon landing",
+          "D: They will remain within low Earth orbit throughout the entire mission"
+        ],
+        "answer": "A",
+        "explanation": "The passage states clearly: 'The astronauts will travel further from Earth than any human has gone since Apollo 17 in 1972, looping around the Moon without landing.'"
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Artemis Programme: Humanity's Return to the Moon",
+    "passage": "NASA's Artemis programme represents one of the most ambitious undertakings in the history of human spaceflight, with the ultimate goal of returning astronauts to the lunar surface for the first time in over five decades. Named after the twin sister of Apollo in Greek mythology, the programme signals a new era of lunar exploration that differs significantly from its predecessor in both scope and intention. Whereas the Apollo missions of the 1960s and 1970s were largely driven by Cold War geopolitics and the desire to demonstrate technological supremacy, Artemis is framed around scientific discovery, long-term sustainability, and international collaboration.\n\nA central element of the programme is the development of the Gateway, a small space station intended to orbit the Moon and serve as a staging point for missions to the lunar surface. Unlike the International Space Station, which maintains a continuous human presence in low Earth orbit, the Gateway will be occupied only intermittently, functioning as a hub for both crewed and robotic activities. Several international partners, including the European Space Agency, the Japan Aerospace Exploration Agency, and the Canadian Space Agency, have committed resources and expertise to its construction.\n\nThe programme also explicitly prioritises diversity in its crew selection. NASA has stated its intention to land the first woman and the first person of colour on the Moon, a commitment that reflects broader societal changes since the exclusively white, male crews of the Apollo era. Critics, however, have questioned whether these symbolic objectives are adequately supported by structural reforms within the agency and among its commercial contractors.\n\nDelays and budgetary pressures have repeatedly pushed back the timeline for an actual lunar landing, originally targeted for 2024 and subsequently revised to no earlier than 2026. Nevertheless, NASA officials maintain that the programme remains on a viable trajectory, with each successive mission building the technical and operational foundation necessary for sustained human presence beyond Earth orbit.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Artemis programme is primarily motivated by competition between nations, just as the Apollo programme was.",
+        "answer": "False",
+        "explanation": "The passage explicitly contrasts the two programmes, stating Apollo was 'largely driven by Cold War geopolitics,' whereas Artemis 'is framed around scientific discovery, long-term sustainability, and international collaboration.' The motivations are presented as distinctly different."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Gateway space station will maintain a permanent human crew at all times, similar to the International Space Station.",
+        "answer": "False",
+        "explanation": "The passage directly states the Gateway 'will be occupied only intermittently,' which contradicts the idea of a permanent presence. This is explicitly contrasted with the ISS, which 'maintains a continuous human presence.'"
+      },
+      {
+        "type": "TFNG",
+        "statement": "Some observers have raised concerns about whether NASA's stated diversity goals are backed by sufficient institutional change.",
+        "answer": "True",
+        "explanation": "The passage states that 'critics have questioned whether these symbolic objectives are adequately supported by structural reforms within the agency and among its commercial contractors,' which confirms that such concerns have been raised."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best describes the current status of the Artemis programme's timeline?",
+        "options": [
+          "A: The programme was cancelled due to excessive budgetary pressures and persistent delays",
+          "B: The original 2024 lunar landing target has been revised, but officials say the programme remains on track",
+          "C: The lunar landing was successfully completed ahead of schedule in 2024",
+          "D: The programme is running exactly on schedule with no changes to the original timeline"
+        ],
+        "answer": "B",
+        "explanation": "The passage states the landing was 'originally targeted for 2024 and subsequently revised to no earlier than 2026,' while NASA officials 'maintain that the programme remains on a viable trajectory.' Option B accurately reflects both the delay and the continued confidence of officials."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a scientific achievement or technological development that you find impressive",
+    "topic_zh": "描述一項你覺得令人印象深刻的科學成就或科技發展",
+    "part2": {
+      "cue_card": "Describe a scientific achievement or technological development that you find impressive.\n\nYou should say:\n- What the achievement or development is\n- When and how you first learned about it\n- Why you consider it to be significant or impressive\n\nAnd explain what impact you think it has had or will have on society.",
+      "band_tips": [
+        "Aim for a cohesive narrative rather than a list of facts — use signposting language like 'What strikes me most is...' or 'Perhaps the most remarkable aspect is...' to guide the examiner through your response and demonstrate discourse management.",
+        "Incorporate sophisticated vocabulary naturally, such as 'unprecedented,' 'paradigm shift,' 'cutting-edge,' or 'monumental undertaking,' but always ensure the word fits the context — examiners penalise forced or inaccurate use of advanced vocabulary.",
+        "Extend your answer by speculating about future implications using a range of grammatical structures, for example: 'Should this technology continue to advance, it could feasibly...' or 'Were governments to invest more heavily in this field, we might see...' — this demonstrates both grammatical range and the ability to think critically."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should prioritise funding space exploration over addressing problems on Earth, such as poverty or climate change?",
+        "q_zh": "你認為政府應該優先資助太空探索，還是應優先解決地球上的問題，例如貧困或氣候變遷？",
+        "key_points": [
+          "Acknowledge the false dichotomy — space research often yields technologies with direct Earth benefits, such as satellite weather monitoring used in climate science and GPS navigation used globally.",
+          "Argue that governments can pursue multiple priorities simultaneously if funding is allocated strategically, and that space investment represents a relatively small percentage of national budgets.",
+          "Concede that in nations with severe social inequalities or immediate environmental crises, the ethical case for redirecting resources toward pressing human needs is compelling and should not be dismissed."
+        ]
+      },
+      {
+        "q": "How important is international cooperation in large-scale scientific projects, and what challenges can it create?",
+        "q_zh": "國際合作在大型科學計畫中有多重要？它又可能帶來哪些挑戰？",
+        "key_points": [
+          "International collaboration pools financial resources, expertise, and infrastructure that no single nation could sustain alone, as demonstrated by the International Space Station involving 15 countries.",
+          "Shared scientific endeavours can foster diplomatic goodwill and reduce geopolitical tensions by creating mutual dependencies and shared objectives among potentially rival nations.",
+          "Challenges include misaligned national priorities, disputes over intellectual property and data sharing, security concerns around sensitive technologies, and the logistical complexity of coordinating across different regulatory and bureaucratic systems."
+        ]
+      },
+      {
+        "q": "In what ways has space exploration contributed to technological advancements used in everyday life?",
+        "q_zh": "太空探索在哪些方面促進了日常生活中使用的科技進步？",
+        "key_points": [
+          "Numerous technologies originally developed for space missions have been commercialised and integrated into daily life, including memory foam, water filtration systems, scratch-resistant lenses, and the miniaturised electronics found in modern smartphones.",
+          "Satellite technology underpins a vast range of critical services including GPS navigation, global telecommunications, weather forecasting, and disaster monitoring, all of which have transformative effects on both individual lives and national infrastructure.",
+          "The engineering challenges of space exploration drive innovation in materials science, robotics, artificial intelligence, and medical diagnostics, creating spillover benefits for multiple industries far removed from the aerospace sector."
+        ]
+      },
+      {
+        "q": "Some people believe that space tourism will become common in the future. Do you agree, and what are the potential social consequences?",
+        "q_zh": "有些人認為太空旅遊在未來將會普及。你是否同意？這可能帶來哪些社會影響？",
+        "key_points": [
+          "Technological trends and the involvement of commercial companies such as SpaceX, Blue Origin, and Virgin Galactic suggest space tourism will become increasingly viable, though the timeline for widespread accessibility remains deeply uncertain.",
+          "A significant concern is that space tourism could exacerbate social inequality, becoming an exclusive luxury available only to the ultra-wealthy while consuming substantial resources and generating carbon emissions that disproportionately affect vulnerable communities.",
+          "Proponents argue that early commercial customers subsidise the development of technologies that will eventually reduce costs, democratise access, and enable broader human presence in space — a pattern seen historically with air travel, which began as an elite activity before becoming a mass-market industry."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people argue that the billions of dollars spent on space exploration programmes such as NASA's Artemis mission could be better used to solve urgent problems facing humanity, such as climate change, disease, and global poverty. Others, however, believe that investment in space exploration is essential for the long-term future of humanity. Discuss both views and give your own opinion.",
+    "task2_question_zh": "有些人認為，花在太空探索計畫（如NASA阿提米斯任務）上的數十億美元，應該更好地用於解決人類面臨的緊迫問題，例如氣候變遷、疾病和全球貧困。然而，另一些人認為，對太空探索的投資對人類的長遠未來至關重要。討論這兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "proponents of this view contend that",
+        "when_to_use": "Use when introducing and fairly representing the arguments of one side in a discussion essay before going on to challenge or qualify them",
+        "when_to_use_zh": "用於在討論型文章中引介並公平呈現一方論點，然後再進行質疑或補充說明",
+        "example": "Proponents of this view contend that redirecting space funding toward renewable energy research would yield far more immediate benefits for global populations."
+      },
+      {
+        "phrase": "it would be overly simplistic to suggest that",
+        "when_to_use": "Use to challenge a binary or reductive argument, showing the examiner that you can think critically and recognise nuance in complex issues",
+        "when_to_use_zh": "用於挑戰二元或過於簡化的論點，向考官展示你能批判性思考並識別複雜議題中的細微之處",
+        "example": "It would be overly simplistic to suggest that nations must choose between investing in space and addressing poverty, as these are not mutually exclusive endeavours."
+      },
+      {
+        "phrase": "the long-term implications of",
+        "when_to_use": "Use when shifting the discussion from immediate concerns to future consequences, particularly when arguing for a position that requires a broader temporal perspective",
+        "when_to_use_zh": "用於將討論從即時關切轉向未來影響，特別是在論述需要更廣泛時間視角的立場時",
+        "example": "The long-term implications of abandoning space research could be severe, leaving humanity without the knowledge needed to address future existential threats."
+      },
+      {
+        "phrase": "a compelling counterargument is that",
+        "when_to_use": "Use to introduce the opposing side's strongest point in a balanced discussion, demonstrating intellectual fairness and the ability to engage with challenging ideas",
+        "when_to_use_zh": "用於在均衡討論中引入對立方的最有力論點，展示知識上的公正性以及與挑戰性觀點互動的能力",
+        "example": "A compelling counterargument is that the technological spin-offs from space programmes, such as satellite-based climate monitoring, directly contribute to solving Earth's most pressing environmental challenges."
+      },
+      {
+        "phrase": "on balance, the weight of evidence suggests that",
+        "when_to_use": "Use in the conclusion or when stating your final opinion, signalling that you have considered multiple perspectives before arriving at a reasoned, evidence-based judgement",
+        "when_to_use_zh": "用於結論段或陳述最終意見時，表明你已考慮多種觀點後才得出有理據的判斷",
+        "example": "On balance, the weight of evidence suggests that modest, strategically targeted investment in space exploration is justifiable, provided it does not come at the direct expense of critical social welfare programmes."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a thought-provoking observation about the scale of both global challenges and space ambitions to contextualise the debate. Paraphrase the question without copying it verbatim, then present a clear thesis statement that acknowledges the validity of both perspectives while signposting your own nuanced opinion.",
+      "body1": "Present the case against prioritising space exploration: argue that climate change, pandemic preparedness, and systemic poverty are existential threats requiring immediate, large-scale financial responses; note the moral dimensions of spending on prestige projects while billions lack access to clean water, education, and healthcare; acknowledge statistics on space programme costs to give the argument empirical grounding.",
+      "body2": "Present the case for sustained space investment and develop your own position: argue that space research generates technological innovations with broad terrestrial applications; contend that the exploration of space is a long-term survival strategy for the human species given finite Earth resources; highlight that space and social spending are not zero-sum choices and that well-designed public investment can serve multiple goals simultaneously.",
+      "conclusion": "Synthesise the two perspectives rather than simply repeating them. Offer a qualified, nuanced personal opinion — for example, that space exploration is justified when conducted responsibly and in proportion to a government's ability to meet its citizens' basic needs. Avoid introducing new arguments; instead, leave the reader with a forward-looking thought about the relationship between scientific ambition and human responsibility."
+    }
+  }
+}
