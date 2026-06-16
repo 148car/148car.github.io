@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T07:16:28.973001Z",
+  "listening": {
+    "title": "What is El Niño and why could it mean record temperatures?",
+    "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "El Niño is a climate pattern that warms Pacific Ocean surface temperatures and is expected to drive global temperatures to record highs in coming months.",
+    "topic_zh": "聖嬰現象是一種使太平洋表面溫度升高的氣候模式，預計將在未來幾個月推動全球氣溫創下歷史新高。",
+    "transcript_excerpt": "Scientists around the world are sounding the alarm about a powerful weather phenomenon known as El Niño, and for good reason. Every few years, unusually warm water spreads across the central and eastern tropical Pacific Ocean, disrupting weather patterns on a truly global scale. This warming effect, combined with the long-term trend of climate change driven by greenhouse gas emissions, has led meteorologists to predict that the coming months could see some of the hottest temperatures ever recorded in human history.\n\nEl Niño, which is Spanish for 'the boy' or 'the Christ child', was originally named by South American fishermen who noticed that warm currents would sometimes arrive around Christmas time, reducing their fish catches dramatically. Today, climate scientists use sophisticated satellite technology and ocean buoys to monitor sea surface temperatures and predict when El Niño events will occur.\n\nThe consequences of El Niño extend far beyond warmer weather. It can trigger devastating droughts in some regions while causing catastrophic flooding in others. Australia and parts of Southeast Asia tend to experience drier conditions, while South America sees significantly heavier rainfall. For the Arctic, El Niño contributes to accelerated ice melt, which in turn raises sea levels worldwide. Understanding this phenomenon has therefore become absolutely critical for governments planning climate adaptation strategies.",
+    "vocabulary": [
+      {
+        "word": "phenomenon",
+        "type": "noun",
+        "definition": "a fact, event, or situation that is observed to exist or happen, especially one whose cause or explanation is in question",
+        "definition_zh": "現象；指一個可被觀察到存在或發生的事實、事件或情況，尤其是其原因或解釋尚不明確的",
+        "example": "El Niño is a recurring climate phenomenon that affects weather patterns across the entire planet."
+      },
+      {
+        "word": "disrupt",
+        "type": "verb",
+        "definition": "to interrupt or cause problems for the normal continuation of a process, activity, or system",
+        "definition_zh": "擾亂；中斷或對某一過程、活動或系統的正常運作造成問題",
+        "example": "Extreme weather events can disrupt agricultural production and threaten food security in vulnerable regions."
+      },
+      {
+        "word": "meteorologist",
+        "type": "noun",
+        "definition": "a scientist who studies the atmosphere and weather patterns in order to make forecasts and understand climate behaviour",
+        "definition_zh": "氣象學家；研究大氣和天氣模式以進行預報並了解氣候行為的科學家",
+        "example": "Meteorologists have warned that El Niño, combined with climate change, could push global temperatures to unprecedented levels."
+      },
+      {
+        "word": "catastrophic",
+        "type": "adjective",
+        "definition": "involving or causing sudden great damage, suffering, or disaster on a large scale",
+        "definition_zh": "災難性的；涉及或造成大規模突發性巨大損害、苦難或災難的",
+        "example": "The catastrophic flooding caused by El Niño displaced millions of people in low-lying coastal areas."
+      },
+      {
+        "word": "adaptation",
+        "type": "noun",
+        "definition": "the process of changing behaviour, strategies, or structures to deal effectively with new or changing conditions, especially in response to environmental changes",
+        "definition_zh": "適應；改變行為、策略或結構以有效應對新的或不斷變化的條件的過程，尤其是對環境變化的回應",
+        "example": "Climate adaptation strategies must account for the intensified rainfall and drought cycles that El Niño brings."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, why did South American fishermen originally name the El Niño phenomenon?",
+        "options": [
+          "A: Because warm ocean currents arrived near Christmas, reducing their fish catches",
+          "B: Because the phenomenon caused unusually cold temperatures during winter",
+          "C: Because scientists discovered it on Christmas Day using satellite technology",
+          "D: Because it was first recorded by a Spanish explorer named El Niño"
+        ],
+        "answer": "A",
+        "explanation": "The passage states that South American fishermen named El Niño because warm currents sometimes arrived around Christmas time, dramatically reducing their fish catches. The name 'the Christ child' reflects this Christmas-time association."
+      },
+      {
+        "q": "Which of the following best describes the regional impact of El Niño mentioned in the passage?",
+        "options": [
+          "A: It causes flooding globally and droughts only in South America",
+          "B: It leads to drier conditions in South America and heavier rainfall in Southeast Asia",
+          "C: It produces drier conditions in Australia while bringing heavier rainfall to South America",
+          "D: It affects only tropical regions and has no impact on Arctic ice levels"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly states that 'Australia and parts of Southeast Asia tend to experience drier conditions, while South America sees significantly heavier rainfall.' It also mentions El Niño contributes to Arctic ice melt, ruling out option D."
+      },
+      {
+        "q": "What tools do modern climate scientists use to monitor El Niño, according to the passage?",
+        "options": [
+          "A: Weather stations on land and traditional fishing records",
+          "B: Satellite technology and ocean buoys",
+          "C: Underwater submarines and aerial drones",
+          "D: Computer models based solely on historical temperature data"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that 'climate scientists use sophisticated satellite technology and ocean buoys to monitor sea surface temperatures and predict when El Niño events will occur.' The other options are not mentioned."
+      }
+    ]
+  },
+  "reading": {
+    "title": "El Niño: Understanding a Powerful Climate Driver and Its Global Consequences",
+    "passage": "El Niño is one of the most significant and well-documented climate phenomena on Earth. It refers to the periodic warming of sea surface temperatures in the central and eastern tropical Pacific Ocean, typically occurring every two to seven years and lasting between nine and twelve months. During an El Niño event, the trade winds that normally push warm surface water westward weaken or even reverse, allowing vast quantities of warm water to accumulate in the eastern Pacific. This fundamental shift in ocean temperature redistributes heat across the atmosphere, triggering a cascade of weather anomalies across multiple continents.\n\nThe interaction between El Niño and human-induced climate change has become a primary concern for the global scientific community. Researchers at the World Meteorological Organization have concluded that rising baseline temperatures caused by greenhouse gas emissions amplify the intensity of El Niño events, making associated heatwaves, droughts, and floods more severe than in previous decades. A landmark study published in the journal Nature Climate Change projected that the frequency of extreme El Niño events could double by the end of the twenty-first century if current emission trajectories continue unchecked.\n\nThe socioeconomic consequences of El Niño are equally profound. Agricultural systems in affected regions face severe disruption, as altered precipitation patterns damage crop yields and threaten food security for millions of people. The 1997–1998 El Niño event, widely regarded as one of the strongest on record, was associated with economic losses estimated at approximately ninety-six billion US dollars globally and contributed to the deaths of over twenty thousand people. Insurance companies, governments, and international aid organisations have all had to develop more sophisticated forecasting and response frameworks to mitigate the devastating impacts that future events are projected to bring.\n\nScientific consensus increasingly supports the view that proactive investment in climate resilience infrastructure, early warning systems, and international cooperation represents the most effective strategy for managing the escalating risks posed by El Niño in a warming world.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "El Niño events typically occur every one to three years and last for more than two years.",
+        "answer": "False",
+        "explanation": "The passage states El Niño occurs 'every two to seven years' and lasts 'between nine and twelve months,' directly contradicting the statement's claims about frequency and duration."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The World Meteorological Organization has concluded that climate change can intensify the severity of El Niño-related weather events.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that 'Researchers at the World Meteorological Organization have concluded that rising baseline temperatures caused by greenhouse gas emissions amplify the intensity of El Niño events, making associated heatwaves, droughts, and floods more severe.'"
+      },
+      {
+        "type": "TFNG",
+        "statement": "The governments of Australia and South America jointly funded the landmark study published in Nature Climate Change.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions the Nature Climate Change study but provides no information about who funded it. The passage only references the World Meteorological Organization as a research body, and no funding sources are discussed."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the primary mechanism by which El Niño begins?",
+        "options": [
+          "A: An increase in greenhouse gas emissions heats the Pacific Ocean surface directly",
+          "B: Trade winds weaken or reverse, allowing warm water to accumulate in the eastern Pacific",
+          "C: Ocean currents from the Arctic bring cold water southward, displacing warm tropical water",
+          "D: Volcanic activity on the Pacific seafloor releases heat into surrounding ocean waters"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'the trade winds that normally push warm surface water westward weaken or even reverse, allowing vast quantities of warm water to accumulate in the eastern Pacific.' This is explicitly described as the fundamental mechanism of El Niño. The other options are not mentioned in the passage."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a news story about a natural or environmental event that had a significant impact on you.",
+    "topic_zh": "描述一則關於對你產生重大影響的自然或環境事件的新聞報導。",
+    "part2": {
+      "cue_card": "Describe a news story about a natural or environmental event that had a significant impact on you.\n\nYou should say:\n• What the event was and when you heard about it\n• Where you first encountered this news story\n• What the main details or facts of the story were\n• And explain why this story had such a significant impact on you and what you learned from it.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use precise environmental vocabulary such as 'climate phenomenon,' 'unprecedented heatwave,' or 'cascading consequences' to demonstrate lexical range and push toward Band 8-9 scoring on Lexical Resource.",
+        "Organise your response with a clear narrative arc: introduce the event, describe the details vividly, then reflect on its personal and global significance — this shows coherence and demonstrates Band 7+ Coherence and Cohesion skills.",
+        "Incorporate complex grammatical structures such as conditionals ('Had governments acted sooner, the damage might have been reduced') and passive voice ('Millions were displaced by the flooding') to target a Band 8 score on Grammatical Range and Accuracy."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments around the world are doing enough to address the causes of climate change and extreme weather events like El Niño?",
+        "q_zh": "你認為世界各國政府是否採取了足夠的措施來應對氣候變化和聖嬰現象等極端天氣事件的成因？",
+        "key_points": [
+          "Acknowledge partial progress through international agreements such as the Paris Agreement, but argue that implementation lags far behind stated commitments.",
+          "Discuss the tension between short-term economic interests and long-term climate investment, particularly in fossil-fuel-dependent economies.",
+          "Suggest that stronger accountability mechanisms, carbon pricing, and technology transfer to developing nations are critical missing components of current policy frameworks."
+        ]
+      },
+      {
+        "q": "How do you think extreme weather events like El Niño affect people in developing countries differently from those in wealthier nations?",
+        "q_zh": "你認為像聖嬰現象這樣的極端天氣事件對發展中國家的人民與富裕國家的人民有何不同影響？",
+        "key_points": [
+          "Developing countries typically lack the infrastructure, early warning systems, and financial reserves to respond effectively to climate shocks, magnifying human casualties and economic losses.",
+          "Agricultural communities in low-income countries are disproportionately vulnerable because their livelihoods depend directly on predictable rainfall and stable growing conditions.",
+          "Wealthier nations have greater capacity to invest in climate adaptation, flood defences, and disaster relief, creating a deepening climate justice gap between the Global North and South."
+        ]
+      },
+      {
+        "q": "To what extent do you believe individuals have a responsibility to change their personal behaviour to help reduce the effects of climate change?",
+        "q_zh": "你在多大程度上認為個人有責任改變自己的行為以幫助減輕氣候變化的影響？",
+        "key_points": [
+          "Individual actions such as reducing meat consumption, using public transport, and lowering energy use do contribute cumulatively, but their impact is marginal compared to systemic industrial and governmental change.",
+          "There is a risk that placing excessive responsibility on individuals deflects attention from corporations and policymakers who control the largest sources of greenhouse gas emissions.",
+          "However, consumer choices collectively shape market demand and can accelerate the transition to sustainable industries, suggesting individual and systemic action must work in parallel."
+        ]
+      },
+      {
+        "q": "How important is international scientific cooperation in understanding and responding to global climate phenomena such as El Niño?",
+        "q_zh": "國際科學合作在理解和應對聖嬰現象等全球氣候現象方面有多重要？",
+        "key_points": [
+          "Climate phenomena transcend national borders, making shared data, coordinated monitoring networks like ocean buoys and satellite systems, and joint research essential for accurate forecasting.",
+          "International bodies such as the Intergovernmental Panel on Climate Change (IPCC) and the World Meteorological Organization demonstrate how pooling scientific expertise leads to more reliable and actionable climate predictions.",
+          "Geopolitical tensions can hinder scientific collaboration, underscoring the need to protect scientific exchange as a global public good even when diplomatic relations are strained."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Climate change is increasing the frequency and intensity of extreme weather events such as El Niño. Some people argue that individuals are primarily responsible for addressing this crisis through changes in their lifestyle and consumption habits. Others believe that only large-scale government and corporate action can make a meaningful difference. Discuss both views and give your own opinion.",
+    "task2_question_zh": "氣候變化正在增加聖嬰現象等極端天氣事件的頻率和強度。一些人認為，個人應通過改變生活方式和消費習慣來主要承擔應對這一危機的責任。另一些人則認為，只有大規模的政府和企業行動才能產生有意義的改變。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "It is widely acknowledged that",
+        "when_to_use": "Use at the start of a sentence to introduce a broadly accepted fact or scientific consensus before developing your argument further.",
+        "when_to_use_zh": "用於句子開頭，引出廣泛認可的事實或科學共識，然後進一步發展論點。",
+        "example": "It is widely acknowledged that extreme weather phenomena such as El Niño are becoming more intense as a direct consequence of rising global temperatures."
+      },
+      {
+        "phrase": "While X plays a role, it is Y that ultimately determines",
+        "when_to_use": "Use this concessive structure to acknowledge one argument while asserting that a contrasting factor is more decisive, demonstrating balanced but opinionated writing.",
+        "when_to_use_zh": "使用此讓步結構來承認一個論點，同時主張相反的因素更具決定性，展示平衡但有立場的寫作。",
+        "example": "While individual lifestyle changes play a role in reducing carbon footprints, it is systemic government regulation that ultimately determines the pace of the transition to clean energy."
+      },
+      {
+        "phrase": "The evidence strongly suggests that",
+        "when_to_use": "Use when citing data, research findings, or observed trends to support a claim in a formal and academically appropriate manner.",
+        "when_to_use_zh": "引用數據、研究結果或觀察趨勢來支持論點時使用，以正式且學術性的方式呈現。",
+        "example": "The evidence strongly suggests that without binding international emission reduction targets, the frequency of catastrophic El Niño events will continue to escalate."
+      },
+      {
+        "phrase": "Far from being sufficient, ... falls short of",
+        "when_to_use": "Use this emphatic structure to argue that a proposed solution or existing measure is inadequate, adding rhetorical force to a critical evaluation.",
+        "when_to_use_zh": "使用此強調結構來論證某一提議的解決方案或現有措施不足，為批判性評估增添修辭力量。",
+        "example": "Far from being sufficient, voluntary pledges made by corporations to reduce emissions fall short of the transformative action required to stabilise the global climate system."
+      },
+      {
+        "phrase": "A two-pronged approach that combines ... with ... is therefore essential",
+        "when_to_use": "Use in the conclusion or when synthesising arguments to propose a balanced solution that integrates two complementary strategies.",
+        "when_to_use_zh": "在結論部分或綜合論點時使用，提出整合兩種互補策略的平衡解決方案。",
+        "example": "A two-pronged approach that combines robust governmental climate legislation with a cultural shift in consumer behaviour is therefore essential if humanity is to mitigate the worst impacts of accelerating climate change."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a striking statement about the acceleration of climate-related disasters such as El Niño to establish urgency. Paraphrase the question by framing the debate as a question of where primary agency for climate action should reside. End with a clear thesis statement indicating that while individual responsibility is meaningful, structural governmental and corporate reform constitutes the indispensable foundation of any effective climate response.",
+      "body1": "Present the case for individual responsibility. Acknowledge that billions of individual choices — in diet, energy use, and transport — collectively generate significant demand for fossil fuels. Cite the concept of the carbon footprint and how consumer culture drives industrial production. However, introduce a nuanced counter-point: research shows that just one hundred companies are responsible for over seventy percent of global emissions, suggesting the limits of individual agency.",
+      "body2": "Make the stronger case for government and corporate action as the primary driver of meaningful change. Argue that only governments possess the regulatory power to set legally binding emission caps, subsidise renewable energy at scale, and enforce international climate agreements. Discuss how corporate accountability through mechanisms such as carbon pricing and mandatory sustainability reporting can redirect capital toward low-carbon innovation. Assert that individual change, while valuable, cannot compensate for systemic inaction at the institutional level.",
+      "conclusion": "Restate your position that government and corporate action must lead, while individuals play a supporting but not primary role. Propose that the most effective path forward involves aligned action across all levels — policy, industry, and individual behaviour — and warn that assigning blame solely to individuals risks becoming a distraction from the structural reforms that the climate crisis genuinely demands."
+    }
+  }
+}
