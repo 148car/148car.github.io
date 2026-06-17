@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T07:01:21.673211Z",
+  "listening": {
+    "title": "What is El Niño and why could it mean record temperatures?",
+    "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "El Niño is a climate phenomenon that periodically warms the Pacific Ocean and is expected to drive global temperatures to record highs.",
+    "topic_zh": "聖嬰現象是一種週期性暖化太平洋的氣候現象，預計將推動全球氣溫創下歷史新高。",
+    "transcript_excerpt": "Scientists around the world are warning that 2023 and 2024 could be the hottest years ever recorded, and a large part of the reason is a climate phenomenon known as El Niño. But what exactly is El Niño, and why does it have such a dramatic effect on global weather patterns?\n\nEl Niño is a natural climate cycle that occurs in the tropical Pacific Ocean roughly every two to seven years. Under normal conditions, strong trade winds blow warm surface water westward across the Pacific, away from South America. But during an El Niño event, those trade winds weaken, and the warm water sloshes back eastward, raising sea surface temperatures significantly.\n\nThis shift in ocean temperature has a cascading effect on weather systems worldwide. Some regions experience devastating droughts, while others suffer catastrophic flooding. Agricultural yields drop, wildfires become more intense, and disease outbreaks linked to changing rainfall patterns become more common.\n\nWhat makes this particular El Niño especially alarming is that it is arriving on top of a planet that has already been warmed by decades of human-caused greenhouse gas emissions. Scientists describe this as a one-two punch — the background warming from climate change combined with the additional heat boost of El Niño. The result, many experts fear, could push average global temperatures beyond the critical 1.5 degrees Celsius threshold set by the Paris Agreement, perhaps for the first time in human history.",
+    "vocabulary": [
+      {
+        "word": "cascading effect",
+        "type": "phrase",
+        "definition": "a process in which one event causes a series of further related events, like a chain reaction",
+        "definition_zh": "連鎖效應；一個事件引發一系列相關後續事件的過程",
+        "example": "The drought had a cascading effect on the region's food supply, economy, and public health."
+      },
+      {
+        "word": "trade winds",
+        "type": "noun",
+        "definition": "steady winds that blow towards the equator from the northeast or southeast, playing a key role in ocean and weather circulation",
+        "definition_zh": "信風；從東北或東南方向吹向赤道的穩定風，在海洋和天氣循環中起關鍵作用",
+        "example": "The weakening of trade winds during El Niño allows warm water to spread back across the Pacific."
+      },
+      {
+        "word": "threshold",
+        "type": "noun",
+        "definition": "a critical level or point at which something begins to change or have a significant effect",
+        "definition_zh": "臨界點；事物開始變化或產生重大影響的關鍵水準",
+        "example": "Scientists warn that crossing the 1.5°C temperature threshold could trigger irreversible climate impacts."
+      },
+      {
+        "word": "phenomenon",
+        "type": "noun",
+        "definition": "a fact or event in nature or society that is observed or studied, especially one that is remarkable or unusual",
+        "definition_zh": "現象；自然或社會中被觀察或研究的事實或事件，尤指顯著或不尋常的",
+        "example": "El Niño is a well-documented natural phenomenon that affects weather across the entire globe."
+      },
+      {
+        "word": "greenhouse gas emissions",
+        "type": "phrase",
+        "definition": "the release of gases such as carbon dioxide and methane into the atmosphere, which trap heat and contribute to global warming",
+        "definition_zh": "溫室氣體排放；將二氧化碳和甲烷等氣體釋放到大氣中，這些氣體吸收熱量並導致全球暖化",
+        "example": "Reducing greenhouse gas emissions is considered essential to limiting the worst effects of climate change."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, what happens to warm surface water in the Pacific Ocean under normal weather conditions?",
+        "options": [
+          "A: It moves eastward toward South America due to weakening winds.",
+          "B: It is blown westward across the Pacific by strong trade winds.",
+          "C: It stays stationary near the equator throughout the year.",
+          "D: It sinks to the ocean floor, cooling the surface temperature."
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that under normal conditions, strong trade winds blow warm surface water westward across the Pacific, away from South America."
+      },
+      {
+        "q": "Why do scientists consider this El Niño event particularly alarming?",
+        "options": [
+          "A: It is the first El Niño event to occur in over twenty years.",
+          "B: It is occurring at a time when trade winds are unusually strong.",
+          "C: It is adding extra heat on top of warming already caused by human greenhouse gas emissions.",
+          "D: It is predicted to cause permanent changes to Pacific Ocean currents."
+        ],
+        "answer": "C",
+        "explanation": "The passage describes this as a 'one-two punch' — the background warming from climate change combined with the additional heat boost of El Niño, making this event especially concerning."
+      },
+      {
+        "q": "What is the significance of 1.5 degrees Celsius mentioned in the passage?",
+        "options": [
+          "A: It is the average temperature rise caused solely by El Niño events historically.",
+          "B: It is the maximum ocean surface temperature increase during El Niño.",
+          "C: It is the critical warming threshold established by the Paris Agreement.",
+          "D: It is the average global temperature increase recorded since 1850."
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly refers to the 1.5 degrees Celsius threshold as the critical limit 'set by the Paris Agreement', which scientists fear may be exceeded due to the combined effects of El Niño and background climate change."
+      }
+    ]
+  },
+  "reading": {
+    "title": "El Niño and the Acceleration of Global Climate Change",
+    "passage": "El Niño, derived from the Spanish phrase meaning 'the Christ Child', was originally named by Peruvian fishermen who noticed unusually warm ocean waters appearing off the South American coast around Christmas time. Today, the term refers to a complex and far-reaching climate phenomenon that has profound implications for weather systems, ecosystems, and human societies across the entire planet.\n\nUnder normal Pacific Ocean conditions, easterly trade winds push warm surface water towards Australia and Southeast Asia, allowing cooler, nutrient-rich water to rise to the surface off the coast of South America in a process known as upwelling. During an El Niño event, however, these trade winds weaken considerably or even reverse direction, causing warm water to accumulate in the central and eastern Pacific. This redistribution of ocean heat fundamentally alters atmospheric circulation patterns, producing a wide range of climatic anomalies.\n\nThe consequences of El Niño are highly variable and geographically uneven. While parts of South America and the southern United States experience intense rainfall and flooding, regions such as Australia, Indonesia, and southern Africa frequently suffer severe droughts. Global agricultural productivity is often significantly reduced during strong El Niño years, threatening food security for millions of people. Furthermore, warmer ocean temperatures bleach coral reefs and disrupt marine food chains, causing long-term ecological damage.\n\nClimate scientists emphasise that while El Niño is a natural phenomenon, its impacts are increasingly amplified by anthropogenic climate change. The accumulation of greenhouse gases in the atmosphere has raised the baseline global temperature to such an extent that each new El Niño event occurs in a fundamentally warmer environment than its predecessor. Modelling studies suggest that future El Niño events may become more intense and potentially more frequent, raising serious concerns about the long-term resilience of both natural ecosystems and human infrastructure. International cooperation on emissions reduction is therefore considered not merely beneficial, but urgently necessary.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The name 'El Niño' was originally given to the phenomenon by Peruvian fishermen who observed warmer ocean conditions near the Christmas season.",
+        "answer": "True",
+        "explanation": "The passage directly states that Peruvian fishermen named the phenomenon after noticing unusually warm ocean waters appearing off the South American coast around Christmas time."
+      },
+      {
+        "type": "TFNG",
+        "statement": "During an El Niño event, Australia and Southeast Asia typically receive above-average rainfall due to the accumulation of warm Pacific water.",
+        "answer": "False",
+        "explanation": "The passage states the opposite: during El Niño, regions such as Australia and Indonesia frequently suffer severe droughts, not increased rainfall."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Scientific models predict that El Niño events will completely disappear as a result of anthropogenic climate change in the coming decades.",
+        "answer": "Not Given",
+        "explanation": "The passage says future El Niño events may become more intense and possibly more frequent, but makes no mention of them disappearing. This information is not provided."
+      },
+      {
+        "type": "MCQ",
+        "q": "What does the passage identify as the primary reason why future El Niño events are considered more dangerous than historical ones?",
+        "options": [
+          "A: Trade winds are expected to weaken permanently, making El Niño events last much longer.",
+          "B: Each new El Niño now occurs against a higher baseline global temperature caused by greenhouse gas accumulation.",
+          "C: International governments have failed to develop any early warning systems for El Niño events.",
+          "D: Marine ecosystems have been so damaged by pollution that they can no longer regulate ocean temperatures."
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that greenhouse gas accumulation has raised the baseline global temperature so that each new El Niño occurs in a fundamentally warmer environment than its predecessor, amplifying its impacts."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced or learned about an extreme weather event.",
+    "topic_zh": "描述一次你經歷或了解到極端天氣事件的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you experienced or learned about an extreme weather event.\n\nYou should say:\n• What the weather event was and where it occurred\n• How you experienced or found out about it\n• What effects it had on people or the environment\n\nAnd explain how this experience changed your thinking about climate and the natural world.",
+      "band_tips": [
+        "Use a wide range of weather and climate vocabulary naturally — words like 'unprecedented', 'devastating', 'cascading consequences' and 'long-term implications' will signal Band 7+ lexical range.",
+        "Structure your response with a clear narrative arc: set the scene, describe what happened, explain the impact, then reflect personally. This shows discourse coherence and cohesion.",
+        "Go beyond simply describing events — analyse causes, compare with normal conditions, and speculate about the future using complex grammar such as third conditionals and passive constructions (e.g., 'Had the warnings been heeded earlier, much of the damage could have been prevented')."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think individuals or governments bear greater responsibility for addressing climate change?",
+        "q_zh": "你認為個人還是政府在應對氣候變化方面承擔更大的責任？",
+        "key_points": [
+          "Governments have the legislative and financial power to implement systemic changes such as carbon pricing, renewable energy investment, and international climate agreements like the Paris Accord.",
+          "Individual behavioural changes, while meaningful in aggregate, are inherently limited without structural incentives and regulations created by policy makers.",
+          "A balanced view argues that both are essential — governments must create the framework, but widespread public engagement and demand for action is what ultimately drives political will."
+        ]
+      },
+      {
+        "q": "How effective do you think international agreements, such as the Paris Agreement, are in combating climate change?",
+        "q_zh": "你認為《巴黎協定》等國際協議在應對氣候變化方面有多大效果？",
+        "key_points": [
+          "International agreements establish shared targets and create diplomatic accountability, helping to align the efforts of nations with vastly different economic interests and levels of development.",
+          "A significant weakness is the lack of binding enforcement mechanisms — countries that miss their emissions targets face no formal penalties, which undermines the credibility of commitments.",
+          "Despite limitations, they serve a vital symbolic and normative function, signalling global consensus and encouraging private sector investment in green technologies and infrastructure."
+        ]
+      },
+      {
+        "q": "In what ways might extreme weather events caused by phenomena like El Niño affect developing countries more severely than wealthier nations?",
+        "q_zh": "聖嬰現象等引發的極端天氣事件，在哪些方面對發展中國家的影響比富裕國家更為嚴重？",
+        "key_points": [
+          "Developing nations often have weaker infrastructure, less reliable early warning systems, and limited financial reserves to fund disaster relief and post-event recovery efforts.",
+          "Economies heavily dependent on rain-fed agriculture are acutely vulnerable to the droughts and floods that El Niño events bring, threatening both food security and livelihoods.",
+          "There is a profound climate justice dimension — the countries least responsible for historical greenhouse gas emissions are frequently the ones bearing the heaviest burden of climate-related disasters."
+        ]
+      },
+      {
+        "q": "How important is it for schools to include climate science and environmental education in their curricula?",
+        "q_zh": "將氣候科學和環境教育納入學校課程有多重要？",
+        "key_points": [
+          "Climate literacy equips young people with the critical thinking skills needed to evaluate information, distinguish between scientific consensus and misinformation, and make informed decisions as future voters and consumers.",
+          "Early environmental education can foster a sense of stewardship and personal responsibility that shapes lifelong habits and attitudes, creating more environmentally conscious generations.",
+          "There is a counterargument that placing the burden of climate action on children is inappropriate and can cause eco-anxiety — education must therefore be paired with empowering, solution-focused content."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that natural climate phenomena such as El Niño are the primary drivers of extreme weather and rising global temperatures, and that human activity has a relatively minor role. Others argue that human-caused greenhouse gas emissions are the dominant factor in climate change. Discuss both views and give your own opinion.",
+    "task2_question_zh": "一些人認為，聖嬰現象等自然氣候現象是極端天氣和全球氣溫上升的主要驅動因素，人類活動的作用相對較小。另一些人則認為，人類造成的溫室氣體排放是氣候變化的主導因素。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "cannot be attributed solely to",
+        "when_to_use": "Use when arguing that one factor alone does not explain a complex phenomenon, especially when introducing a nuanced or balanced argument",
+        "when_to_use_zh": "當論證單一因素不足以解釋複雜現象時使用，尤其適合引入細緻或平衡的論點",
+        "example": "The record temperatures observed in recent years cannot be attributed solely to El Niño; they reflect a dangerous synergy between natural variability and human-induced warming."
+      },
+      {
+        "phrase": "there is an overwhelming scientific consensus that",
+        "when_to_use": "Use to cite the weight of expert evidence when supporting a position, particularly one grounded in empirical research",
+        "when_to_use_zh": "在引用專家證據支持某立場時使用，尤其適用於基於實證研究的論點",
+        "example": "There is an overwhelming scientific consensus that anthropogenic greenhouse gas emissions are the primary driver of long-term global warming trends."
+      },
+      {
+        "phrase": "amplified by",
+        "when_to_use": "Use to describe how one factor magnifies or intensifies the effects of another, showing understanding of complex causal relationships",
+        "when_to_use_zh": "用於描述一個因素如何放大或加劇另一個因素的影響，展示對複雜因果關係的理解",
+        "example": "The natural warming of El Niño is significantly amplified by the elevated baseline temperatures resulting from decades of fossil fuel combustion."
+      },
+      {
+        "phrase": "while it is true that ... it does not follow that",
+        "when_to_use": "Use to concede a point made by the opposing side before immediately refuting the conclusion they draw from it",
+        "when_to_use_zh": "在承認對方觀點後立即反駁其所得結論時使用，是高分讓步轉折句型",
+        "example": "While it is true that El Niño is a natural cycle that has occurred for millennia, it does not follow that human activity plays no significant role in the increasingly severe weather events we are witnessing."
+      },
+      {
+        "phrase": "the long-term implications of ... extend far beyond",
+        "when_to_use": "Use in the conclusion or when broadening the scope of your argument to show wider social, economic, or environmental consequences",
+        "when_to_use_zh": "在結論或擴展論點範圍時使用，展示更廣泛的社會、經濟或環境後果",
+        "example": "The long-term implications of unchecked greenhouse gas emissions extend far beyond periodic temperature spikes, threatening the stability of ecosystems, economies, and human civilisation itself."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a compelling observation about the convergence of natural and human-induced climate factors in recent extreme weather events. Paraphrase the question to show understanding of both perspectives, then present a clear thesis stating that while natural phenomena like El Niño are significant contributors, the scientific evidence overwhelmingly identifies human greenhouse gas emissions as the dominant long-term driver of climate change.",
+      "body1": "Acknowledge the argument that natural climate cycles are powerful and predate human industrialisation. Explain how El Niño naturally raises global temperatures, disrupts weather patterns, and has done so throughout history. Concede that proponents of this view point to geological records showing dramatic climate shifts long before fossil fuels were used. However, conclude the paragraph by noting that this view fails to account for the unprecedented rate and consistency of warming observed since the Industrial Revolution.",
+      "body2": "Present the stronger counterargument: that human-caused greenhouse gas emissions have fundamentally altered the climate baseline, meaning natural events like El Niño now occur in a much warmer environment, amplifying their effects. Cite the scientific consensus from bodies such as the IPCC, and explain the concept of the 'one-two punch' — background anthropogenic warming combined with cyclical natural events. Argue that policy inaction based on attributing climate change to natural causes alone is therefore both scientifically unsound and socially irresponsible.",
+      "conclusion": "Restate your position clearly — that both natural and human factors interact, but human emissions are the dominant and uniquely controllable variable. Emphasise that recognising this distinction is not merely academic but has profound implications for international climate policy. End with a forward-looking statement about the urgency of emissions reduction to prevent natural events from having catastrophic amplified consequences in the future."
+    }
+  }
+}
