@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T05:59:07.736714Z",
+  "listening": {
+    "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+    "url": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UK recorded its hottest ever June temperature of 36.1C in Gosport, Hampshire, as a severe European heatwave triggered red warnings and widespread disruption.",
+    "topic_zh": "英國哈普郡戈斯波特錄得有史以來最高六月氣溫36.1°C，嚴峻的歐洲熱浪引發紅色警告並造成廣泛的社會混亂。",
+    "transcript_excerpt": "Welcome to today's programme. We're looking at an extraordinary weather event that has broken records across the United Kingdom. On Wednesday afternoon, temperatures soared to 36.1 degrees Celsius in Gosport, a coastal town in Hampshire, making it the hottest June day ever recorded in British history. That figure smashed the previous record of 35.6 degrees, which had stood since 1976 when it was recorded in Southampton. The Met Office, which is the UK's national weather service, has described this new record as provisional, meaning it still needs to undergo rigorous checks to confirm the measurement is fully reliable. The heatwave is not over yet. Forecasters are warning that temperatures could climb even higher, potentially reaching around 38 degrees Celsius by Friday. In response to this exceptional spell of hot and humid weather, the Met Office issued a red extreme heat warning — the most severe category available — covering large parts of southern and central England as well as south Wales. Schools across England and Wales were forced to close their doors, and rail operators urged passengers to avoid non-essential travel as infrastructure struggled under the intense heat. This situation mirrors a broader European crisis. France recorded its hottest day since records began in 1947, with Paris exceeding 40 degrees. Scientists and meteorologists are increasingly linking these record-breaking events to long-term climate change, warning that such extremes may become more frequent unless urgent action is taken to reduce greenhouse gas emissions globally.",
+    "vocabulary": [
+      {
+        "word": "soared",
+        "type": "verb",
+        "definition": "to rise very quickly to a high level, especially referring to temperature or prices",
+        "definition_zh": "（溫度、價格等）急速上升、飆升",
+        "example": "Temperatures soared to dangerous levels during the heatwave, forcing authorities to issue emergency warnings."
+      },
+      {
+        "word": "provisional",
+        "type": "adjective",
+        "definition": "temporary or subject to confirmation; not yet finalised or officially verified",
+        "definition_zh": "暫定的；尚待確認的，尚未正式核實的",
+        "example": "The record rainfall figure is currently provisional and will be confirmed once meteorologists complete their data checks."
+      },
+      {
+        "word": "heatwave",
+        "type": "noun",
+        "definition": "a prolonged period of abnormally and uncomfortably hot weather, typically lasting several days",
+        "definition_zh": "熱浪；持續數日的異常高溫天氣",
+        "example": "The summer heatwave caused widespread power outages as demand for air conditioning reached record highs."
+      },
+      {
+        "word": "disrupted",
+        "type": "verb",
+        "definition": "to cause disorder or prevent something from continuing in its normal or expected way",
+        "definition_zh": "打亂、擾亂；使（正常運作）中斷",
+        "example": "Train services were severely disrupted by the extreme heat, leaving thousands of commuters stranded."
+      },
+      {
+        "word": "exceptional",
+        "type": "adjective",
+        "definition": "unusual or extraordinary, especially in being notably better or worse than the norm",
+        "definition_zh": "異常的；格外突出的，超出一般標準的",
+        "example": "The Met Office described the weather conditions as an exceptional spell that posed serious risks to public health."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What temperature was recorded in Gosport, Hampshire, on Wednesday afternoon?",
+        "options": [
+          "A: 35.6 degrees Celsius",
+          "B: 36.1 degrees Celsius",
+          "C: 38 degrees Celsius",
+          "D: 40 degrees Celsius"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that 36.1C was recorded in Gosport, Hampshire, making it the hottest June day on record in the UK."
+      },
+      {
+        "q": "Why does the Met Office describe the new temperature record as 'provisional'?",
+        "options": [
+          "A: Because it is lower than the previous record",
+          "B: Because it was recorded in an unofficial location",
+          "C: Because it still requires checks to confirm reliability",
+          "D: Because the measurement was taken by an amateur weather station"
+        ],
+        "answer": "C",
+        "explanation": "The transcript explicitly states that the Met Office calls the record 'provisional' because it must conduct checks to ensure the measurement is reliable before it can be officially confirmed."
+      },
+      {
+        "q": "Which country in Europe recorded its hottest day since records began in 1947 during this same heatwave?",
+        "options": [
+          "A: Spain",
+          "B: Germany",
+          "C: Italy",
+          "D: France"
+        ],
+        "answer": "D",
+        "explanation": "The passage states that France recorded its hottest day since records began in 1947, with Paris and other areas exceeding 40 degrees Celsius during the same European heatwave."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Record-Breaking Heatwaves and the Growing Challenge of Extreme Heat in the UK",
+    "passage": "The United Kingdom has long been associated with mild, temperate weather, yet in recent decades the country has been repeatedly confronted with unprecedented heat events that challenge its infrastructure, public health systems, and cultural assumptions about summer. In June 2026, the nation recorded its hottest ever June temperature when thermometers reached 36.1 degrees Celsius in Gosport, Hampshire, surpassing the previous record of 35.6 degrees Celsius set in Southampton in 1976. The event prompted the Met Office, the UK's authoritative national meteorological service, to issue a red extreme heat warning — only the second time such a warning has been declared — covering extensive areas including the East Midlands, London, south-east and south-west England, and Wales.\n\nThe societal consequences were immediate and far-reaching. Hundreds of schools across England and Wales suspended operations, citing concerns for the safety of pupils and staff in buildings ill-equipped to manage extreme temperatures. Transport networks experienced significant strain, with rail authorities advising passengers to refrain from all non-essential travel as high temperatures posed risks to both rolling stock and track integrity. Emergency services reported a rise in heat-related medical incidents, placing additional pressure on an already stretched National Health Service.\n\nThis event did not occur in isolation. A searing continental heatwave simultaneously gripped much of Europe, with France registering its highest temperature since systematic records commenced in 1947, and the French capital Paris recording values above 40 degrees Celsius. Climate scientists have consistently attributed the increasing frequency and intensity of such events to anthropogenic climate change, noting that global average temperatures have risen approximately 1.2 degrees Celsius above pre-industrial levels. Projections suggest that without significant reductions in greenhouse gas emissions, extreme heat events that were once considered statistically rare will become routine features of the European summer landscape within the coming decades, necessitating urgent adaptation strategies at both national and municipal levels.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The previous UK record for the hottest June day was set in Southampton in 1976 at 35.6 degrees Celsius.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that the previous June record of 35.6C was recorded in Southampton in 1976, which is consistent with this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The red extreme heat warning issued by the Met Office in June 2026 was the first such warning ever declared in UK history.",
+        "answer": "False",
+        "explanation": "The passage states it was 'only the second time such a warning has been declared,' meaning a previous red warning had already been issued before this occasion."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The majority of schools that closed during the heatwave were located in Scotland and Northern Ireland.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions schools across England and Wales closed, but provides no information about school closures in Scotland or Northern Ireland, so this cannot be verified."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best explains why climate scientists link heatwaves to climate change?",
+        "options": [
+          "A: Heatwaves have always been common in Europe and are well-documented historically",
+          "B: Global average temperatures have risen around 1.2 degrees Celsius above pre-industrial levels due to human activity",
+          "C: The UK's infrastructure was not designed for warm weather conditions",
+          "D: European governments have failed to invest adequately in renewable energy"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that climate scientists attribute increasing frequency and intensity of heat events to 'anthropogenic climate change,' noting global temperatures have risen approximately 1.2 degrees above pre-industrial levels, which directly supports option B."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an extreme weather event you experienced or heard about",
+    "topic_zh": "描述一次你親身經歷或聽說過的極端天氣事件",
+    "part2": {
+      "cue_card": "Describe an extreme weather event you experienced or heard about.\n\nYou should say:\n• what the weather event was and where it occurred\n• when it happened and how long it lasted\n• what effects it had on people and the local area\n\nAnd explain how this event made you feel about climate change and the future.",
+      "band_tips": [
+        "Use a range of weather-specific and academic vocabulary such as 'unprecedented,' 'soared,' 'disrupted,' and 'prolonged' to demonstrate lexical sophistication and avoid repetition of basic words like 'hot' or 'bad.'",
+        "Organise your response with a clear narrative arc: set the scene vividly, describe the immediate impact on daily life, then zoom out to reflect on broader implications for climate policy — this shows coherent development of ideas valued at Band 7+.",
+        "Include personal reflection and hypothetical language such as 'had the authorities not issued warnings, the consequences could have been far more severe' to demonstrate grammatical range and the ability to speculate, which are key Band 8-9 indicators."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to protect citizens from the dangers of extreme heat?",
+        "q_zh": "你認為政府是否已採取足夠措施保護公民免受極端高溫的危害？",
+        "key_points": [
+          "Many governments focus primarily on reactive emergency warnings rather than proactive long-term infrastructure adaptation such as urban greening and cool corridors.",
+          "Developing nations often lack the financial resources to implement heat action plans, creating a global inequality in climate resilience.",
+          "Effective policy requires cross-departmental coordination linking urban planning, public health, and environmental policy, which many administrations struggle to achieve."
+        ]
+      },
+      {
+        "q": "How do you think extreme weather events affect different groups of people unequally?",
+        "q_zh": "你認為極端天氣事件如何對不同群體造成不平等的影響？",
+        "key_points": [
+          "Elderly people and those with pre-existing health conditions face disproportionately higher mortality risks during heatwaves due to physiological vulnerability.",
+          "Lower-income communities are more likely to live in dense urban heat islands without access to air conditioning or green spaces, amplifying their exposure.",
+          "Outdoor workers such as construction labourers and agricultural employees cannot avoid heat exposure, yet often lack adequate legal protections or paid sick leave."
+        ]
+      },
+      {
+        "q": "In what ways has climate change altered people's attitudes towards environmental responsibility?",
+        "q_zh": "氣候變化在哪些方面改變了人們對環境責任的態度？",
+        "key_points": [
+          "Repeated record-breaking weather events have shifted public perception from viewing climate change as a distant abstract threat to an immediate lived reality.",
+          "Social media and real-time news coverage have accelerated awareness, particularly among younger generations who are demanding more radical policy responses.",
+          "However, attitudinal shifts do not always translate into behavioural change, as convenience, economic constraints, and habit often override environmental intentions."
+        ]
+      },
+      {
+        "q": "Should schools teach children more about climate change and how to cope with extreme weather?",
+        "q_zh": "學校是否應該加強教導孩子有關氣候變化及應對極端天氣的知識？",
+        "key_points": [
+          "Integrating climate literacy into core curricula from an early age equips future citizens and decision-makers with the knowledge needed to drive systemic change.",
+          "Practical resilience skills such as recognising heat stroke symptoms, water conservation habits, and emergency preparedness are increasingly relevant life competencies.",
+          "Critics argue that the burden of climate action should not fall on children through education alone, but must be matched by equivalent commitments from industry and government."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As extreme weather events such as heatwaves become increasingly frequent and severe, some people argue that governments should make it mandatory for all buildings to be equipped with cooling systems. Others believe that individual households should be responsible for managing their own comfort during hot weather. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著熱浪等極端天氣事件愈來愈頻繁且嚴峻，有些人認為政府應強制規定所有建築物必須安裝冷卻系統，而另一些人則認為個別家庭應自行負責在酷熱天氣中管理自身的舒適度。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use when introducing a serious danger or risk associated with your topic, particularly in the introduction or when establishing the problem",
+        "when_to_use_zh": "用於引入與主題相關的嚴重危險或風險，尤其適合在引言段或說明問題性質時使用",
+        "example": "The escalating frequency of heatwaves poses a significant threat to public health infrastructure in countries with temperate climates such as the United Kingdom."
+      },
+      {
+        "phrase": "It is widely acknowledged that",
+        "when_to_use": "Use to introduce a point that represents broad consensus or established fact, lending authority to your argument before developing it further",
+        "when_to_use_zh": "用於引入代表廣泛共識或既定事實的論點，在進一步發展論點前賦予其權威性",
+        "example": "It is widely acknowledged that prolonged exposure to extreme heat can have severe consequences for vulnerable populations, including the elderly and those with chronic illness."
+      },
+      {
+        "phrase": "proponents of this view argue that",
+        "when_to_use": "Use when presenting the perspective you are about to discuss in a balanced discussion essay, signalling that you are fairly representing one side",
+        "when_to_use_zh": "用於在討論型文章中呈現即將討論的觀點，表示你正在公正地呈現一方立場",
+        "example": "Proponents of this view argue that mandatory cooling systems would eliminate the disparity between wealthy and lower-income households in their ability to survive extreme heat."
+      },
+      {
+        "phrase": "nevertheless, it is important to consider",
+        "when_to_use": "Use as a transition phrase to introduce a counterargument or a nuance that complicates the previous point, demonstrating balanced analytical thinking",
+        "when_to_use_zh": "用作過渡詞，引入反駁論點或使前一論點複雜化的細微差別，展現平衡的分析思維",
+        "example": "Nevertheless, it is important to consider that placing the entire financial burden of climate adaptation on governments may prove fiscally unsustainable in the long term."
+      },
+      {
+        "phrase": "In light of the evidence presented",
+        "when_to_use": "Use in the conclusion to signal that your final opinion is based on the reasoning and evidence you have developed throughout the essay",
+        "when_to_use_zh": "用於結論段，表示你的最終意見是根據文章中發展的論點與證據得出的",
+        "example": "In light of the evidence presented, it appears that a collaborative framework involving both state-mandated standards and individual responsibility offers the most pragmatic path forward."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the growing threat of extreme heat events globally, referencing the increasing frequency of record-breaking temperatures such as those recently seen in the UK and Europe. Paraphrase the question and state clearly that this essay will examine both perspectives before offering a reasoned personal position.",
+      "body1": "Present and develop the argument in favour of government-mandated cooling systems. Key points should include: the disproportionate vulnerability of low-income groups who cannot afford private solutions; the precedent of mandatory safety standards in building regulations for fire and structural safety; and the economic cost to healthcare systems when heat-related illness goes untreated due to lack of cooling access.",
+      "body2": "Present and critically evaluate the opposing view that individuals should bear personal responsibility for their own comfort during hot weather. Acknowledge valid points such as personal freedom, the financial burden on public funds, and the role of behavioural adaptation. Then introduce a counterargument by noting that market-driven solutions tend to deepen social inequality and that climate emergencies by definition require collective rather than purely individual responses.",
+      "conclusion": "Synthesise both views and deliver a clear, justified personal opinion — ideally a middle-ground position advocating for government-set minimum standards combined with subsidised access for vulnerable populations, while acknowledging that individual responsibility also plays a complementary role. Avoid introducing new information and end with a forward-looking statement about the urgency of adaptation policy."
+    }
+  }
+}
