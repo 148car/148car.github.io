@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T06:03:12.294363Z",
+  "listening": {
+    "title": "In pictures: Britain swelters in record-breaking June heat",
+    "url": "https://www.bbc.co.uk/news/articles/cy5vq3q2g19o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UK experienced its hottest June day on record in 2026, with extreme temperatures causing school closures, transport disruption, and widespread public health concerns.",
+    "topic_zh": "英國在2026年經歷有記錄以來最熱的六月天，極端高溫導致學校關閉、交通中斷，並引發廣泛的公共健康問題。",
+    "transcript_excerpt": "Welcome to 6 Minute English. I'm Sarah, and today we're talking about something that's been dominating the headlines across the United Kingdom — a record-breaking heatwave that has brought the country to a near standstill. On Thursday, temperatures soared to a staggering 36.4 degrees Celsius in Somerset, shattering the previous June record. And remarkably, this wasn't even the first time this week that the record fell — just the day before, Hampshire recorded 36.1 degrees, itself a historic milestone. So what does this mean for everyday life in Britain? Well, quite a lot, actually. Hundreds of schools have been forced to shut their doors early, as classrooms became dangerously hot for young pupils. On the railways, passengers were advised to avoid all non-essential travel due to the risk of tracks buckling under the intense heat. The Met Office issued a rare red weather warning — the most serious level — for the south of England, urging residents to take precautions. Meanwhile, people found creative ways to cope. Swimming spots were packed, businesses allowed staff to work from home, and in one memorable scene, schoolchildren in Essex were handed ice lollies during a maths lesson. Health officials have repeatedly warned that children and the elderly are particularly vulnerable to heat-related illness, and the urgency of that message has never felt more relevant than it does right now.",
+    "vocabulary": [
+      {
+        "word": "swelter",
+        "type": "verb",
+        "definition": "to feel extremely hot and uncomfortable, often to the point of distress",
+        "definition_zh": "在酷熱中煎熬、感到極度不舒服",
+        "example": "Commuters sweltered on crowded underground trains as the heatwave gripped the capital."
+      },
+      {
+        "word": "unprecedented",
+        "type": "adjective",
+        "definition": "never having happened or existed before; without historical parallel",
+        "definition_zh": "前所未有的、史無前例的",
+        "example": "Scientists described the June temperatures as unprecedented in the 150-year meteorological record."
+      },
+      {
+        "word": "disrupt",
+        "type": "verb",
+        "definition": "to prevent something from continuing in its normal way by causing problems or disturbances",
+        "definition_zh": "中斷、擾亂（正常運作）",
+        "example": "The extreme heat severely disrupted rail services across the south of England."
+      },
+      {
+        "word": "vulnerable",
+        "type": "adjective",
+        "definition": "susceptible to physical or emotional harm, especially due to age, health, or circumstances",
+        "definition_zh": "脆弱的、容易受傷害的",
+        "example": "Public health campaigns focused on protecting the most vulnerable members of society during the heatwave."
+      },
+      {
+        "word": "provisional",
+        "type": "adjective",
+        "definition": "arranged or existing temporarily, pending confirmation or final verification",
+        "definition_zh": "暫定的、臨時性的（待確認的）",
+        "example": "The Met Office released provisional data suggesting it was the warmest June night ever recorded in Wales."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What temperature was recorded in Somerset on Thursday, making it the UK's hottest June day on record?",
+        "options": [
+          "A: 35.9 degrees Celsius",
+          "B: 36.1 degrees Celsius",
+          "C: 36.4 degrees Celsius",
+          "D: 37.0 degrees Celsius"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that temperatures hit 36.4C in Somerset on Thursday, which set the new June record."
+      },
+      {
+        "q": "According to the transcript, which group of people did health officials identify as being most at risk from the heat?",
+        "options": [
+          "A: Commuters and office workers",
+          "B: Farmers and outdoor labourers",
+          "C: Children and elderly people",
+          "D: Athletes and sports professionals"
+        ],
+        "answer": "C",
+        "explanation": "The transcript explicitly states that 'children and the elderly are particularly vulnerable to heat-related illness,' consistent with the original article."
+      },
+      {
+        "q": "What level of weather warning did the Met Office issue for the south of England?",
+        "options": [
+          "A: A yellow warning, indicating moderate risk",
+          "B: An amber warning, indicating significant risk",
+          "C: A green warning, indicating low risk",
+          "D: A red warning, the most serious level"
+        ],
+        "answer": "D",
+        "explanation": "The transcript specifies that the Met Office issued 'a rare red weather warning — the most serious level — for the south of England.'"
+      }
+    ]
+  },
+  "reading": {
+    "title": "Extreme Heat Events in the UK: Causes, Consequences, and Adaptation Strategies",
+    "passage": "The United Kingdom, traditionally associated with mild and temperate weather, has in recent years become increasingly susceptible to extreme heat events that would once have been considered anomalous. The summer of 2026 provided the most dramatic illustration yet of this trend, as June temperatures exceeded 36 degrees Celsius in multiple locations across England — figures that shattered records standing for nearly seven decades. Meteorologists attribute this intensification of heat events to a combination of anthropogenic climate change and naturally occurring atmospheric patterns, such as the northward displacement of the jet stream, which allows hot air masses from the Saharan region to push deep into northern Europe.\n\nThe societal consequences of such extreme heat are far-reaching and multifaceted. Infrastructure originally designed for a cooler climate proves poorly adapted to sustained high temperatures. Railway tracks, constructed from materials that expand under heat, become prone to buckling, forcing operators to impose severe speed restrictions or suspend services altogether. Similarly, schools — the vast majority of which lack mechanical air conditioning — have been compelled to close early to safeguard pupils from heat-related illness. The economic costs of such disruptions are considerable, affecting productivity, supply chains, and public services simultaneously.\n\nPublic health authorities have consistently highlighted the disproportionate impact of heatwaves on vulnerable populations, including young children, the elderly, and individuals with pre-existing medical conditions. Prolonged exposure to high temperatures can lead to heat exhaustion and, in severe cases, heatstroke, both of which carry significant mortality risks if left untreated. In response, governments and urban planners are increasingly exploring long-term adaptation strategies, including the expansion of urban green spaces, the retrofitting of buildings with improved insulation, and the development of heatwave emergency response protocols. Whether such measures will prove sufficient in the face of accelerating climate change remains a critical and unresolved question.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The UK has historically been considered a country with consistently hot summer weather.",
+        "answer": "False",
+        "explanation": "The passage explicitly states the UK is 'traditionally associated with mild and temperate weather,' directly contradicting the idea that it has historically had hot summers."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The displacement of the jet stream is one factor that contributes to extreme heat in northern Europe.",
+        "answer": "True",
+        "explanation": "The passage states that 'the northward displacement of the jet stream allows hot air masses from the Saharan region to push deep into northern Europe,' confirming this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The majority of UK schools have recently installed air conditioning systems to deal with rising temperatures.",
+        "answer": "False",
+        "explanation": "The passage states 'the vast majority of which lack mechanical air conditioning,' meaning most schools do not have air conditioning, making this statement false."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best describes the long-term strategies being considered to address extreme heat?",
+        "options": [
+          "A: Relocating vulnerable populations to cooler regions of the country",
+          "B: Expanding green spaces, improving building insulation, and developing emergency protocols",
+          "C: Replacing all railway infrastructure with heat-resistant materials immediately",
+          "D: Reducing industrial output to lower temperatures in urban areas"
+        ],
+        "answer": "B",
+        "explanation": "The passage lists 'expansion of urban green spaces, the retrofitting of buildings with improved insulation, and the development of heatwave emergency response protocols' as the adaptation strategies being explored, which corresponds directly to option B."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an extreme weather event you experienced or heard about",
+    "topic_zh": "描述一次你親身經歷或聽說過的極端天氣事件",
+    "part2": {
+      "cue_card": "Describe an extreme weather event you experienced or heard about.\n\nYou should say:\n• what the weather event was and where it occurred\n• when it happened and how long it lasted\n• how it affected the people and environment around you\n\nAnd explain how you or others responded to this extreme weather situation.",
+      "band_tips": [
+        "Use a wide range of precise meteorological and descriptive vocabulary, such as 'unprecedented,' 'sweltering,' 'scorching,' and 'record-breaking,' to demonstrate lexical sophistication and signal Band 7+ competence.",
+        "Structure your response with a clear narrative arc — set the scene, describe the peak of the event, and then reflect on the aftermath — using discourse markers like 'initially,' 'as the situation escalated,' and 'in the aftermath' to demonstrate coherence.",
+        "Incorporate personal reflection and abstract commentary, such as linking the event to broader climate change trends, to show the depth of thought expected at Band 8-9 and to extend your speaking time naturally."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare their citizens for extreme weather events?",
+        "q_zh": "你認為政府是否採取了足夠措施來讓市民為極端天氣做好準備？",
+        "key_points": [
+          "Governments in many developed nations have improved early warning systems, but infrastructure adaptation — such as heat-proofing schools and railways — often lags significantly behind climate projections.",
+          "Public communication strategies are inconsistent; while weather warnings are issued, long-term public education about heat health risks remains underfunded in many countries.",
+          "There is a fundamental tension between short-term political cycles and the long-term investment required for genuine climate adaptation, which means preparation is often reactive rather than proactive."
+        ]
+      },
+      {
+        "q": "How do you think urban design could be changed to help cities cope better with rising temperatures?",
+        "q_zh": "你認為城市設計應如何改變，以幫助城市更好地應對氣溫上升？",
+        "key_points": [
+          "Increasing the proportion of urban green spaces and tree canopy cover can significantly reduce the urban heat island effect, lowering ambient temperatures by several degrees in dense city centres.",
+          "Architects and planners could incorporate passive cooling techniques into new buildings, such as reflective roofing materials, natural ventilation systems, and shaded public spaces.",
+          "The redesign of public transport infrastructure to cope with heat — including heat-resistant track materials and air-conditioned carriages — would reduce the economic disruption caused by heatwaves."
+        ]
+      },
+      {
+        "q": "Why do you think some people still refuse to accept that climate change is responsible for more frequent heatwaves?",
+        "q_zh": "為什麼你認為仍有些人拒絕承認氣候變化是導致熱浪更加頻繁的原因？",
+        "key_points": [
+          "Climate scepticism is often fuelled by economic interests, particularly in industries reliant on fossil fuels, where acceptance of climate science would necessitate costly structural changes.",
+          "The concept of individual weather events being attributed to long-term climate trends is counterintuitive for many people, as they require an understanding of statistical probabilities rather than direct causal links.",
+          "Media ecosystems that amplify contrarian viewpoints and political polarisation around environmental policy have made it easier for misinformation about climate change to persist in public discourse."
+        ]
+      },
+      {
+        "q": "In what ways are vulnerable groups, such as the elderly and children, disproportionately affected by heatwaves, and what can be done to protect them?",
+        "q_zh": "弱勢群體（如老年人和兒童）如何受到熱浪的不成比例的影響，可以採取哪些措施保護他們？",
+        "key_points": [
+          "Elderly individuals and young children have less efficient thermoregulatory systems, making them physiologically less capable of managing extreme heat, which increases their risk of heat exhaustion and heatstroke.",
+          "Social isolation among the elderly is a compounding factor — those living alone may not receive timely intervention during a heatwave, meaning community outreach programmes and regular welfare checks are essential.",
+          "Practical measures such as distributing free cooling devices, establishing public cooling centres in libraries and community halls, and prioritising school closures or schedule adjustments can significantly reduce mortality risk among vulnerable groups."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events, such as heatwaves, are becoming more frequent and severe due to climate change. Some people argue that individuals are responsible for adapting to these changes, while others believe it is the duty of governments and large organisations to take action. Discuss both views and give your own opinion.",
+    "task2_question_zh": "由於氣候變化，熱浪等極端天氣事件正變得越來越頻繁和嚴重。有人認為個人有責任適應這些變化，而另一些人則認為政府和大型組織有責任採取行動。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "It is widely acknowledged that",
+        "when_to_use": "Use to introduce a broadly accepted fact or premise before building your argument, particularly in the introduction or when setting context for a contrasting point.",
+        "when_to_use_zh": "用於在介紹中引入廣泛接受的事實或前提，尤其是在建立論點或為對比觀點提供背景時。",
+        "example": "It is widely acknowledged that extreme weather events have become significantly more frequent over the past two decades as a direct consequence of rising global temperatures."
+      },
+      {
+        "phrase": "While proponents of this view argue that ... , critics contend that ...",
+        "when_to_use": "Use to present two contrasting perspectives in a balanced and sophisticated way, typical of Band 7+ discussion essays.",
+        "when_to_use_zh": "用於以平衡且精緻的方式呈現兩種對比觀點，這是Band 7+討論類文章的典型表達方式。",
+        "example": "While proponents of individual responsibility argue that lifestyle changes can collectively reduce carbon emissions, critics contend that systemic transformation requires policy intervention at the governmental level."
+      },
+      {
+        "phrase": "The burden of responsibility cannot realistically fall solely on",
+        "when_to_use": "Use when arguing that one party alone cannot address a complex problem, particularly when building towards a shared responsibility conclusion.",
+        "when_to_use_zh": "當論證單一方無法獨力解決複雜問題時使用，尤其適合在走向共同責任結論時使用。",
+        "example": "The burden of responsibility for climate adaptation cannot realistically fall solely on individuals, many of whom lack the financial resources or political influence to enact meaningful change."
+      },
+      {
+        "phrase": "From a long-term perspective,",
+        "when_to_use": "Use to shift the discussion toward future implications or sustainable solutions, helping to elevate the analytical depth of a body paragraph.",
+        "when_to_use_zh": "用於將討論轉向未來影響或可持續解決方案，有助於提升段落的分析深度。",
+        "example": "From a long-term perspective, investing in climate-resilient infrastructure today will prove far more cost-effective than managing the cascading consequences of inaction in future decades."
+      },
+      {
+        "phrase": "It stands to reason that",
+        "when_to_use": "Use to introduce a logical conclusion that follows naturally from the evidence or argument just presented, lending a persuasive and confident tone.",
+        "when_to_use_zh": "用於引入從已呈現的證據或論點中自然得出的邏輯結論，使語氣更具說服力和自信。",
+        "example": "It stands to reason that nations with greater economic and technological capacity bear a proportionally larger obligation to lead global efforts in climate change mitigation and adaptation."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the growing frequency of extreme heat events globally, referencing the broader climate crisis. Paraphrase the question and present a clear thesis statement indicating that while individual action has merit, governmental and institutional responsibility is ultimately more critical and impactful.",
+      "body1": "Present the argument in favour of individual responsibility. Argue that personal choices — such as reducing energy consumption, avoiding unnecessary travel during heatwaves, and making sustainable lifestyle changes — collectively contribute to both mitigation of climate change and adaptation to its effects. Acknowledge that grassroots behaviour change can create cultural shifts that influence policy. However, concede the limitations of this view by noting that individual capacity varies enormously based on socioeconomic status.",
+      "body2": "Argue that the primary responsibility lies with governments and large organisations, as they possess the legislative power, financial resources, and systemic reach to implement meaningful structural change. Use examples such as updating building regulations to include cooling standards, investing in heat-resilient transport infrastructure, and enacting carbon reduction legislation. Emphasise that market failures and the global nature of climate change necessitate coordinated top-down intervention that individuals alone cannot provide.",
+      "conclusion": "Synthesise both perspectives by advocating for a complementary approach in which individual behavioural change is encouraged and facilitated by enabling government policy. Reaffirm your position that institutional action must lead, while individuals play a supportive and reinforcing role. End with a forward-looking statement about the urgency of integrated climate adaptation strategies."
+    }
+  }
+}
