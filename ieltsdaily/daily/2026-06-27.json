@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T05:47:42.600410Z",
+  "listening": {
+    "title": "Are we in for a summer of serial heatwaves?",
+    "url": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The episode examines whether the UK is heading into a summer of repeated extreme heatwaves, exploring the causes and consequences of record-breaking temperatures.",
+    "topic_zh": "本集探討英國是否正面臨一個連串極端熱浪的夏天，並分析破紀錄高溫的成因與影響。",
+    "transcript_excerpt": "This summer has already rewritten the weather record books in ways we haven't seen since 1911. Over the past two months, the United Kingdom has been gripped by not one, but two separate heatwaves, each shattering temperature records that had stood for decades. What's particularly alarming is that we're still in the earlier part of summer — the hottest period typically arrives in late July and into August. So what's driving this dramatic shift in our weather? The key culprit appears to be a phenomenon known as a heat dome — a large area of high pressure that essentially traps warm air over a region, preventing it from escaping and allowing temperatures to climb to extraordinary levels. In May, one such heat dome settled over the UK, pushing the mercury to 35.1 degrees Celsius at Kew Gardens in London — a new monthly record. Then, just as temperatures returned to something approaching normal, another intense burst of heat arrived, smashing the all-time June temperature record. Meteorologists at MeteoGroup, who currently supply data to BBC Weather, have warned that a few more notable high-temperature spikes remain possible before summer is out. The Met Office, for only the second time since its extreme heat warning system began in 2021, issued a red warning — the most severe level — across south-east Wales and southern England. Schools shut their doors and the transport network buckled under the strain, as millions of people struggled to cope with conditions more reminiscent of southern Europe than the British Isles.",
+    "vocabulary": [
+      {
+        "word": "heat dome",
+        "type": "noun",
+        "definition": "A meteorological phenomenon in which a large area of high atmospheric pressure traps and concentrates warm air over a region, causing temperatures to rise significantly above normal levels.",
+        "definition_zh": "一種氣象現象，指大範圍高氣壓將暖空氣困在某一地區上方，導致氣溫大幅高於正常水平。",
+        "example": "The prolonged drought was largely attributed to a heat dome that had stalled over the region for more than a week."
+      },
+      {
+        "word": "shatter (a record)",
+        "type": "verb",
+        "definition": "To break a previously established record by a considerable margin, often implying that the new figure is dramatically higher or lower than the old one.",
+        "definition_zh": "以顯著差距打破先前的紀錄，通常暗示新數據遠高於或低於舊紀錄。",
+        "example": "The athlete shattered the world record by nearly two seconds, stunning spectators and commentators alike."
+      },
+      {
+        "word": "meteorological",
+        "type": "adjective",
+        "definition": "Relating to the scientific study of the atmosphere, weather patterns, and climate phenomena.",
+        "definition_zh": "與大氣層、天氣模式及氣候現象的科學研究相關的。",
+        "example": "The meteorological data collected over fifty years clearly indicated a long-term warming trend in the region."
+      },
+      {
+        "word": "inception",
+        "type": "noun",
+        "definition": "The beginning or establishment of an organisation, system, or practice; the point at which something first comes into existence.",
+        "definition_zh": "某組織、系統或做法的開始或建立；某事物首次存在的時間點。",
+        "example": "The early warning system had only been triggered twice since its inception three years ago."
+      },
+      {
+        "word": "seasonal forecast",
+        "type": "phrase",
+        "definition": "A long-range prediction of likely weather conditions over an extended period, typically covering a season of three months, based on climate models and historical patterns.",
+        "definition_zh": "根據氣候模型和歷史規律，對未來一季（通常三個月）可能天氣狀況的長期預測。",
+        "example": "The seasonal forecast issued in spring correctly predicted an above-average number of hot days throughout the summer months."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, when was the last time the UK experienced two heatwaves that broke significant temperature records within two months?",
+        "options": [
+          "A: 1921",
+          "B: 1911",
+          "C: 2021",
+          "D: 1961"
+        ],
+        "answer": "B",
+        "explanation": "The transcript explicitly states 'This hasn't happened since 1911,' placing the last comparable event in that year."
+      },
+      {
+        "q": "What temperature was recorded at Kew Gardens, London, setting a new May record?",
+        "options": [
+          "A: 33.5 degrees Celsius",
+          "B: 36.2 degrees Celsius",
+          "C: 35.1 degrees Celsius",
+          "D: 34.8 degrees Celsius"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states 'A new May record temperature of 35.1C was set in Kew Gardens, London,' making C the only correct option."
+      },
+      {
+        "q": "Which of the following best describes the consequence of the red extreme heat warning issued by the Met Office?",
+        "options": [
+          "A: Power stations were shut down and internet services disrupted",
+          "B: Schools were closed and the transport network came under severe strain",
+          "C: The government declared a national state of emergency",
+          "D: Hospitals were evacuated and outdoor events were banned nationwide"
+        ],
+        "answer": "B",
+        "explanation": "The transcript states 'Schools were closed and the transport network strained as people tried to deal with the extreme heat,' directly matching option B."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Serial Heatwaves and the Changing Nature of British Summers",
+    "passage": "The United Kingdom's meteorological landscape has undergone a striking transformation in recent decades, with the summer of the present year representing one of the most dramatic illustrations of this shift. Within the space of just two months, the country has endured two distinct heatwaves, breaking temperature records that had remained intact since the early twentieth century. Climate scientists argue that such events are no longer statistical anomalies but rather symptomatic of a broader, systemic warming trend driven primarily by anthropogenic greenhouse gas emissions.\n\nCentral to understanding these episodes is the concept of the heat dome — a semi-permanent area of high atmospheric pressure that effectively acts as a lid over a geographical region. Under such conditions, air descends, compresses, and warms, while cloud formation and rainfall are actively suppressed. The heat dome that settled over the UK in May pushed temperatures at Kew Gardens in London to 35.1 degrees Celsius, establishing a new national record for the month. This was followed by a brief return to below-average conditions before a second, equally intense heatwave arrived, obliterating the all-time June temperature record.\n\nThe implications of repeated extreme heat events extend well beyond personal discomfort. Infrastructure systems — particularly road surfaces, railway lines, and urban cooling networks — are frequently designed around historical temperature averages and struggle to cope when those averages are dramatically exceeded. Public health systems face simultaneous surges in heat-related illness, disproportionately affecting elderly populations and those with pre-existing cardiovascular conditions.\n\nSeasonal forecasting models, which have grown considerably more sophisticated since their widespread adoption, had correctly anticipated higher-than-normal temperatures for the summer in question. Meteorologists suggest that while individual heatwaves cannot be attributed solely to climate change, the frequency, intensity, and duration of such events is being measurably amplified by rising global temperatures. Adaptation strategies — including urban greening, improved building insulation standards, and revised public health protocols — are increasingly regarded as essential rather than optional components of national resilience planning.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The temperature records broken during the recent UK heatwaves had been standing since the early twentieth century.",
+        "answer": "True",
+        "explanation": "The passage states that records 'had remained intact since the early twentieth century,' and the episode specifies 1911, which falls within that period, confirming the statement as True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "A heat dome causes increased rainfall and accelerated cloud formation over the affected area.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that under heat dome conditions 'cloud formation and rainfall are actively suppressed,' which directly contradicts the statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The UK government allocated a specific budget for heatwave adaptation infrastructure following the red weather warning.",
+        "answer": "Not Given",
+        "explanation": "The passage discusses adaptation strategies in general terms but makes no reference whatsoever to government budget allocations, so this information cannot be confirmed or denied."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which group is identified as being particularly vulnerable to the health impacts of extreme heat events?",
+        "options": [
+          "A: Young children and outdoor workers",
+          "B: Elderly people and those with pre-existing cardiovascular conditions",
+          "C: Athletes and individuals engaged in high-intensity exercise",
+          "D: Pregnant women and those with respiratory allergies"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that heat-related illness disproportionately affects 'elderly populations and those with pre-existing cardiovascular conditions,' making B the only answer directly supported by the text."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an occasion when you experienced or witnessed extreme weather conditions.",
+    "topic_zh": "描述一次你親身經歷或目睹極端天氣狀況的場合。",
+    "part2": {
+      "cue_card": "Describe an occasion when you experienced or witnessed extreme weather conditions.\n\nYou should say:\n• what the weather conditions were like\n• where you were and what you were doing at the time\n• how the extreme weather affected you and the people around you\n\nAnd explain how the experience changed your attitude towards weather or the natural environment.",
+      "band_tips": [
+        "Use a wide range of weather-related and sensory vocabulary — words like sweltering, oppressive, relentless, and stifling will demonstrate lexical range and help you achieve Band 7+.",
+        "Incorporate a narrative arc with clear time markers such as 'initially,' 'as the day wore on,' and 'by the time evening arrived' to show grammatical range and coherent organisation.",
+        "Reflect genuinely on how the experience altered your perspective, using speculative and evaluative language such as 'it made me realise,' 'I came to appreciate,' and 'looking back, I believe' to reach the higher bands."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare their populations for increasingly extreme weather events?",
+        "q_zh": "你認為各國政府是否已採取足夠措施，為民眾應對日益極端的天氣事件做好準備？",
+        "key_points": [
+          "Many governments have been criticised for prioritising short-term economic concerns over long-term climate resilience infrastructure, such as upgrading heat-resistant road surfaces and expanding urban green spaces.",
+          "Effective preparation requires cross-departmental coordination — linking public health, transport, urban planning, and emergency services — which many administrations find institutionally difficult to achieve.",
+          "There is a meaningful distinction between reactive policies, such as issuing heat warnings after records are broken, and genuinely proactive strategies, such as revising building codes and school closure protocols well in advance of heatwave seasons."
+        ]
+      },
+      {
+        "q": "How do you think climate change will affect the way people live and work in the future?",
+        "q_zh": "你認為氣候變化將如何影響人們未來的生活與工作方式？",
+        "key_points": [
+          "Rising temperatures are likely to reshape working patterns significantly, potentially accelerating the adoption of flexible and remote working arrangements, particularly in industries and regions where outdoor labour becomes increasingly dangerous during summer months.",
+          "Urban design and architecture will need to respond to thermal comfort challenges, with greater emphasis on passive cooling techniques, reflective building materials, and the strategic planting of shade trees in densely populated areas.",
+          "Cultural and social habits around outdoor activity, tourism, and seasonal consumption are likely to shift, with regions that currently attract summer visitors potentially becoming uncomfortably hot, redirecting tourist flows to previously cooler destinations."
+        ]
+      },
+      {
+        "q": "Some people argue that individuals have a greater responsibility than governments to address climate change. To what extent do you agree?",
+        "q_zh": "有些人認為，個人比政府更應對氣候變化負責。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "While individual behavioural changes — such as reducing meat consumption, minimising air travel, and choosing energy-efficient appliances — are meaningful, their cumulative impact is dwarfed by the emissions produced by large industrial corporations and energy utilities, suggesting systemic regulatory change is more efficient.",
+          "Placing the moral burden of climate action primarily on individuals risks obscuring the structural and political dimensions of the problem, potentially allowing governments and corporations to deflect accountability for policy failures.",
+          "A balanced perspective recognises that individual choices and systemic policy change are mutually reinforcing rather than mutually exclusive — public demand for sustainable alternatives can drive political will, while effective regulation can normalise sustainable individual behaviour."
+        ]
+      },
+      {
+        "q": "How can urban planners and architects design cities that are more resilient to extreme heat?",
+        "q_zh": "城市規劃師和建築師如何設計出更能抵禦極端高溫的城市？",
+        "key_points": [
+          "Expanding urban tree canopy cover and creating interconnected green corridors can significantly reduce the urban heat island effect, where cities absorb and retain heat at far higher rates than surrounding rural areas due to the prevalence of dark, heat-absorbing surfaces.",
+          "Architects can incorporate passive cooling design principles — such as natural cross-ventilation, reflective roofing materials, and strategically positioned overhangs — to reduce dependence on energy-intensive air conditioning systems, which paradoxically contribute to outdoor warming.",
+          "City-wide water management strategies, including permeable paving, rooftop gardens, and urban wetlands, can help regulate local temperatures through the process of evaporative cooling, while simultaneously addressing flood resilience challenges."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "In recent years, extreme weather events such as heatwaves have become increasingly frequent and severe. Some people believe that climate change is the primary cause of this trend, while others argue that natural weather cycles are responsible. Discuss both views and give your own opinion.",
+    "task2_question_zh": "近年來，熱浪等極端天氣事件變得越來越頻繁和嚴重。一些人認為氣候變化是這一趨勢的主要原因，而另一些人則認為自然天氣週期是主因。討論兩種觀點並給出你自己的看法。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "There is compelling scientific consensus that...",
+        "when_to_use": "Use this phrase to introduce a point that is strongly supported by research or expert opinion, adding authority to your argument.",
+        "when_to_use_zh": "當你想介紹一個有充分研究或專家意見支持的論點，以增強論述的說服力時使用此句型。",
+        "example": "There is compelling scientific consensus that the accelerating frequency of extreme heat events is directly linked to rising concentrations of atmospheric carbon dioxide."
+      },
+      {
+        "phrase": "While it would be an oversimplification to claim that...",
+        "when_to_use": "Use this concessive phrase to acknowledge the partial validity of an opposing view before introducing a counterargument, demonstrating critical thinking.",
+        "when_to_use_zh": "當你想承認對立觀點的部分合理性，然後再提出反駁論點，以展現批判性思維時使用此句型。",
+        "example": "While it would be an oversimplification to claim that all unusual weather events are exclusively caused by human activity, the statistical evidence linking greenhouse gas emissions to rising temperatures is difficult to refute."
+      },
+      {
+        "phrase": "The available evidence points overwhelmingly to...",
+        "when_to_use": "Use this phrase when presenting a conclusion that is strongly supported by data or research, suitable for introducing your own opinion or a key finding.",
+        "when_to_use_zh": "當你想提出一個有大量數據或研究支持的結論，適合用於引出你自己的觀點或關鍵發現時使用此句型。",
+        "example": "The available evidence points overwhelmingly to the conclusion that natural variability alone cannot account for the speed and scale of the temperature increases observed over the past five decades."
+      },
+      {
+        "phrase": "This has profound implications for...",
+        "when_to_use": "Use this phrase to connect a fact or argument to its broader consequences, helping to extend and develop your body paragraph ideas.",
+        "when_to_use_zh": "當你想將一個事實或論點與其更廣泛的影響聯繫起來，有助於擴展和發展正文段落論點時使用此句型。",
+        "example": "The increasing regularity of summer heatwaves has profound implications for public health infrastructure, urban planning priorities, and national energy consumption patterns."
+      },
+      {
+        "phrase": "It is worth acknowledging, however, that...",
+        "when_to_use": "Use this concessive phrase to introduce a nuanced counterpoint within a paragraph, demonstrating that you can consider multiple perspectives and avoiding overly one-sided argumentation.",
+        "when_to_use_zh": "當你想在段落中引入一個細緻的反向論點，展示你能夠考慮多種觀點並避免論述過於片面時使用此句型。",
+        "example": "It is worth acknowledging, however, that Earth's climate has always been subject to natural cycles of warming and cooling, and that disentangling these from anthropogenic influences remains a genuinely complex scientific challenge."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the phenomenon of increasing heatwave frequency as a subject of significant public and scientific debate. Paraphrase the question carefully, avoiding direct repetition of the prompt wording. Clearly state your own position — that while natural cycles play a role, the scientific evidence overwhelmingly implicates human-driven climate change as the dominant factor — at the end of the introduction.",
+      "body1": "Dedicate the first body paragraph to the view that natural weather cycles are responsible. Explain the mechanisms of natural climate variability, such as El Niño-Southern Oscillation patterns and long-term solar activity cycles, and acknowledge that Earth's climate has always fluctuated. Use concessive language to treat this view fairly before noting its limitations — specifically, that natural cycles cannot adequately explain the unprecedented speed and sustained trajectory of recent warming.",
+      "body2": "Use the second body paragraph to present the stronger, evidence-based argument that anthropogenic climate change is the primary driver. Reference the role of greenhouse gas emissions in trapping solar radiation, cite the documented correlation between industrialisation and rising global temperatures, and discuss how climate models consistently attribute the increased frequency and intensity of heatwaves to human activity. Strengthen this paragraph with specific examples such as the UK's record-breaking temperatures and the scientific consensus from bodies like the IPCC.",
+      "conclusion": "Restate your opinion concisely without introducing new information. Emphasise that accepting scientific consensus on climate change is a prerequisite for effective policy responses, and suggest that both mitigation strategies — reducing emissions — and adaptation measures — redesigning infrastructure and public health systems — are urgently needed. End with a forward-looking statement about the consequences of inaction."
+    }
+  }
+}
