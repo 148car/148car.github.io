@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T06:18:46.712308Z",
+  "listening": {
+    "title": "Dangerous heatwave to hit US ahead of holiday weekend",
+    "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A severe and prolonged heatwave is sweeping across the United States and Canada, breaking temperature records and prompting emergency responses ahead of the Fourth of July holiday weekend.",
+    "topic_zh": "一場嚴峻且持續的熱浪正席捲美國和加拿大，打破溫度紀錄，並在美國獨立紀念日長週末前引發緊急應對措施。",
+    "transcript_excerpt": "This week, forecasters are warning of a dangerous and prolonged heatwave set to intensify across a vast stretch of the United States. Around 120 million people are currently under an extreme heat warning issued by the National Weather Service, as the country prepares for its Fourth of July holiday weekend. The situation is made worse by a powerful heat dome — a high-pressure system that traps hot air close to the earth's surface, causing temperatures to soar to dangerous levels. Daytime highs are expected to range between 35 and 40 degrees Celsius, but when combined with high humidity, the heat index could feel as extreme as 46 degrees Celsius in some areas. The worst conditions are predicted to peak across the Midwest and the Mississippi Valley by Thursday, before shifting eastward toward the Ohio Valley and the East Coast as the weekend approaches. Daily temperature records are expected to be shattered on Thursday and Friday, with some all-time records also under threat. Officials across affected states are urging residents to limit their time outdoors, stay well hydrated, and seek access to air conditioning or public cooling centres. New York City has already activated an emergency heat plan, with hundreds of cooling centres opening to help vulnerable populations cope with the relentless and stifling heat.",
+    "vocabulary": [
+      {
+        "word": "heat dome",
+        "type": "noun",
+        "definition": "A meteorological phenomenon in which a high-pressure system traps a mass of hot air beneath it, preventing it from rising and causing temperatures on the ground to rise dramatically.",
+        "definition_zh": "熱穹頂：一種氣象現象，高壓系統將熱空氣困在其下方，導致地面溫度急劇上升。",
+        "example": "The prolonged drought in the region was largely attributed to a persistent heat dome that sat over the area for nearly two weeks."
+      },
+      {
+        "word": "stifling",
+        "type": "adjective",
+        "definition": "Describing an environment that is so hot and humid that it feels suffocating and makes it very difficult to breathe comfortably.",
+        "definition_zh": "令人窒息的：形容環境非常悶熱潮濕，使人感到難以呼吸。",
+        "example": "The stifling overnight temperatures gave residents little relief after the scorching daytime heat."
+      },
+      {
+        "word": "heat index",
+        "type": "noun",
+        "definition": "A measure that combines air temperature and relative humidity to indicate how hot conditions actually feel to the human body, often significantly higher than the actual air temperature.",
+        "definition_zh": "體感溫度（酷熱指數）：結合氣溫和相對濕度來表示人體實際感受到的炎熱程度，通常遠高於實際氣溫。",
+        "example": "Although the thermometer read 38 degrees Celsius, the heat index made it feel closer to 46 degrees due to the oppressive humidity."
+      },
+      {
+        "word": "prolonged",
+        "type": "adjective",
+        "definition": "Lasting for a longer period of time than usual or expected, often with negative consequences.",
+        "definition_zh": "持續的、長期的：持續比通常或預期更長的時間，通常帶有負面影響。",
+        "example": "A prolonged heatwave can pose serious risks to public health, particularly for the elderly and those with pre-existing conditions."
+      },
+      {
+        "word": "swathe",
+        "type": "noun",
+        "definition": "A large, broad strip or area of land, used to describe an extensive region affected by something.",
+        "definition_zh": "大片地區：一大片廣闊的土地或地區，用來描述受某事物影響的廣泛範圍。",
+        "example": "A swathe of the central United States was placed under severe weather alerts as the storm system moved eastward."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, approximately how many people in the United States were under an extreme heat warning as of Tuesday?",
+        "options": [
+          "A: 20 million",
+          "B: 80 million",
+          "C: 120 million",
+          "D: 150 million"
+        ],
+        "answer": "C",
+        "explanation": "The report clearly states that 'some 120 million people nationwide are under an extreme heat warning' as issued by the National Weather Service, making C the correct answer."
+      },
+      {
+        "q": "Where are the most extreme heat conditions expected to peak by Thursday, according to the National Weather Service?",
+        "options": [
+          "A: The East Coast and Ohio Valley",
+          "B: The Midwest and Mississippi Valley",
+          "C: Ontario, Canada",
+          "D: New York City and surrounding areas"
+        ],
+        "answer": "B",
+        "explanation": "The passage specifies that 'The extreme temperatures caused by a heat dome will peak in the Midwest and Mississippi Valley by Thursday,' making B correct. The heat then shifts east afterward."
+      },
+      {
+        "q": "What action did New York City Mayor Zohran Mamdani take in response to the heatwave?",
+        "options": [
+          "A: He ordered all outdoor public events to be cancelled permanently",
+          "B: He requested federal emergency funding for the city",
+          "C: He activated a heat emergency plan and opened hundreds of cooling centres",
+          "D: He imposed a curfew to keep residents indoors during peak heat hours"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that the mayor 'activated a heat emergency plan with hundreds of cooling centres set to open across' the city, which corresponds directly to answer C."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Extreme Heat Events: Causes, Consequences, and the Imperative for Urban Adaptation",
+    "passage": "Extreme heat events, commonly referred to as heatwaves, represent one of the most lethal and increasingly frequent consequences of a warming global climate. Defined meteorologically as a prolonged period of excessively hot weather relative to historical norms for a given region, heatwaves are now occurring with greater intensity, duration, and geographical reach than at any point in recorded history. Scientists attribute this escalating trend primarily to anthropogenic climate change, which is raising average global temperatures and making extreme weather events both more probable and more severe.\n\nA critical driver of many intense heatwaves is a phenomenon known as a heat dome, in which a high-pressure system stalls over a region and acts as a metaphorical lid, trapping hot air close to the earth's surface. Compounded by high atmospheric humidity, this leads to dangerously elevated heat index values — the perceived temperature experienced by the human body — that can far exceed the recorded air temperature. In densely populated urban areas, the urban heat island effect further amplifies these conditions, as concrete, asphalt, and buildings absorb and re-radiate heat, raising local temperatures by several degrees above surrounding rural areas.\n\nThe public health consequences of severe heatwaves are substantial. Heatstroke, dehydration, cardiovascular strain, and exacerbation of pre-existing respiratory conditions are among the most common medical emergencies associated with extreme heat. Elderly individuals, young children, outdoor labourers, and those without access to air conditioning are disproportionately vulnerable. The World Health Organization has linked major European heatwave events to thousands of deaths, underscoring the deadly potential of inadequate preparedness.\n\nIn response, municipalities worldwide are implementing adaptive strategies, including the establishment of public cooling centres, expansion of urban tree canopy, development of heat action plans, and integration of heat resilience into building codes. Nonetheless, experts caution that without substantive reductions in greenhouse gas emissions, such measures will prove increasingly insufficient in the decades ahead.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Heat domes contribute to dangerously high heat index values by trapping hot air near the earth's surface.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that a heat dome traps hot air close to the earth's surface, and when compounded by high humidity, leads to dangerously elevated heat index values, directly supporting this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Urban areas tend to experience lower temperatures than rural areas during heatwaves due to greater vegetation cover.",
+        "answer": "False",
+        "explanation": "The passage states the opposite — the urban heat island effect causes cities to absorb and re-radiate heat, raising local temperatures above those of surrounding rural areas, not lower."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The passage identifies specific government policies in Asia that have been effective in reducing heatwave fatalities.",
+        "answer": "Not Given",
+        "explanation": "The passage makes no mention of Asia or any specific government policies in that region. It discusses adaptive strategies generally and references Europe, but provides no information about Asia specifically."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following groups is described as being disproportionately at risk during extreme heat events?",
+        "options": [
+          "A: Suburban residents and university students",
+          "B: Athletes and individuals engaged in indoor work",
+          "C: The elderly, young children, outdoor labourers, and those without air conditioning",
+          "D: Urban planners and public health administrators"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly lists 'elderly individuals, young children, outdoor labourers, and those without access to air conditioning' as disproportionately vulnerable, which corresponds precisely to option C."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced or were affected by extreme weather conditions.",
+    "topic_zh": "描述一次你經歷或受到極端天氣影響的時候。",
+    "part2": {
+      "cue_card": "Describe a time when you experienced or were affected by extreme weather conditions.\n\nYou should say:\n• What type of extreme weather it was and where it occurred\n• When it happened and how long it lasted\n• How it affected you and the people around you\n\nAnd explain what you learned from the experience and how it changed your attitude toward climate and the environment.",
+      "band_tips": [
+        "Use a wide range of precise meteorological and environmental vocabulary such as 'sweltering,' 'heat index,' 'humidity,' and 'unprecedented' to demonstrate lexical sophistication and boost your Lexical Resource score.",
+        "Structure your response with a clear narrative arc — set the scene vividly, describe the impact with specific details and emotional depth, and conclude with a reflective statement about what the experience taught you, showing coherence and cohesion throughout.",
+        "Employ a variety of complex grammatical structures, including conditionals, passive constructions, and perfect tenses, to showcase grammatical range. For example: 'Had the authorities not opened cooling centres when they did, the consequences could have been far more severe.'"
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to protect citizens from the dangers of extreme heat?",
+        "q_zh": "你認為政府是否採取了足夠措施來保護市民免受極端高溫的危害？",
+        "key_points": [
+          "Acknowledge that some governments, particularly in developed nations, have introduced heat action plans and public cooling infrastructure, but argue that these are largely reactive rather than preventive measures.",
+          "Highlight the disparity between wealthy and low-income communities, noting that vulnerable populations — including the elderly and low-income households without air conditioning — often receive inadequate protection.",
+          "Argue that long-term solutions must involve binding commitments to reducing carbon emissions and integrating climate resilience into urban planning and building regulations, not merely emergency responses."
+        ]
+      },
+      {
+        "q": "How does urbanisation contribute to the severity of heatwaves, and what can city planners do to mitigate this?",
+        "q_zh": "都市化如何加劇熱浪的嚴重性？城市規劃者可以採取哪些措施來緩解這一問題？",
+        "key_points": [
+          "Explain the urban heat island effect, whereby the proliferation of impermeable surfaces such as concrete and asphalt absorbs solar radiation and releases it as heat, raising urban temperatures above those of rural surroundings.",
+          "Discuss mitigation strategies such as expanding urban green spaces and tree canopy cover, developing green roofs and walls, using reflective building materials, and designing cities to promote natural airflow and ventilation.",
+          "Note the tension between economic development pressures and climate-resilient urban design, emphasising that proactive zoning policies and environmental impact assessments are essential to achieving sustainable outcomes."
+        ]
+      },
+      {
+        "q": "In what ways might climate change affect patterns of human migration in the future?",
+        "q_zh": "氣候變化未來可能如何影響人類的遷移模式？",
+        "key_points": [
+          "Discuss the concept of climate refugees — individuals forced to relocate due to uninhabitable conditions caused by extreme heat, sea-level rise, desertification, or frequent natural disasters — and note that this phenomenon is already occurring in parts of South Asia, sub-Saharan Africa, and low-lying island nations.",
+          "Explore how mass climate-driven migration could create significant geopolitical tensions, strain public services in receiving regions, and exacerbate social inequalities, particularly if wealthier nations restrict immigration while contributing disproportionately to global emissions.",
+          "Consider how proactive international cooperation, climate finance mechanisms, and investment in adaptation infrastructure in vulnerable regions could reduce the scale of forced displacement and address root causes rather than merely managing consequences."
+        ]
+      },
+      {
+        "q": "To what extent should individuals be held responsible for addressing climate change, as opposed to corporations and governments?",
+        "q_zh": "個人應在多大程度上為應對氣候變化負責，而非將責任歸於企業和政府？",
+        "key_points": [
+          "Acknowledge that individual behavioural changes — such as reducing energy consumption, limiting air travel, and adopting plant-based diets — can contribute meaningfully in aggregate, and that fostering a culture of environmental responsibility is socially valuable.",
+          "Counter-argue that systemic change driven by government regulation and corporate accountability is far more impactful than individual action alone, given that a small number of corporations are responsible for a disproportionate share of global emissions.",
+          "Advocate for a complementary approach in which individual responsibility, corporate transparency, and binding governmental policy work in concert, while cautioning against narratives that shift blame onto consumers and deflect attention from structural and institutional failures."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As extreme weather events such as heatwaves become increasingly frequent and severe, some people argue that governments must take urgent and far-reaching action to combat climate change, while others believe that individuals and local communities bear the primary responsibility for adapting to these changes. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著熱浪等極端天氣事件越來越頻繁且嚴重，一些人認為政府必須採取緊迫且深遠的行動來應對氣候變化，而另一些人則認為個人和地方社區應承擔適應這些變化的主要責任。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "The escalating frequency of extreme weather events underscores the urgency of...",
+        "when_to_use": "Use in the introduction or body paragraphs to establish the seriousness of the issue and justify the need for action.",
+        "when_to_use_zh": "用於引言或正文段落，以確立問題的嚴重性並說明採取行動的必要性。",
+        "example": "The escalating frequency of extreme weather events underscores the urgency of implementing comprehensive, internationally coordinated climate policy."
+      },
+      {
+        "phrase": "Proponents of this view contend that... ; however, this perspective fails to account for...",
+        "when_to_use": "Use when presenting and then critically evaluating one side of the argument in a balanced discussion essay.",
+        "when_to_use_zh": "在平衡討論型文章中，用於呈現並批判性地評估其中一種觀點。",
+        "example": "Proponents of this view contend that individual lifestyle choices can drive meaningful change; however, this perspective fails to account for the structural forces that make sustainable living inaccessible to many."
+      },
+      {
+        "phrase": "It is widely acknowledged that... , yet the evidence suggests that...",
+        "when_to_use": "Use to introduce a concession before presenting a contrasting or more nuanced argument, demonstrating critical thinking.",
+        "when_to_use_zh": "用於在提出更細緻的對比論點前作出讓步，展現批判性思維。",
+        "example": "It is widely acknowledged that public awareness campaigns have value, yet the evidence suggests that voluntary behavioural change alone is insufficient to achieve the scale of emissions reductions required."
+      },
+      {
+        "phrase": "The disproportionate burden borne by... highlights the inherent inequity of...",
+        "when_to_use": "Use when discussing social or economic inequality in relation to the topic, particularly to strengthen an argument about shared responsibility.",
+        "when_to_use_zh": "在討論與話題相關的社會或經濟不平等時使用，特別是為了強化有關共同責任的論點。",
+        "example": "The disproportionate burden borne by low-income communities during heatwaves highlights the inherent inequity of a system that assigns equal responsibility to all citizens regardless of their capacity to act."
+      },
+      {
+        "phrase": "In light of this evidence, it is reasonable to conclude that a multifaceted approach is not only preferable but essential.",
+        "when_to_use": "Use in the conclusion to synthesise the discussion and signal a balanced, nuanced final position that integrates multiple perspectives.",
+        "when_to_use_zh": "在結論中使用，以綜合討論並表明整合多種觀點的平衡且細緻的最終立場。",
+        "example": "In light of this evidence, it is reasonable to conclude that a multifaceted approach — encompassing governmental regulation, corporate accountability, and informed individual action — is not only preferable but essential."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the increasing severity of heatwaves and extreme weather events globally, referencing the scale of recent incidents. Paraphrase the question to present both perspectives clearly, then state a nuanced thesis that acknowledges merit on both sides while asserting that governmental and systemic action must take precedence, supported by and complementary to individual and community efforts.",
+      "body1": "Present and analyse the argument in favour of governmental responsibility. Discuss the role of binding international agreements, national emissions reduction targets, investment in renewable energy infrastructure, and urban heat resilience policies. Use the example of heat dome events and their public health consequences to illustrate why only large-scale, coordinated policy can address the root causes of climate change rather than merely its symptoms.",
+      "body2": "Present and critically evaluate the argument for individual and community responsibility. Acknowledge that grassroots behavioural change, community resilience networks, and local adaptation strategies — such as establishing cooling centres and promoting heat awareness — are valuable and necessary. However, argue that without systemic support and equitable access to resources, placing primary responsibility on individuals risks penalising the most vulnerable and diverting attention from the structural changes most urgently needed.",
+      "conclusion": "Synthesise both perspectives by reaffirming that government-led systemic action and individual responsibility are not mutually exclusive but must function as complementary forces. Restate your position clearly, emphasising that the scale and urgency of climate-driven extreme heat demands leadership at the highest levels of governance, while community and individual engagement serves as a vital and reinforcing layer of response."
+    }
+  }
+}
