@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T05:45:21.187681Z",
+  "listening": {
+    "title": "Could a heatwave hit Taylor Swift's wedding?",
+    "url": "https://www.bbc.co.uk/news/videos/c75ykqwgwl5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "This episode explores the science of heatwaves, extreme weather forecasting, and how rising global temperatures could affect major public events.",
+    "topic_zh": "本集探討熱浪的科學原理、極端天氣預報，以及全球氣溫上升如何影響重大公眾活動。",
+    "transcript_excerpt": "Welcome to BBC 6 Minute English. Today we're asking a rather unusual question: could a heatwave disrupt one of the most anticipated celebrity events of the year? But behind this light-hearted question lies a serious scientific discussion about extreme weather and climate change. Meteorologists — scientists who study weather patterns — have noted that heatwaves are becoming more frequent and more intense due to rising greenhouse gas emissions. A heatwave is typically defined as a prolonged period of abnormally hot weather, and its impact can be felt across many sectors of society, from public health to outdoor events and agriculture. Weather forecasting has advanced dramatically in recent decades. Using satellite data, computer modelling, and historical climate records, forecasters can now predict extreme heat events several days — sometimes even weeks — in advance. However, there remains a degree of uncertainty in long-range forecasting that makes precise predictions challenging. Climate scientists warn that without significant reductions in carbon emissions, heatwaves will become an increasingly common feature of summers around the world. For event planners, celebrities, and ordinary citizens alike, understanding and adapting to these shifting weather patterns is no longer optional — it is an urgent necessity in a warming world.",
+    "vocabulary": [
+      {
+        "word": "heatwave",
+        "type": "noun",
+        "definition": "A prolonged period of excessively hot weather, often accompanied by high humidity, which can pose serious risks to health and infrastructure.",
+        "definition_zh": "熱浪；一段持續的異常高溫天氣，通常伴隨高濕度，可能對健康和基礎設施造成嚴重威脅。",
+        "example": "The heatwave that swept across southern Europe last summer broke several temperature records and caused widespread disruption."
+      },
+      {
+        "word": "meteorologist",
+        "type": "noun",
+        "definition": "A scientist who studies the atmosphere and weather patterns in order to understand and forecast meteorological events.",
+        "definition_zh": "氣象學家；研究大氣和天氣模式以理解和預報氣象事件的科學家。",
+        "example": "The meteorologist warned that conditions were ideal for an intense heatwave to develop over the coming weekend."
+      },
+      {
+        "word": "forecast",
+        "type": "verb",
+        "definition": "To predict or estimate a future event or condition, especially weather, using scientific data and analysis.",
+        "definition_zh": "預報；預測；利用科學數據和分析預估未來事件或狀況，尤指天氣。",
+        "example": "Scientists forecast that average summer temperatures will rise by two degrees Celsius over the next thirty years."
+      },
+      {
+        "word": "prolonged",
+        "type": "adjective",
+        "definition": "Continuing for a longer time than usual or expected, often implying that the extended duration causes additional difficulty.",
+        "definition_zh": "延長的；持續的；比通常或預期更長時間持續的，通常暗示延長的持續時間造成額外困難。",
+        "example": "A prolonged heatwave lasting three weeks caused severe water shortages across the region."
+      },
+      {
+        "word": "greenhouse gas emissions",
+        "type": "phrase",
+        "definition": "The release of gases such as carbon dioxide and methane into the atmosphere as a result of human activities, which trap heat and contribute to global warming.",
+        "definition_zh": "溫室氣體排放；因人類活動而釋放至大氣中的氣體（如二氧化碳和甲烷），這些氣體困住熱量並導致全球暖化。",
+        "example": "Governments worldwide are under pressure to reduce greenhouse gas emissions in order to limit the frequency of extreme weather events."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, why are heatwaves becoming more frequent?",
+        "options": [
+          "A: Because weather forecasting technology has improved significantly",
+          "B: Because rising greenhouse gas emissions are increasing global temperatures",
+          "C: Because celebrity events attract more media attention to weather",
+          "D: Because satellite data has revealed previously undetected weather patterns"
+        ],
+        "answer": "B",
+        "explanation": "The transcript explicitly states that heatwaves are 'becoming more frequent and more intense due to rising greenhouse gas emissions,' making B the correct answer."
+      },
+      {
+        "q": "What does the passage say about long-range weather forecasting?",
+        "options": [
+          "A: It is now completely accurate thanks to modern technology",
+          "B: It is impossible to predict heatwaves more than 24 hours in advance",
+          "C: It still involves a degree of uncertainty despite technological advances",
+          "D: It relies solely on historical climate records without computer modelling"
+        ],
+        "answer": "C",
+        "explanation": "The passage states 'there remains a degree of uncertainty in long-range forecasting,' confirming that despite advances, precision remains a challenge, making C correct."
+      },
+      {
+        "q": "What does the speaker suggest about adapting to shifting weather patterns?",
+        "options": [
+          "A: It is a personal choice that individuals may consider voluntarily",
+          "B: It is only relevant to government agencies and large corporations",
+          "C: It is an urgent necessity for everyone in a warming world",
+          "D: It is primarily the responsibility of celebrity event planners"
+        ],
+        "answer": "C",
+        "explanation": "The passage concludes that adapting to shifting weather patterns 'is no longer optional — it is an urgent necessity,' which directly corresponds to answer C."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Heatwaves, Climate Change, and the Science of Extreme Heat Events",
+    "passage": "In recent years, extreme heat events known as heatwaves have emerged as one of the most significant consequences of anthropogenic climate change. Defined by meteorologists as a period of abnormally and uncomfortably hot weather lasting at least two to three consecutive days, heatwaves pose serious risks to human health, ecological systems, and economic activity. Their increasing frequency and severity have prompted scientists, policymakers, and the general public to reassess how societies prepare for and respond to extreme heat.\n\nThe primary driver behind the intensification of heatwaves is the accumulation of greenhouse gases in the Earth's atmosphere, most notably carbon dioxide released through the burning of fossil fuels. These gases trap solar radiation, causing average global temperatures to rise — a phenomenon widely known as global warming. As baseline temperatures increase, even moderate variations in weather patterns can tip conditions into the range classified as a heatwave, making such events both more probable and more dangerous.\n\nAdvances in meteorological science have greatly improved humanity's ability to anticipate extreme heat events. Modern forecasting systems integrate satellite imagery, atmospheric data, and sophisticated computer models to generate predictions that can extend up to two weeks in advance with reasonable accuracy. Nevertheless, long-range forecasting remains inherently uncertain, particularly when predicting the precise intensity and geographic extent of a heatwave.\n\nThe societal impacts of heatwaves extend well beyond physical discomfort. Public health systems face increased pressure as heat-related illnesses, including heat exhaustion and heatstroke, surge during extreme heat periods. Agricultural yields may decline as crops fail under prolonged heat stress. Infrastructure, including road surfaces and railway lines, can buckle under extreme temperatures. Even large-scale outdoor events, from sporting competitions to music festivals and public gatherings, may need to be cancelled or modified when dangerous heat conditions are forecast.\n\nAddressing the root causes of intensifying heatwaves requires a coordinated global response centred on reducing carbon emissions, transitioning to renewable energy sources, and implementing urban planning strategies designed to mitigate the urban heat island effect.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Heatwaves are defined as periods of abnormally hot weather lasting at least two to three consecutive days.",
+        "answer": "True",
+        "explanation": "The passage explicitly defines heatwaves as 'a period of abnormally and uncomfortably hot weather lasting at least two to three consecutive days,' so this statement is True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Carbon dioxide is released primarily through the production of synthetic materials rather than the burning of fossil fuels.",
+        "answer": "False",
+        "explanation": "The passage states that carbon dioxide is released 'through the burning of fossil fuels,' directly contradicting the statement that it comes primarily from synthetic material production."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The economic cost of heatwaves in developed nations has been calculated and published by international meteorological organisations.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions economic impacts generally but does not provide specific figures or reference any international meteorological organisations publishing cost calculations, so this is Not Given."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the main reason that even moderate weather variations are now more likely to produce heatwaves?",
+        "options": [
+          "A: Meteorological forecasting models have become more sensitive to minor temperature changes",
+          "B: Rising baseline global temperatures mean smaller variations can reach heatwave thresholds",
+          "C: Urban populations have grown, increasing the number of people exposed to heat",
+          "D: Fossil fuel reserves are being depleted, causing sudden spikes in atmospheric carbon"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'as baseline temperatures increase, even moderate variations in weather patterns can tip conditions into the range classified as a heatwave,' making B the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an extreme weather event that you have experienced or heard about.",
+    "topic_zh": "描述一次你曾經歷過或聽說過的極端天氣事件。",
+    "part2": {
+      "cue_card": "Describe an extreme weather event that you have experienced or heard about.\n\nYou should say:\n• What type of extreme weather event it was\n• When and where it occurred\n• How it affected the people or environment in that area\n\nAnd explain what you think should be done to better prepare for such events in the future.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of weather-related and climate vocabulary such as 'unprecedented,' 'meteorological,' 'heatwave intensity,' and 'climate adaptation' to demonstrate lexical sophistication at Band 7-9 level.",
+        "Structure your response clearly: briefly introduce the event, describe its causes and impacts in detail, then move to a forward-looking conclusion about preparedness — this mirrors the logical organisation examiners reward.",
+        "Include specific details such as temperatures recorded, communities affected, or policy responses introduced, as concrete evidence makes your answer more compelling and demonstrates the ability to develop ideas fully."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare their populations for extreme heat events?",
+        "q_zh": "你認為各國政府是否在為其民眾應對極端高溫事件做足夠的準備？",
+        "key_points": [
+          "Many governments have introduced heat action plans and public warning systems, but implementation varies widely between developed and developing nations.",
+          "Infrastructure adaptation — such as building cooling centres, improving urban green spaces, and retrofitting buildings for heat resilience — requires substantial long-term investment that many administrations are reluctant to prioritise.",
+          "Public education campaigns about the health risks of heatwaves remain underfunded in many regions, leaving vulnerable populations such as the elderly and outdoor workers at disproportionate risk."
+        ]
+      },
+      {
+        "q": "How do you think climate change will affect outdoor public events and entertainment in the future?",
+        "q_zh": "你認為氣候變化未來將如何影響戶外公共活動和娛樂？",
+        "key_points": [
+          "Rising temperatures will likely force event organisers to shift outdoor festivals, concerts, and sporting events to cooler months or to indoor venues, fundamentally changing the cultural calendar.",
+          "The financial and logistical costs of implementing heat mitigation measures — such as shading structures, misting systems, and medical standby teams — will increase ticket prices and reduce the viability of smaller events.",
+          "There may be a positive outcome in that extreme weather events could accelerate innovation in sustainable, climate-resilient event design and crowd management practices."
+        ]
+      },
+      {
+        "q": "To what extent do you think media coverage of celebrities influences public awareness of serious issues like climate change?",
+        "q_zh": "你在多大程度上認為媒體對名人的報導能影響公眾對氣候變化等嚴肅議題的認知？",
+        "key_points": [
+          "When serious scientific topics are framed around familiar public figures, they can reach audiences who might otherwise ignore traditional environmental reporting, effectively broadening the conversation.",
+          "However, celebrity-focused coverage risks trivialising complex issues by reducing them to entertainment stories rather than fostering deep understanding of the underlying science and policy challenges.",
+          "The most effective approach may be one that uses celebrity interest as an entry point to direct audiences towards credible scientific sources and actionable information about climate change."
+        ]
+      },
+      {
+        "q": "Some people argue that individuals should take more personal responsibility for reducing carbon emissions. Do you agree?",
+        "q_zh": "有些人認為個人應承擔更多減少碳排放的個人責任。你同意嗎？",
+        "key_points": [
+          "Individual actions such as reducing meat consumption, minimising air travel, and choosing renewable energy sources can collectively contribute to meaningful emissions reductions, particularly in high-income societies.",
+          "However, structural change driven by government regulation and corporate accountability is arguably far more impactful than individual behavioural shifts, and placing excessive moral burden on individuals can distract from systemic failures.",
+          "A balanced perspective recognises that personal responsibility and systemic reform are not mutually exclusive — both are necessary components of an effective response to the climate crisis."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As extreme weather events such as heatwaves become more frequent due to climate change, some people believe that governments should invest heavily in advanced weather forecasting technology. Others argue that money would be better spent on reducing greenhouse gas emissions. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著氣候變化導致熱浪等極端天氣事件愈發頻繁，一些人認為政府應大力投資先進的天氣預報技術，另一些人則認為這筆錢最好用於減少溫室氣體排放。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "It is widely acknowledged that",
+        "when_to_use": "Use at the start of a sentence to introduce a point that has broad scientific or public consensus, lending authority to your argument.",
+        "when_to_use_zh": "用於句子開頭，介紹具有廣泛科學或公眾共識的觀點，為你的論述增添權威性。",
+        "example": "It is widely acknowledged that the intensification of heatwaves is directly linked to rising concentrations of atmospheric carbon dioxide."
+      },
+      {
+        "phrase": "Proponents of this view contend that",
+        "when_to_use": "Use when presenting the argument of one side in a discussion essay before transitioning to the counter-argument or your own opinion.",
+        "when_to_use_zh": "在討論文中呈現一方論點時使用，然後再過渡到反駁觀點或你自己的意見。",
+        "example": "Proponents of this view contend that investing in predictive technology allows communities to save lives by acting on advance warnings of dangerous heat."
+      },
+      {
+        "phrase": "While this argument has considerable merit, it overlooks the fact that",
+        "when_to_use": "Use to concede the partial validity of an opposing argument before introducing a stronger counter-point, demonstrating balanced critical thinking.",
+        "when_to_use_zh": "用於承認反對論點的部分合理性，然後引入更有力的反駁觀點，展現平衡的批判性思維。",
+        "example": "While this argument has considerable merit, it overlooks the fact that forecasting technology addresses the symptoms of climate change rather than its root causes."
+      },
+      {
+        "phrase": "From a long-term perspective",
+        "when_to_use": "Use when shifting the discussion from immediate or short-term considerations to broader, more strategic implications of a policy or action.",
+        "when_to_use_zh": "用於將討論從即時或短期考量轉向某項政策或行動的更廣泛、更具策略性的影響。",
+        "example": "From a long-term perspective, reducing greenhouse gas emissions represents a far more cost-effective strategy than continually upgrading crisis response infrastructure."
+      },
+      {
+        "phrase": "A comprehensive approach would therefore involve",
+        "when_to_use": "Use in the conclusion or when synthesising both sides of an argument to propose an integrated solution that goes beyond a simple either-or choice.",
+        "when_to_use_zh": "用於結論或綜合雙方論點時，提出超越非此即彼選擇的綜合解決方案。",
+        "example": "A comprehensive approach would therefore involve simultaneous investment in both early warning systems and ambitious emissions reduction targets."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the issue: note that extreme weather events are intensifying globally, then paraphrase the two positions presented in the question and state clearly that you will discuss both before offering your own nuanced view.",
+      "body1": "Present the case for investing in advanced weather forecasting technology. Argue that improved prediction systems save lives by enabling timely evacuations and public health responses, reduce economic losses from unpreparedness, and represent a pragmatic adaptation strategy for the near future when some degree of warming is already inevitable.",
+      "body2": "Present the argument for prioritising greenhouse gas emission reductions. Explain that forecasting treats symptoms rather than causes, that sustained emissions will eventually produce heatwaves beyond any adaptive capacity, and that transitioning to renewable energy simultaneously addresses multiple environmental challenges including air quality, biodiversity loss, and ocean acidification.",
+      "conclusion": "Synthesise both positions by arguing that the most effective policy framework combines both approaches — short-term investment in forecasting for immediate resilience and long-term commitment to emissions reductions for systemic change — then restate your opinion that emissions reduction must be the primary priority to address the fundamental driver of intensifying extreme weather."
+    }
+  }
+}
