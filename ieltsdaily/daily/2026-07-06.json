@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T06:20:47.020953Z",
+  "listening": {
+    "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+    "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Super Typhoon Bavi struck Guam and the Northern Mariana Islands with catastrophic winds and flooding, highlighting how climate change is intensifying tropical cyclones in the western Pacific.",
+    "topic_zh": "超級颱風「巴威」以毀滅性強風和洪水襲擊關島及北馬里亞納群島，凸顯氣候變遷正使西太平洋熱帶氣旋愈趨強烈。",
+    "transcript_excerpt": "When meteorologists talk about a super typhoon, they mean a storm of extraordinary and often terrifying power. Super Typhoon Bavi, which made landfall over Guam and the Northern Mariana Islands in early July 2026, was precisely that kind of event. Packing sustained winds of nearly 290 kilometres per hour and gusts reaching 350 kilometres per hour, Bavi was described by the US National Weather Service as an extremely dangerous and potentially catastrophic storm. Waves of nearly eleven metres battered the coastlines, and residents across the islands scrambled to reach emergency shelters before conditions deteriorated beyond all safety thresholds. On the island of Rota, the southernmost inhabited island in the Northern Mariana chain, officials reported major structural damage even before the eye of the storm had fully passed. A spokesperson for the mayor described residents as simply hanging in there, enduring howling winds and widespread flooding. On the larger island of Saipan, wind gusts exceeding 160 kilometres per hour were recorded at the airport, and widespread power outages left many households in the dark. What made this event particularly alarming to scientists and policymakers alike was not just its immediate destruction, but what it signalled about the future. Bavi arrived only months after another super typhoon had struck the same islands in April. Climate researchers argue that rising sea surface temperatures driven by global warming are fuelling more intense and more frequent typhoons across the western Pacific, turning what were once rare catastrophic storms into an increasingly regular threat for vulnerable island communities.",
+    "vocabulary": [
+      {
+        "word": "make landfall",
+        "type": "phrase",
+        "definition": "(of a storm or hurricane) to reach and cross a coastline from the sea, bringing its full destructive force onto land",
+        "definition_zh": "（颱風或颶風）從海上登陸，將其破壞力帶到陸地",
+        "example": "Meteorologists warned that the typhoon was expected to make landfall near the capital sometime before dawn."
+      },
+      {
+        "word": "catastrophic",
+        "type": "adjective",
+        "definition": "involving or causing sudden great damage or suffering; used to describe damage or consequences of extreme severity",
+        "definition_zh": "災難性的；造成巨大破壞或苦難的",
+        "example": "The earthquake caused catastrophic damage to the city's infrastructure, leaving thousands of residents homeless."
+      },
+      {
+        "word": "deteriorate",
+        "type": "verb",
+        "definition": "to become progressively worse in quality, condition, or severity, especially referring to weather or a situation",
+        "definition_zh": "惡化；（天氣或情況）逐漸變得更糟",
+        "example": "Rescue operations were suspended as weather conditions began to deteriorate rapidly overnight."
+      },
+      {
+        "word": "prone to",
+        "type": "phrase",
+        "definition": "likely to be affected by something, particularly something harmful or undesirable; having a natural tendency toward",
+        "definition_zh": "容易受到……影響的；有……傾向的",
+        "example": "Low-lying coastal areas are particularly prone to flooding during periods of heavy monsoon rainfall."
+      },
+      {
+        "word": "tropical cyclone",
+        "type": "noun",
+        "definition": "a large rotating storm system originating over warm tropical ocean waters, characterised by strong winds and heavy rain; known as a typhoon in the western Pacific",
+        "definition_zh": "熱帶氣旋；在溫暖的熱帶海洋上形成的大型旋轉風暴系統，在西太平洋稱為颱風",
+        "example": "The frequency of intense tropical cyclones has increased significantly over the past two decades according to recent climate studies."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, what wind speed did gusts from Super Typhoon Bavi reach at their peak?",
+        "options": [
+          "A: 180 kilometres per hour",
+          "B: 290 kilometres per hour",
+          "C: 350 kilometres per hour",
+          "D: 161 kilometres per hour"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that gusts reached 350 km/h, while 290 km/h referred to sustained winds and 161 km/h was recorded specifically at Saipan airport."
+      },
+      {
+        "q": "What reason do scientists give for why powerful typhoons are becoming more common in the western Pacific?",
+        "options": [
+          "A: Increased shipping and industrial activity in the region",
+          "B: Natural cyclical patterns in ocean current circulation",
+          "C: Climate change raising the frequency of intense storms",
+          "D: The weakening of the jet stream over the Pacific Ocean"
+        ],
+        "answer": "C",
+        "explanation": "The report explicitly states that scientists say climate change is making powerful typhoons more common, not natural cycles or other human activities."
+      },
+      {
+        "q": "Which island in the Northern Mariana Islands is described as taking a direct hit from Typhoon Bavi?",
+        "options": [
+          "A: Guam",
+          "B: Saipan",
+          "C: Tinian",
+          "D: Rota"
+        ],
+        "answer": "D",
+        "explanation": "The NWS specifically identified Rota, described as the southernmost inhabited island about 50km north-east of Guam, as taking a direct hit from the storm."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Intensification of Tropical Cyclones in the Western Pacific: Climate Change and Vulnerable Island Communities",
+    "passage": "The western Pacific Ocean is the most active basin for tropical cyclones on Earth, generating more storms of greater intensity than any other oceanic region. Super Typhoon Bavi, which struck the US territories of Guam and the Northern Mariana Islands in July 2026, served as a stark illustration of how these meteorological events can devastate small island communities with relatively little warning. With sustained winds approaching 290 kilometres per hour and wave heights of nearly eleven metres, Bavi caused widespread structural damage and forced large numbers of residents into emergency shelters across the archipelago.\n\nWhat distinguished Bavi from previous storms in public discourse was its timing. It arrived merely months after another super typhoon had impacted the same island chain in April of the same year, prompting urgent questions about whether such sequences of intense storms were becoming normalised. Climate scientists have long warned that rising sea surface temperatures, driven by anthropogenic greenhouse gas emissions, are providing greater energy to developing tropical cyclones, enabling them to reach higher categories of intensity more rapidly and maintain that intensity for longer periods.\n\nThe phenomenon known as rapid intensification, whereby a storm strengthens dramatically within a short timeframe, has been observed with increasing frequency across the Pacific basin. Research published in leading climatological journals suggests that the proportion of tropical cyclones reaching super typhoon classification has grown measurably over recent decades, even as the total number of storms has remained relatively stable.\n\nFor vulnerable island territories such as Guam and the Northern Mariana Islands, these trends carry profound implications for infrastructure planning, emergency preparedness, and long-term habitability. Authorities face the dual challenge of responding to immediate disaster needs while simultaneously investing in resilient infrastructure capable of withstanding storms of unprecedented severity. International climate policy discussions increasingly recognise small island developing states and territories as frontline communities bearing disproportionate consequences of global warming relative to their minimal contribution to global emissions.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The western Pacific Ocean produces more tropical cyclones of greater intensity than any other ocean basin on Earth.",
+        "answer": "True",
+        "explanation": "The passage directly states that the western Pacific is 'the most active basin for tropical cyclones on Earth, generating more storms of greater intensity than any other oceanic region.'"
+      },
+      {
+        "type": "TFNG",
+        "statement": "Climate scientists believe that rising sea surface temperatures cause tropical cyclones to form more frequently in absolute numbers.",
+        "answer": "False",
+        "explanation": "The passage states the opposite: research suggests 'the total number of storms has remained relatively stable,' while the proportion reaching super typhoon classification has grown."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The government of the Northern Mariana Islands had submitted a formal complaint to international climate bodies prior to Typhoon Bavi's arrival.",
+        "answer": "Not Given",
+        "explanation": "The passage makes no mention of any formal complaint or submission by the Northern Mariana Islands government to international bodies. This information is entirely absent from the text."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what does the term 'rapid intensification' refer to in the context of tropical cyclones?",
+        "options": [
+          "A: The process by which a typhoon moves from the ocean onto land very quickly",
+          "B: A dramatic increase in storm strength occurring over a short period of time",
+          "C: The speed at which emergency services respond to cyclone warnings",
+          "D: A rise in the frequency of tropical cyclones forming each calendar year"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly defines rapid intensification as 'a phenomenon whereby a storm strengthens dramatically within a short timeframe,' making option B the only accurate reflection of the text's definition."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a natural disaster or extreme weather event that had a significant impact on a community",
+    "topic_zh": "描述一場對某個社區造成重大影響的自然災害或極端天氣事件",
+    "part2": {
+      "cue_card": "Describe a natural disaster or extreme weather event that had a significant impact on a community.\n\nYou should say:\n• what the event was and where it occurred\n• what caused the event or made it particularly severe\n• how the local community and authorities responded\n• and explain what long-term effects this event had on the people and place affected.\n\nYou will have one minute to prepare. Then speak for one to two minutes.",
+      "band_tips": [
+        "Use precise meteorological and environmental vocabulary such as 'rapid intensification,' 'storm surge,' 'catastrophic damage,' and 'emergency infrastructure' to demonstrate lexical sophistication and push toward Band 8-9.",
+        "Employ a range of complex grammatical structures including passive constructions ('residents were forced to evacuate'), conditional clauses ('had the authorities not issued early warnings, the casualties could have been far greater'), and participle phrases to showcase grammatical range.",
+        "Go beyond simply describing events by analysing causes and consequences using discourse markers such as 'as a direct consequence of,' 'what was particularly significant was,' and 'this underscores the broader issue of' to demonstrate the higher-order thinking examiners reward at Band 7 and above."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments do enough to prepare their citizens for natural disasters? Why or why not?",
+        "q_zh": "你認為政府在幫助市民準備應對自然災害方面做得足夠嗎？為什麼？",
+        "key_points": [
+          "Distinguish between well-resourced nations with sophisticated early warning systems and vulnerable developing or island states that lack adequate infrastructure and funding for disaster preparedness",
+          "Argue that preparedness is not solely a matter of political will but also of economic capacity, noting that small island territories face structural disadvantages in building resilient systems",
+          "Acknowledge progress in international cooperation through bodies like the UN Office for Disaster Risk Reduction while noting that implementation at local community level often remains inadequate"
+        ]
+      },
+      {
+        "q": "How does climate change affect the severity and frequency of extreme weather events around the world?",
+        "q_zh": "氣候變遷如何影響全球極端天氣事件的嚴重程度和頻率？",
+        "key_points": [
+          "Explain the scientific mechanism by which warmer ocean surface temperatures provide greater thermal energy to developing tropical cyclones, enabling more rapid intensification to higher categories",
+          "Note the broader pattern of attribution science linking anthropogenic emissions to increased frequency of extreme precipitation, prolonged droughts, and intensified storm systems globally",
+          "Highlight the concept of compounding risks, where climate change does not simply increase individual event severity but also reduces recovery time between successive disasters in vulnerable regions"
+        ]
+      },
+      {
+        "q": "What responsibilities do wealthier, high-emission countries have toward communities most affected by climate change?",
+        "q_zh": "高排放的富裕國家對受氣候變遷影響最嚴重的社區有哪些責任？",
+        "key_points": [
+          "Introduce the concept of climate justice and loss and damage, noting the moral and increasingly legal arguments that high-emission nations bear responsibility for financing adaptation and recovery in frontline communities",
+          "Reference international agreements such as the Paris Agreement and the establishment of the Loss and Damage Fund at COP27, while acknowledging the gap between commitments made and funding actually disbursed",
+          "Explore counterarguments around national sovereignty and competing domestic priorities, while asserting that enlightened self-interest as well as ethical obligation supports greater international climate finance commitments"
+        ]
+      },
+      {
+        "q": "In your opinion, should people continue to live in areas that are highly vulnerable to natural disasters, or should governments encourage relocation?",
+        "q_zh": "你認為人們應該繼續居住在極易受自然災害影響的地區，還是政府應該鼓勵遷移？",
+        "key_points": [
+          "Acknowledge the profound cultural, economic, and identity-based attachments that communities have to their homelands, particularly for indigenous island peoples for whom relocation represents not merely inconvenience but potential cultural erasure",
+          "Present the pragmatic counterargument that in an era of escalating climate risk, managed retreat may in some cases represent the most humane and economically rational long-term policy option",
+          "Propose a middle-ground position emphasising investment in climate-resilient infrastructure and building codes as a preferable first response, with voluntary and well-supported relocation assistance available for communities that choose to move"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As extreme weather events such as typhoons and hurricanes become increasingly frequent and severe due to climate change, some people argue that individuals and local communities should take greater responsibility for their own disaster preparedness, while others believe it is primarily the duty of national governments and international organisations to protect vulnerable populations. Discuss both views and give your own opinion.",
+    "task2_question_zh": "由於氣候變遷，颱風和颶風等極端天氣事件變得愈來愈頻繁且嚴重。一些人認為個人和地方社區應對自身的災難應對準備承擔更大責任，而另一些人則認為保護易受災人口主要是國家政府和國際組織的職責。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "bears a disproportionate burden",
+        "when_to_use": "Use when arguing that one party — such as a vulnerable community or developing nation — suffers consequences far greater than their contribution to the cause of a problem would justify",
+        "when_to_use_zh": "當論述某一方（如易受災社區或發展中國家）所承受的後果遠超其對問題成因的貢獻時使用",
+        "example": "Small island territories such as Guam bear a disproportionate burden of climate-related destruction despite contributing negligibly to global greenhouse gas emissions."
+      },
+      {
+        "phrase": "it is incumbent upon",
+        "when_to_use": "Use to express a strong moral or professional obligation placed on a specific actor, particularly governments or institutions, to take a particular course of action",
+        "when_to_use_zh": "用於表達特定行為者（尤其是政府或機構）在道德上或職責上有義務採取某項行動",
+        "example": "It is incumbent upon high-income nations to substantially increase climate finance commitments to the most vulnerable communities worldwide."
+      },
+      {
+        "phrase": "while it is undeniable that",
+        "when_to_use": "Use to acknowledge a valid opposing argument before introducing a contrasting or qualifying point, signalling balanced and sophisticated reasoning to the examiner",
+        "when_to_use_zh": "在承認對立論點的有效性之後，引出對比或補充觀點時使用，展示平衡且成熟的論證能力",
+        "example": "While it is undeniable that community-level preparedness plays a vital role in minimising casualties, individual action alone cannot substitute for coordinated government investment in resilient infrastructure."
+      },
+      {
+        "phrase": "the scale and complexity of",
+        "when_to_use": "Use to introduce an argument that a problem is too large or multifaceted to be addressed by a single actor or simple solution, supporting calls for systemic or institutional responses",
+        "when_to_use_zh": "用於論述某問題規模過大或過於複雜，無法由單一行為者或簡單方案解決，以支持呼籲系統性或制度性回應",
+        "example": "The scale and complexity of disaster risk reduction in typhoon-prone regions demands coordinated action across local, national, and international levels of governance."
+      },
+      {
+        "phrase": "a multifaceted approach is required",
+        "when_to_use": "Use in conclusions or topic sentences to argue that no single policy or actor is sufficient and that effective solutions must address multiple dimensions of a problem simultaneously",
+        "when_to_use_zh": "在結論或主題句中使用，論述單一政策或行為者並不足夠，有效解決方案必須同時應對問題的多個層面",
+        "example": "Given the interconnected nature of climate vulnerability and social inequality, a multifaceted approach is required that combines government-led infrastructure investment with genuine community empowerment."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a striking contextualisation of the growing threat posed by intensifying typhoons and extreme weather events to illustrate the essay's real-world stakes. Clearly paraphrase the question, identifying the two positions — individual and community responsibility versus government and institutional duty — and state a thesis that advocates for a complementary rather than mutually exclusive relationship between the two, with primary accountability resting with governments and international bodies.",
+      "body1": "Examine the argument for greater individual and community responsibility. Acknowledge that community-level preparedness — including maintaining emergency supplies, participating in evacuation drills, and constructing storm-resistant homes — can meaningfully reduce casualties and damage. Note that local knowledge and community cohesion are resources that top-down government programmes sometimes fail to replicate. However, critically evaluate this position by noting that placing the burden predominantly on individuals risks deepening existing inequalities, as lower-income and marginalised communities typically have fewer resources to invest in self-protection.",
+      "body2": "Present and develop the case for primary governmental and international responsibility. Argue that only governments and multilateral institutions command the resources, legal authority, and coordination capacity required to build large-scale resilient infrastructure, fund early warning systems, and enforce building codes capable of withstanding extreme storms. Reference the disproportionate vulnerability of small island developing states relative to their minimal contribution to global emissions as a compelling argument for why international climate finance and the loss and damage mechanism are moral and practical necessities rather than optional generosity.",
+      "conclusion": "Synthesise both positions by affirming that effective disaster risk reduction requires action at every level — individual, community, national, and international. Restate your position that while community engagement is valuable, the primary responsibility must lie with governments and international institutions given the structural nature of climate vulnerability. End with a forward-looking statement emphasising that the escalating frequency of events like Super Typhoon Bavi makes urgent, coordinated, and equitable action not merely advisable but essential."
+    }
+  }
+}
