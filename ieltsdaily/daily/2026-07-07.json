@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T06:00:50.681184Z",
+  "listening": {
+    "title": "Will this heatwave feel as hot and sticky as the last one?",
+    "url": "https://www.bbc.co.uk/news/videos/c2lyyqzvl28o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "This episode explores how humidity affects the perceived intensity of heatwaves and why some hot spells feel more uncomfortable than others.",
+    "topic_zh": "本集探討濕度如何影響人們對熱浪強度的感受，以及為何某些高溫時期比其他時期更令人不舒適。",
+    "transcript_excerpt": "Welcome to 6 Minute English. Today we're asking a question that many people in the UK have been wondering about: will this latest heatwave feel as hot and sticky as the last one? You might have noticed that not all heatwaves feel the same. Sometimes the air is dry and the heat, while intense, feels manageable. Other times, the humidity makes it feel almost unbearable — that thick, oppressive sensation where even the shade offers little relief. Meteorologists call this the 'feels like' temperature, which takes into account not just the actual air temperature but also the level of moisture in the air. When humidity is high, sweat cannot evaporate efficiently from your skin, meaning your body struggles to cool itself down. This is why a 30-degree day in London can sometimes feel far worse than a 35-degree day in a drier climate. Scientists have developed something called the Heat Index, a combined measure of temperature and humidity that gives a more accurate picture of how our bodies actually experience the heat. Public health officials are increasingly using this index to issue warnings and advise vulnerable groups — including the elderly, young children, and those with pre-existing conditions — about when to stay indoors and keep hydrated. Climate researchers warn that as global temperatures rise, the frequency and severity of such heatwaves will only increase, making it vital that societies adapt their infrastructure, healthcare systems, and daily habits accordingly.",
+    "vocabulary": [
+      {
+        "word": "humidity",
+        "type": "noun",
+        "definition": "the amount of water vapour present in the air, which affects how hot or cold the air feels to the human body",
+        "definition_zh": "濕度；空氣中水蒸氣的含量，影響人體對溫度的感受",
+        "example": "The high humidity during the heatwave made it feel far hotter than the thermometer actually indicated."
+      },
+      {
+        "word": "evaporate",
+        "type": "verb",
+        "definition": "to change from a liquid into a vapour or gas, especially through heating; in the context of the body, sweat evaporating cools the skin",
+        "definition_zh": "蒸發；液體因加熱轉變為蒸氣，流汗蒸發可使皮膚降溫",
+        "example": "When the air is saturated with moisture, sweat cannot evaporate quickly enough to cool the body effectively."
+      },
+      {
+        "word": "oppressive",
+        "type": "adjective",
+        "definition": "(of weather) uncomfortably hot and humid, causing a heavy and stifling sensation",
+        "definition_zh": "悶熱的；形容天氣令人感到沉重、難以忍受的炎熱潮濕",
+        "example": "The oppressive heat of the afternoon kept most residents indoors with their fans running at full speed."
+      },
+      {
+        "word": "meteorologist",
+        "type": "noun",
+        "definition": "a scientist who studies and forecasts weather and atmospheric conditions",
+        "definition_zh": "氣象學家；研究並預測天氣及大氣狀況的科學家",
+        "example": "Meteorologists warned that the incoming heatwave could break records set during the previous summer."
+      },
+      {
+        "word": "Heat Index",
+        "type": "phrase",
+        "definition": "a measure that combines air temperature and relative humidity to determine the perceived temperature, reflecting how hot it actually feels to the human body",
+        "definition_zh": "酷熱指數；結合氣溫與相對濕度，反映人體實際感受到的溫度",
+        "example": "According to the Heat Index, yesterday's conditions felt like 42 degrees Celsius despite the thermometer reading only 36."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the episode, why can a 30-degree day sometimes feel worse than a 35-degree day?",
+        "options": [
+          "A: Because urban areas trap more heat than rural areas",
+          "B: Because high humidity prevents sweat from evaporating and cooling the body",
+          "C: Because wind speeds are lower during humid heatwaves",
+          "D: Because the sun's UV rays are stronger when humidity is high"
+        ],
+        "answer": "B",
+        "explanation": "The episode explains that when humidity is high, sweat cannot evaporate efficiently from the skin, which means the body cannot cool itself properly — making a humid 30-degree day feel worse than a drier 35-degree day."
+      },
+      {
+        "q": "What does the 'feels like' temperature measure?",
+        "options": [
+          "A: Only the official air temperature recorded by weather stations",
+          "B: The temperature felt exclusively in urban heat islands",
+          "C: A combined measure of air temperature and atmospheric humidity",
+          "D: The average temperature across a 24-hour period"
+        ],
+        "answer": "C",
+        "explanation": "The episode states that the 'feels like' temperature takes into account not just the actual air temperature but also the level of moisture in the air, giving a more accurate sense of perceived heat."
+      },
+      {
+        "q": "Which groups are specifically mentioned as being advised to stay indoors during extreme heat?",
+        "options": [
+          "A: Athletes, construction workers, and outdoor labourers",
+          "B: The elderly, young children, and those with pre-existing conditions",
+          "C: Tourists, commuters, and office workers",
+          "D: Farmers, gardeners, and park rangers"
+        ],
+        "answer": "B",
+        "explanation": "The episode explicitly states that public health officials advise vulnerable groups — including the elderly, young children, and those with pre-existing conditions — to stay indoors and keep hydrated during dangerous heat events."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Science of Perceived Heat: Why Humidity Matters More Than Temperature",
+    "passage": "When most people think of extreme heat, they focus almost exclusively on air temperature. However, scientists and public health professionals increasingly argue that temperature alone is a poor indicator of the danger that hot weather poses to human health. The critical variable is humidity — the concentration of water vapour in the atmosphere — which profoundly influences how the human body experiences and responds to heat.\n\nThe human body relies on perspiration as its primary mechanism for thermoregulation. As sweat evaporates from the skin's surface, it carries heat away from the body, thereby lowering core temperature. This process, however, is heavily dependent on the capacity of the surrounding air to absorb additional moisture. When relative humidity is high — typically above 60 percent — the air is already saturated with water vapour, and sweat evaporation slows dramatically. The body is consequently unable to dissipate heat efficiently, causing core temperature to rise and placing significant strain on the cardiovascular system.\n\nTo quantify this combined effect, scientists developed the Heat Index, sometimes referred to colloquially as the 'feels like' temperature. This metric integrates both air temperature and relative humidity into a single figure that more accurately reflects physiological stress. A temperature of 32 degrees Celsius combined with 90 percent humidity, for instance, can produce a Heat Index equivalent to 41 degrees Celsius — a difference of nine degrees that carries enormous implications for public health planning.\n\nClimate projections suggest that as global mean temperatures continue to rise due to anthropogenic greenhouse gas emissions, heatwaves will become not only more frequent but also more humid in many regions, particularly in coastal and tropical areas. This compound effect — higher temperatures alongside elevated humidity — represents one of the most severe threats to human habitability in coming decades. Urban planners, healthcare systems, and governments must therefore prioritise adaptation strategies, including green infrastructure, enhanced cooling centres, and early-warning systems, to protect populations from an increasingly hostile thermal environment.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Heat Index is a measurement that considers only air temperature when assessing heat danger.",
+        "answer": "False",
+        "explanation": "The passage clearly states that the Heat Index integrates both air temperature and relative humidity into a single figure, not temperature alone."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Relative humidity above 60 percent significantly reduces the rate at which sweat evaporates from the skin.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that when relative humidity is typically above 60 percent, sweat evaporation slows dramatically because the air is already saturated with water vapour."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Governments in tropical regions have already implemented mandatory Heat Index warning systems in all major cities.",
+        "answer": "Not Given",
+        "explanation": "The passage recommends early-warning systems as an adaptation strategy but provides no information about whether governments have already implemented mandatory systems in tropical cities."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the primary reason why high humidity makes heat more dangerous to the human body?",
+        "options": [
+          "A: It causes the air temperature to rise beyond what thermometers can measure",
+          "B: It prevents sweat from evaporating, stopping the body from cooling itself effectively",
+          "C: It increases ultraviolet radiation exposure on the skin's surface",
+          "D: It reduces oxygen levels in the atmosphere, making breathing more difficult"
+        ],
+        "answer": "B",
+        "explanation": "The passage explains that high humidity means the air cannot absorb more moisture, so sweat cannot evaporate from the skin. This prevents the body's primary cooling mechanism — thermoregulation through perspiration — from functioning properly, causing core temperature to rise."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced extreme or unusual weather conditions",
+    "topic_zh": "描述一次你經歷極端或異常天氣狀況的經歷",
+    "part2": {
+      "cue_card": "Describe a time when you experienced extreme or unusual weather conditions.\n\nYou should say:\n• what the weather conditions were like\n• where you were and what you were doing at the time\n• how the weather affected you physically and emotionally\n\nAnd explain what you learned from that experience about coping with extreme weather.",
+      "band_tips": [
+        "Use a wide range of weather-related and sensory vocabulary — words like 'oppressive', 'sweltering', 'stifling', and 'relentless' will immediately signal lexical sophistication to the examiner.",
+        "Structure your response with a clear narrative arc: set the scene, describe the peak of the experience, and reflect on what you took away from it — this demonstrates coherent discourse management.",
+        "Incorporate personal reflection and opinion in the final section, using hedging language such as 'it made me realise that' or 'I came to appreciate how' to show nuanced thinking and boost your score on Fluency and Coherence."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare their citizens for the increasing frequency of heatwaves?",
+        "q_zh": "你認為各國政府是否採取了足夠措施，讓公民應對日益頻繁的熱浪？",
+        "key_points": [
+          "Many governments have been slow to update infrastructure — for example, older housing stock in countries like the UK was built for cold retention, not heat dispersal, leaving populations vulnerable.",
+          "Some nations have implemented effective early-warning systems and public cooling centres, demonstrating that proactive policy can save lives during extreme heat events.",
+          "There is an argument that spending on climate adaptation competes with short-term political priorities, meaning long-term heat preparedness is often underfunded despite growing scientific consensus on the threat."
+        ]
+      },
+      {
+        "q": "How does extreme heat disproportionately affect different groups within society?",
+        "q_zh": "極端高溫如何對社會中不同群體產生不成比例的影響？",
+        "key_points": [
+          "Elderly individuals and young children are physiologically more vulnerable to heat stress because their bodies regulate temperature less efficiently, making them the primary targets of public health advisories.",
+          "Lower-income communities often lack access to air conditioning, green spaces, or the flexibility to adjust their working hours during dangerous heat, creating a clear socioeconomic dimension to heat-related mortality.",
+          "Outdoor labourers — including agricultural workers and construction workers — face compulsory exposure to extreme heat, raising important questions about occupational safety regulations and workers' rights in a warming world."
+        ]
+      },
+      {
+        "q": "To what extent do you think climate change is responsible for the increasing severity of heatwaves globally?",
+        "q_zh": "你認為氣候變遷在多大程度上造成全球熱浪強度的增加？",
+        "key_points": [
+          "The scientific consensus, supported by bodies such as the IPCC, is overwhelmingly clear that anthropogenic greenhouse gas emissions are raising global mean temperatures, directly increasing the frequency, duration, and intensity of heatwaves.",
+          "Attribution science has advanced to the point where researchers can now quantify how much more likely a specific extreme heat event was made by climate change, providing powerful evidence for policy action.",
+          "While natural climate variability such as El Niño can temporarily amplify heat events, the long-term upward trend in extreme temperatures is consistent with and attributable to human-induced climate change rather than natural cycles alone."
+        ]
+      },
+      {
+        "q": "What lifestyle or behavioural changes do you think individuals should adopt to deal with a hotter future?",
+        "q_zh": "你認為個人應該採取哪些生活方式或行為改變，以應對更炎熱的未來？",
+        "key_points": [
+          "Adopting Mediterranean-style habits — such as reducing outdoor activity during peak heat hours between midday and 4pm, and incorporating rest periods — could significantly reduce heat-related illness at the individual level.",
+          "Dietary adjustments, including increased hydration and a shift towards lighter, plant-based meals during hot periods, can help the body manage thermal stress more effectively than heavy or processed foods.",
+          "At the community level, individuals can advocate for and participate in urban greening initiatives — planting trees, supporting green roofs, and creating shaded public spaces — which collectively reduce the urban heat island effect and benefit entire neighbourhoods."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As global temperatures rise, heatwaves are becoming more frequent and intense. Some people argue that individuals must take personal responsibility for adapting to extreme heat, while others believe it is the duty of governments and institutions to protect citizens from climate-related dangers. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著全球氣溫上升，熱浪變得更加頻繁和強烈。一些人認為個人必須為適應極端高溫承擔個人責任，而另一些人則認為保護公民免受氣候相關危害是政府和機構的責任。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use when introducing a danger or risk associated with a phenomenon, particularly in the introduction or topic sentence of a body paragraph",
+        "when_to_use_zh": "用於介紹某現象相關的危險或風險，特別適合在引言或段落主題句中使用",
+        "example": "The increasing frequency of extreme heat events poses a significant threat to public health systems that were not designed to handle such sustained demand."
+      },
+      {
+        "phrase": "disproportionately affects",
+        "when_to_use": "Use when arguing that a problem impacts certain groups more severely than others, demonstrating analytical depth",
+        "when_to_use_zh": "用於論述某問題對特定群體影響更為嚴重，展現分析深度",
+        "example": "It is well-documented that extreme heat disproportionately affects low-income communities, who often lack access to air conditioning or adequate healthcare."
+      },
+      {
+        "phrase": "it would be unreasonable to suggest that",
+        "when_to_use": "Use to diplomatically reject an extreme position before presenting a more balanced argument, useful in discussion essays",
+        "when_to_use_zh": "用於在提出更平衡的論點之前，以外交方式否定一個極端立場，適合用在討論型作文中",
+        "example": "While personal habits certainly matter, it would be unreasonable to suggest that individuals alone can address the systemic infrastructure failures exposed by extreme heat events."
+      },
+      {
+        "phrase": "a multifaceted approach is required",
+        "when_to_use": "Use in conclusions or transitional paragraphs to signal that a complex problem demands solutions at multiple levels simultaneously",
+        "when_to_use_zh": "用於結論或過渡段，說明複雜問題需要同時在多個層面尋求解決方案",
+        "example": "Given the scale and complexity of climate-driven heat risks, a multifaceted approach is required that integrates government policy, urban planning, and individual behavioural change."
+      },
+      {
+        "phrase": "the evidence overwhelmingly suggests that",
+        "when_to_use": "Use to present scientific or empirical consensus with confidence, lending authority to your argument without overstating certainty",
+        "when_to_use_zh": "用於有信心地呈現科學或實證共識，為論點增添權威性而不過度誇大確定性",
+        "example": "The evidence overwhelmingly suggests that passive adaptation by individuals is insufficient without parallel structural interventions from government and urban planners."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the global rise in heatwave frequency and intensity, then introduce the central tension between individual responsibility and collective governmental duty. End with a clear thesis statement indicating that while both play a role, structural government action is ultimately more effective and equitable.",
+      "body1": "Present the case for individual responsibility: people can reduce their vulnerability through behavioural changes such as adjusting daily routines, staying hydrated, and avoiding outdoor exertion during peak heat hours. Acknowledge that personal agency is important and empowers communities. However, concede that this view has limitations — not everyone has the freedom or resources to adapt individually, particularly outdoor workers and low-income households.",
+      "body2": "Argue that government and institutional responsibility is paramount. Explain that systemic solutions — including heat-resilient urban infrastructure, early-warning systems, regulation of outdoor working conditions, and publicly funded cooling centres — address the root causes of heat vulnerability in ways that individuals simply cannot. Emphasise that relying solely on personal responsibility places unfair burdens on society's most vulnerable members and ignores the collective, policy-driven nature of climate adaptation.",
+      "conclusion": "Restate your position that a dual approach is necessary but that government action must take the lead given the scale of the challenge. Suggest that the most effective societies will be those that combine robust institutional frameworks with informed, empowered citizens — and call for urgent prioritisation of climate adaptation policy before conditions worsen further."
+    }
+  }
+}
