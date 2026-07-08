@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T05:02:40.324637Z",
+  "listening": {
+    "title": "A mountain of rubbish in Indonesia has been on fire for more than a week",
+    "url": "https://www.bbc.co.uk/news/articles/c1ly1vddj6qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A massive landfill fire in Jakarta, Indonesia has burned for over a week, causing toxic air pollution, displacing residents, and highlighting the country's growing waste management crisis.",
+    "topic_zh": "印尼雅加達一座大型垃圾山持續燃燒超過一週，造成有毒空氣污染、居民被迫疏散，並凸顯該國日益嚴重的廢棄物管理危機。",
+    "transcript_excerpt": "Welcome to today's programme, where we're looking at a story that combines environmental disaster with questions of systemic failure. For over eight days, a fire has been raging at the Jatiwaringin landfill site on the outskirts of Jakarta, Indonesia's sprawling capital city. The blaze has consumed more than 15 hectares of compacted waste, sending thick, toxic plumes of smoke billowing into nearby residential neighbourhoods and forcing hundreds of families to abandon their homes.\n\nAuthorities believe the fire was initially sparked by a small ignition source, which was then rapidly fanned by strong gusts of wind. The flames quickly spread to areas where rubbish had been piled particularly high, and to locations that have proven almost inaccessible for firefighting crews. Emergency services have deployed an impressive array of resources — helicopters, water tankers, bulldozers, and surveillance drones — in a determined effort to bring the inferno under control.\n\nThe human cost has been devastating. Local health authorities have recorded a sharp surge in respiratory illnesses among residents living near the landfill, as hazardous air quality readings have consistently exceeded safe thresholds. One resident, Sarmanah, described how the smoke flooded her home, stinging her eyes and making it impossible to breathe. Environmental campaigners, meanwhile, are calling this an ecological disaster born of systemic negligence — arguing that Indonesia's waste crisis has been building for years, and that this fire is merely its most visible and dramatic symptom so far.",
+    "vocabulary": [
+      {
+        "word": "landfill",
+        "type": "noun",
+        "definition": "A site where waste material is buried under layers of earth, often used as a method of managing large quantities of solid rubbish",
+        "definition_zh": "垃圾掩埋場；一種將廢棄物埋於土層下的廢棄物處理場地",
+        "example": "The local government approved plans to expand the landfill to accommodate the city's growing volume of household waste."
+      },
+      {
+        "word": "inundate",
+        "type": "verb",
+        "definition": "To overwhelm or flood a place or person with a large quantity of something, often something unwanted",
+        "definition_zh": "淹沒；使充斥；以大量（通常是不受歡迎的事物）壓倒或湧入某地",
+        "example": "After the factory explosion, toxic fumes inundated the surrounding streets, prompting an emergency evacuation."
+      },
+      {
+        "word": "systemic negligence",
+        "type": "phrase",
+        "definition": "A failure of care or responsibility that is embedded within an entire system or institution, rather than being the fault of a single individual",
+        "definition_zh": "系統性疏失；指整個體制或機構層面的失職，而非個別人員的過錯",
+        "example": "Critics argued that the repeated infrastructure failures were evidence of systemic negligence within the city's planning department."
+      },
+      {
+        "word": "respiratory",
+        "type": "adjective",
+        "definition": "Relating to the process of breathing and the organs involved, such as the lungs, throat, and airways",
+        "definition_zh": "呼吸的；與呼吸系統相關的",
+        "example": "Prolonged exposure to fine particulate matter can lead to serious respiratory conditions, including asthma and chronic bronchitis."
+      },
+      {
+        "word": "extinguish",
+        "type": "verb",
+        "definition": "To cause a fire or light to stop burning or shining; to bring something to an end completely",
+        "definition_zh": "撲滅（火焰）；熄滅；使完全終止",
+        "example": "Firefighters worked through the night to extinguish the blaze before it could spread to neighbouring properties."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, what is believed to have initially caused the Jatiwaringin landfill fire?",
+        "options": [
+          "A: A deliberate act of arson by local residents",
+          "B: A small spark that was spread by strong winds",
+          "C: Spontaneous combustion due to extreme heat",
+          "D: An accidental methane gas explosion triggered by machinery"
+        ],
+        "answer": "B",
+        "explanation": "The report states the fire 'initially triggered by a small spark which was fanned by strong gusts of wind,' making B the correct answer. The methane build-up is mentioned as a contributing factor, but the initial trigger was the spark and wind combination."
+      },
+      {
+        "q": "Which of the following resources was NOT mentioned as being deployed to fight the landfill fire?",
+        "options": [
+          "A: Helicopters",
+          "B: Water tankers",
+          "C: Submarines",
+          "D: Drones"
+        ],
+        "answer": "C",
+        "explanation": "The passage lists helicopters, water tankers, bulldozers, and drones as resources dispatched to fight the fire. Submarines are never mentioned, making C the correct answer."
+      },
+      {
+        "q": "How do environmental activists characterise the landfill fire in the broader context of Indonesia's situation?",
+        "options": [
+          "A: An isolated and unprecedented natural disaster",
+          "B: A symptom of a growing waste crisis caused by systemic negligence",
+          "C: A consequence of inadequate firefighting technology",
+          "D: A problem primarily caused by individual residents' behaviour"
+        ],
+        "answer": "B",
+        "explanation": "Environmental activists explicitly describe the fire as 'one symptom of a growing waste crisis in Indonesia' and label it 'an ecological disaster resulting from systemic negligence,' which directly corresponds to option B."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Landfill Fires and the Urban Waste Crisis: Lessons from Indonesia",
+    "passage": "The prolonged landfill fire at the Jatiwaringin waste site on the periphery of Jakarta represents far more than a localised environmental emergency. Burning for over eight consecutive days and consuming in excess of 15 hectares of accumulated refuse, the blaze has drawn international attention to the systemic inadequacies of waste management infrastructure in rapidly urbanising developing nations.\n\nInvestigations suggest the fire originated from a modest ignition source, subsequently amplified by adverse meteorological conditions including sustained high winds. However, the underlying vulnerability of the site — attributable to the accumulation of flammable organic material and the build-up of methane gas beneath layers of compacted waste — created conditions profoundly conducive to catastrophic combustion. Environmental scientists have long warned that poorly engineered and insufficiently monitored landfills pose persistent fire risks, particularly in tropical climates where heat and humidity accelerate the decomposition of organic matter.\n\nThe immediate humanitarian consequences have been considerable. Health surveillance data from local authorities documents a marked increase in emergency presentations for respiratory conditions, including acute bronchitis and exacerbated asthma, among populations residing within several kilometres of the landfill perimeter. Atmospheric monitoring conducted by Indonesia's Ministry of Environment confirmed that particulate matter and toxic gas concentrations in affected districts reached levels classified as hazardous under national air quality standards.\n\nBeyond the immediate crisis, commentators and environmental advocacy groups have identified this incident as emblematic of a structural deficit in Indonesia's waste governance framework. The country generates approximately 67 million tonnes of solid waste annually, yet formal waste treatment infrastructure — including sanitary landfills, composting facilities, and waste-to-energy plants — remains critically underdeveloped relative to this volume. Addressing this imbalance will require sustained political commitment, substantial capital investment, and meaningful community engagement, rather than reactive emergency responses to preventable disasters.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Jatiwaringin landfill fire was caused solely by the build-up of methane gas beneath the waste.",
+        "answer": "False",
+        "explanation": "The passage states the fire originated from 'a modest ignition source' amplified by 'adverse meteorological conditions including sustained high winds.' While methane build-up is cited as a contributing vulnerability factor, it was not the sole cause. The reading clearly identifies multiple contributing factors."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Environmental scientists have previously issued warnings about fire risks at poorly engineered landfill sites in tropical regions.",
+        "answer": "True",
+        "explanation": "The passage explicitly states: 'Environmental scientists have long warned that poorly engineered and insufficiently monitored landfills pose persistent fire risks, particularly in tropical climates,' which directly confirms this statement as True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Indonesia currently processes more than half of its annual solid waste through formal waste-to-energy facilities.",
+        "answer": "Not Given",
+        "explanation": "While the passage mentions that Indonesia generates approximately 67 million tonnes of solid waste annually and notes that formal waste treatment infrastructure is 'critically underdeveloped,' it provides no specific data on what proportion of waste is processed through waste-to-energy plants. This information is simply not given in the passage."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best describes the author's overall assessment of how Indonesia should respond to its waste management crisis?",
+        "options": [
+          "A: By constructing more traditional landfill sites in less densely populated rural areas",
+          "B: By implementing emergency firefighting protocols at all existing landfill sites",
+          "C: Through long-term political commitment, investment, and community engagement rather than reactive measures",
+          "D: By immediately banning the use of open landfills and switching entirely to incineration"
+        ],
+        "answer": "C",
+        "explanation": "The final paragraph explicitly states that addressing the structural deficit 'will require sustained political commitment, substantial capital investment, and meaningful community engagement, rather than reactive emergency responses to preventable disasters.' This corresponds precisely to option C. Options A, B, and D are not supported by the passage."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an environmental problem in your local area or country that concerns you",
+    "topic_zh": "描述一個你所在地區或國家令你擔憂的環境問題",
+    "part2": {
+      "cue_card": "Describe an environmental problem in your local area or country that concerns you.\n\nYou should say:\n• what the environmental problem is\n• what you think has caused it\n• what effects it is having on people and the natural world\n\nAnd explain what you think should be done to address this problem.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use sophisticated environmental vocabulary such as 'ecological degradation,' 'systemic negligence,' 'hazardous emissions,' and 'sustainable infrastructure' to demonstrate a wide lexical range and push your score toward Band 8-9.",
+        "Structure your response clearly using discourse markers like 'What particularly concerns me is...', 'The root cause, I would argue, lies in...', and 'In the long term, the most effective solution would be...' to show coherent organisation and cohesion.",
+        "Incorporate a specific personal anecdote or vivid descriptive detail — such as describing the sight of smoke, the smell of polluted air, or a news story you followed — to make your answer more engaging and demonstrate the ability to narrate and describe at a high level."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments in developing countries face unique challenges when trying to manage waste effectively?",
+        "q_zh": "你認為發展中國家的政府在有效管理廢棄物方面是否面臨獨特的挑戰？",
+        "key_points": [
+          "Rapid urbanisation outpaces infrastructure development, creating chronic capacity shortfalls in waste collection and treatment systems",
+          "Limited financial resources constrain investment in modern sanitary landfills, composting facilities, and waste-to-energy technology",
+          "Governance challenges including corruption, weak regulatory enforcement, and lack of inter-departmental coordination compound purely technical difficulties"
+        ]
+      },
+      {
+        "q": "How much responsibility should ordinary citizens bear for the waste crisis compared to corporations and governments?",
+        "q_zh": "與企業和政府相比，普通公民在廢棄物危機中應承擔多少責任？",
+        "key_points": [
+          "Individual consumer choices — such as excessive single-use plastic consumption — contribute meaningfully to waste volumes, suggesting personal responsibility matters",
+          "However, corporations that design and profit from non-recyclable packaging bear disproportionate upstream responsibility for waste generation",
+          "Governments hold the ultimate obligation to create regulatory frameworks and enforcement mechanisms that make responsible waste disposal the easiest and most affordable option for citizens"
+        ]
+      },
+      {
+        "q": "To what extent can technology solve environmental problems like waste management and air pollution?",
+        "q_zh": "技術在多大程度上能夠解決廢棄物管理和空氣污染等環境問題？",
+        "key_points": [
+          "Emerging technologies such as waste-to-energy incineration, advanced composting, and AI-powered waste sorting offer genuinely promising solutions to volume and efficiency challenges",
+          "Nevertheless, technology alone is insufficient without accompanying policy frameworks, behavioural change, and equitable distribution of solutions across income groups",
+          "The risk of over-reliance on technological fixes is that it delays necessary systemic changes and allows political actors to avoid accountability for structural failures"
+        ]
+      },
+      {
+        "q": "Should wealthier nations provide financial and technical assistance to help developing countries manage their environmental crises?",
+        "q_zh": "富裕國家是否應該提供財政和技術援助，幫助發展中國家應對其環境危機？",
+        "key_points": [
+          "Given that industrialised nations generated the bulk of historical carbon emissions and accumulated wealth partly through environmentally damaging industrialisation, there is a compelling moral argument for supporting developing nations",
+          "International cooperation mechanisms like climate finance funds represent existing frameworks that could be expanded to cover waste management infrastructure",
+          "Critics argue that aid-based approaches risk creating dependency and may be less effective than trade agreements, technology transfer deals, and capacity-building partnerships that empower local institutions"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "In many countries, the amount of waste produced by households and industries continues to grow rapidly. Some people believe that governments should be primarily responsible for solving this problem, while others argue that individuals and businesses must take the lead. Discuss both views and give your own opinion.",
+    "task2_question_zh": "在許多國家，家庭和工業產生的廢棄物數量持續快速增長。一些人認為政府應對解決這一問題負主要責任，而另一些人則認為個人和企業必須帶頭行動。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use when introducing or describing the dangers or risks that a problem creates for people, health, or the environment",
+        "when_to_use_zh": "用於介紹或描述某問題對人類、健康或環境所造成的危險或風險",
+        "example": "The uncontrolled accumulation of municipal solid waste poses a significant threat to both public health and ecological stability in densely populated urban centres."
+      },
+      {
+        "phrase": "it is incumbent upon",
+        "when_to_use": "Use to argue that a particular group has a strong duty or obligation to take action; especially effective in opinion or argument paragraphs",
+        "when_to_use_zh": "用於論述某特定群體有強烈的責任或義務採取行動，尤其適合觀點論述段落",
+        "example": "Given the scale of the crisis, it is incumbent upon national governments to implement comprehensive waste reduction legislation rather than relying on voluntary measures."
+      },
+      {
+        "phrase": "stems from a failure to",
+        "when_to_use": "Use to identify the root cause of a problem, particularly when arguing that a crisis is the result of negligence or poor decision-making",
+        "when_to_use_zh": "用於指出問題的根本原因，尤其在論述危機源於疏失或錯誤決策時",
+        "example": "Much of the current waste crisis in developing nations stems from a failure to invest in sustainable infrastructure during periods of rapid economic growth."
+      },
+      {
+        "phrase": "a multi-faceted approach",
+        "when_to_use": "Use when arguing that a complex problem requires several different types of solutions working together, rather than a single fix",
+        "when_to_use_zh": "用於論述複雜問題需要多種不同解決方案協同運作，而非單一措施",
+        "example": "Effectively tackling urban waste pollution demands a multi-faceted approach that integrates regulatory reform, technological innovation, and public education campaigns."
+      },
+      {
+        "phrase": "the long-term consequences of",
+        "when_to_use": "Use to shift the discussion toward future impacts and to emphasise the importance of acting now rather than delaying solutions",
+        "when_to_use_zh": "用於將討論轉向未來影響，並強調現在採取行動而非拖延的重要性",
+        "example": "Policymakers must give due consideration to the long-term consequences of inadequate waste management, including irreversible damage to groundwater systems and biodiversity."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question using different vocabulary — for example, reframe 'waste produced by households and industries' as 'escalating volumes of municipal and industrial refuse.' Briefly acknowledge that this is a complex, multi-stakeholder issue and state your position clearly: that while both individuals and businesses have meaningful roles to play, governments bear the primary responsibility due to their unique power to legislate, enforce, and fund systemic change.",
+      "body1": "Discuss the view that governments must lead. Argue that only governments possess the legislative authority to mandate waste reduction targets, ban harmful products such as single-use plastics, and enforce penalties for illegal dumping. Use the Indonesia landfill example to illustrate the consequences of governmental inaction. Introduce the concept of 'systemic negligence' to describe what happens when authorities fail to invest in adequate waste infrastructure over time.",
+      "body2": "Acknowledge the opposing view that individuals and corporations must take responsibility. Concede that consumer demand drives production of wasteful goods, and that corporations designing non-recyclable packaging bear upstream responsibility. However, counter this by arguing that without a supportive regulatory and financial framework created by governments — such as incentives for sustainable packaging or accessible recycling infrastructure — individual and corporate behavioural change is difficult to achieve at scale.",
+      "conclusion": "Restate your position concisely: that responsibility is shared, but governmental action is foundational because it creates the conditions under which individuals and businesses can make responsible choices. Recommend that a coordinated, multi-stakeholder approach — combining policy reform, corporate accountability, and public awareness — offers the most viable path toward sustainable waste management. Avoid introducing new information; instead, close with a forward-looking statement about the urgency of action."
+    }
+  }
+}
