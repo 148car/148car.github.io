@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T05:56:35.372426Z",
+  "listening": {
+    "title": "UK bakes in 35C highs as heatwave to continue next week",
+    "url": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UK experiences a prolonged and record-breaking heatwave with temperatures reaching 35C, raising health concerns and prompting official warnings.",
+    "topic_zh": "英國經歷持續且破紀錄的熱浪，氣溫高達攝氏35度，引發健康疑慮並促使官方發出警告。",
+    "transcript_excerpt": "Welcome to today's programme. We're talking about something that's been dominating the news across the United Kingdom this week — an extraordinary heatwave. Now, a heatwave is an extended period of unusually hot weather, and the UK is currently in the grip of its third heatwave of the year. Temperatures have been soaring to 35 degrees Celsius, and that's really significant for a country that isn't traditionally associated with extreme heat. On Thursday, the mercury peaked at 35.5 degrees at Wisley in Surrey, and that pushed the total number of days this year where temperatures exceeded 34 degrees to eight — breaking the previous record of seven days, which was set back in 1976 and again in 2020. Now, what makes this heatwave particularly striking is its duration. It began earlier this week and forecasters are saying it could potentially last well into next week before cooler, more unsettled weather arrives. Health authorities have responded by issuing amber and yellow heat health warnings across large parts of England. These warnings urge people to stay hydrated, avoid strenuous activity during peak hours, and check on vulnerable individuals such as the elderly. There may be some relief on the way, however. A north-easterly breeze this weekend is expected to pull in cooler air from the North Sea, offering some respite for parts of eastern England, though the south and west will likely remain under heatwave conditions for several more days.",
+    "vocabulary": [
+      {
+        "word": "heatwave",
+        "type": "noun",
+        "definition": "A prolonged period of abnormally and uncomfortably hot weather, often officially declared when temperatures exceed a defined threshold for a minimum number of consecutive days.",
+        "definition_zh": "熱浪；指持續異常高溫的天氣現象，通常在氣溫連續數天超過特定門檻時正式宣告。",
+        "example": "The government issued emergency guidelines as the heatwave showed no signs of easing by the end of the month."
+      },
+      {
+        "word": "respite",
+        "type": "noun",
+        "definition": "A short period of rest or relief from something difficult, unpleasant, or intense, such as extreme weather.",
+        "definition_zh": "喘息；短暫的休息或從困難、不舒適或緊張的情況中得到的紓解，例如極端天氣。",
+        "example": "Residents welcomed the overnight rain as a brief respite from the relentless summer heat."
+      },
+      {
+        "word": "unsettled",
+        "type": "adjective",
+        "definition": "Used to describe weather that is changeable, unstable, and likely to involve rain or cloud after a period of consistent conditions.",
+        "definition_zh": "不穩定的；用於描述天氣多變、不穩定，並可能在一段穩定天氣後出現降雨或多雲的狀況。",
+        "example": "Forecasters predicted that the hot spell would give way to more unsettled conditions by the end of the week."
+      },
+      {
+        "word": "exceed",
+        "type": "verb",
+        "definition": "To go beyond a particular limit, level, or standard, often used when referring to temperature thresholds or statistical records.",
+        "definition_zh": "超過；超越某一特定限度、水平或標準，常用於描述氣溫門檻或統計紀錄被突破。",
+        "example": "Scientists warned that global average temperatures could exceed pre-industrial levels by 1.5 degrees Celsius within the next decade."
+      },
+      {
+        "word": "duration",
+        "type": "noun",
+        "definition": "The length of time that something lasts or continues, particularly emphasised when a period is notably long or unexpectedly prolonged.",
+        "definition_zh": "持續時間；某件事持續的時間長度，尤其強調當某段時間特別長或出乎意料地延長時。",
+        "example": "The duration of the drought was unprecedented, affecting agriculture across the entire region for over six months."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, how many days in 2026 had temperatures reaching or exceeding 34 degrees Celsius by Thursday?",
+        "options": [
+          "A: Six days",
+          "B: Seven days",
+          "C: Eight days",
+          "D: Nine days"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly states that on Thursday the total reached eight days in 2026 where heat reached or exceeded 34 degrees Celsius, breaking the previous record of seven days set in 1976 and 2020."
+      },
+      {
+        "q": "What is expected to bring some relief from the heat to parts of eastern England over the weekend?",
+        "options": [
+          "A: Heavy rainfall from the Atlantic",
+          "B: A north-easterly breeze from the North Sea",
+          "C: Cloud cover moving in from Scotland",
+          "D: A drop in high pressure over southern England"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that a north-easterly breeze on Saturday is expected to pull in cooler air from the North Sea, providing some respite, particularly for eastern areas of England."
+      },
+      {
+        "q": "Where did the UK's highest temperature on Thursday occur?",
+        "options": [
+          "A: Bute Park in Cardiff",
+          "B: Charterhall in Scotland",
+          "C: Killowen in Northern Ireland",
+          "D: Wisley in Surrey"
+        ],
+        "answer": "D",
+        "explanation": "The passage states that on Thursday the heat peaked at 35.5 degrees Celsius at Wisley in Surrey, making it the highest recorded temperature in the UK on that day."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Prolonged Heatwaves in the UK: Climate Trends and Public Health Implications",
+    "passage": "The United Kingdom, a nation historically characterised by temperate and frequently overcast weather, is confronting an increasingly alarming pattern of extreme heat events. In the summer of 2026, the country recorded its eighth day of temperatures reaching or surpassing 34 degrees Celsius, surpassing the previous benchmark of seven such days, which had stood jointly since 1976 and 2020. This milestone reflects a broader and deeply concerning trend in which the frequency, intensity, and duration of heatwaves across northwestern Europe are accelerating in line with global climate projections.\n\nMeteorologists attribute these prolonged hot spells largely to persistent high-pressure systems that trap warm continental air over the British Isles for extended periods. In the 2026 episode, temperatures peaked at 35.5 degrees Celsius in Surrey, while Wales, Scotland, and Northern Ireland also recorded unseasonably elevated figures. Regional variations were notable, with eastern parts of England receiving some alleviation from a north-easterly airflow drawing cooler maritime air from the North Sea, while southern and western regions remained under significant heat stress.\n\nThe public health consequences of such conditions are substantial and well-documented. Heat-related illness, including heat exhaustion and potentially fatal heatstroke, disproportionately affects elderly individuals, young children, and those with pre-existing cardiovascular or respiratory conditions. In response, the UK Health Security Agency issued amber and yellow heat health warnings across large portions of England, advising residents to limit outdoor activity during peak temperature hours, maintain adequate hydration, and monitor vulnerable members of their communities.\n\nClimate scientists caution that without significant reductions in greenhouse gas emissions, heatwaves of this magnitude will become progressively more common. Urban areas face a compounded challenge due to the urban heat island effect, whereby built environments retain heat more intensely than rural landscapes. Policymakers are therefore being urged to integrate heatwave resilience strategies into urban planning, public health infrastructure, and national climate adaptation frameworks to mitigate the growing risks posed by extreme heat.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The record of seven days exceeding 34 degrees Celsius was previously set in 1976 alone.",
+        "answer": "False",
+        "explanation": "The passage states the previous record of seven days was set jointly in 1976 and 2020, not in 1976 alone."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Eastern parts of England experienced some reduction in heat intensity due to cooler air from the North Sea.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that eastern areas of England received some alleviation from a north-easterly airflow drawing cooler maritime air from the North Sea."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The UK government has already passed legislation requiring urban planners to account for heatwave resilience.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that policymakers are being urged to integrate heatwave resilience strategies into urban planning, but there is no information provided about whether any specific legislation has been passed."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best explains why urban areas are particularly vulnerable during heatwaves?",
+        "options": [
+          "A: Urban residents are generally older and therefore more susceptible to heat-related illness",
+          "B: Built environments retain heat more intensely than rural areas due to the urban heat island effect",
+          "C: Cities receive less maritime airflow because they are located further inland",
+          "D: Urban infrastructure consumes more energy, generating additional heat during peak periods"
+        ],
+        "answer": "B",
+        "explanation": "The passage directly states that urban areas face a compounded challenge due to the urban heat island effect, whereby built environments retain heat more intensely than rural landscapes, making option B the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced extreme weather conditions.",
+    "topic_zh": "描述一次你經歷極端天氣的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you experienced extreme weather conditions.\n\nYou should say:\n- What the weather was like and when it occurred\n- Where you were at the time\n- How the extreme weather affected you and those around you\n\nAnd explain how you felt about the experience and what you learned from it.",
+      "band_tips": [
+        "Use a wide range of weather-related and sensory vocabulary such as 'sweltering', 'relentless', 'oppressive heat', and 'scorching temperatures' to demonstrate lexical range and boost your score toward Band 8.",
+        "Employ narrative tenses accurately — use the past perfect to describe background context ('the temperature had already been climbing for days') and the past continuous to set the scene ('people were seeking shade wherever they could find it'), which signals grammatical range.",
+        "Extend your response naturally by linking the personal experience to broader reflections on climate change or community resilience, which demonstrates the ability to move between concrete detail and abstract thought — a key feature of Band 7-9 speaking."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to protect citizens from the dangers of extreme heat?",
+        "q_zh": "你認為政府在保護市民免受極端高溫危害方面做得足夠嗎？",
+        "key_points": [
+          "Many governments have introduced heat health warning systems and public cooling centres, but critics argue these are reactive rather than preventative measures that address underlying climate causes.",
+          "Vulnerable populations such as the elderly and low-income communities often lack access to air conditioning or adequate housing insulation, suggesting that health protection must be integrated with broader social equity policies.",
+          "More proactive approaches might include updating building codes to require heat-resistant construction, expanding urban green spaces, and investing in public education campaigns about heat-related illness prevention."
+        ]
+      },
+      {
+        "q": "How do you think climate change will affect weather patterns in your country over the next few decades?",
+        "q_zh": "你認為氣候變化在未來幾十年將如何影響你國家的天氣模式？",
+        "key_points": [
+          "Climate models consistently project that extreme heat events will become more frequent and intense, with what were once rare temperature peaks becoming regular seasonal occurrences within a generation.",
+          "Changes are also likely to include more unpredictable precipitation patterns, with some regions experiencing prolonged drought while others face increased flood risk — posing enormous challenges for agriculture and water management.",
+          "The psychological and cultural impact should not be underestimated, as communities that have traditionally adapted their lifestyles around predictable seasonal patterns may face significant disruption to agriculture, tourism, and daily routines."
+        ]
+      },
+      {
+        "q": "Some people argue that individuals have a personal responsibility to reduce their carbon footprint. To what extent do you agree?",
+        "q_zh": "有些人認為個人有責任減少自己的碳足跡，你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Individual actions such as reducing meat consumption, minimising air travel, and switching to renewable energy sources can collectively make a meaningful contribution, and normalising such behaviours helps shift cultural norms around sustainability.",
+          "However, there is a risk of over-emphasising individual responsibility in a way that deflects attention from the systemic changes needed — large corporations and fossil fuel industries account for a disproportionate share of global emissions and require strong regulatory intervention.",
+          "A balanced perspective recognises that individual, corporate, and governmental responsibility are not mutually exclusive; meaningful climate action requires simultaneous changes at all levels of society."
+        ]
+      },
+      {
+        "q": "How might frequent heatwaves change the way cities are designed and built in the future?",
+        "q_zh": "頻繁的熱浪可能會如何改變未來城市的設計和建設方式？",
+        "key_points": [
+          "Architects and urban planners are increasingly exploring passive cooling techniques such as green roofs, reflective building materials, shaded walkways, and increased urban tree canopy coverage to counteract the urban heat island effect.",
+          "City planners may redesign public spaces to incorporate more water features, fountains, and misting systems, as well as prioritise the placement of parks and green corridors that channel cooling breezes through dense urban environments.",
+          "Future building regulations may mandate higher thermal efficiency standards, require the installation of cooling systems powered by renewable energy, and incentivise the retrofitting of existing housing stock to better withstand extreme temperatures."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Many scientists argue that increasingly frequent and severe heatwaves are a direct consequence of human-induced climate change. Some people believe that only large-scale government and corporate action can address this problem effectively, while others argue that changes in individual behaviour are equally important. Discuss both views and give your own opinion.",
+    "task2_question_zh": "許多科學家認為，日益頻繁且嚴重的熱浪是人為氣候變化的直接後果。一些人認為只有大規模的政府和企業行動才能有效解決這一問題，而另一些人則認為個人行為的改變同樣重要。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "There is compelling evidence to suggest that",
+        "when_to_use": "Use this phrase to introduce a claim supported by scientific or empirical data, particularly when establishing the factual basis of your argument in an introduction or body paragraph.",
+        "when_to_use_zh": "當你引入有科學或實證數據支持的論點時使用此短語，特別是在引言或主體段落中建立論點的事實基礎時。",
+        "example": "There is compelling evidence to suggest that the increasing frequency of extreme heat events is directly attributable to rising concentrations of atmospheric greenhouse gases."
+      },
+      {
+        "phrase": "While it is undeniable that ... , it would be overly simplistic to conclude that ...",
+        "when_to_use": "Use this concessive structure to acknowledge the opposing view fairly before introducing a qualification or counter-argument, demonstrating balanced and sophisticated reasoning.",
+        "when_to_use_zh": "使用此讓步結構在引入反駁或補充論點之前公正地承認對立觀點，展現平衡且深思熟慮的推理能力。",
+        "example": "While it is undeniable that individual lifestyle changes can reduce personal carbon footprints, it would be overly simplistic to conclude that collective action alone is sufficient without accompanying systemic reform."
+      },
+      {
+        "phrase": "The onus cannot fall solely on",
+        "when_to_use": "Use this phrase to argue that responsibility should be distributed across multiple parties rather than placed on one group alone, particularly effective in discussion or problem-solution essays.",
+        "when_to_use_zh": "使用此短語來論證責任應分散在多方之間，而不是單獨落在某一群體身上，在討論型或問題解決型文章中特別有效。",
+        "example": "The onus cannot fall solely on individual consumers when fossil fuel corporations and national governments possess far greater capacity to drive systemic reductions in carbon emissions."
+      },
+      {
+        "phrase": "In the long run, a multifaceted approach that encompasses",
+        "when_to_use": "Use this phrase in a conclusion or evaluative paragraph to advocate for a comprehensive strategy that addresses a complex problem from several angles simultaneously.",
+        "when_to_use_zh": "在結論或評估段落中使用此短語，提倡從多個角度同時解決複雜問題的綜合策略。",
+        "example": "In the long run, a multifaceted approach that encompasses regulatory reform, corporate accountability, and sustained public education is likely to yield the most significant reductions in heat-related mortality."
+      },
+      {
+        "phrase": "The implications of ... extend far beyond",
+        "when_to_use": "Use this phrase to broaden the scope of your argument and demonstrate that you can think beyond the immediate issue to wider social, economic, or environmental consequences.",
+        "when_to_use_zh": "使用此短語來擴大你的論點範圍，展示你能夠超越直接問題思考更廣泛的社會、經濟或環境後果。",
+        "example": "The implications of unchecked urban heat exposure extend far beyond individual discomfort, encompassing rising healthcare costs, declining workforce productivity, and deepening social inequalities."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the growing frequency of heatwaves as a manifestation of climate change, then acknowledge that there is genuine debate about where the primary responsibility for addressing this crisis lies. Close the introduction with a clear thesis statement indicating that while both systemic and individual-level action are necessary, structural reforms at the governmental and corporate level must form the foundation of any effective response.",
+      "body1": "Dedicate the first body paragraph to the case for large-scale governmental and corporate action. Argue that governments possess the legislative authority to enforce carbon emissions limits, fund renewable energy infrastructure, and mandate heat-resilient urban planning. Support this with the observation that individual behavioural changes, however widespread, cannot compensate for the emissions generated by heavy industry and fossil fuel extraction without binding regulatory frameworks.",
+      "body2": "In the second body paragraph, present the argument for the importance of individual behavioural change, acknowledging that collective shifts in consumption patterns — reduced meat intake, lower-carbon transport choices, and energy conservation — can drive demand-side reductions in emissions. However, introduce a nuanced qualification by noting that individual agency is constrained by socioeconomic factors, infrastructure availability, and cultural norms, reinforcing the conclusion that top-down structural change is a prerequisite for meaningful bottom-up participation.",
+      "conclusion": "Restate your position that a genuinely effective response to heatwave-inducing climate change demands coordinated action at every level of society. Emphasise that governmental regulation and corporate accountability must set the framework within which individuals can make informed, sustainable choices. End with a forward-looking statement about the urgency of integrated climate policy before heatwave events of the current scale become the norm rather than the exception."
+    }
+  }
+}
