@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T04:56:21.677882Z",
+  "listening": {
+    "title": "Cooler for some this weekend but heatwave continues",
+    "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A record-breaking UK heatwave in July 2026 brings extreme temperatures, health alerts, hosepipe bans, and wildfire warnings across England, Wales, and Scotland.",
+    "topic_zh": "2026年7月英國破紀錄熱浪帶來極端高溫、健康警報、限水令及野火警告，影響英格蘭、威爾斯及蘇格蘭。",
+    "transcript_excerpt": "Welcome to today's programme. This summer, the United Kingdom is experiencing one of the most intense heatwaves on record, and forecasters say there is no immediate end in sight. By Friday the 11th of July, 2026, England had already recorded six days with temperatures exceeding 35 degrees Celsius — the highest number of such days in a single calendar year since records began. That is a truly remarkable milestone. Temperatures in some regions will ease slightly this weekend as a brisk north-easterly wind pushes cooler air across eastern England. However, authorities are warning the public not to be complacent. Amber and yellow heat health alerts, issued by the UK Health Security Agency, remain in force across large parts of England until Sunday evening. These alerts are designed to protect vulnerable people, including the elderly and those with pre-existing medical conditions, from the dangers of prolonged heat exposure. Adding to the pressure on infrastructure, five water companies have announced hosepipe bans affecting more than five million people. Reservoirs are running low following weeks of minimal rainfall combined with a dramatic surge in domestic water usage. Fire services, meanwhile, are urging people to avoid lighting barbecues or campfires in open countryside, given the elevated risk of wildfires spreading rapidly across dry grassland and woodland. Scotland, which is not typically associated with extreme heat, also entered official heatwave conditions after three consecutive days of temperatures reaching at least 25 degrees Celsius — a threshold that, while modest by Mediterranean standards, represents a significant departure from the Scottish norm.",
+    "vocabulary": [
+      {
+        "word": "heatwave",
+        "type": "noun",
+        "definition": "A prolonged period of abnormally and uncomfortably hot weather, often defined by temperatures exceeding regional thresholds for multiple consecutive days.",
+        "definition_zh": "熱浪；持續異常高溫的天氣時期，通常指氣溫連續數天超過特定地區標準。",
+        "example": "The prolonged heatwave caused widespread disruption to public transport and prompted urgent health warnings across the country."
+      },
+      {
+        "word": "exceed",
+        "type": "verb",
+        "definition": "To go beyond a particular level, limit, or expectation, especially in terms of quantity or measurement.",
+        "definition_zh": "超過；超越某個數量、限度或預期值。",
+        "example": "Temperatures are expected to exceed 34 degrees Celsius in several inland regions by mid-afternoon."
+      },
+      {
+        "word": "in force",
+        "type": "phrase",
+        "definition": "Currently active, operative, or officially in effect, used to describe laws, rules, or official warnings that are currently applying.",
+        "definition_zh": "有效；正在生效，用於描述法律、規定或官方警報目前正在實施中。",
+        "example": "Emergency water restrictions have been in force across the southern counties since the beginning of the month."
+      },
+      {
+        "word": "hosepipe ban",
+        "type": "noun",
+        "definition": "An official restriction prohibiting the use of hosepipes to water gardens or wash vehicles, typically imposed during periods of drought or water shortage.",
+        "definition_zh": "禁止使用水管令；官方禁止使用水管澆花或洗車的限制，通常在乾旱或缺水時期實施。",
+        "example": "The hosepipe ban imposed by the regional water authority frustrated many homeowners trying to maintain their gardens during the dry spell."
+      },
+      {
+        "word": "wildfire",
+        "type": "noun",
+        "definition": "An uncontrolled fire that spreads rapidly across vegetation such as grass, scrubland, or forest, often exacerbated by hot, dry, and windy conditions.",
+        "definition_zh": "野火；在草地、灌木叢或森林等植被中迅速蔓延的不受控火災，通常因炎熱、乾燥和有風的天氣而加劇。",
+        "example": "Firefighters battled several wildfires that broke out simultaneously across the moorland during the height of the summer heatwave."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, what record was broken on Friday the 11th of July, 2026?",
+        "options": [
+          "A: The highest temperature ever recorded in England",
+          "B: The greatest number of 35°C or above days in a single calendar year",
+          "C: The longest consecutive heatwave in UK history",
+          "D: The highest temperature ever recorded in Scotland"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that Friday brought the total of 35°C-plus days to six, making it a record for the most such days in a calendar year. The record is specifically about frequency of extreme days, not the absolute highest temperature."
+      },
+      {
+        "q": "Why have five water companies announced hosepipe bans?",
+        "options": [
+          "A: Because water pipes have been damaged by the extreme heat",
+          "B: Because the government has ordered all companies to conserve energy",
+          "C: Because of insufficient rainfall and significantly higher water demand",
+          "D: Because reservoirs are being used to fight wildfires across England"
+        ],
+        "answer": "C",
+        "explanation": "The report explicitly states the bans are 'due to a lack of rain and increased water demand', linking both reduced supply and higher consumption as the combined cause of the restrictions."
+      },
+      {
+        "q": "Which area of the UK entered official heatwave conditions after recording at least 25°C for three consecutive days?",
+        "options": [
+          "A: Northern Ireland",
+          "B: South-east Wales",
+          "C: The West Midlands",
+          "D: Scotland"
+        ],
+        "answer": "D",
+        "explanation": "The passage clearly states that 'parts of Scotland entered into heatwave after three days of at least 25C', making Scotland the correct answer. Northern Ireland, Wales, and the Midlands were already experiencing much higher temperatures."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Extreme Heat Events and Their Consequences for Public Health and Infrastructure in Temperate Climates",
+    "passage": "Heatwaves, once considered exceptional meteorological events in temperate regions such as the British Isles, are becoming increasingly frequent and severe as a consequence of anthropogenic climate change. The summer of 2026 offered a stark illustration of this trend, with the United Kingdom recording an unprecedented number of days on which temperatures surpassed 35 degrees Celsius within a single calendar year. Such extremes place enormous strain on public health systems, critical infrastructure, and natural environments simultaneously.\n\nThe public health implications of sustained high temperatures are well documented. Prolonged heat exposure elevates the risk of heat exhaustion and heatstroke, conditions that can prove fatal, particularly among elderly individuals, young children, and those with pre-existing cardiovascular or respiratory conditions. National health authorities typically respond by issuing tiered alert systems — ranging from advisory yellow warnings to more serious amber and red levels — designed to prompt both individuals and institutions to take protective action. In the UK, the Health Security Agency coordinates these communications, advising the public to stay hydrated, avoid outdoor exertion during peak heat hours, and check on vulnerable neighbours.\n\nBeyond individual health, extreme heat events exert considerable pressure on water supply networks. Elevated temperatures drive a surge in domestic and agricultural water consumption precisely at the moment when reservoir levels are most depleted following extended dry periods. Water utility companies may respond by implementing hosepipe bans, rationing supply, or imposing temporary restrictions on non-essential usage. These measures, while necessary, frequently generate public frustration and highlight systemic underinvestment in water storage capacity.\n\nThe ecological consequences are equally alarming. Dry vegetation becomes highly combustible under prolonged heat, substantially increasing the probability of wildfires igniting and spreading across grasslands and forests. Such fires not only destroy habitats and threaten property but also release significant quantities of carbon dioxide, thereby contributing to the very atmospheric warming that caused the conditions in the first place — a feedback loop with deeply concerning long-term implications.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The 2026 UK heatwave represented the first time temperatures had exceeded 35 degrees Celsius in the country's recorded history.",
+        "answer": "False",
+        "explanation": "The passage states the UK recorded an unprecedented number of days above 35°C in 2026, implying such temperatures had occurred before. The record was for the most such days in a single year, not for temperatures exceeding 35°C for the first time."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Elderly people and those with cardiovascular conditions are among the groups most vulnerable to the health risks associated with extreme heat.",
+        "answer": "True",
+        "explanation": "The passage explicitly identifies 'elderly individuals, young children, and those with pre-existing cardiovascular or respiratory conditions' as groups at elevated risk from prolonged heat exposure."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The UK government has committed to doubling investment in water storage infrastructure in response to the 2026 heatwave.",
+        "answer": "Not Given",
+        "explanation": "While the passage mentions 'systemic underinvestment in water storage capacity', it makes no reference to any specific government commitment to increase investment. This information is neither confirmed nor denied in the text."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what makes wildfires particularly concerning from a climate perspective?",
+        "options": [
+          "A: They destroy agricultural land needed to feed a growing population",
+          "B: They release carbon dioxide, contributing to the warming conditions that cause them",
+          "C: They cause irreversible damage to urban infrastructure and housing",
+          "D: They spread to neighbouring countries, making them an international problem"
+        ],
+        "answer": "B",
+        "explanation": "The passage describes wildfires as part of a 'feedback loop', explaining that they 'release significant quantities of carbon dioxide, thereby contributing to the very atmospheric warming that caused the conditions in the first place'. This circular dynamic is identified as deeply concerning."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an extreme weather event that affected your country or region.",
+    "topic_zh": "描述一次影響你所在國家或地區的極端天氣事件。",
+    "part2": {
+      "cue_card": "Describe an extreme weather event that affected your country or region.\n\nYou should say:\n• what the weather event was and when it occurred\n• how it affected people's daily lives and routines\n• what the authorities did in response to the event\n\nAnd explain whether you think such events will become more or less common in the future, and why.",
+      "band_tips": [
+        "Use a wide range of weather and climate-related vocabulary naturally, such as 'unprecedented', 'prolonged exposure', 'surge in demand', and 'heat health alert', to demonstrate lexical range and precision at Band 7-9 level.",
+        "Employ a variety of grammatical structures including conditionals, passive voice, and complex noun phrases. For example: 'Had the authorities not issued early warnings, the death toll could have been considerably higher.'",
+        "Structure your response with a clear narrative arc — set the scene vividly, describe the human impact with specific details or statistics, and then offer a thoughtful, well-reasoned opinion about future climate trends to demonstrate coherence and analytical depth."
+      ]
+    },
+    "part3": [
+      {
+        "q": "How do you think governments should prepare their populations for increasingly frequent extreme heat events?",
+        "q_zh": "你認為政府應如何讓民眾為日益頻繁的極端高溫事件做好準備？",
+        "key_points": [
+          "Governments should invest in public awareness campaigns well before summer seasons begin, ensuring citizens understand heat health risks and know how to protect themselves and vulnerable neighbours.",
+          "Urban planning policies need to incorporate heat resilience, such as expanding green spaces, mandating cool roofs, and designing public buildings as designated cooling centres for those without air conditioning.",
+          "Early warning systems, similar to the UK's tiered heat health alert model, should be standardised nationally and communicated through multiple channels including social media to reach younger demographics."
+        ]
+      },
+      {
+        "q": "Do you think individuals or governments bear greater responsibility for addressing climate change?",
+        "q_zh": "你認為個人還是政府在應對氣候變化方面負有更大的責任？",
+        "key_points": [
+          "While individual behavioural changes — such as reducing meat consumption, using public transport, and minimising energy use — are meaningful, their aggregate impact is limited compared to systemic industrial and policy-level interventions.",
+          "Governments possess the regulatory authority to enforce emissions standards, price carbon, invest in renewable energy infrastructure, and hold large corporations accountable — powers that individuals simply do not have.",
+          "A balanced view acknowledges that governments and individuals are interdependent: effective policy changes consumer behaviour, and public pressure from informed citizens drives political will to implement ambitious climate legislation."
+        ]
+      },
+      {
+        "q": "In what ways might extreme weather events disproportionately affect poorer communities compared to wealthier ones?",
+        "q_zh": "極端天氣事件在哪些方面可能對較貧困社區造成比富裕社區更不成比例的影響？",
+        "key_points": [
+          "Lower-income households are less likely to have access to air conditioning, are more likely to live in poorly insulated homes that trap heat, and may work in outdoor occupations that expose them to dangerous temperatures for extended periods.",
+          "Poorer communities often live in urban areas with fewer green spaces and more heat-absorbing concrete infrastructure, creating 'urban heat islands' where temperatures are consistently several degrees higher than surrounding suburbs.",
+          "Economic vulnerability means that disruptions caused by heatwaves — such as reduced agricultural productivity, damaged infrastructure, or increased healthcare costs — can have long-lasting financial consequences for low-income families who lack savings or insurance buffers."
+        ]
+      },
+      {
+        "q": "How has media coverage of extreme weather events changed in recent years, and what impact does this have on public behaviour?",
+        "q_zh": "近年來媒體對極端天氣事件的報導發生了哪些變化，這對公眾行為有何影響？",
+        "key_points": [
+          "Modern media coverage of extreme weather has become more immediate, data-rich, and emotionally resonant, with real-time temperature records, dramatic footage of wildfires, and personal testimonies helping audiences grasp the human consequences of climate events.",
+          "The proliferation of social media means that heatwave warnings, water restrictions, and safety advice can reach millions of people within minutes, potentially accelerating protective behaviours and compliance with official guidance.",
+          "However, there is a risk of 'disaster fatigue', whereby repeated exposure to alarming climate news leads some individuals to feel overwhelmed and disengaged rather than motivated to act — a psychological phenomenon that public communicators must carefully navigate."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events, such as heatwaves, droughts, and wildfires, are becoming more frequent and severe around the world. Some people argue that individuals must change their lifestyles to address this problem, while others believe that only large-scale government action can make a meaningful difference.\n\nDiscuss both views and give your own opinion.",
+    "task2_question_zh": "極端天氣事件（如熱浪、乾旱和野火）在全球各地變得越來越頻繁和嚴重。一些人認為個人必須改變生活方式來解決這個問題，而另一些人則認為只有大規模的政府行動才能產生有意義的影響。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "there is compelling evidence to suggest that",
+        "when_to_use": "Use when introducing a well-supported claim or finding that you want to present as credible and research-backed, particularly when leading into a key argument.",
+        "when_to_use_zh": "當你想引入有充分支持的論點或發現，並希望以可信、有研究依據的方式呈現時使用，尤其適合在引出核心論點之前。",
+        "example": "There is compelling evidence to suggest that urban areas with limited green spaces experience significantly higher temperatures during heatwaves than their surrounding regions."
+      },
+      {
+        "phrase": "while it is true that ... , it is equally important to recognise that ...",
+        "when_to_use": "Use to acknowledge the validity of an opposing argument before pivoting to present your own contrasting or more nuanced position, demonstrating critical balance.",
+        "when_to_use_zh": "在承認對立觀點的有效性之後，用於轉向提出你自己更具對比性或細緻的立場，展現批判性的平衡思維。",
+        "example": "While it is true that individual lifestyle choices contribute to carbon emissions, it is equally important to recognise that systemic industrial pollution dwarfs the environmental footprint of any single household."
+      },
+      {
+        "phrase": "the consequences of inaction are likely to be far-reaching",
+        "when_to_use": "Use in body paragraphs or the conclusion when emphasising the severity and broad scope of negative outcomes that would result from failing to address the issue under discussion.",
+        "when_to_use_zh": "在正文段落或結論中強調若未能解決所討論問題將導致的嚴重且廣泛的負面後果時使用。",
+        "example": "Given the accelerating pace of climate change, the consequences of inaction at the governmental level are likely to be far-reaching, affecting agriculture, public health, and national economies alike."
+      },
+      {
+        "phrase": "a multifaceted approach is therefore required",
+        "when_to_use": "Use when arguing that a complex problem cannot be solved by a single solution and that multiple strategies, actors, or policy tools must be deployed simultaneously.",
+        "when_to_use_zh": "當你主張一個複雜問題無法通過單一解決方案解決，需要同時部署多種策略、行為者或政策工具時使用。",
+        "example": "Since extreme weather events are driven by both local land-use decisions and global emissions patterns, a multifaceted approach is therefore required, combining individual responsibility with binding international climate agreements."
+      },
+      {
+        "phrase": "in the long run, ... proves more sustainable than",
+        "when_to_use": "Use when comparing two approaches or solutions and arguing that one is more durable, effective, or viable over time, particularly in conclusions or evaluative paragraphs.",
+        "when_to_use_zh": "在比較兩種方法或解決方案並論證其中一種在長期內更持久、有效或可行時使用，尤其適合在結論或評估性段落中。",
+        "example": "In the long run, investing in renewable energy infrastructure proves more sustainable than continuing to subsidise fossil fuel industries, both economically and environmentally."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the growing frequency of extreme weather events globally, referencing real-world examples such as the 2026 UK heatwave to establish relevance. Clearly paraphrase the question, identify the two competing views, and state your own position in a concise thesis statement — for example, that while individual action is valuable, structural government intervention is indispensable for meaningful progress.",
+      "body1": "Explore the case for individual lifestyle change. Acknowledge that consumer choices collectively influence markets and emissions — for instance, reduced reliance on private vehicles, lower meat consumption, and energy-efficient home practices. Concede that grass-roots movements and changing social norms can exert indirect pressure on corporations and policymakers. However, note the limitations: individual action is voluntary, unevenly distributed across socioeconomic groups, and insufficient in scale to address systemic industrial emissions.",
+      "body2": "Present the stronger case for large-scale government action. Argue that only governments possess the legal authority, financial resources, and institutional capacity to implement transformative change — including carbon pricing, mandatory emissions standards, investment in public infrastructure such as cooling centres and resilient water systems, and binding international climate commitments. Use the heatwave context to illustrate how health alert systems, hosepipe bans, and wildfire prevention require coordinated state-level responses that no individual can replicate.",
+      "conclusion": "Restate your position clearly: both individual and government action are necessary, but government intervention must take the lead as the primary driver of systemic change. Avoid introducing new arguments. End with a forward-looking statement about the urgency of integrated action, given projections that extreme weather events will intensify further without decisive policy intervention at national and international levels."
+    }
+  }
+}
