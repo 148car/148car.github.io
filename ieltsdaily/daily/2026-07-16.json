@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T04:53:20.470364Z",
+  "listening": {
+    "title": "Weekend cooldown to mark end of heatwave for some",
+    "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A prolonged UK heatwave is set to ease this weekend as northerly winds bring cooler temperatures, though dry conditions are expected to persist across much of the country.",
+    "topic_zh": "英國持續的熱浪預計本週末將因北風帶來較涼爽的氣溫而緩和，但全國大部分地區的乾燥狀況預計仍將持續。",
+    "transcript_excerpt": "Welcome to today's programme. If you've been sweltering through the recent heatwave in the UK, you'll be relieved to hear that some cooler weather is finally on the way. Fresher northerly winds are set to sweep across the country this weekend, causing temperatures to dip by several degrees in many regions. Northern Scotland, Northern Ireland, and northern England are expected to feel the most dramatic relief, with maximum temperatures in some areas dropping by as much as seven degrees Celsius compared to Thursday's peak readings. That's quite a significant shift in a short period of time. However, before you reach for your umbrella, it's worth noting that despite this welcome cooldown, forecasters are not predicting any meaningful rainfall in the near future. High pressure will continue to dominate the weather pattern, keeping the skies largely clear and dry. In fact, some parts of south-east England have gone almost 30 consecutive days without a single drop of rain, which is quite extraordinary. Southern England, meanwhile, will experience only modest relief. Temperatures there will remain above the official heatwave threshold in several areas, ranging between 25 and 27 degrees Celsius. The good news is that cooler nights will finally make a return, giving people a chance to sleep more comfortably. The big question now is when significant rain will eventually arrive to ease the growing water shortage concerns.",
+    "vocabulary": [
+      {
+        "word": "heatwave threshold",
+        "type": "phrase",
+        "definition": "The minimum temperature level that must be reached or exceeded for a specified number of consecutive days before an event is officially classified as a heatwave by meteorological authorities.",
+        "definition_zh": "氣象機構將某事件正式歸類為熱浪的最低氣溫水準，必須連續數天達到或超過此水準。",
+        "example": "Southern England has surpassed the heatwave threshold for twelve consecutive days, prompting health warnings from local authorities."
+      },
+      {
+        "word": "consecutive",
+        "type": "adjective",
+        "definition": "Following one after another in an unbroken sequence without interruption.",
+        "definition_zh": "連續的；不間斷地一個接一個。",
+        "example": "The city recorded twelve consecutive days of temperatures above 30 degrees, marking its longest heatwave in recorded history."
+      },
+      {
+        "word": "high pressure",
+        "type": "noun",
+        "definition": "A meteorological condition in which atmospheric pressure is higher than the surrounding area, typically associated with settled, dry, and sunny weather.",
+        "definition_zh": "高氣壓；一種氣象狀況，大氣壓力高於周圍地區，通常與穩定、乾燥和晴朗的天氣相關。",
+        "example": "Persistent high pressure centred over the Atlantic has been responsible for the unusually dry and warm conditions across Britain."
+      },
+      {
+        "word": "dip",
+        "type": "verb",
+        "definition": "To decrease or fall to a lower level, often used when describing a moderate or temporary reduction in temperature or other measurable quantities.",
+        "definition_zh": "下降；降低，通常用於描述溫度或其他可測量數值的適度或暫時性下降。",
+        "example": "Forecasters predict that overnight temperatures will dip to around 12 degrees Celsius in northern regions by the end of the week."
+      },
+      {
+        "word": "on the cards",
+        "type": "phrase",
+        "definition": "Likely or expected to happen; used informally to indicate that a particular outcome or event is probable in the near future.",
+        "definition_zh": "可能發生的；非正式地用於表示某個結果或事件在不久的將來很可能發生。",
+        "example": "Despite public hopes for relief, significant rainfall is simply not on the cards for most of England over the coming week."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, which region will experience the greatest temperature drop this weekend?",
+        "options": [
+          "A: Southern England, with a drop of approximately eight degrees",
+          "B: Northern Scotland, with a drop of up to seven degrees Celsius",
+          "C: The Midlands, where temperatures will fall below the heatwave threshold",
+          "D: Wales, which will see the most dramatic overnight cooling"
+        ],
+        "answer": "B",
+        "explanation": "The report explicitly states that maximum temperatures in northern Scotland will be up to seven degrees Celsius lower on Saturday than on Thursday, making this the largest regional drop mentioned."
+      },
+      {
+        "q": "What weather feature is primarily responsible for the expected cooldown across the UK?",
+        "options": [
+          "A: A deep area of low pressure moving in from the Atlantic",
+          "B: Increased cloud cover blocking solar radiation",
+          "C: High pressure to the west of the UK generating a northerly wind",
+          "D: A cold front bringing heavy rainfall from Scandinavia"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly explains that with high pressure centred to the west of the UK, a northerly wind will develop this weekend, causing temperatures to dip — not a low pressure system or rainfall."
+      },
+      {
+        "q": "Which of the following best describes the rainfall situation in parts of south-east England?",
+        "options": [
+          "A: Heavy rainfall is forecast to arrive by Saturday evening",
+          "B: Some locations have recorded close to 30 days without rain",
+          "C: The region has experienced above-average rainfall this month",
+          "D: Thunderstorms are expected to break the dry spell next week"
+        ],
+        "answer": "B",
+        "explanation": "The report states that several locations across south-east England, including Wisley, Surrey and Herstmonceux, East Sussex, have now seen close to 30 days without rain, confirming option B."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Heatwaves, Drought and the Challenge of Prolonged High Pressure in the United Kingdom",
+    "passage": "The United Kingdom is currently experiencing one of its most prolonged periods of high pressure in recent meteorological history, producing conditions characterised by sustained elevated temperatures, reduced precipitation, and extensive sunshine. While such weather may superficially resemble the climates of more southerly European nations, these conditions pose significant environmental, agricultural, and public health challenges when they persist beyond normal seasonal expectations in a temperate maritime climate.\n\nThe official definition of a heatwave in the UK is determined by the Met Office's Heatwave Plan, which specifies that temperatures must meet or exceed a regionally defined threshold for at least three consecutive days. In southern England, this threshold currently stands at 25 degrees Celsius. When exceeded for extended periods — as has recently occurred for twelve consecutive days — emergency services, healthcare providers, and local authorities are required to implement heat-health action plans to protect vulnerable populations, including the elderly and those with pre-existing medical conditions.\n\nEqually concerning is the absence of meaningful precipitation across large swathes of England. Meteorological drought is typically defined as a prolonged period during which rainfall is significantly below the long-term average for a given region. With some south-eastern locations recording close to thirty consecutive dry days, water resource managers are monitoring reservoir levels and river flows with increasing urgency. Demand for water typically surges during heatwaves as households increase garden irrigation and personal consumption.\n\nThe immediate cause of these conditions — a persistent anticyclone situated to the west of the British Isles — is consistent with broader patterns observed in climate science. Research increasingly suggests that climate change is amplifying both the frequency and intensity of such high-pressure blocking events, making prolonged heatwaves and associated droughts more probable across north-western Europe. Understanding and adapting to these emerging patterns represents one of the defining environmental policy challenges of the coming decades.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The UK's heatwave threshold in southern England requires temperatures to remain above 25 degrees Celsius for a minimum of three consecutive days.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that the Met Office defines a heatwave as temperatures meeting or exceeding a regionally defined threshold for at least three consecutive days, and that this threshold in southern England stands at 25 degrees Celsius."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Reservoir levels across the entire United Kingdom have already fallen below critical minimum levels as a result of the current dry spell.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that water resource managers are monitoring reservoir levels with increasing urgency, but it does not provide specific data confirming that reservoirs have actually fallen below critical levels anywhere in the UK."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Climate scientists have identified a link between climate change and an increased likelihood of prolonged high-pressure blocking events over north-western Europe.",
+        "answer": "True",
+        "explanation": "The final paragraph directly states that research increasingly suggests climate change is amplifying both the frequency and intensity of such high-pressure blocking events, making prolonged heatwaves more probable across north-western Europe."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following groups is specifically identified as being at heightened risk during extended heatwave conditions?",
+        "options": [
+          "A: Agricultural workers and outdoor labourers",
+          "B: Children under the age of five and pregnant women",
+          "C: The elderly and those with pre-existing medical conditions",
+          "D: Urban residents in city centres with limited green space"
+        ],
+        "answer": "C",
+        "explanation": "The passage specifically states that heat-health action plans are implemented to protect vulnerable populations, including the elderly and those with pre-existing medical conditions. The other groups mentioned in the options are not referenced in the text."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an extreme weather event you experienced or heard about",
+    "topic_zh": "描述一次你親身經歷或聽說過的極端天氣事件",
+    "part2": {
+      "cue_card": "Describe an extreme weather event you experienced or heard about.\n\nYou should say:\n• what the weather event was and where it occurred\n• when it happened and how long it lasted\n• how it affected the people and environment in that area\n\nAnd explain how you felt about this weather event and what you think could be done to better prepare for such events in the future.\n\nYou will have one minute to prepare. Then speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of sophisticated meteorological and environmental vocabulary naturally throughout your response, such as 'prolonged dry spell', 'heatwave threshold', 'unprecedented temperatures', and 'high-pressure system', to demonstrate lexical range at Band 7-9 level.",
+        "Employ a variety of complex grammatical structures, including conditionals, passive constructions, and relative clauses — for example: 'Had the authorities issued warnings earlier, the number of heat-related hospitalisations could have been significantly reduced' — to showcase grammatical range and accuracy.",
+        "Organise your response with a clear narrative arc: set the scene vividly, describe the impact on both people and the natural environment, then shift smoothly into personal reflection and forward-looking suggestions, using discourse markers such as 'what struck me most was', 'looking back on it', and 'in hindsight'."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments today are doing enough to prepare their populations for increasingly frequent extreme weather events?",
+        "q_zh": "你認為當今各國政府是否為應對日益頻繁的極端天氣事件做了足夠的準備？",
+        "key_points": [
+          "Many governments have improved early warning systems and heat-health action plans, but implementation remains inconsistent, particularly in lower-income regions where infrastructure is less resilient.",
+          "There is a fundamental tension between short-term political cycles and the long-term investment required for meaningful climate adaptation, which often means preparedness measures are underfunded or deprioritised.",
+          "Public education campaigns are equally critical — governments must ensure that ordinary citizens understand what actions to take during events such as heatwaves, floods, or droughts, rather than relying solely on reactive emergency responses."
+        ]
+      },
+      {
+        "q": "How do you think prolonged droughts and water shortages might affect food production and global food security in the coming decades?",
+        "q_zh": "你認為長期乾旱和水資源短缺將如何在未來幾十年影響糧食生產和全球糧食安全？",
+        "key_points": [
+          "Sustained drought conditions directly reduce crop yields by limiting irrigation water availability and increasing soil degradation, which could trigger food price spikes and supply shortages in import-dependent nations.",
+          "Agricultural regions that are currently productive, such as parts of southern Europe and sub-Saharan Africa, may become increasingly unviable for traditional crops, necessitating significant shifts in what is grown and where.",
+          "Investment in drought-resistant crop varieties, more efficient irrigation technologies such as drip irrigation, and better international water-sharing agreements will be essential to maintaining food security under increasingly volatile climate conditions."
+        ]
+      },
+      {
+        "q": "Some people argue that individuals have a personal responsibility to reduce their carbon footprint in order to prevent extreme weather events. To what extent do you agree?",
+        "q_zh": "有些人認為個人有責任減少碳足跡以防止極端天氣事件。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Individual lifestyle choices — such as reducing meat consumption, using public transport, and cutting household energy use — do collectively contribute to lower emissions, and personal responsibility should not be entirely dismissed.",
+          "However, systemic and structural change driven by government regulation, international agreements, and corporate accountability is ultimately far more impactful than individual behavioural change, given that a small number of large corporations account for a disproportionate share of global emissions.",
+          "A balanced perspective acknowledges that individual action is meaningful but insufficient in isolation — the most effective approach combines personal responsibility with robust policy frameworks that create incentives and remove barriers to sustainable behaviour at scale."
+        ]
+      },
+      {
+        "q": "In what ways might urban areas be specifically designed or redesigned to better cope with the heat and drought conditions that are becoming more common due to climate change?",
+        "q_zh": "城市地區可以通過哪些方式進行設計或重新設計，以更好地應對因氣候變化而日益普遍的高溫和乾旱狀況？",
+        "key_points": [
+          "Increasing urban green infrastructure — including parks, street trees, green roofs, and urban wetlands — can significantly reduce the urban heat island effect by providing shade and facilitating evapotranspiration, thereby lowering ambient temperatures.",
+          "Water-sensitive urban design, such as permeable paving, rainwater harvesting systems, and the restoration of urban waterways, can help cities capture and store precipitation more effectively during wetter periods to buffer against drought.",
+          "Building design standards must evolve to mandate better insulation, reflective roofing materials, and natural ventilation systems that reduce reliance on energy-intensive air conditioning, which itself contributes to warming and increases peak electricity demand during heatwaves."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As extreme weather events such as heatwaves, droughts, and flooding become more frequent and severe due to climate change, some people believe that governments must take the lead in implementing large-scale solutions. Others argue that it is primarily the responsibility of individuals and private companies to change their behaviour and practices. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著熱浪、乾旱和洪水等極端天氣事件因氣候變化而變得更加頻繁和嚴重，一些人認為政府必須主導實施大規模解決方案。另一些人則認為，改變行為和做法主要是個人和私營企業的責任。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "the frequency and intensity of",
+        "when_to_use": "Use when describing how often and how severely a phenomenon occurs, particularly when discussing climate-related trends in an academic or formal context.",
+        "when_to_use_zh": "當描述某一現象發生的頻率和嚴重程度時使用，特別是在學術或正式語境中討論氣候相關趨勢時。",
+        "example": "Climate data consistently shows that the frequency and intensity of extreme weather events have increased markedly over the past three decades as a direct consequence of rising global temperatures."
+      },
+      {
+        "phrase": "it is incumbent upon",
+        "when_to_use": "Use to express that a particular group or entity has a strong moral or institutional duty to act, lending formal authority to your argument about responsibility.",
+        "when_to_use_zh": "用於表達某一群體或實體有強烈的道德或制度責任採取行動，為你關於責任的論點增添正式的權威性。",
+        "example": "Given the scale of the climate crisis and the limitations of individual action, it is incumbent upon national governments to introduce binding legislation that compels industries to drastically reduce their carbon emissions."
+      },
+      {
+        "phrase": "while it is true that ... , it must also be acknowledged that",
+        "when_to_use": "Use this concessive structure to demonstrate balanced, critical thinking by conceding a point from the opposing view before introducing a counterargument or qualification.",
+        "when_to_use_zh": "使用此讓步結構來展示平衡、批判性的思維，在引入反駁論點或限定條件之前，承認對立觀點的某個論點。",
+        "example": "While it is true that individual choices such as reducing meat consumption and limiting air travel can contribute to lower emissions, it must also be acknowledged that structural policy changes deliver incomparably greater reductions in a far shorter timeframe."
+      },
+      {
+        "phrase": "disproportionately affect",
+        "when_to_use": "Use when arguing that the consequences of a phenomenon are not shared equally across society, which is particularly effective in body paragraphs discussing social justice dimensions of climate change.",
+        "when_to_use_zh": "當論述某一現象的後果在社會中分配不均時使用，在討論氣候變化社會公正層面的主體段落中尤為有效。",
+        "example": "Prolonged heatwaves and associated water shortages disproportionately affect elderly populations, outdoor workers, and low-income households who lack access to air conditioning or the financial means to relocate."
+      },
+      {
+        "phrase": "a multifaceted approach is required",
+        "when_to_use": "Use in your conclusion or when summarising your position to signal that the issue demands solutions from multiple directions simultaneously, avoiding oversimplification.",
+        "when_to_use_zh": "在結論或總結立場時使用，表明該問題需要同時從多個方向尋求解決方案，避免過度簡化。",
+        "example": "Since no single actor possesses both the authority and the resources to address the climate crisis in isolation, a multifaceted approach is required that combines governmental regulation, corporate accountability, and meaningful individual action."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question to establish the debate between government-led solutions and individual or corporate responsibility in the context of increasingly severe climate events. State a clear thesis that both perspectives have merit but that government action is ultimately indispensable, while acknowledging the complementary role of other actors.",
+      "body1": "Discuss the case for government-led action. Argue that only governments possess the regulatory authority, financial capacity, and cross-border diplomatic reach to implement solutions at the necessary scale — such as carbon pricing, binding emissions legislation, infrastructure investment in renewable energy, and international climate agreements like the Paris Accord. Use specific examples to illustrate why market forces and individual choices alone are insufficient to drive systemic change.",
+      "body2": "Present the argument for individual and corporate responsibility. Acknowledge that consumer behaviour shapes market incentives, and that private companies innovating in green technology can accelerate the transition to a low-carbon economy faster than legislation alone. However, offer a counterpoint by noting that this view risks placing an unfair burden on individuals who have limited power to influence structural systems, and that without regulatory frameworks, corporations tend to prioritise profit over environmental responsibility.",
+      "conclusion": "Restate your balanced position clearly: while individual and corporate action is genuinely valuable and should be actively encouraged, it cannot substitute for decisive government leadership. Conclude that the most effective response to climate-related extreme weather events will emerge from a coordinated, multilevel approach in which policy, business practice, and personal behaviour reinforce one another rather than operate in isolation."
+    }
+  }
+}
