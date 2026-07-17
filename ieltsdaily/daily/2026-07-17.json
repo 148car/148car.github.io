@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T04:56:11.792253Z",
+  "listening": {
+    "title": "UK heatwave approaches two-week mark",
+    "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UK experiences one of its longest heatwaves in decades, driven by climate change and a slow-moving high-pressure system known as a heat dome.",
+    "topic_zh": "英國經歷數十年來最長的熱浪之一，由氣候變化和緩慢移動的高壓系統（熱穹頂）共同造成。",
+    "transcript_excerpt": "This summer, parts of the United Kingdom have been sweltering under one of the most prolonged heatwaves in recent memory. Southern England has recorded an unbroken run of thirteen days above heatwave thresholds, and the country has experienced twelve consecutive days at or above thirty degrees Celsius — the longest such spell since 2006. So what is actually driving this extraordinary heat? Meteorologists point to several converging factors. To begin with, climate change is playing an undeniable role. Average UK temperatures are now 1.33 degrees Celsius warmer than they were between 1961 and 1990. Even more alarming is the fact that the very hottest days have warmed three times faster than that average, rising by as much as 4.5 degrees in the Greater London region. On top of that, this summer's atmospheric conditions have been particularly favourable for trapping heat. The jet stream — that fast-moving river of air high up in the atmosphere — has shifted unusually far to the north, allowing a large area of high pressure to settle over western Europe. Because this high-pressure system has been so slow to move, it has created what scientists call a heat dome. Inside this dome, air sinks downward, compresses, and heats up as it nears the ground. The sinking air also dries out the atmosphere, preventing cloud formation and allowing intense sunshine to bake the earth's surface even further. The result is a self-reinforcing cycle of heat that is difficult to break without a significant shift in large-scale weather patterns.",
+    "vocabulary": [
+      {
+        "word": "heatwave",
+        "type": "noun",
+        "definition": "A prolonged period of abnormally hot weather, typically lasting several days or more and exceeding defined temperature thresholds.",
+        "definition_zh": "熱浪；持續數天或更長時間的異常高溫天氣，通常超過特定溫度標準。",
+        "example": "The heatwave that gripped southern England for nearly two weeks put enormous strain on public health services."
+      },
+      {
+        "word": "consecutive",
+        "type": "adjective",
+        "definition": "Following one after another in an unbroken sequence, without interruption.",
+        "definition_zh": "連續的；一個接一個不間斷地發生的。",
+        "example": "The city recorded twelve consecutive days above thirty degrees Celsius, breaking records not seen since the early 2000s."
+      },
+      {
+        "word": "heat dome",
+        "type": "noun",
+        "definition": "A weather phenomenon in which a high-pressure system traps hot air beneath it, causing temperatures to rise significantly as the air sinks, compresses, and heats up.",
+        "definition_zh": "熱穹頂；一種天氣現象，高壓系統將熱空氣困在其下方，使氣溫顯著上升。",
+        "example": "The formation of a heat dome over western Europe was identified as the primary cause of the record-breaking temperatures."
+      },
+      {
+        "word": "jet stream",
+        "type": "noun",
+        "definition": "A narrow band of strong, fast-moving winds in the upper atmosphere that influences weather patterns across large regions.",
+        "definition_zh": "噴射氣流；大氣高層中強勁且快速移動的狹窄氣流帶，對大範圍天氣模式有重要影響。",
+        "example": "When the jet stream shifted northward, it allowed warm southerly air to flow freely into the British Isles."
+      },
+      {
+        "word": "conducive",
+        "type": "adjective",
+        "definition": "Making a particular situation or outcome easy or likely to happen; contributing positively to a specific result.",
+        "definition_zh": "有利的；有助於某種情況或結果發生的。",
+        "example": "The atmospheric conditions this summer proved highly conducive to the development and persistence of extreme heat."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the episode, how many consecutive days did the UK experience temperatures at or above 30°C during this heatwave?",
+        "options": [
+          "A: 13 days",
+          "B: 16 days",
+          "C: 12 days",
+          "D: 10 days"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states 'the UK has seen 12 consecutive days at or above 30C', making C the correct answer. 13 refers to the number of days above heatwave criteria in specific locations, and 16 is the 1976 record."
+      },
+      {
+        "q": "What does the formation of a heat dome cause, according to the episode?",
+        "options": [
+          "A: Increased rainfall and cloud formation across affected regions",
+          "B: Air rising upward and cooling rapidly near the ground",
+          "C: Air sinking, compressing, and heating up as it reaches the surface",
+          "D: The jet stream moving southward to break the high-pressure system"
+        ],
+        "answer": "C",
+        "explanation": "The episode explicitly explains that inside a heat dome 'air sinking downwards, compressing and heating up as it hits the ground' is the key mechanism, making C correct. The other options contradict the explanation given."
+      },
+      {
+        "q": "By how much have the very hottest days warmed in the Greater London region compared to the 1961–1990 baseline?",
+        "options": [
+          "A: 1.33 degrees Celsius",
+          "B: 3 degrees Celsius",
+          "C: 30 degrees Celsius",
+          "D: 4.5 degrees Celsius"
+        ],
+        "answer": "D",
+        "explanation": "The passage states that 'the very hottest days have warmed three times quicker than this — by 4.5C in the Greater London region'. 1.33C is the average warming figure, not the figure for the hottest days specifically."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Science and Significance of the 2024 UK Heatwave",
+    "passage": "The United Kingdom's summer of 2024 has been defined by a heatwave of remarkable duration and intensity. Southern England recorded an unbroken sequence of thirteen days above locally defined heatwave temperature thresholds, while the country as a whole experienced twelve consecutive days at or above thirty degrees Celsius — the longest such period since 2006. Although the historic 1976 record of sixteen days at or above that temperature appeared unlikely to be surpassed, the event nonetheless represented a significant milestone in the nation's climatological history.\n\nMeteorologists have attributed this prolonged heat event to the convergence of several reinforcing factors. Most fundamentally, anthropogenic climate change has elevated mean UK temperatures by approximately 1.33 degrees Celsius relative to the 1961–1990 reference period. However, this figure masks an even more troubling trend: the most extreme hot days have warmed at three times that rate, increasing by as much as 4.5 degrees Celsius in the Greater London region, according to data from the Met Office, the United Kingdom's national weather service.\n\nComplementing this long-term warming trend, the synoptic weather pattern of summer 2024 proved exceptionally favourable for heat accumulation. The polar jet stream, which typically acts as a barrier separating cold polar air from warmer mid-latitude air, migrated unusually far northward. This displacement permitted a large, slow-moving anticyclone to establish itself over western Europe, generating what atmospheric scientists term a 'heat dome'. Within this system, descending air parcels undergo adiabatic compression, raising their temperature considerably before reaching the surface. Simultaneously, the lack of moisture in the descending air suppresses cloud formation, enabling unimpeded solar radiation to further heat the land surface.\n\nThe compounding interaction between accelerated climate change and favourable atmospheric dynamics underscores a broader scientific consensus: extreme heat events of this nature are becoming more frequent, more intense, and longer-lasting as global temperatures continue to rise.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The UK's 1976 record of sixteen consecutive days at or above 30°C was broken during the 2024 heatwave.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that the 1976 record 'appeared unlikely to be surpassed', indicating it was not broken. The 2024 event reached only twelve consecutive days at or above 30°C."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Average UK temperatures have risen more quickly than the temperatures recorded on the hottest individual days.",
+        "answer": "False",
+        "explanation": "The passage states the opposite: the hottest days have warmed 'at three times that rate' compared to the average warming of 1.33°C, meaning extreme hot days have warmed faster, not slower, than the average."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Met Office predicts that future summers in the UK will see heatwaves of even longer duration than the 2024 event.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions Met Office data on temperature increases but makes no specific forecast about future heatwave duration. The final paragraph refers to a broader scientific consensus about increasing frequency and intensity but cites no specific Met Office predictions about duration."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the primary reason that a heat dome prevents cloud formation?",
+        "options": [
+          "A: Strong surface winds disperse clouds before they can develop",
+          "B: Descending air parcels lack sufficient moisture to form clouds",
+          "C: Solar radiation is too intense for water vapour to condense",
+          "D: The jet stream pushes existing clouds out of the affected region"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'the lack of moisture in the descending air suppresses cloud formation'. The descending, compressed air dries out, removing the moisture needed for clouds to form. Option A, C, and D are not supported by the text."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an extreme weather event you have experienced or heard about.",
+    "topic_zh": "描述一次你親身經歷或聽說過的極端天氣事件。",
+    "part2": {
+      "cue_card": "Describe an extreme weather event you have experienced or heard about.\n\nYou should say:\n• What the weather event was and where it occurred\n• When it happened and how long it lasted\n• What effects it had on people and the environment\n\nAnd explain why this weather event has stayed in your memory or made an impression on you.\n\nYou will have one minute to prepare. Then speak for one to two minutes.",
+      "band_tips": [
+        "Use a wide range of precise meteorological and environmental vocabulary such as 'unprecedented', 'prolonged', 'atmospheric conditions', and 'heat-related illness' to demonstrate lexical sophistication and push your score toward Band 8.",
+        "Employ a variety of complex grammatical structures including passive voice, conditional clauses, and perfect tenses — for example, 'Had the authorities not issued warnings in advance, the consequences could have been far more severe' — to showcase grammatical range and accuracy.",
+        "Develop your response with specific details, statistics, and personal or observed reactions rather than speaking in vague generalities; examiners reward candidates who can substantiate their ideas with concrete evidence and nuanced reflection."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare their citizens for extreme weather events?",
+        "q_zh": "你認為政府是否採取了足夠措施來幫助公民應對極端天氣事件？",
+        "key_points": [
+          "Many governments have improved early warning systems and public health infrastructure, but implementation often lags behind the accelerating pace of climate-driven extreme events.",
+          "Vulnerable populations such as the elderly, low-income households, and outdoor workers frequently receive inadequate protection, revealing systemic inequalities in disaster preparedness.",
+          "Long-term urban planning measures such as increasing green spaces, mandating cool roofs, and restricting urban heat island development are still insufficiently prioritised in most countries."
+        ]
+      },
+      {
+        "q": "How does climate change affect the frequency and severity of heatwaves, and what does the scientific evidence tell us?",
+        "q_zh": "氣候變化如何影響熱浪的頻率和嚴重程度？科學證據告訴我們什麼？",
+        "key_points": [
+          "The scientific consensus, supported by bodies such as the IPCC and national meteorological agencies, is unambiguous: rising greenhouse gas concentrations are directly linked to more frequent and intense heat extremes.",
+          "Attribution science — a relatively new field — can now calculate with considerable precision the degree to which human-caused climate change increased the probability or intensity of any specific weather event.",
+          "The relationship between average temperature rises and extreme events is non-linear; even a 1.5-degree global increase can cause disproportionately large changes in the frequency of events that were previously considered once-in-a-century occurrences."
+        ]
+      },
+      {
+        "q": "What measures can individuals take in their daily lives to reduce the impact of extreme heat?",
+        "q_zh": "個人在日常生活中可以採取哪些措施來減少極端高溫的影響？",
+        "key_points": [
+          "At the personal level, people can adapt their behaviour by adjusting outdoor activity to cooler parts of the day, staying hydrated, and checking on elderly or isolated neighbours — actions that are low-cost but collectively significant.",
+          "Reducing individual carbon footprints through dietary choices, reduced aviation, and transitioning to electric or low-emission transport contributes to the mitigation of the underlying causes of heatwaves over the longer term.",
+          "Engaging with community-level initiatives such as planting urban trees, participating in local resilience plans, and advocating for policy change amplifies individual action into meaningful collective impact."
+        ]
+      },
+      {
+        "q": "Some people argue that economic development must take priority over environmental protection. To what extent do you agree with this view?",
+        "q_zh": "有些人認為經濟發展必須優先於環境保護，你在多大程度上同意這一觀點？",
+        "key_points": [
+          "This is a false dichotomy; extensive economic research, including the landmark Stern Review, demonstrates that the long-term economic cost of unchecked climate change vastly exceeds the short-term costs of mitigation and adaptation.",
+          "Developing nations have a legitimate argument that they should not bear a disproportionate burden of climate action given that historically industrialised nations created the majority of accumulated greenhouse gas emissions.",
+          "The concept of a 'green economy' illustrates that sustainable development, renewable energy investment, and environmental protection can simultaneously generate employment, drive innovation, and stimulate growth without sacrificing one for the other."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events such as heatwaves, floods, and wildfires are becoming increasingly common around the world. Some people believe that individuals are primarily responsible for addressing this problem through changes in their lifestyle and behaviour, while others argue that only large-scale government and corporate action can make a meaningful difference. Discuss both views and give your own opinion.",
+    "task2_question_zh": "熱浪、洪水和野火等極端天氣事件在全球愈來愈頻繁。有些人認為個人應通過改變生活方式和行為來主要負責解決這一問題，而另一些人則認為只有大規模的政府和企業行動才能產生實質性的改變。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "There is compelling evidence to suggest that",
+        "when_to_use": "Use this phrase to introduce a well-supported claim or finding, particularly when citing scientific consensus or research data.",
+        "when_to_use_zh": "用於引入有充分支持的論點或發現，特別是在引用科學共識或研究數據時。",
+        "example": "There is compelling evidence to suggest that the frequency of extreme heat events has increased significantly over the past three decades as a direct consequence of rising atmospheric greenhouse gas concentrations."
+      },
+      {
+        "phrase": "While it is tempting to argue that … , a closer examination reveals that …",
+        "when_to_use": "Use this concessive structure to acknowledge an opposing viewpoint before systematically rebutting it or introducing a more nuanced position.",
+        "when_to_use_zh": "用於讓步結構，先承認對立觀點，再系統性地反駁或提出更細緻的立場。",
+        "example": "While it is tempting to argue that individual lifestyle changes alone can reverse climate trends, a closer examination reveals that systemic policy reform and corporate accountability are indispensable components of any effective strategy."
+      },
+      {
+        "phrase": "The issue is further compounded by",
+        "when_to_use": "Use this phrase to introduce an additional factor that makes the problem more complex or serious, building analytical depth in your argument.",
+        "when_to_use_zh": "用於引入使問題更加複雜或嚴重的額外因素，增加論點的分析深度。",
+        "example": "The issue is further compounded by the unequal distribution of climate impacts, with economically marginalised communities bearing a disproportionate burden of the consequences of extreme weather."
+      },
+      {
+        "phrase": "It stands to reason that",
+        "when_to_use": "Use this phrase to present a logical conclusion that follows naturally from evidence already discussed, guiding the reader through your reasoning.",
+        "when_to_use_zh": "用於提出從已討論證據中自然得出的邏輯結論，引導讀者理解你的推理過程。",
+        "example": "It stands to reason that governments possessing the regulatory authority to enforce emissions standards, mandate renewable energy adoption, and fund large-scale adaptation infrastructure are better positioned than individuals to drive systemic change."
+      },
+      {
+        "phrase": "A more balanced perspective would acknowledge that",
+        "when_to_use": "Use this phrase in the conclusion or when synthesising both sides of a discussion essay to demonstrate critical thinking and avoid oversimplification.",
+        "when_to_use_zh": "在結論或綜合討論文章兩方觀點時使用，以展示批判性思維並避免過度簡化。",
+        "example": "A more balanced perspective would acknowledge that while governmental and corporate action must form the backbone of any climate response, sustained shifts in public attitudes and consumer behaviour create the political conditions necessary for bold policy decisions to be enacted."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the increasing prevalence of extreme weather events globally, referencing phenomena such as the UK heatwave as a concrete illustration. Paraphrase the essay question to demonstrate understanding, then present a clear thesis stating that while individual action has value, large-scale systemic intervention is ultimately more decisive.",
+      "body1": "Explore the view that individual responsibility is central to addressing climate change. Acknowledge that collective lifestyle changes — such as reducing meat consumption, limiting air travel, and adopting energy-efficient practices — can, in aggregate, reduce emissions. However, critically evaluate the limitations of this view: individuals have constrained choices shaped by infrastructure, affordability, and social norms, and without structural enablers, personal change remains insufficient.",
+      "body2": "Present the contrasting argument that government policy and corporate accountability are the primary drivers of meaningful change. Support this with reference to regulatory mechanisms such as carbon pricing, emissions legislation, and renewable energy mandates, which operate at a scale far beyond individual influence. Argue that corporations responsible for the largest share of global emissions require enforceable obligations rather than voluntary pledges, and that governments must invest in climate adaptation infrastructure to protect vulnerable populations from events like heatwaves.",
+      "conclusion": "Synthesise both perspectives by reaffirming your thesis: meaningful progress requires a complementary relationship between individual behaviour change and systemic institutional action, with the latter carrying the greater burden. End with a forward-looking statement about the urgency of coordinated global effort given the accelerating pace of climate-driven extreme weather."
+    }
+  }
+}
