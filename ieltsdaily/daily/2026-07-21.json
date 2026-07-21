@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T05:01:05.624046Z",
+  "listening": {
+    "title": "Tropical Storm Bertha threatens US Gulf coast",
+    "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Tropical Storm Bertha approaches the US Gulf Coast, threatening severe flooding, storm surges, and high winds across several southern states.",
+    "topic_zh": "熱帶風暴貝莎逼近美國墨西哥灣沿岸，對南部多個州造成嚴重洪水、風暴潮和強風威脅。",
+    "transcript_excerpt": "Forecasters at the National Hurricane Center in Miami are closely monitoring Tropical Storm Bertha as it swirls across the Gulf of Mexico, heading towards the south-eastern United States. The storm, carrying sustained windspeeds of around 40 miles per hour, was positioned approximately 105 miles south of Panama City, Florida, on Monday. Officials warn that the storm is expected to bring life-threatening storm surges, with surge levels of between one and four feet projected along the Louisiana and Mississippi coastlines. Some regions could receive up to eight inches of rainfall by Friday, and isolated tornadoes may develop across Florida. Emergency services in New Orleans have begun distributing sandbags to vulnerable communities in preparation for potential flooding. Residents are also being urged to clear storm drains near their homes to help manage excess water. The storm is forecast to strengthen slightly before potentially making landfall near New Orleans by Wednesday. However, meteorologists believe Bertha will gradually weaken back to a tropical depression by Thursday and may dissipate entirely as it approaches the Texas coast later in the week. This marks only the second named storm of the Atlantic hurricane season, following Tropical Storm Arthur, which caused localised flooding last month. Authorities continue to urge residents in at-risk areas to remain vigilant and follow official guidance.",
+    "vocabulary": [
+      {
+        "word": "storm surge",
+        "type": "noun",
+        "definition": "An abnormal rise in sea level caused by a storm, particularly a hurricane or tropical storm, which can cause severe coastal flooding.",
+        "definition_zh": "由風暴（特別是颶風或熱帶風暴）引起的海平面異常上升，可能導致嚴重的沿海洪水。",
+        "example": "The storm surge reached four feet along the Louisiana coastline, flooding dozens of coastal homes."
+      },
+      {
+        "word": "dissipate",
+        "type": "verb",
+        "definition": "To gradually lose strength and disappear, often used to describe weather systems that weaken and break apart over time.",
+        "definition_zh": "逐漸失去力量並消散，常用於描述天氣系統隨時間減弱並分散。",
+        "example": "Meteorologists predicted the tropical storm would dissipate by the end of the week as it moved inland."
+      },
+      {
+        "word": "landfall",
+        "type": "noun",
+        "definition": "The moment or location at which a storm or weather system moves from the sea onto land.",
+        "definition_zh": "風暴或天氣系統從海上移至陸地的時刻或地點。",
+        "example": "The hurricane made landfall near New Orleans on Wednesday evening, causing widespread destruction."
+      },
+      {
+        "word": "spawn",
+        "type": "verb",
+        "definition": "To give rise to or produce something, often used in meteorology to describe storms generating secondary weather events such as tornadoes.",
+        "definition_zh": "產生或引發某事物，在氣象學中常用於描述風暴產生龍捲風等次生天氣事件。",
+        "example": "The tropical storm spawned several isolated tornadoes across the Florida peninsula overnight."
+      },
+      {
+        "word": "stave off",
+        "type": "phrase",
+        "definition": "To prevent or delay something harmful or undesirable from happening, often through proactive measures.",
+        "definition_zh": "通過積極措施防止或推遲有害或不良事情的發生。",
+        "example": "City officials distributed thousands of sandbags to help residents stave off the rising floodwaters."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, what was Tropical Storm Bertha's wind speed on Monday?",
+        "options": [
+          "A: 65 miles per hour",
+          "B: 40 miles per hour",
+          "C: 70 miles per hour",
+          "D: 105 miles per hour"
+        ],
+        "answer": "B",
+        "explanation": "The article clearly states that Tropical Storm Bertha was 'carrying windspeeds of 40mph (65 km/h) on Monday.' The figure 65 refers to kilometres per hour, not miles per hour."
+      },
+      {
+        "q": "What precautionary measure are residents of New Orleans being asked to take?",
+        "options": [
+          "A: Evacuate immediately to higher ground",
+          "B: Board up windows and doors",
+          "C: Ensure local storm drains are clear",
+          "D: Move vehicles to elevated parking areas"
+        ],
+        "answer": "C",
+        "explanation": "The article explicitly states that 'Residents have also been asked to ensure that local storm drains are clear,' alongside the distribution of sandbags."
+      },
+      {
+        "q": "What is the forecast for Tropical Storm Bertha by Thursday?",
+        "options": [
+          "A: It will intensify into a hurricane",
+          "B: It will make landfall in Texas",
+          "C: It will weaken to a tropical depression",
+          "D: It will reverse direction and head north"
+        ],
+        "answer": "C",
+        "explanation": "The article states that 'Bertha is forecast to weaken back to a tropical depression on Thursday,' before potentially dissipating entirely by the end of the week."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Tropical Storms and Their Impact on Coastal Communities",
+    "passage": "Tropical storms represent one of the most formidable natural hazards facing coastal populations, particularly in regions such as the Gulf of Mexico, where warm sea surface temperatures provide the energy necessary for storm development and intensification. These meteorological systems, characterised by rotating wind patterns and heavy precipitation, can cause devastation across multiple dimensions, including physical infrastructure damage, displacement of populations, and long-term economic disruption.\n\nOne of the most dangerous phenomena associated with tropical storms is the storm surge, defined as an abnormal rise in coastal sea levels driven by the storm's powerful winds and low atmospheric pressure. Storm surges can penetrate far inland, overwhelming drainage systems and inundating both urban and rural areas. In densely populated coastal cities, such as New Orleans, the consequences can be catastrophic, as was tragically demonstrated during Hurricane Katrina in 2005.\n\nBeyond storm surges, tropical storms also generate intense rainfall that can trigger flash flooding, particularly in urban environments where impermeable surfaces prevent adequate water absorption. Isolated tornadoes frequently develop along the outer bands of such storms, adding further unpredictability to an already complex meteorological event. Communities in the path of such storms must balance immediate evacuation decisions with longer-term resilience planning.\n\nGovernments and disaster management agencies have increasingly prioritised early warning systems and community preparedness programmes in response to the growing frequency and intensity of tropical weather events. Measures such as pre-positioning emergency supplies, distributing sandbags, and maintaining clear drainage infrastructure have proven effective in mitigating the worst impacts of storm events. Nevertheless, scientists warn that rising global sea temperatures, linked to climate change, are likely to intensify future tropical storms, making sustained investment in coastal resilience more critical than ever.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Storm surges are caused solely by heavy rainfall associated with tropical storms.",
+        "answer": "False",
+        "explanation": "The passage states that storm surges are caused by 'the storm's powerful winds and low atmospheric pressure,' not solely by rainfall. This directly contradicts the statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Hurricane Katrina demonstrated the severe consequences of storm surges in New Orleans.",
+        "answer": "True",
+        "explanation": "The passage explicitly references Hurricane Katrina in 2005 as a tragic demonstration of the catastrophic consequences of storm surges in densely populated coastal cities such as New Orleans."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Scientists believe that tropical storms will decrease in frequency as global sea temperatures rise.",
+        "answer": "False",
+        "explanation": "The passage states that 'rising global sea temperatures, linked to climate change, are likely to intensify future tropical storms,' meaning they are expected to become more intense, not less frequent. The statement contradicts this information."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best describes why urban areas are particularly vulnerable to flash flooding during tropical storms?",
+        "options": [
+          "A: Urban areas are typically located closer to storm centres",
+          "B: Impermeable surfaces in cities prevent adequate water absorption",
+          "C: Urban drainage systems are rarely maintained by local authorities",
+          "D: Cities experience stronger winds than rural areas during storms"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that flash flooding in urban environments is triggered partly because 'impermeable surfaces prevent adequate water absorption,' making option B the correct and most directly supported answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced or learned about a severe weather event.",
+    "topic_zh": "描述一次你親身經歷或了解到的惡劣天氣事件。",
+    "part2": {
+      "cue_card": "Describe a time when you experienced or learned about a severe weather event.\n\nYou should say:\n- What the weather event was and where it occurred\n- How you experienced or learned about it (e.g. through news, personal experience)\n- What impact it had on people or the local environment\n\nAnd explain how this experience affected your views on natural disasters or climate change.",
+      "band_tips": [
+        "Use a wide range of meteorological and disaster-related vocabulary such as 'storm surge,' 'evacuation,' 'infrastructure damage,' and 'meteorological phenomenon' to demonstrate lexical range and precision.",
+        "Employ a variety of narrative tenses accurately — use past simple for completed events, past continuous for background context, and past perfect for events that preceded others — to show grammatical sophistication.",
+        "Extend your response with personal reflection on broader issues such as climate change, government preparedness, and community resilience, linking your personal experience to wider global concerns to achieve higher coherence and relevance."
+      ]
+    },
+    "part3": [
+      {
+        "q": "How do you think governments should prepare communities for increasingly severe weather events?",
+        "q_zh": "您認為政府應如何為社區應對日益嚴峻的惡劣天氣事件做好準備？",
+        "key_points": [
+          "Governments should invest in robust early warning systems and public education campaigns so that communities can respond quickly and effectively when disasters strike.",
+          "Infrastructure resilience is critical — flood defences, reinforced buildings, and improved urban drainage systems can significantly reduce the physical damage caused by extreme weather.",
+          "Long-term planning must integrate climate change projections, ensuring that coastal development policies account for rising sea levels and increased storm frequency."
+        ]
+      },
+      {
+        "q": "Do you think media coverage of natural disasters is helpful or does it sometimes cause unnecessary panic?",
+        "q_zh": "您認為媒體對自然災害的報導是有幫助的，還是有時會造成不必要的恐慌？",
+        "key_points": [
+          "Accurate and timely media reporting plays a vital role in disseminating evacuation orders and safety information, potentially saving lives during fast-moving weather events.",
+          "However, sensationalised coverage that exaggerates threats or uses alarming imagery can cause public panic, leading to poor decision-making such as mass evacuations that overwhelm transport networks.",
+          "A balance must be struck, with news organisations having a responsibility to report factually and calmly, working alongside official emergency management agencies to convey clear, actionable guidance."
+        ]
+      },
+      {
+        "q": "To what extent do you believe climate change is responsible for the increasing frequency of tropical storms?",
+        "q_zh": "您在多大程度上認為氣候變化是熱帶風暴頻率增加的原因？",
+        "key_points": [
+          "The scientific consensus strongly links rising global sea surface temperatures — a direct consequence of climate change — to the intensification of tropical storms, as warmer oceans provide greater energy for storm development.",
+          "While natural climate variability has always produced severe weather, the observed trend of increasingly powerful storms correlates with decades of anthropogenic greenhouse gas emissions, suggesting a clear human influence.",
+          "Addressing this issue requires international cooperation on emissions reduction while simultaneously building local adaptive capacity, as these two strategies are complementary rather than mutually exclusive."
+        ]
+      },
+      {
+        "q": "What responsibilities do wealthier nations have towards developing countries that are more vulnerable to natural disasters?",
+        "q_zh": "富裕國家對更容易受自然災害影響的發展中國家有哪些責任？",
+        "key_points": [
+          "Wealthier nations, which have historically contributed the most to global carbon emissions, bear a moral and arguably legal responsibility to support climate-vulnerable developing countries through financial aid and technology transfer.",
+          "This support could take the form of climate finance mechanisms, such as the Loss and Damage fund agreed upon at COP27, which aims to compensate nations suffering the worst effects of climate-related disasters.",
+          "Beyond financial assistance, knowledge sharing in areas such as disaster preparedness, early warning technology, and sustainable urban planning can build long-term resilience in vulnerable communities."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Natural disasters such as tropical storms and floods are becoming increasingly frequent and destructive. Some people believe that governments alone are responsible for protecting citizens from these events, while others argue that individuals must also take responsibility for their own safety. Discuss both views and give your own opinion.",
+    "task2_question_zh": "熱帶風暴和洪水等自然災害正變得越來越頻繁和具破壞性。一些人認為政府單獨負責保護公民免受這些事件的侵害，而另一些人則認為個人也必須對自己的安全負責。討論兩種觀點並給出您自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "It is widely acknowledged that",
+        "when_to_use": "Use at the start of a body paragraph to introduce a broadly accepted idea or viewpoint before developing or challenging it.",
+        "when_to_use_zh": "在段落開頭使用，用於引入一個被廣泛認可的觀點，然後進一步發展或挑戰它。",
+        "example": "It is widely acknowledged that governments possess the resources and authority necessary to coordinate large-scale disaster response operations."
+      },
+      {
+        "phrase": "proponents of this view argue that",
+        "when_to_use": "Use when presenting the supporting arguments of one particular perspective in a discussion essay, attributing the view to a group rather than stating it as personal fact.",
+        "when_to_use_zh": "在討論文中呈現某一特定觀點的支持論點時使用，將該觀點歸於某群體而非個人陳述。",
+        "example": "Proponents of this view argue that individuals living in disaster-prone regions have a duty to familiarise themselves with emergency procedures."
+      },
+      {
+        "phrase": "Nevertheless, it could be contended that",
+        "when_to_use": "Use to introduce a counter-argument or an opposing perspective after presenting one side, helping to create a balanced and nuanced discussion.",
+        "when_to_use_zh": "在呈現一方觀點後，用於引入反駁論點或對立觀點，有助於建立平衡和細緻的討論。",
+        "example": "Nevertheless, it could be contended that without adequate government investment in flood defences, individual preparedness measures are fundamentally insufficient."
+      },
+      {
+        "phrase": "the long-term implications of",
+        "when_to_use": "Use when discussing consequences or effects that extend beyond the immediate situation, particularly when arguing for systemic or policy-level change.",
+        "when_to_use_zh": "討論超出即時情況的長期後果或影響時使用，尤其是在論述系統性或政策層面的變革時。",
+        "example": "The long-term implications of inadequate coastal infrastructure investment are becoming increasingly apparent as storm intensity rises."
+      },
+      {
+        "phrase": "a collaborative approach is therefore essential",
+        "when_to_use": "Use in the conclusion or when synthesising arguments to suggest that cooperation between multiple parties — such as governments, communities, and individuals — is the most effective solution.",
+        "when_to_use_zh": "在結論或綜合論點時使用，建議政府、社區和個人等多方合作是最有效的解決方案。",
+        "example": "A collaborative approach is therefore essential, as neither governments nor individuals can adequately address the growing threat of natural disasters in isolation."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question to contextualise the issue within the growing global threat of extreme weather events. Briefly acknowledge both perspectives and conclude with a clear thesis statement indicating that shared responsibility between governments and individuals represents the most effective approach.",
+      "body1": "Discuss the view that governments bear primary responsibility for disaster protection. Develop arguments around the state's unique capacity to fund large-scale infrastructure such as flood defences and early warning systems, coordinate emergency response agencies, and enforce building codes and land-use regulations in disaster-prone areas. Use the example of sandbag distribution and storm drain maintenance from the article as an illustration of government-led preparedness measures.",
+      "body2": "Present the counter-argument that individuals also have a meaningful role to play in their own safety. Argue that personal preparedness — such as understanding evacuation routes, maintaining emergency supplies, and heeding official warnings promptly — can significantly reduce casualties. Acknowledge, however, that this view has limitations, as socioeconomically disadvantaged individuals may lack the resources or access to information needed to prepare adequately, reinforcing the need for government support.",
+      "conclusion": "Restate your position that responsibility is most effectively shared between governments and individuals. Emphasise that while states must provide the structural and regulatory framework for disaster resilience, informed and proactive citizens are equally vital. End with a forward-looking comment on the urgency of this shared responsibility in light of climate change."
+    }
+  }
+}
