@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T05:17:59.798319Z",
+  "listening": {
+    "title": "River levels approach all-time low as drought announcement looms",
+    "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "River levels across Wales are reaching historic lows due to back-to-back heatwaves and minimal rainfall, prompting authorities to consider an official environmental drought declaration.",
+    "topic_zh": "威爾斯各地河流水位因連續熱浪和降雨量極少而創歷史新低，促使當局考慮宣布正式的環境乾旱狀態。",
+    "transcript_excerpt": "Welcome to today's programme. We're looking at a serious environmental situation unfolding in Wales, where river levels are dropping to near record lows. This summer has been particularly brutal — Wales has received only about five percent of its average July rainfall, following a string of back-to-back heatwaves and a drier-than-usual spring. The consequences are alarming. Fish and other wildlife are dying as river flows become dangerously low, while farmers are reporting failing crops and heat-stressed livestock struggling to survive the extreme conditions. Natural Resources Wales, the environmental authority responsible for monitoring the country's waterways, has already moved parts of Wales to what's called 'prolonged dry weather' status — the first formal step on the path toward an official drought declaration. This triggers enhanced monitoring of rivers and important wildlife habitats, as well as guidance for farmers and industries that depend on river water. Among the worst-affected rivers are the Clwyd, the Wye, and the Conwy, all of which have been classed as running at exceptionally low levels. In response, extra water is being released from reservoirs to try to maintain minimum flows in some of the most critical waterways. Experts warn that if conditions do not improve soon, the ecological and agricultural damage could be severe and long-lasting. So what does 'environmental drought' actually mean, and what can be done to manage water resources more sustainably? Let's explore those questions today.",
+    "vocabulary": [
+      {
+        "word": "environmental drought",
+        "type": "noun",
+        "definition": "A condition in which water levels in rivers, lakes, and soils fall so low that ecosystems, wildlife, and agricultural systems are seriously harmed, even if an official water shortage has not been declared for human use.",
+        "definition_zh": "一種河流、湖泊和土壤水位極低的狀況，嚴重危害生態系統、野生動物和農業系統，即使尚未針對人類用水宣布正式缺水狀態。",
+        "example": "The government declared an environmental drought after river flows dropped to their lowest levels in over a century."
+      },
+      {
+        "word": "prolonged dry weather",
+        "type": "phrase",
+        "definition": "An officially recognised phase in drought monitoring indicating that rainfall has been significantly below average for an extended period, triggering heightened observation and precautionary measures.",
+        "definition_zh": "乾旱監測中一個正式認可的階段，表示降雨量長期大幅低於平均水平，觸發更嚴密的觀測和預防措施。",
+        "example": "Natural Resources Wales moved several regions to prolonged dry weather status after weeks of minimal precipitation."
+      },
+      {
+        "word": "watercourse",
+        "type": "noun",
+        "definition": "Any natural or artificial channel through which water flows, such as a river, stream, or canal.",
+        "definition_zh": "任何水流流經的天然或人工渠道，如河流、溪流或運河。",
+        "example": "Several watercourses in the region had completely dried up by the end of July."
+      },
+      {
+        "word": "heat-stressed",
+        "type": "adjective",
+        "definition": "Describing animals or plants that are suffering physiological harm or reduced performance due to exposure to abnormally high temperatures.",
+        "definition_zh": "描述動物或植物因暴露於異常高溫而遭受生理傷害或機能下降的狀態。",
+        "example": "Heat-stressed livestock were struggling to find adequate shade and water on the parched farmland."
+      },
+      {
+        "word": "back-to-back",
+        "type": "adjective",
+        "definition": "Occurring consecutively without a break in between; used to describe repeated events that follow one another immediately.",
+        "definition_zh": "連續發生、中間沒有間隔；用來描述一個接一個緊接發生的重複事件。",
+        "example": "Back-to-back heatwaves throughout the summer left the ground bone dry and rivers critically low."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, approximately what percentage of average July rainfall had Wales received at the time of the announcement?",
+        "options": [
+          "A: 15%",
+          "B: 50%",
+          "C: 5%",
+          "D: 25%"
+        ],
+        "answer": "C",
+        "explanation": "The report explicitly states that Wales had seen about 5% of the average rainfall for July, making C the correct answer. The other figures are not mentioned in the content."
+      },
+      {
+        "q": "What does 'prolonged dry weather' status represent in Wales's drought monitoring system?",
+        "options": [
+          "A: The final stage before a full water-use ban is imposed",
+          "B: The first formal step on the pathway toward a drought declaration",
+          "C: A classification meaning rivers have completely dried up",
+          "D: An emergency measure requiring immediate reservoir releases"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly describes 'prolonged dry weather' as 'classed as a first step towards drought,' making B correct. It is an early warning classification, not a final emergency stage."
+      },
+      {
+        "q": "Which organisation represents Wales's river trusts and warned about significant problems caused by low river flows?",
+        "options": [
+          "A: Natural Resources Wales",
+          "B: The Welsh Farming Union",
+          "C: Afonydd Cymru",
+          "D: The Environment Agency"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that 'Afonydd Cymru, which represents Wales' rivers trusts, said low river flows were causing significant problems.' Natural Resources Wales is a separate monitoring authority."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Drought, Declining Rivers and the Ecological Cost of Prolonged Heatwaves in Wales",
+    "passage": "In the summer of 2026, Wales experienced one of its most severe hydrological crises in recorded history. River levels across the country fell to near-historic lows following a combination of back-to-back heatwaves and a precipitation deficit stretching back to April. With Wales receiving approximately five percent of its typical July rainfall, environmental authorities were forced to confront the prospect of formally declaring an environmental drought — a classification distinct from an agricultural or water-supply drought, as it focuses specifically on the harm inflicted upon natural ecosystems.\n\nNatural Resources Wales (NRW), the governmental body responsible for environmental regulation and water management in the country, had already elevated parts of Wales to 'prolonged dry weather' status the previous week. This designation, representing the first tier in a structured drought response framework, activated enhanced monitoring protocols across key waterways and ecologically sensitive habitats. Farmers and industrial water users received guidance on conservation measures, while additional water was released from reservoirs to sustain minimum flows in rivers such as the Clwyd, Wye, Dee, and Severn.\n\nThe ecological consequences of the low flows were considerable. Afonydd Cymru, the representative body for Wales's river trusts, reported that depleted river levels were causing direct mortality among fish populations and disrupting broader aquatic ecosystems. Rivers including the Clwyd, Alwen, Dyfi, and Conwy were officially classified as running at exceptionally low levels. Agricultural communities also reported significant distress, with failing crops and heat-stressed livestock compounding the hardship already imposed by the extreme temperatures.\n\nScientists and environmental policy experts have long warned that climate change is increasing the frequency and intensity of such droughts. The events of 2026 underscored the urgent need for integrated water management strategies that can balance ecological, agricultural, and human demands on a shrinking natural resource — particularly in regions, like Wales, where wet weather has historically been taken for granted.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Wales received approximately five percent of its average July rainfall during the period described in the passage.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that Wales received 'approximately five percent of its typical July rainfall,' directly confirming this statement as True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Natural Resources Wales declared a full environmental drought before the events described in the final paragraph.",
+        "answer": "False",
+        "explanation": "The passage states that NRW elevated parts of Wales to 'prolonged dry weather' status — described as the first tier in the framework — not a full drought declaration. Therefore the statement is False."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Wales has historically experienced frequent and severe drought conditions similar to those of summer 2026.",
+        "answer": "Not Given",
+        "explanation": "The passage notes that wet weather in Wales has 'historically been taken for granted,' implying droughts are unusual, but it does not provide specific historical frequency data to confirm or deny this statement definitively."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the primary distinction between an environmental drought and other types of drought?",
+        "options": [
+          "A: An environmental drought only affects human water supplies, not wildlife",
+          "B: An environmental drought focuses on harm to natural ecosystems rather than agricultural or supply issues",
+          "C: An environmental drought is declared only when all rivers have completely stopped flowing",
+          "D: An environmental drought is a less serious classification than an agricultural drought"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that an environmental drought 'focuses specifically on the harm inflicted upon natural ecosystems,' distinguishing it from agricultural or water-supply droughts. Option B accurately reflects this definition."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you witnessed or learned about an environmental problem in your local area or country.",
+    "topic_zh": "描述一次你親眼目睹或了解到的當地或國家環境問題。",
+    "part2": {
+      "cue_card": "Describe a time when you witnessed or learned about an environmental problem in your local area or country.\n\nYou should say:\n• What the environmental problem was\n• When and where you first became aware of it\n• What impact it had on people, wildlife, or the landscape\n\nAnd explain what you think should be done to prevent or address this kind of problem in the future.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use specific environmental vocabulary such as 'ecological damage,' 'water scarcity,' 'prolonged drought,' and 'habitat degradation' to demonstrate a wide lexical resource and push toward Band 8.",
+        "Structure your response clearly with a brief introduction, a developed middle section describing the impact using vivid detail, and a forward-looking conclusion that proposes solutions — this shows coherence and fluency valued at Band 7 and above.",
+        "Incorporate a range of complex grammatical structures, such as conditional sentences ('If authorities had acted sooner, the damage could have been mitigated'), passive constructions, and relative clauses, to maximise your grammatical range score."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments in your country are doing enough to protect water resources and prevent droughts?",
+        "q_zh": "你認為你的國家政府是否採取了足夠措施來保護水資源並防止乾旱？",
+        "key_points": [
+          "Discuss specific government policies such as water pricing, reservoir construction, and conservation regulations, evaluating their effectiveness with evidence or examples.",
+          "Acknowledge competing pressures governments face, such as economic development versus environmental protection, to show balanced critical thinking.",
+          "Suggest improvements such as mandatory water audits for industries, public awareness campaigns, or investment in water recycling infrastructure."
+        ]
+      },
+      {
+        "q": "How does climate change affect the availability of fresh water around the world, and who is most vulnerable to these changes?",
+        "q_zh": "氣候變化如何影響全球淡水供應，哪些人群最容易受到這些變化的影響？",
+        "key_points": [
+          "Explain that climate change intensifies the water cycle — causing more extreme droughts in some regions and flooding in others — disrupting predictable rainfall patterns that agriculture and ecosystems depend upon.",
+          "Identify vulnerable groups including smallholder farmers in developing nations, communities in arid regions with limited infrastructure, and ecosystems with low adaptive capacity.",
+          "Mention that unequal access to technology and financial resources means wealthier nations can adapt more easily, raising serious questions of climate justice."
+        ]
+      },
+      {
+        "q": "Some people argue that individuals have a responsibility to conserve water in their daily lives. To what extent do you agree?",
+        "q_zh": "有些人認為個人在日常生活中有責任節約用水。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Agree that individual habits — such as reducing shower time, fixing leaks, and choosing water-efficient appliances — collectively make a measurable difference to overall consumption.",
+          "However, argue that structural and industrial water use dwarfs household consumption, so systemic change through regulation and corporate accountability is ultimately more impactful.",
+          "Suggest that the most effective approach combines individual responsibility with strong governmental policy, rather than placing the entire burden on ordinary citizens."
+        ]
+      },
+      {
+        "q": "How important is it for countries to cooperate internationally on managing shared rivers and water resources?",
+        "q_zh": "各國在管理共用河流和水資源方面進行國際合作有多重要？",
+        "key_points": [
+          "Emphasise that many major rivers cross national borders — such as the Nile, Mekong, and Rhine — making unilateral water management decisions by one country potentially devastating for downstream nations.",
+          "Reference existing international frameworks such as the UN Watercourses Convention as evidence that cooperation is both possible and necessary, though enforcement remains challenging.",
+          "Warn that competition over water scarcity is increasingly identified by security analysts as a potential trigger for geopolitical conflict, making diplomacy around water rights a pressing global priority."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Droughts and water shortages are becoming increasingly common in many parts of the world. Some people believe that governments alone are responsible for managing and solving this problem. Others argue that individuals and businesses must also play a significant role. Discuss both views and give your own opinion.",
+    "task2_question_zh": "乾旱和水資源短缺在世界許多地方日益普遍。一些人認為，管理和解決這一問題完全是政府的責任。另一些人則認為，個人和企業也必須發揮重要作用。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "exacerbated by",
+        "when_to_use": "Use this phrase when explaining that one factor has made an existing problem significantly worse, particularly when discussing climate change intensifying drought conditions.",
+        "when_to_use_zh": "當解釋某一因素使現有問題顯著惡化時使用，尤其適合討論氣候變化加劇乾旱狀況的情況。",
+        "example": "The water crisis has been further exacerbated by back-to-back heatwaves that have depleted river levels to near-historic lows."
+      },
+      {
+        "phrase": "integrated approach",
+        "when_to_use": "Use this phrase in your conclusion or body paragraphs to argue that solving a complex environmental problem requires coordinated action from multiple stakeholders rather than a single actor.",
+        "when_to_use_zh": "在結論或主體段落中使用，論證解決複雜環境問題需要多方利益相關者的協調行動，而非單一主體。",
+        "example": "Only an integrated approach involving government regulation, corporate accountability, and individual behaviour change can effectively address the growing threat of water scarcity."
+      },
+      {
+        "phrase": "falls disproportionately on",
+        "when_to_use": "Use this phrase to highlight that the burden or consequences of a problem are unevenly distributed, which is particularly effective when discussing how drought impacts vulnerable communities more severely.",
+        "when_to_use_zh": "用來強調某問題的負擔或後果分配不均，尤其適合討論乾旱對弱勢社區造成更嚴重影響的情況。",
+        "example": "The economic burden of prolonged drought falls disproportionately on smallholder farmers who lack the resources to invest in irrigation infrastructure."
+      },
+      {
+        "phrase": "in the absence of",
+        "when_to_use": "Use this conditional phrase to argue what happens when a necessary condition or policy is missing, strengthening a cause-and-effect argument in your essay body.",
+        "when_to_use_zh": "使用這個條件短語來論證當某項必要條件或政策缺失時會發生什麼，強化文章主體中的因果論證。",
+        "example": "In the absence of mandatory water conservation targets for industry, voluntary measures are unlikely to produce the systemic change that the crisis demands."
+      },
+      {
+        "phrase": "it is widely acknowledged that",
+        "when_to_use": "Use this impersonal reporting phrase to introduce a broadly accepted fact or expert consensus at the start of a body paragraph, lending academic authority to your argument.",
+        "when_to_use_zh": "在主體段落開頭使用這個非人稱報告短語，引入廣泛接受的事實或專家共識，為你的論點增添學術權威性。",
+        "example": "It is widely acknowledged that climate change is increasing the frequency and severity of droughts, placing unprecedented pressure on global fresh water supplies."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question to contextualise the growing global water crisis, then clearly state your position — that while governments hold primary responsibility for policy and infrastructure, a sustainable solution requires coordinated effort from all levels of society including individuals and businesses.",
+      "body1": "Examine the view that governments bear the central responsibility: they control legislation, can impose water-use regulations, fund reservoir infrastructure, set conservation targets for industry, and coordinate international agreements on shared waterways. Use the example of Natural Resources Wales activating drought monitoring frameworks and releasing reservoir water as evidence of effective governmental intervention.",
+      "body2": "Present the counterargument that individuals and businesses must also contribute meaningfully: household water conservation, corporate adoption of water-efficient technologies, and agricultural reforms can collectively reduce demand significantly. Acknowledge, however, that without regulatory pressure from governments, voluntary action by businesses and individuals is unlikely to be sufficient or consistent enough to address the scale of the problem.",
+      "conclusion": "Synthesise both perspectives by reaffirming your view that an integrated, multi-stakeholder approach is essential. Avoid simply restating arguments — instead, emphasise that government policy creates the framework within which individual and corporate action becomes most effective, and call for urgent, coordinated responses given the accelerating impact of climate change on freshwater availability."
+    }
+  }
+}
