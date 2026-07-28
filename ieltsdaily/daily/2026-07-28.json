@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T04:56:31.059900Z",
+  "listening": {
+    "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
+    "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Southern Europe faces unprecedented heatwaves and wildfires, forcing mass evacuations in Spain and France.",
+    "topic_zh": "南歐面臨前所未有的熱浪與野火，導致西班牙和法國大規模撤離居民。",
+    "transcript_excerpt": "This summer, southern Europe is experiencing some of the most extreme weather conditions in living memory. Spain and France are both bracing themselves for fresh heatwaves, with temperatures forecast to exceed 40 degrees Celsius in several regions. In Spain, the national weather service has warned that severe conditions will persist until at least Sunday, with firefighters battling blazes described as among the worst in the country's history. Meanwhile, in south-western France, the Gironde and Landes regions are on yellow alert as a new heatwave is expected to peak mid-week. The situation near Bordeaux is particularly alarming — one wildfire is burning just 15 kilometres from the city, and the mayor has already begun preparing for large-scale evacuations. French President Emmanuel Macron visited the fire-ravaged area and described the crisis as the worst wildfire France has faced since the Second World War. Authorities say the fire, which has destroyed tens of thousands of hectares of forest, behaves unpredictably and, in the words of the interior minister, 'has a life of its own.' More than 220,000 people have been evacuated in France, and over 100,000 in Spain. Experts warn that such events will become increasingly frequent as climate change continues to intensify extreme weather patterns across the Mediterranean region.",
+    "vocabulary": [
+      {
+        "word": "brace for",
+        "type": "phrase",
+        "definition": "To prepare oneself mentally or physically for something unpleasant or difficult that is about to happen",
+        "definition_zh": "為即將到來的困難或不愉快的事做好心理或身體準備",
+        "example": "Residents along the coast are bracing for a powerful storm that is expected to make landfall overnight."
+      },
+      {
+        "word": "unprecedented",
+        "type": "adjective",
+        "definition": "Never having happened or existed before; without a previous example or parallel",
+        "definition_zh": "前所未有的；史無前例的",
+        "example": "Scientists reported an unprecedented rise in ocean temperatures, raising serious concerns about marine biodiversity."
+      },
+      {
+        "word": "evacuate",
+        "type": "verb",
+        "definition": "To move people away from a dangerous place to somewhere safer, especially in an emergency",
+        "definition_zh": "疏散；撤離（人員）至安全地點",
+        "example": "Thousands of residents were evacuated from their homes after the dam showed signs of structural failure."
+      },
+      {
+        "word": "contain",
+        "type": "verb",
+        "definition": "To prevent something harmful, such as a fire or disease, from spreading beyond a certain area",
+        "definition_zh": "控制；遏制（火勢、疾病等）不讓其蔓延",
+        "example": "Firefighters worked through the night in an effort to contain the blaze before it reached nearby villages."
+      },
+      {
+        "word": "fire-ravaged",
+        "type": "adjective",
+        "definition": "Severely damaged or destroyed by fire, often used to describe areas that have suffered extensive wildfire destruction",
+        "definition_zh": "飽受火災蹂躪的；被大火嚴重破壞的",
+        "example": "Aid workers arrived in the fire-ravaged community to distribute food, water, and temporary shelter."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, how far is one of the wildfires from the city of Bordeaux?",
+        "options": [
+          "A: 5 kilometres",
+          "B: 9 kilometres",
+          "C: 15 kilometres",
+          "D: 20 kilometres"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that one of the wildfires burning in France is 15km from Bordeaux, which is the correct figure mentioned by the mayor."
+      },
+      {
+        "q": "How did French President Macron describe the wildfire crisis in Gironde?",
+        "options": [
+          "A: The worst environmental disaster in French history",
+          "B: The toughest wildfire France has faced since World War Two",
+          "C: A manageable situation that will soon be brought under control",
+          "D: A predictable outcome of poor land management policies"
+        ],
+        "answer": "B",
+        "explanation": "Macron specifically described the crisis as a 'completely unprecedented wildfire' and 'the toughest since World War Two,' making option B the accurate answer."
+      },
+      {
+        "q": "Approximately how many people in total have been evacuated across both Spain and France?",
+        "options": [
+          "A: More than 100,000",
+          "B: Approximately 200,000",
+          "C: More than 320,000",
+          "D: Fewer than 250,000"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that more than 220,000 people were evacuated in France and over 100,000 in Spain, giving a combined total exceeding 320,000 people."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Wildfires and Heatwaves: A Growing Climate Crisis in Southern Europe",
+    "passage": "The summer of 2022 brought into sharp focus the devastating consequences of climate change across southern Europe, as Spain and France simultaneously confronted catastrophic wildfires and extreme heatwaves. Temperatures surpassed 40 degrees Celsius in multiple regions, creating the dry and volatile conditions that allow wildfires to ignite rapidly and spread with terrifying speed. In France, the Gironde department in the south-west became the epicentre of the crisis, with a wildfire described by President Emmanuel Macron as the most severe the country had experienced since the Second World War. Over 220,000 people were displaced from their homes, and the fire advanced to within 15 kilometres of the regional capital, Bordeaux, prompting the mayor to prepare contingency plans for further mass evacuations. Across the border in Spain, more than 100,000 residents were evacuated as fires burned uncontrolled west of Madrid. The Spanish national weather service issued warnings of extreme fire risk, predicting that the severe conditions would persist for an extended period. Meteorologists attribute the intensification of such events to a combination of anthropogenic climate change, prolonged drought, and increased fuel loads in forests that have not experienced regular burning cycles. The concept of a wildfire 'having a life of its own' — a phrase used by French Interior Minister Laurent Nuñez — reflects the growing scientific consensus that fires in superheated, drought-stricken landscapes behave in increasingly erratic and unpredictable ways. The ecological and economic toll of such events is enormous, with hundreds of thousands of hectares of forest destroyed, biodiversity severely disrupted, and billions of euros in damage incurred. Climate scientists warn that without significant reductions in greenhouse gas emissions, heatwaves and wildfires of this magnitude will become the norm rather than the exception across the Mediterranean basin, demanding fundamental shifts in land management, urban planning, and emergency preparedness strategies.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The wildfire in the Gironde region of France was described by President Macron as the most serious since the First World War.",
+        "answer": "False",
+        "explanation": "The passage clearly states that Macron described the wildfire as the most severe since the Second World War, not the First World War."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Scientists suggest that the unpredictable behaviour of modern wildfires is linked to hotter, drier landscape conditions caused by climate change.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that fires in 'superheated, drought-stricken landscapes behave in increasingly erratic and unpredictable ways,' supporting this statement as true."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Spanish government allocated a specific financial budget to combat the wildfires burning west of Madrid.",
+        "answer": "Not Given",
+        "explanation": "While the passage mentions evacuations and fire risks in Spain, no information about a specific government financial budget for firefighting is provided anywhere in the text."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which combination of factors do meteorologists identify as contributing to the intensification of wildfires?",
+        "options": [
+          "A: Urbanisation, deforestation, and inadequate firefighting resources",
+          "B: Climate change, prolonged drought, and excessive forest fuel loads",
+          "C: Population growth, industrial pollution, and rising sea levels",
+          "D: El Niño weather patterns, volcanic activity, and reduced rainfall"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly names 'anthropogenic climate change, prolonged drought, and increased fuel loads in forests' as the three factors meteorologists attribute to the intensification of such wildfire events."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a news story about a natural disaster or extreme weather event that made a strong impression on you.",
+    "topic_zh": "描述一則關於自然災害或極端天氣事件的新聞故事，對你留下深刻印象。",
+    "part2": {
+      "cue_card": "Describe a news story about a natural disaster or extreme weather event that made a strong impression on you.\n\nYou should say:\n• what the event was and where it took place\n• how you first heard about or saw this news story\n• what details or images from the story you found most striking\n\nAnd explain why this news story made such a strong impression on you.",
+      "band_tips": [
+        "Use a range of precise vocabulary related to climate and disaster, such as 'unprecedented,' 'fire-ravaged,' 'evacuate,' and 'catastrophic,' to demonstrate lexical sophistication and earn higher marks for Lexical Resource.",
+        "Structure your response with a clear narrative arc — introduce the event, describe what you saw or heard, highlight the most striking details, and then reflect on its emotional or intellectual impact. This demonstrates coherence and prevents your answer from feeling like a list of facts.",
+        "Incorporate speculative or hypothetical language to show grammatical range, for example: 'What struck me most was the thought that thousands of families might never return to their homes' — this elevates your response from description to genuine reflection."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments in your country are doing enough to prepare for the increasing frequency of extreme weather events?",
+        "q_zh": "你認為你們國家的政府是否在為越來越頻繁的極端天氣事件做足夠的準備？",
+        "key_points": [
+          "Acknowledge any existing measures such as early warning systems or disaster relief funds, while critically evaluating whether they are proportionate to the scale of the threat.",
+          "Argue that long-term infrastructure investment — flood defences, firebreaks, heat-resilient urban design — is often neglected in favour of short-term emergency responses.",
+          "Suggest that international cooperation frameworks, such as those under the UNFCCC, are essential because climate change is a transboundary issue that no single government can address in isolation."
+        ]
+      },
+      {
+        "q": "How can individuals change their daily behaviour to help reduce the risk of climate-related disasters such as wildfires and heatwaves?",
+        "q_zh": "個人如何改變日常行為，以幫助降低野火和熱浪等氣候相關災害的風險？",
+        "key_points": [
+          "Highlight practical lifestyle changes such as reducing carbon footprints through diet, transport choices, and energy consumption, explaining how aggregate individual action can influence systemic change.",
+          "Acknowledge the tension between individual responsibility and corporate or governmental accountability, noting that placing the burden solely on consumers can obscure the role of large-scale industrial emitters.",
+          "Mention the importance of civic engagement — voting for climate-conscious policies, participating in community preparedness drills, and supporting organisations involved in reforestation or conservation."
+        ]
+      },
+      {
+        "q": "In what ways do wildfires and other natural disasters affect the mental health and wellbeing of communities?",
+        "q_zh": "野火和其他自然災害如何影響社區居民的心理健康和整體福祉？",
+        "key_points": [
+          "Discuss the immediate psychological trauma of evacuation and the loss of homes, livelihoods, and community landmarks, which can lead to conditions such as PTSD, anxiety, and depression.",
+          "Explain the concept of 'solastalgia' — the distress caused by environmental change in one's home environment — as a growing area of mental health concern in communities repeatedly affected by climate events.",
+          "Note that vulnerable populations, including the elderly, children, and those with pre-existing mental health conditions, are disproportionately affected and require targeted psychosocial support in disaster recovery planning."
+        ]
+      },
+      {
+        "q": "Some people argue that media coverage of natural disasters is sensationalist and unhelpful. To what extent do you agree with this view?",
+        "q_zh": "有些人認為媒體對自然災害的報導過於聳人聽聞且無益。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Concede that dramatic language and imagery can sometimes provoke panic rather than informed action, and that media outlets may prioritise emotional impact over scientific accuracy or constructive policy discussion.",
+          "Counter-argue that vivid, emotionally resonant coverage can mobilise public empathy and political will, accelerating government responses and charitable donations that communities in crisis urgently need.",
+          "Advocate for a balanced approach — responsible journalism that combines factual reporting, expert commentary, and human stories — as the most effective way to inform, engage, and empower audiences without resorting to sensationalism."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events such as heatwaves and wildfires are becoming more frequent and more severe around the world. Some people believe that governments must take primary responsibility for addressing this crisis, while others argue that individuals and communities must also play a significant role. Discuss both views and give your own opinion.",
+    "task2_question_zh": "全球極端天氣事件（如熱浪和野火）變得越來越頻繁且嚴重。一些人認為政府必須承擔應對這一危機的主要責任，而另一些人則認為個人和社區也必須發揮重要作用。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "has reached an unprecedented scale",
+        "when_to_use": "Use when emphasising that a problem or phenomenon has grown beyond any historical comparison, particularly in introductions or when introducing evidence.",
+        "when_to_use_zh": "當強調某一問題或現象已超越任何歷史先例時使用，特別適合用在引言或引入證據時。",
+        "example": "The destruction caused by wildfires across southern Europe this summer has reached an unprecedented scale, with hundreds of thousands of residents forced to flee their homes."
+      },
+      {
+        "phrase": "bears a disproportionate burden",
+        "when_to_use": "Use when arguing that a particular group, region, or sector faces an unfairly large share of a problem's consequences, especially in body paragraphs discussing inequality or responsibility.",
+        "when_to_use_zh": "當論述某特定群體、地區或部門承受不成比例的問題後果時使用，尤其適合討論不平等或責任分配的段落。",
+        "example": "It is often the most economically vulnerable communities that bear a disproportionate burden when natural disasters strike, despite contributing least to the emissions driving climate change."
+      },
+      {
+        "phrase": "a multifaceted approach is required",
+        "when_to_use": "Use when arguing that a complex problem cannot be solved by a single strategy and requires action on several fronts simultaneously, ideal for conclusions or thesis statements.",
+        "when_to_use_zh": "當論述一個複雜問題需要多方面同時採取行動而非單一策略時使用，適合結論或論點陳述。",
+        "example": "Given the complexity of the climate crisis, it is clear that a multifaceted approach is required — one that integrates governmental policy, corporate accountability, and individual behavioural change."
+      },
+      {
+        "phrase": "exacerbated by",
+        "when_to_use": "Use to explain that an existing problem or condition has been made significantly worse by an additional factor, commonly used in body paragraphs presenting cause-and-effect relationships.",
+        "when_to_use_zh": "用於說明現有問題或狀況因另一因素而顯著惡化，常用於呈現因果關係的主體段落。",
+        "example": "The death toll from the heatwave was significantly exacerbated by the lack of air conditioning in older housing stock and inadequate public health warnings."
+      },
+      {
+        "phrase": "it would be overly simplistic to suggest that",
+        "when_to_use": "Use to introduce a nuanced counter-argument or to reject a reductive view before presenting a more sophisticated position, effective in body paragraphs and conclusions.",
+        "when_to_use_zh": "用於引入細緻的反駁論點或否定過於簡化的觀點，然後提出更複雜的立場，在主體段落和結論中均有效。",
+        "example": "It would be overly simplistic to suggest that individual recycling habits alone can reverse the trajectory of global warming without concurrent systemic change at the governmental and industrial level."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the increasing frequency and severity of extreme weather events such as heatwaves and wildfires with a specific reference or striking statistic. Clearly paraphrase the question using synonyms, then present a balanced thesis that acknowledges both governmental responsibility and the role of individuals, before signposting your own opinion that a collaborative, multi-level response is essential.",
+      "body1": "Argue the case for government-led action as the primary driver of change. Discuss the unique capacity of governments to implement large-scale policy measures — such as emissions regulations, investment in renewable energy infrastructure, and the development of comprehensive disaster response frameworks — that are beyond the reach of individuals. Use the example of France and Spain's emergency response to the 2022 wildfires to illustrate both the strengths and limitations of state-level action. Acknowledge that without political will and adequate public funding, no amount of individual effort can produce the systemic change required.",
+      "body2": "Present the argument that individuals and communities also have an indispensable role to play, both in mitigation and adaptation. Discuss how collective lifestyle changes — shifts in diet, transport, and energy use — can reduce aggregate emissions, while community-level preparedness initiatives can save lives when disasters strike. However, introduce nuance by acknowledging that over-emphasising individual responsibility can distract from the accountability of corporations and policymakers, and that socioeconomic inequality limits the ability of many individuals to make environmentally conscious choices. Argue that individual and governmental action are most effective when they reinforce each other.",
+      "conclusion": "Restate your position that addressing climate-driven extreme weather events demands a genuinely collaborative response across all levels of society. Emphasise that while governments must lead through binding policy and public investment, individuals and communities must be empowered — through education, incentives, and equitable access to resources — to act as meaningful partners in this effort. End with a forward-looking statement about the long-term consequences of inaction to leave the examiner with a sense of the stakes involved."
+    }
+  }
+}
