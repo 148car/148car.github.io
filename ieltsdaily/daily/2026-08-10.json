@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T03:44:44.808778Z",
+  "listening": {
+    "title": "China evacuates one million from homes as massive storm arrives",
+    "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Typhoon Dolphin forced the evacuation of over one million people in eastern China, causing widespread flooding, transport disruption, and severe weather warnings.",
+    "topic_zh": "颱風「海豚」迫使中國東部超過一百萬人撤離家園，造成大範圍洪水、交通中斷及嚴重天氣警告。",
+    "transcript_excerpt": "When Typhoon Dolphin slammed into the eastern coast of China on Sunday evening, authorities had already been preparing for the worst. Over one million residents in cities including Shanghai were evacuated from their homes as the storm packed winds of up to 150 kilometres per hour. Meteorological officials recorded the first landfall in Yuhuan, a coastal city in Zhejiang province, before the typhoon struck Wenzhou roughly an hour later. The disruption was immediate and enormous — more than 1,400 flights were cancelled in Shanghai alone, and ground-floor businesses in popular tourist districts found themselves submerged under rising floodwaters. Chinese authorities had initially issued their highest-level red alert, signalling the most dangerous category of storm warning. By Monday morning, however, the system had weakened enough to be downgraded to a tropical storm. But that did not mean the danger had passed. Officials continued to warn of torrential rainfall, severe flooding, and the threat of deadly landslides extending through to Wednesday. Several provinces, including Shandong, Henan, and Zhejiang, remained under heavy rain forecasts. Local governments urged citizens to stay indoors, and major tourist sites, including parts of Disneyland and Legoland, were forced to close their doors. Perhaps most distressing was the report of a nine-year-old boy from Wenling who was swept into the sea by the powerful surge. Authorities confirmed no official casualties as of Monday morning, but the full impact of the storm was still being assessed across a region already saturated with rainfall.",
+    "vocabulary": [
+      {
+        "word": "evacuate",
+        "type": "verb",
+        "definition": "To move people away from a dangerous area to a place of safety, especially in an emergency situation.",
+        "definition_zh": "疏散；將人們從危險地區轉移至安全地點，尤指緊急情況下。",
+        "example": "Authorities ordered residents to evacuate the coastal town before the hurricane made landfall."
+      },
+      {
+        "word": "landfall",
+        "type": "noun",
+        "definition": "The moment when a storm, such as a hurricane or typhoon, reaches and makes contact with the land after travelling over the sea.",
+        "definition_zh": "（颱風、颶風等）登陸；暴風雨在海上移動後抵達並接觸陸地的時刻。",
+        "example": "The typhoon made landfall near the densely populated coastal city just before midnight."
+      },
+      {
+        "word": "torrential",
+        "type": "adjective",
+        "definition": "Describing rain that falls extremely heavily and in large quantities, often causing flooding.",
+        "definition_zh": "（雨）傾盆的、滂沱的；形容降雨量極大，常導致洪水。",
+        "example": "Torrential rain flooded the subway system and brought the city's transport network to a standstill."
+      },
+      {
+        "word": "downgrade",
+        "type": "verb",
+        "definition": "To reduce something to a lower level, rank, or category, particularly used when describing a reduction in the severity of a weather warning.",
+        "definition_zh": "降級；將某事物降至較低等級或類別，特指氣象警告嚴重程度的降低。",
+        "example": "As the storm weakened overnight, weather services downgraded the hurricane to a tropical depression."
+      },
+      {
+        "word": "red alert",
+        "type": "phrase",
+        "definition": "The highest level of emergency warning issued by authorities, indicating an extreme and immediate threat to life or property.",
+        "definition_zh": "紅色警報；當局發布的最高級別緊急警告，表示對生命或財產存在極端且即時的威脅。",
+        "example": "The government issued a red alert for the entire eastern seaboard as the category five storm approached."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What was the maximum wind speed recorded when Typhoon Dolphin first made landfall?",
+        "options": [
+          "A: 100 km/h",
+          "B: 125 km/h",
+          "C: 150 km/h",
+          "D: 175 km/h"
+        ],
+        "answer": "C",
+        "explanation": "The transcript clearly states the typhoon 'packed maximum wind speeds of 150km/h' when it first struck Yuhuan in Zhejiang province."
+      },
+      {
+        "q": "What action did Chinese authorities take regarding the alert level by Monday morning?",
+        "options": [
+          "A: They maintained the red alert warning throughout the region.",
+          "B: They upgraded the warning to an even higher emergency level.",
+          "C: They downgraded the storm's classification to a tropical storm.",
+          "D: They cancelled all weather warnings for eastern China."
+        ],
+        "answer": "C",
+        "explanation": "The passage states that 'by Monday morning they downgraded it to a tropical storm,' meaning the highest-level red alert was no longer in effect."
+      },
+      {
+        "q": "Which of the following best describes the ongoing risks mentioned after the typhoon weakened?",
+        "options": [
+          "A: Strong winds and storm surges along the coastline only.",
+          "B: Torrential rains, severe flooding, and the risk of landslides.",
+          "C: Earthquakes triggered by the seismic activity of the storm.",
+          "D: Air pollution caused by industrial disruption during the storm."
+        ],
+        "answer": "B",
+        "explanation": "Authorities warned of 'torrential rains, severe flooding and the risk of landslides through to Wednesday,' which are all explicitly mentioned in the transcript."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Typhoon Dolphin and the Challenge of Urban Disaster Management in Coastal China",
+    "passage": "The arrival of Typhoon Dolphin on the eastern coast of China in August 2026 exposed both the vulnerabilities and the considerable strengths of China's disaster management infrastructure. With maximum sustained winds of 150 kilometres per hour, the storm made successive landfalls in Yuhuan and Wenzhou — two densely populated cities in Zhejiang province — before pushing inland and weakening to tropical storm intensity by the following morning. Despite the rapid de-escalation in wind severity, meteorological agencies maintained warnings of torrential rainfall, flash flooding, and landslide risk across seven provinces and the municipality of Shanghai for several days thereafter.\n\nThe scale of the pre-emptive response was remarkable. Over one million residents were evacuated from their homes across eastern China, reflecting a well-coordinated emergency protocol that draws on decades of experience managing Pacific typhoon seasons. Authorities cancelled more than 1,400 flights out of Shanghai alone and closed numerous tourist attractions, including sections of internationally recognised theme parks and historic riverside promenades along the Bund.\n\nNevertheless, the typhoon's impact on urban infrastructure was significant. Footage broadcast by state media captured street-level flooding in Shanghai's former French Concession, a district famed for its colonial-era architecture and cosmopolitan atmosphere. Residents were filmed wading through ankle-deep water, while ground-floor commercial premises sustained considerable damage. In Zhejiang, forecasters warned of between 250 and 500 millimetres of cumulative rainfall over the following days — figures that place enormous strain on drainage systems in cities not designed to absorb such volumes rapidly.\n\nThe human toll, though mercifully limited in official reports, included the disappearance of a nine-year-old child swept into the sea in Wenling. The episode underscored a persistent challenge facing coastal megacities worldwide: as climate patterns intensify, the frequency and ferocity of extreme weather events are projected to increase, demanding ever more sophisticated and proactive strategies for urban resilience and public safety.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Typhoon Dolphin made landfall only once before moving inland and weakening.",
+        "answer": "False",
+        "explanation": "The passage states the storm 'made successive landfalls in Yuhuan and Wenzhou,' clearly indicating two separate landfalls, not one."
+      },
+      {
+        "type": "TFNG",
+        "statement": "More than one million people were evacuated from their homes before the typhoon arrived.",
+        "answer": "True",
+        "explanation": "The passage describes the evacuation as a 'pre-emptive response,' and states 'over one million residents were evacuated,' confirming it occurred before the full storm impact."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Chinese government received international assistance to manage the evacuation of residents.",
+        "answer": "Not Given",
+        "explanation": "The passage makes no mention of any international assistance or foreign involvement in the evacuation process; this information is entirely absent from the text."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what does the flooding in Shanghai's former French Concession primarily illustrate?",
+        "options": [
+          "A: The failure of local government officials to issue timely warnings to residents.",
+          "B: The significant impact of the typhoon on urban infrastructure despite the storm's weakening.",
+          "C: The deliberate decision by authorities to prioritise evacuation in rural areas over cities.",
+          "D: The fact that colonial-era architecture is particularly susceptible to flood damage."
+        ],
+        "answer": "B",
+        "explanation": "The passage uses the flooding footage as evidence that 'the typhoon's impact on urban infrastructure was significant,' even after the storm had begun to weaken. Options A, C, and D are not supported by the text."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you or your community experienced an extreme weather event.",
+    "topic_zh": "描述一次你或你的社區經歷極端天氣事件的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you or your community experienced an extreme weather event.\n\nYou should say:\n• What the weather event was and when it occurred\n• How you and the people around you responded to the situation\n• What impact the event had on daily life and infrastructure\n• And explain what you learned from this experience about preparing for natural disasters.",
+      "band_tips": [
+        "Use a wide range of weather-related and emergency vocabulary such as 'evacuation order,' 'unprecedented rainfall,' 'infrastructure collapse,' and 'disaster preparedness' to demonstrate lexical range and avoid repetition.",
+        "Employ narrative tenses accurately — use past perfect to describe actions before the storm ('We had already stocked up on supplies'), past continuous for ongoing situations ('Floodwaters were rising steadily'), and past simple for key events — to showcase grammatical range.",
+        "Elevate your response by moving beyond a simple description to analytical reflection: discuss what the event revealed about government preparedness, community resilience, or the broader implications of climate change, which signals Band 8+ coherence and depth."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare their citizens for extreme weather events?",
+        "q_zh": "你認為政府是否為公民應對極端天氣事件做了足夠的準備？",
+        "key_points": [
+          "Acknowledge that many governments have improved early warning systems and evacuation protocols, citing examples like China's mass evacuations during typhoon seasons.",
+          "Argue that preparedness remains uneven, with wealthier nations investing heavily in resilient infrastructure while developing countries often lack the financial resources to do the same.",
+          "Suggest that long-term investment in public education about disaster preparedness, combined with stricter urban planning regulations in flood-prone areas, is essential for closing this gap."
+        ]
+      },
+      {
+        "q": "How has climate change altered the nature and frequency of typhoons and other tropical storms?",
+        "q_zh": "氣候變化如何改變了颱風及其他熱帶風暴的性質與頻率？",
+        "key_points": [
+          "Explain that warmer ocean surface temperatures provide more energy to storms, allowing them to intensify more rapidly and reach higher maximum wind speeds than historical averages.",
+          "Note that rising sea levels amplify storm surges, causing coastal flooding that extends further inland and affects a greater number of people than in previous decades.",
+          "Mention that climate scientists project that while the total number of tropical cyclones may not increase significantly, the proportion reaching the most intense categories is expected to rise, posing greater risks to coastal populations."
+        ]
+      },
+      {
+        "q": "Should people living in high-risk coastal areas be required to relocate permanently?",
+        "q_zh": "居住在高風險沿海地區的人是否應該被要求永久遷離？",
+        "key_points": [
+          "Acknowledge the compelling safety argument: as storms intensify and sea levels rise, some low-lying coastal communities face existential risks that no amount of infrastructure investment can fully mitigate.",
+          "Counter that forced relocation raises profound ethical, cultural, and economic concerns — many communities have deep ancestral ties to their land, and displacement can devastate livelihoods and social cohesion.",
+          "Propose a middle ground involving voluntary managed retreat programmes with generous government compensation, combined with investment in protective infrastructure for communities that choose to remain."
+        ]
+      },
+      {
+        "q": "In what ways can technology help reduce the human cost of extreme weather events?",
+        "q_zh": "科技能以哪些方式幫助減少極端天氣事件的人員傷亡？",
+        "key_points": [
+          "Highlight advances in meteorological forecasting powered by artificial intelligence and satellite technology, which now allow authorities to predict typhoon tracks and intensities days in advance with far greater accuracy, enabling timely evacuations.",
+          "Discuss the role of smart city infrastructure, such as automated flood barriers, real-time water level sensors, and AI-managed drainage systems, in reducing the physical damage caused by urban flooding.",
+          "Point out that social media and government alert apps have transformed emergency communication, allowing warnings to reach millions of people within seconds — though note the risk of misinformation spreading alongside official guidance."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events such as typhoons, floods, and droughts are becoming increasingly frequent and severe. Some people argue that individual citizens bear the primary responsibility for adapting to these changes, while others believe that governments and international organisations must lead the response. Discuss both views and give your own opinion.",
+    "task2_question_zh": "颱風、洪水和乾旱等極端天氣事件正變得越來越頻繁且嚴重。一些人認為，個別公民有主要責任來適應這些變化；而另一些人則認為，政府和國際組織必須主導應對措施。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "bears the primary responsibility for",
+        "when_to_use": "Use when attributing the main duty or obligation for addressing a problem to a specific group or entity.",
+        "when_to_use_zh": "當你將應對某問題的主要責任歸屬於特定群體或實體時使用。",
+        "example": "While individuals can adopt sustainable habits, it is arguably the state that bears the primary responsibility for building flood-resistant infrastructure on a national scale."
+      },
+      {
+        "phrase": "the ramifications of ... extend far beyond",
+        "when_to_use": "Use to highlight that the consequences of an issue are wider or more serious than might initially be apparent, demonstrating analytical depth.",
+        "when_to_use_zh": "用於強調某問題的後果比表面看來更廣泛或更嚴重，展現分析深度。",
+        "example": "The ramifications of inadequate disaster preparedness extend far beyond the immediate loss of life, encompassing long-term economic disruption and the erosion of public trust in governance."
+      },
+      {
+        "phrase": "a coordinated, multilateral approach",
+        "when_to_use": "Use when arguing that a problem requires cooperation between multiple countries or organisations rather than unilateral action.",
+        "when_to_use_zh": "當主張某問題需要多國或多組織合作而非單方面行動時使用。",
+        "example": "Given that climate change transcends national borders, addressing its consequences demands a coordinated, multilateral approach rather than a series of disconnected domestic policies."
+      },
+      {
+        "phrase": "whilst acknowledging that ... it is nevertheless clear that",
+        "when_to_use": "Use to concede a counterargument gracefully before reasserting your main position, which signals sophisticated argumentative structure.",
+        "when_to_use_zh": "用於優雅地承認反方論點後重申自身立場，展現成熟的論證結構。",
+        "example": "Whilst acknowledging that individual behavioural changes play a meaningful role in reducing carbon emissions, it is nevertheless clear that systemic, policy-driven interventions yield far greater impact."
+      },
+      {
+        "phrase": "the disproportionate burden borne by",
+        "when_to_use": "Use when discussing inequality in who suffers the consequences of a problem, particularly to highlight that vulnerable groups are affected more severely.",
+        "when_to_use_zh": "討論問題後果分配不均時使用，尤其是強調弱勢群體受影響程度更為嚴重。",
+        "example": "Any policy response to climate-related disasters must address the disproportionate burden borne by low-income coastal communities, who possess the fewest resources to recover from catastrophic flooding."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a compelling observation about the escalating scale of extreme weather events globally, referencing recent examples such as Typhoon Dolphin's evacuation of one million people in China. Paraphrase the question to demonstrate active engagement, then present a clear thesis stating that while individual adaptation is valuable, the primary responsibility for protecting populations must rest with governments and international bodies due to the systemic nature of climate change.",
+      "body1": "Present and analyse the view that individuals bear primary responsibility. Acknowledge that personal preparedness — such as maintaining emergency supplies, purchasing flood insurance, and heeding evacuation orders — genuinely saves lives. However, critically examine the limitations of this view: individual capacity is constrained by socioeconomic factors, geographical circumstance, and access to information, meaning that placing the burden on citizens risks disadvantaging the most vulnerable members of society who are also the most exposed to climate risk.",
+      "body2": "Present and develop the argument that governments and international organisations must lead the response. Explain that only state-level actors possess the authority and resources to invest in large-scale protective infrastructure, implement evidence-based urban planning regulations, and coordinate mass evacuations. Further argue that climate change is a transboundary crisis requiring multilateral frameworks — such as international climate finance and shared early-warning systems — that no individual citizen or single government can deliver alone. Use the China typhoon response as an illustrative example of effective government-led action.",
+      "conclusion": "Restate your position that responsibility is most appropriately and effectively located at the governmental and international level, whilst affirming that individual preparedness serves as a vital complementary layer. End with a forward-looking statement about the need for adaptive governance frameworks as the frequency of extreme weather events continues to increase in the coming decades."
+    }
+  }
+}
