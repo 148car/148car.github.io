@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T03:57:01.055630Z",
+  "listening": {
+    "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+    "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "India's Aditya-L1 solar mission has provided new clues about why the Sun's outer atmosphere is millions of degrees hotter than its surface.",
+    "topic_zh": "印度的太陽觀測任務Aditya-L1提供了新線索，解釋為何太陽外層大氣比其表面熱達數百萬度。",
+    "transcript_excerpt": "One of the greatest puzzles in astrophysics is the mystery of the Sun's corona — its outermost layer of atmosphere. You might expect that the further you move away from a heat source, the cooler things get. And yet, bizarrely, that is not what happens with the Sun. Deep inside the Sun's core, temperatures reach a staggering 15 million degrees Celsius. Moving outward to the photosphere — the visible surface we see from Earth — temperatures drop dramatically to around 5,500 degrees Celsius. But then something extraordinary happens. The corona, which lies far beyond the surface, is heated to approximately 2 million degrees Celsius, and during periods of intense solar activity, this can soar to as high as 40 million degrees. This directly defies our conventional understanding of thermodynamics. Scientists have long suspected that powerful energy events — such as solar flares and coronal mass ejections — play a role in this heating process. These coronal mass ejections, or CMEs, release enormous quantities of energy into space and can trigger spectacular auroras on Earth. However, they can also disrupt our planet's geomagnetic field, knocking out power grids and interfering with communication satellites. Now, Indian astrophysicists working with data from Aditya-L1, India's pioneering solar observation spacecraft, believe they are closer than ever to unlocking this enduring mystery, having published groundbreaking findings in the prestigious Astrophysical Journal Letters.",
+    "vocabulary": [
+      {
+        "word": "corona",
+        "type": "noun",
+        "definition": "The outermost layer of the Sun's atmosphere, characterised by extremely high temperatures and visible during a solar eclipse as a glowing halo.",
+        "definition_zh": "太陽大氣層的最外層，以極高溫度為特徵，在日食期間可見為發光的光暈。",
+        "example": "Scientists remain baffled by why the Sun's corona is so much hotter than its visible surface."
+      },
+      {
+        "word": "coronal mass ejection",
+        "type": "phrase",
+        "definition": "A large expulsion of plasma and magnetic field from the Sun's corona that can travel through space and impact Earth's magnetic field.",
+        "definition_zh": "從太陽日冕中大規模噴發出的等離子體和磁場，可穿越太空並影響地球磁場。",
+        "example": "The coronal mass ejection caused widespread disruption to satellite communications across the northern hemisphere."
+      },
+      {
+        "word": "astrophysicist",
+        "type": "noun",
+        "definition": "A scientist who studies the physical properties, origins, and behaviour of stars, galaxies, and other objects in the universe.",
+        "definition_zh": "研究宇宙中恆星、星系及其他天體的物理性質、起源和行為的科學家。",
+        "example": "Leading astrophysicists from around the world gathered to discuss the latest findings about solar activity."
+      },
+      {
+        "word": "defy",
+        "type": "verb",
+        "definition": "To resist or go against something, particularly an established rule, law, or expectation, making it seem impossible or inexplicable.",
+        "definition_zh": "違抗或違背某事物，尤其是既定的規則、定律或預期，使其顯得不可能或難以解釋。",
+        "example": "The temperature readings from the outer atmosphere appeared to defy the fundamental laws of thermodynamics."
+      },
+      {
+        "word": "geomagnetic storm",
+        "type": "noun",
+        "definition": "A temporary disturbance of the Earth's magnetosphere caused by solar wind, which can interfere with electrical systems and produce auroras.",
+        "definition_zh": "由太陽風引起的地球磁層暫時性擾動，可干擾電力系統並產生極光。",
+        "example": "The severe geomagnetic storm disrupted GPS signals and caused power outages across several northern cities."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, what is the approximate temperature of the Sun's photosphere?",
+        "options": [
+          "A: 15 million degrees Celsius",
+          "B: 5,500 degrees Celsius",
+          "C: 2 million degrees Celsius",
+          "D: 40 million degrees Celsius"
+        ],
+        "answer": "B",
+        "explanation": "The transcript clearly states that the photosphere — the visible surface of the Sun seen from Earth — has a temperature of approximately 5,500 degrees Celsius, which is far lower than both the core and the corona."
+      },
+      {
+        "q": "What is one negative effect of coronal mass ejections on Earth?",
+        "options": [
+          "A: They permanently damage the ozone layer",
+          "B: They cause the Sun to lose its gravitational pull",
+          "C: They can knock out power grids and affect communication satellites",
+          "D: They reduce the number of auroras visible from Earth"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly mentions that CMEs can cause geomagnetic storms that knock down power grids and affect weather and communication satellites, making C the correct answer."
+      },
+      {
+        "q": "Where were the findings of the Indian solar research team published?",
+        "options": [
+          "A: Nature Science Review",
+          "B: The Astrophysical Journal Letters",
+          "C: The Indian Journal of Space Research",
+          "D: Scientific American"
+        ],
+        "answer": "B",
+        "explanation": "The transcript states that the findings were revealed in a paper published in the prestigious Astrophysical Journal Letters, confirming B as the correct answer."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Unravelling the Coronal Heating Problem: India's Aditya-L1 Mission and Solar Science",
+    "passage": "For decades, one of the most perplexing conundrums in solar physics has been the so-called coronal heating problem — the inexplicable phenomenon whereby the Sun's outermost atmospheric layer, the corona, maintains temperatures of approximately two million degrees Celsius, far exceeding those of the photosphere below it, which measures a comparatively modest 5,500 degrees Celsius. At the Sun's core, temperatures reach a staggering 15 million degrees Celsius, generated by nuclear fusion reactions. Conventional thermodynamic principles would suggest that temperature should decrease progressively as one moves away from a heat source; yet the corona flagrantly contradicts this expectation, sometimes reaching temperatures as high as 40 million degrees Celsius during periods of peak solar activity.\n\nThe corona is also the origin point of extreme solar weather events, most notably solar flares and coronal mass ejections (CMEs). During a CME, vast quantities of magnetised plasma are hurled into interplanetary space at velocities of up to several thousand kilometres per second. When directed toward Earth, these events interact with the planet's magnetosphere, producing geomagnetic storms capable of disrupting power infrastructure, degrading satellite communications, and generating brilliant auroral displays at high latitudes.\n\nIn a significant scientific development, Indian astrophysicists working with data collected by Aditya-L1 — India's inaugural dedicated solar observation spacecraft, stationed at the Sun-Earth Lagrange point L1 — have published findings that offer fresh insights into the coronal heating problem. Led by Professor R. Ramesh of the Indian Institute of Astrophysics, the research team analysed high-resolution spectral and imaging data to identify previously undetected energy transfer mechanisms operating within the corona. Their work, published in the Astrophysical Journal Letters, represents a milestone in India's growing contribution to heliospheric science and brings the global scientific community meaningfully closer to resolving one of astronomy's longest-standing mysteries.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The temperature of the Sun's corona always remains at exactly two million degrees Celsius.",
+        "answer": "False",
+        "explanation": "The passage states the corona is approximately two million degrees Celsius but can sometimes reach as high as 40 million degrees Celsius during peak solar activity, so the word 'always' and 'exactly' make this statement false."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Aditya-L1 is positioned at the Sun-Earth Lagrange point L1.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that Aditya-L1 is stationed at the Sun-Earth Lagrange point L1, confirming this statement as true."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Professor Ramesh's team had previously published research on coronal heating before the Aditya-L1 mission was launched.",
+        "answer": "Not Given",
+        "explanation": "The passage provides no information about any prior publications by Professor Ramesh's team before the Aditya-L1 mission, so this cannot be confirmed or denied based on the text alone."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what makes the coronal heating problem scientifically significant?",
+        "options": [
+          "A: It proves that nuclear fusion occurs in the Sun's outer atmosphere",
+          "B: It contradicts established thermodynamic principles about heat distribution",
+          "C: It explains why auroras are only visible at high latitudes",
+          "D: It demonstrates that CMEs originate from the photosphere"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that conventional thermodynamic principles suggest temperature should decrease as one moves away from a heat source, yet the corona contradicts this expectation. Option B correctly captures this scientific significance. The other options are either not mentioned or factually inconsistent with the passage."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a scientific discovery or space mission that impressed you.",
+    "topic_zh": "描述一項令你印象深刻的科學發現或太空任務。",
+    "part2": {
+      "cue_card": "Describe a scientific discovery or space mission that impressed you.\n\nYou should say:\n• What the discovery or mission was and when you learned about it\n• What the scientists or researchers involved were trying to find out\n• What was discovered or achieved during the mission\n• And explain why this discovery or mission left such a strong impression on you.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use sophisticated scientific vocabulary naturally throughout your response, such as 'groundbreaking', 'unprecedented', and 'paradigm-shifting', but always contextualise terms so they do not sound memorised or rehearsed.",
+        "Demonstrate personal engagement by explaining not just what was discovered but how learning about it changed your perspective on science, humanity, or the universe — examiners reward genuine reflection over recited facts.",
+        "Employ a range of complex grammatical structures including conditional clauses ('Had this mission not been launched, we might never have understood...'), passive constructions, and relative clauses to showcase linguistic range and achieve a higher band score."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Why do you think governments continue to invest heavily in space exploration despite the enormous costs involved?",
+        "q_zh": "你認為為什麼各國政府儘管花費巨大，仍持續大力投資太空探索？",
+        "key_points": [
+          "Space research yields technological spin-offs with practical terrestrial applications, such as satellite navigation, weather forecasting, and medical imaging technologies, which justify the investment economically.",
+          "Exploration of space serves broader geopolitical and soft-power purposes, as nations that lead in space science gain international prestige and diplomatic influence.",
+          "Fundamental scientific curiosity has historically driven human progress, and understanding our solar system, including phenomena like the coronal heating problem, may unlock knowledge with unpredictable but transformative future applications."
+        ]
+      },
+      {
+        "q": "Some people argue that money spent on space missions should instead be directed towards solving problems on Earth, such as poverty and climate change. To what extent do you agree?",
+        "q_zh": "有些人認為，用於太空任務的資金應該轉而用於解決地球上的問題，例如貧窮和氣候變化。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "This presents a false dichotomy; space science and Earth-focused priorities are not mutually exclusive, as many space technologies directly contribute to climate monitoring, disaster prediction, and sustainable resource management.",
+          "The budgets allocated to space agencies represent a relatively small proportion of national expenditure, and redirecting these funds would likely have a negligible impact on major societal challenges while sacrificing significant long-term scientific benefits.",
+          "A balanced perspective acknowledges that certain urgent humanitarian crises may warrant prioritisation, but entirely abandoning space research would deprive humanity of discoveries that could ultimately help address existential challenges."
+        ]
+      },
+      {
+        "q": "How important is international cooperation in advancing scientific research, particularly in fields like solar physics and astronomy?",
+        "q_zh": "在推進科學研究，特別是太陽物理學和天文學等領域方面，國際合作有多重要？",
+        "key_points": [
+          "Large-scale scientific endeavours frequently exceed the financial and infrastructural capacity of any single nation, making collaborative frameworks such as the International Space Station or the Event Horizon Telescope essential for progress.",
+          "Sharing data across international research institutions accelerates discovery by enabling peer verification, prevents duplication of expensive experiments, and fosters a global pool of intellectual talent working toward common goals.",
+          "Geopolitical tensions can impede scientific collaboration, and there is a compelling argument for establishing protected multilateral agreements that insulate scientific exchange from diplomatic disputes."
+        ]
+      },
+      {
+        "q": "Do you think young people today are sufficiently inspired by science and technology? What could be done to increase their interest?",
+        "q_zh": "你認為現今年輕人對科學和技術是否有足夠的啟發？可以做些什麼來提高他們的興趣？",
+        "key_points": [
+          "High-profile missions like Aditya-L1 and Mars rovers demonstrate that science can generate genuine public excitement, particularly when media coverage makes complex discoveries accessible and relatable to non-specialists.",
+          "Educational systems in many countries prioritise rote memorisation over inquiry-based learning, which can stifle natural curiosity; reforming curricula to emphasise critical thinking and experimentation could significantly boost engagement with STEM subjects.",
+          "Role models from diverse backgrounds are crucial; when young people see scientists who share their cultural or socioeconomic identity achieving breakthroughs, it powerfully challenges the perception that science is an elite or exclusive pursuit."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Space exploration missions, such as those designed to study the Sun and other celestial bodies, require vast sums of public funding. Some people believe that this money would be better spent addressing immediate human needs such as healthcare and poverty. Others argue that investing in space science is essential for the long-term benefit of humanity. Discuss both views and give your own opinion.",
+    "task2_question_zh": "太空探索任務，例如那些旨在研究太陽和其他天體的任務，需要耗費大量公共資金。一些人認為，這筆錢最好用於解決即時的人類需求，例如醫療保健和貧窮問題。另一些人則認為，投資太空科學對人類的長遠利益至關重要。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "yields far-reaching implications for",
+        "when_to_use": "Use when explaining that a scientific development or policy has significant and wide-ranging consequences beyond its immediate context.",
+        "when_to_use_zh": "當解釋某項科學發展或政策在其直接背景之外具有重大且深遠的影響時使用。",
+        "example": "Understanding the mechanisms behind solar weather yields far-reaching implications for the protection of global communication infrastructure."
+      },
+      {
+        "phrase": "it would be an oversimplification to suggest that",
+        "when_to_use": "Use to challenge a reductive or binary argument before introducing a more nuanced position, particularly effective when discussing both sides of a debate.",
+        "when_to_use_zh": "用於挑戰簡化或非此即彼的論點，然後引入更細緻的立場，在討論辯題兩面時特別有效。",
+        "example": "It would be an oversimplification to suggest that funding space research necessarily diverts resources from pressing social needs."
+      },
+      {
+        "phrase": "the tangible benefits of X are not confined to",
+        "when_to_use": "Use to argue that the advantages of something extend beyond the obvious or expected domain, helping to broaden the scope of your argument.",
+        "when_to_use_zh": "用於論證某事物的好處超出明顯或預期的領域，有助於擴大論點的範圍。",
+        "example": "The tangible benefits of solar observation missions are not confined to pure science but extend to practical advancements in satellite technology and energy research."
+      },
+      {
+        "phrase": "a compelling case can be made for",
+        "when_to_use": "Use to introduce a strong argument in favour of a particular position in a balanced and academic manner, without sounding overly assertive or one-sided.",
+        "when_to_use_zh": "用於以平衡和學術的方式引入支持特定立場的有力論點，而不顯得過於武斷或片面。",
+        "example": "A compelling case can be made for sustained investment in heliospheric research given the existential risks that extreme solar weather poses to modern technological society."
+      },
+      {
+        "phrase": "while it is undeniable that ... , it is equally important to recognise that",
+        "when_to_use": "Use to acknowledge the validity of the opposing view before pivoting to your own argument, demonstrating the balanced reasoning expected at Band 7 and above.",
+        "when_to_use_zh": "用於承認對立觀點的有效性，然後轉向自己的論點，展示Band 7及以上所期望的平衡推理能力。",
+        "example": "While it is undeniable that millions of people lack access to basic healthcare, it is equally important to recognise that space science investments generate technologies that can directly improve quality of life on Earth."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a thought-provoking statement about humanity's dual responsibility — to address immediate suffering and to pursue long-term knowledge. Paraphrase the question without copying it directly, briefly outline both perspectives, and end with a clear thesis stating that while social priorities deserve attention, investment in space science delivers compounding benefits that ultimately serve human welfare.",
+      "body1": "Present the argument in favour of redirecting space funding to immediate human needs. Acknowledge that millions lack access to healthcare, clean water, and education, and that governments have a moral obligation to prioritise these urgent crises. Include a concession that some space budgets are disproportionately large relative to demonstrable near-term returns, lending credibility to your analysis before refuting this view.",
+      "body2": "Argue that space exploration, including solar missions like Aditya-L1, generates knowledge and technologies with transformative long-term value. Discuss how understanding solar weather protects critical infrastructure, how space research produces spin-off technologies, and how the sums involved are relatively modest in national budgets. Emphasise that science and social welfare need not be in competition, and that a false dichotomy underlies the opposing view.",
+      "conclusion": "Restate your position clearly without introducing new evidence. Suggest that rather than choosing between science and social investment, policymakers should pursue both through intelligent budget allocation, and that the most forward-thinking societies are those that recognise exploration and compassion as complementary rather than competing values."
+    }
+  }
+}
