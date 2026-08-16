@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T02:54:54.151904Z",
+  "listening": {
+    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Hurricane Lala threatens Hawaii with its first potential direct hit since 1992, bringing dangerous winds, heavy rainfall, and life-threatening conditions.",
+    "topic_zh": "颶風拉拉威脅夏威夷，可能成為1992年以來首次直接登陸，帶來危險強風、豪雨及威脅生命的條件。",
+    "transcript_excerpt": "Hawaii is bracing itself for what could be a historic and devastating weather event. Category one Hurricane Lala is churning off the coast of the Hawaiian islands, packing winds of up to 75 miles per hour. Meteorologists warn that in the worst-case scenario, the storm could dump as much as 25 inches of rain on Big Island alone, while also producing a storm surge of around three feet. That combination of high winds, torrential rainfall, and rising sea levels creates an extremely dangerous situation for coastal communities. Governor Josh Green has urged all residents to prepare immediately, warning that damaging winds, heavy rain, flash flooding, and dangerous surf are all possible across the state throughout the weekend. Officials have described the potential conditions as life-threatening, with a particular concern about flash floods and mudslides in low-lying and mountainous areas. A hurricane warning is currently in effect for Big Island, while neighbouring islands including Maui County, Oahu, Kauai, and Niihau are operating under tropical storm warnings. Dozens of flights have already been cancelled, with 40 percent of departures grounded at Ellison Onizuka Kona International Airport. This would be the first time a hurricane has made direct landfall on Hawaii since 1992, making it a potentially record-breaking storm for the region.",
+    "vocabulary": [
+      {
+        "word": "brace for",
+        "type": "phrase",
+        "definition": "To prepare oneself mentally and physically for something difficult, dangerous, or unpleasant that is about to happen",
+        "definition_zh": "為即將發生的困難或危險事件做好心理和身體上的準備",
+        "example": "Residents were told to brace for severe flooding as the tropical storm approached the coastline."
+      },
+      {
+        "word": "churn",
+        "type": "verb",
+        "definition": "To move in a powerful, turbulent, and continuous circular motion, often used to describe the movement of storms or rough water",
+        "definition_zh": "以強烈、湍流的循環方式移動，常用來描述風暴或洶湧水流的移動",
+        "example": "The hurricane churned across the warm ocean waters, steadily gaining strength before reaching land."
+      },
+      {
+        "word": "storm surge",
+        "type": "noun",
+        "definition": "An abnormal rise in sea level caused by a storm, particularly a hurricane or cyclone, which can cause severe coastal flooding",
+        "definition_zh": "由風暴（尤其是颶風或氣旋）引起的海平面異常上升，可能導致嚴重的沿海洪水",
+        "example": "The three-metre storm surge inundated dozens of coastal homes within hours of the hurricane making landfall."
+      },
+      {
+        "word": "landfall",
+        "type": "noun",
+        "definition": "The moment or location at which a storm, hurricane, or other weather system reaches and crosses a coastline from the sea onto land",
+        "definition_zh": "風暴、颶風或其他天氣系統從海洋抵達並穿越海岸線登陸的時刻或地點",
+        "example": "Scientists predicted that the hurricane would make landfall somewhere along the southern coast late on Friday evening."
+      },
+      {
+        "word": "grounded",
+        "type": "adjective",
+        "definition": "Prevented from taking off or flying, used to describe aircraft that have been stopped from operating, often due to weather or safety concerns",
+        "definition_zh": "被阻止起飛或飛行，用於描述因天氣或安全問題而停止運作的航班",
+        "example": "More than a hundred flights were grounded at the international airport as the hurricane warnings were upgraded to the highest level."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the maximum amount of rainfall that Hurricane Lala could potentially deposit on Big Island in the worst-case scenario?",
+        "options": [
+          "A: 15 inches",
+          "B: 20 inches",
+          "C: 25 inches",
+          "D: 30 inches"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly states that in a worst-case scenario, the storm could dump up to 25 inches (63cm) of rain on Big Island, making C the correct answer."
+      },
+      {
+        "q": "When was the last time a hurricane made direct landfall on Hawaii's Big Island, according to the Associated Press?",
+        "options": [
+          "A: 34 years ago, in 1992",
+          "B: 155 years ago",
+          "C: In 1988",
+          "D: In 2005"
+        ],
+        "answer": "B",
+        "explanation": "While the headline refers to 34 years since a direct hit on Hawaii, the Associated Press specifically states that the last time a hurricane made landfall on Hawaii's Big Island was 155 years ago, making B the correct answer."
+      },
+      {
+        "q": "Approximately what percentage of flights were cancelled at Ellison Onizuka Kona International Airport?",
+        "options": [
+          "A: 20%",
+          "B: 30%",
+          "C: 50%",
+          "D: 40%"
+        ],
+        "answer": "D",
+        "explanation": "The passage clearly states that 40% of flights were grounded at Ellison Onizuka Kona International, which is Big Island's largest airport, making D the correct answer."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Science and Societal Impact of Tropical Cyclones on Island Communities",
+    "passage": "Tropical cyclones, known as hurricanes in the Atlantic and eastern Pacific regions, represent among the most destructive natural phenomena on Earth. These rotating storm systems form over warm ocean waters when sea surface temperatures exceed approximately 26 degrees Celsius, drawing energy from the heat and moisture of the ocean to fuel increasingly powerful winds and rainfall. The classification of such storms follows the Saffir-Simpson Hurricane Wind Scale, which categorises hurricanes from Category One, with sustained winds of 74 to 95 miles per hour, through to the catastrophic Category Five, where winds exceed 157 miles per hour.\n\nIsland communities face disproportionate vulnerability to tropical cyclones compared with continental regions. The combination of limited land area, high population density in coastal zones, constrained infrastructure, and geographical isolation creates a set of compounding risk factors. Storm surges, which are abnormal rises in sea level driven by a hurricane's powerful winds, pose a particularly acute threat to low-lying islands, as even a modest surge of one to two metres can inundate vast stretches of inhabited coastline. Furthermore, the mountainous topography characteristic of many volcanic islands, such as those comprising the Hawaiian archipelago, dramatically amplifies rainfall totals, as moisture-laden air is forced upward and cools rapidly, releasing precipitation in concentrated bands.\n\nThe socioeconomic consequences of a direct hurricane strike extend far beyond immediate physical destruction. Aviation disruption, as evidenced by significant flight cancellations during approaching storms, severs critical supply chains that island economies depend upon. Tourism, which constitutes a substantial share of gross domestic product for many island states, suffers prolonged damage to its reputation and infrastructure. Emergency management agencies therefore face the dual challenge of protecting lives during the immediate crisis while simultaneously planning for the complex and costly long-term recovery that inevitably follows a major storm event.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Tropical cyclones require ocean surface temperatures of at least 26 degrees Celsius in order to form.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that these storm systems form over warm ocean waters when sea surface temperatures exceed approximately 26 degrees Celsius, which confirms this statement as True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "A Category Five hurricane is characterised by sustained winds of between 130 and 157 miles per hour.",
+        "answer": "False",
+        "explanation": "The passage states that Category Five hurricanes have winds that exceed 157 miles per hour, not between 130 and 157 mph. The statement misrepresents the threshold, making it False."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Hawaiian islands were struck by a Category Three hurricane or higher in the decade prior to 2026.",
+        "answer": "Not Given",
+        "explanation": "The passage discusses the general vulnerability of island communities and mentions Hawaii's volcanic topography, but provides no information about the category or frequency of hurricanes that struck Hawaii in the decade before 2026."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, why does the mountainous terrain of volcanic islands worsen rainfall during a hurricane?",
+        "options": [
+          "A: Mountains generate additional heat that intensifies storm systems",
+          "B: Moisture-laden air is forced upward, cools, and releases concentrated precipitation",
+          "C: Volcanic activity increases ocean surface temperatures around the islands",
+          "D: The elevated terrain redirects storm surges toward populated coastal areas"
+        ],
+        "answer": "B",
+        "explanation": "The passage directly states that the mountainous topography of volcanic islands amplifies rainfall because moisture-laden air is forced upward, cools rapidly, and releases precipitation in concentrated bands. This corresponds precisely to option B."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you or people around you had to prepare for or deal with a natural disaster or extreme weather event.",
+    "topic_zh": "描述一次你或你周圍的人必須為自然災害或極端天氣事件做準備或應對的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you or people around you had to prepare for or deal with a natural disaster or extreme weather event.\n\nYou should say:\n• What the natural disaster or extreme weather event was\n• Where and when it happened\n• What you or the people around you did to prepare or respond\n• And explain how the experience affected you or changed your attitude toward natural disasters and emergency preparedness.",
+      "band_tips": [
+        "Use a wide range of weather and disaster-related vocabulary such as 'evacuation', 'storm surge', 'brace for impact', and 'life-threatening conditions' to demonstrate lexical sophistication relevant to the topic.",
+        "Organise your response with a clear narrative arc: set the scene vividly, describe the unfolding events with specific details, and then reflect meaningfully on the long-term impact, using discourse markers like 'initially', 'as the situation escalated', and 'in retrospect' to show cohesion.",
+        "Demonstrate grammatical range by mixing past narrative tenses with conditional and hypothetical structures, for example: 'Had the authorities not issued warnings in advance, the consequences could have been far more devastating', to push toward Band 8 grammar accuracy and complexity."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments today are sufficiently well-prepared to protect their citizens from increasingly severe natural disasters?",
+        "q_zh": "你認為當今政府是否已充分準備好保護公民免受日益嚴重的自然災害影響？",
+        "key_points": [
+          "Many governments have significantly improved early warning systems and disaster response infrastructure over recent decades, yet funding gaps and bureaucratic inefficiencies often hinder truly effective preparation, particularly in developing nations.",
+          "Climate change is intensifying the frequency and severity of extreme weather events, meaning that preparedness frameworks designed for historical patterns may be dangerously inadequate for future threats.",
+          "International cooperation and knowledge-sharing between nations that have experienced major disasters, such as Japan's earthquake preparedness protocols, can serve as valuable models for governments that are still developing their emergency management capabilities."
+        ]
+      },
+      {
+        "q": "How does the increasing frequency of extreme weather events affect the economies of island nations and coastal communities?",
+        "q_zh": "極端天氣事件頻率增加如何影響島嶼國家和沿海社區的經濟？",
+        "key_points": [
+          "Island economies that are heavily dependent on tourism suffer disproportionately, as a single major hurricane can deter visitors for entire seasons, causing a cascading effect on hospitality, retail, and service industries that may take years to reverse.",
+          "Critical infrastructure such as airports, ports, and roads requires enormous financial investment to rebuild after storm damage, diverting public funds from education, healthcare, and other essential services.",
+          "The repeated disruption of supply chains, as seen when dozens of flights are cancelled ahead of approaching storms, highlights the structural economic fragility of geographically isolated communities that lack the resilience advantages of mainland regions."
+        ]
+      },
+      {
+        "q": "To what extent should individuals be personally responsible for their own safety during natural disasters, as opposed to relying entirely on government assistance?",
+        "q_zh": "在自然災害期間，個人在多大程度上應對自身安全負責，而不是完全依賴政府援助？",
+        "key_points": [
+          "Personal preparedness, including maintaining emergency supply kits, understanding evacuation routes, and staying informed through official channels, significantly reduces the burden on emergency services and can genuinely save lives in the critical hours when government resources are stretched thin.",
+          "However, placing excessive responsibility on individuals can disproportionately disadvantage vulnerable populations, such as the elderly, disabled, or economically marginalised, who may lack the resources or capacity to prepare adequately without institutional support.",
+          "A balanced approach, in which governments invest in public education and community resilience programmes while empowering individuals to take proactive measures, is likely to produce the most effective outcomes during major disaster events."
+        ]
+      },
+      {
+        "q": "How important is media coverage in helping communities respond effectively to natural disasters, and are there any potential negative consequences of such coverage?",
+        "q_zh": "媒體報導在幫助社區有效應對自然災害方面有多重要？這類報導是否有潛在的負面影響？",
+        "key_points": [
+          "Timely and accurate media reporting plays a crucial role in disseminating official warnings, evacuation orders, and safety instructions to large populations rapidly, which can be the difference between life and death when a fast-moving storm approaches.",
+          "Sensationalist or alarmist coverage, however, risks triggering unnecessary panic, which can itself cause harm through rushed evacuations, road accidents, or the hoarding of essential supplies that leaves other community members without resources.",
+          "In the digital age, the proliferation of unverified social media content alongside professional journalism creates a complex information landscape where the public must critically evaluate sources, underscoring the need for media literacy education as a component of disaster preparedness."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As climate change continues to increase the frequency and intensity of natural disasters such as hurricanes and floods, some people argue that governments should invest primarily in large-scale protective infrastructure, while others believe that educating communities and improving individual preparedness is a more effective strategy. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著氣候變遷持續加劇颶風和洪水等自然災害的頻率和強度，一些人認為政府應主要投資於大規模防護基礎設施，而另一些人則認為教育社區和提高個人應急準備是更有效的策略。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "pose a disproportionate threat to",
+        "when_to_use": "Use when arguing that a particular group, region, or system faces a greater level of risk or harm than others in a comparative context",
+        "when_to_use_zh": "當論述某特定群體、地區或系統面臨比其他群體更大的風險或傷害時使用",
+        "example": "Coastal flooding poses a disproportionate threat to low-income communities, which lack the financial resources to relocate or reinforce their properties against rising sea levels."
+      },
+      {
+        "phrase": "compound the existing vulnerability of",
+        "when_to_use": "Use when describing how one factor makes an already difficult situation significantly worse, particularly in discussions of risk, inequality, or environmental impact",
+        "when_to_use_zh": "用於描述某一因素如何使已經困難的情況變得更糟，特別是在討論風險、不平等或環境影響時",
+        "example": "The rapid urbanisation of low-lying areas compounds the existing vulnerability of coastal populations to storm surges and flash flooding events."
+      },
+      {
+        "phrase": "it is imperative that",
+        "when_to_use": "Use to express that a particular course of action is absolutely necessary or urgently required, lending a sense of authority and conviction to an argument",
+        "when_to_use_zh": "用於表達某一行動方針是絕對必要或緊迫需要的，為論點增添權威性和說服力",
+        "example": "It is imperative that policymakers adopt a long-term, evidence-based approach to infrastructure investment if they are to adequately protect communities from the worst effects of extreme weather."
+      },
+      {
+        "phrase": "strike a balance between ... and ...",
+        "when_to_use": "Use when presenting a nuanced conclusion or recommendation that acknowledges the merits of two competing approaches and argues for a middle-ground solution",
+        "when_to_use_zh": "當提出承認兩種競爭方法優點並主張中間解決方案的細緻結論或建議時使用",
+        "example": "Effective disaster management policy must strike a balance between large-scale engineering solutions and grassroots community education programmes in order to maximise societal resilience."
+      },
+      {
+        "phrase": "the long-term repercussions of",
+        "when_to_use": "Use when discussing the extended or far-reaching consequences of an event or policy, particularly when those consequences are serious and not immediately obvious",
+        "when_to_use_zh": "用於討論某事件或政策的長期或深遠後果，特別是當這些後果嚴重且不立即顯現時",
+        "example": "The long-term repercussions of inadequate disaster preparedness extend well beyond physical destruction, encompassing economic stagnation, psychological trauma, and the erosion of public trust in government institutions."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the growing threat of climate-driven natural disasters with a specific reference to events such as hurricanes affecting island communities. Paraphrase the question to introduce both perspectives clearly, then present a thesis statement indicating that while both strategies have merit, a complementary approach combining infrastructure investment with community education yields the most resilient outcomes.",
+      "body1": "Argue the case for government investment in large-scale protective infrastructure, including sea walls, early warning systems, reinforced airports, and flood drainage networks. Support this with the reasoning that only governments possess the financial capacity and authority to implement solutions at the scale required to protect entire populations, and that physical infrastructure provides a measurable, reliable baseline of protection that individual behaviour alone cannot replicate.",
+      "body2": "Present the counterargument that community education and individual preparedness programmes are equally vital, as infrastructure alone cannot account for the unpredictability of natural disasters or protect people in the critical window between a warning and emergency services arriving. Argue that an informed, prepared population reduces fatalities, alleviates pressure on emergency responders, and fosters long-term cultural resilience, particularly in island and coastal communities that face recurring threats.",
+      "conclusion": "Reaffirm your position that neither approach in isolation is sufficient, and that the most effective disaster management strategies integrate robust government-funded infrastructure with sustained public education initiatives. Close with a forward-looking statement about the urgency of this integrated approach given the accelerating pace of climate change and its increasingly severe consequences for vulnerable communities worldwide."
+    }
+  }
+}
