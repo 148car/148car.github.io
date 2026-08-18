@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T02:48:56.684675Z",
+  "listening": {
+    "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
+    "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Hurricane Lala struck Hawaii's Big Island, triggering deadly flash floods and mudslides that destroyed homes and cut power to hundreds of thousands of households.",
+    "topic_zh": "颶風拉拉侵襲夏威夷大島，引發致命山洪暴發和泥石流，摧毀房屋並導致數十萬戶家庭停電。",
+    "transcript_excerpt": "Hawaii's Big Island faced one of its most destructive weekends in recent memory as category one Hurricane Lala swept across the region, leaving a trail of devastation in its wake. Although Lala was classified as a relatively moderate hurricane, its impact proved catastrophic, with officials confirming at least one fatality. The storm generated torrential rainfall that triggered violent flash floods and dangerous mudslides across the island. Rescue teams reported that approximately one hundred homes were literally swept off their foundations by the sheer force of the floodwaters, leaving residents with nothing but the clothes on their backs. The scale of the disaster was staggering — more than two hundred thousand households were left without electricity as power infrastructure buckled under the storm's relentless assault. Emergency services worked around the clock to locate survivors and assess the damage. Meteorologists tracking the storm indicated that Lala, now downgraded to a tropical storm, is expected to continue moving westward over the following days, reducing the immediate threat to Hawaii. However, authorities urged residents to remain vigilant, as secondary hazards such as landslides and contaminated water supplies can persist long after the initial storm has passed. Community leaders called for urgent federal disaster assistance to help the thousands of displaced residents rebuild their lives and restore critical infrastructure across the island.",
+    "vocabulary": [
+      {
+        "word": "flash flood",
+        "type": "noun",
+        "definition": "A sudden and rapid flooding of low-lying areas caused by heavy or excessive rainfall in a short period of time",
+        "definition_zh": "山洪暴發；因短時間內大量降雨而導致的突發性洪水",
+        "example": "The flash flood struck with little warning, submerging entire streets within minutes."
+      },
+      {
+        "word": "mudslide",
+        "type": "noun",
+        "definition": "A large mass of mud and debris that flows rapidly down a slope, often triggered by heavy rain or earthquakes",
+        "definition_zh": "泥石流；大量泥土和碎石因暴雨或地震沿斜坡快速流動的自然現象",
+        "example": "Several roads were completely blocked after a mudslide buried them under metres of debris."
+      },
+      {
+        "word": "skirt",
+        "type": "verb",
+        "definition": "To pass along or around the edge of something without going directly through it",
+        "definition_zh": "掠過；從邊緣經過而不直接穿越某地",
+        "example": "The typhoon skirted the coastline, sparing the city centre from the worst of the winds."
+      },
+      {
+        "word": "foundation",
+        "type": "noun",
+        "definition": "The solid base or structure on which a building is constructed and supported",
+        "definition_zh": "地基；建築物的底部支撐結構",
+        "example": "Engineers warned that the old building's foundation had been severely weakened by the flooding."
+      },
+      {
+        "word": "catastrophic",
+        "type": "adjective",
+        "definition": "Involving or causing sudden great damage, suffering, or failure on a very large scale",
+        "definition_zh": "災難性的；造成重大損害或破壞的",
+        "example": "The catastrophic floods displaced thousands of families and caused billions in economic losses."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What was the category of Hurricane Lala when it struck Hawaii's Big Island?",
+        "options": [
+          "A: Category two",
+          "B: Category three",
+          "C: Category one",
+          "D: Category four"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly states that Lala was a 'category one Hurricane,' making C the correct answer. All other categories are not mentioned."
+      },
+      {
+        "q": "Approximately how many homes were swept off their foundations during the disaster?",
+        "options": [
+          "A: Around 200 homes",
+          "B: Around 50 homes",
+          "C: Around 150 homes",
+          "D: Around 100 homes"
+        ],
+        "answer": "D",
+        "explanation": "The report clearly states that 'around 100 homes' were swept off their foundations, making D correct. The figure 200,000 refers to households without power, not damaged homes."
+      },
+      {
+        "q": "What is the predicted movement of the tropical storm in the days following the disaster?",
+        "options": [
+          "A: It is predicted to move northward",
+          "B: It is predicted to move westward",
+          "C: It is predicted to move eastward",
+          "D: It is predicted to remain stationary"
+        ],
+        "answer": "B",
+        "explanation": "The passage states the tropical storm 'is predicted to progress west for the next couple of days,' making B the correct answer."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Science and Sociology of Flash Floods: Understanding Nature's Most Rapid Disaster",
+    "passage": "Flash floods represent one of the most sudden and destructive natural phenomena on Earth, capable of transforming a calm, dry riverbed into a raging torrent within a matter of minutes. Unlike conventional flooding, which typically develops over hours or days as rivers gradually overflow their banks, flash floods are characterised by an almost instantaneous onset, leaving affected communities with virtually no time to prepare or evacuate. This temporal characteristic makes them disproportionately lethal compared to other flood types, accounting for a significant proportion of weather-related fatalities globally each year.\n\nHurricanes and tropical storms are among the most potent generators of flash flooding. When these powerful weather systems make landfall or pass in close proximity to coastal regions, they deposit enormous volumes of precipitation over relatively short timeframes. In tropical and semi-tropical environments, where topography often includes steep volcanic slopes and narrow valleys, this rainfall cannot be absorbed by the soil quickly enough, leading to rapid surface runoff that cascades downhill with tremendous destructive force. The Hawaiian archipelago exemplifies this vulnerability: its volcanic terrain, combined with warm ocean temperatures that fuel storm intensity, creates conditions particularly conducive to catastrophic flooding.\n\nThe socioeconomic consequences of flash floods extend far beyond the immediate destruction of property. Communities struck by such events frequently suffer prolonged disruption to essential services, including electricity, clean water supply, transportation networks, and healthcare access. Economically vulnerable populations bear a disproportionate burden, as they are less likely to possess adequate insurance coverage or financial reserves to facilitate recovery. Moreover, displacement caused by flooding can trigger cascading social problems, including overcrowding in temporary shelters and increased exposure to waterborne diseases. Effective disaster risk reduction therefore demands not only improved meteorological forecasting and early warning systems, but also sustained investment in resilient infrastructure and equitable social safety nets to protect the most marginalised members of society.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Flash floods are generally considered less deadly than other types of flooding because they develop more slowly.",
+        "answer": "False",
+        "explanation": "The passage states the opposite — flash floods are 'disproportionately lethal compared to other flood types' precisely because of their rapid and almost instantaneous onset, not slower development."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Hawaii's volcanic terrain contributes to its heightened vulnerability to catastrophic flash flooding.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that Hawaii's 'volcanic terrain, combined with warm ocean temperatures that fuel storm intensity, creates conditions particularly conducive to catastrophic flooding,' confirming this statement as True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Government authorities in Hawaii have already implemented a comprehensive early warning system specifically designed for flash floods.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions early warning systems as a recommendation for effective disaster risk reduction, but provides no specific information about whether Hawaii has already implemented such a system."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, why do economically vulnerable populations suffer disproportionately from flash flood events?",
+        "options": [
+          "A: They tend to live in areas with steeper volcanic slopes",
+          "B: They are less likely to have insurance or savings to support recovery",
+          "C: They receive less assistance from emergency meteorological services",
+          "D: They are more likely to ignore official evacuation warnings"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that economically vulnerable populations 'are less likely to possess adequate insurance coverage or financial reserves to facilitate recovery,' making B the correct and directly supported answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you witnessed or experienced an extreme weather event",
+    "topic_zh": "描述一次你目睹或親身經歷極端天氣事件的經歷",
+    "part2": {
+      "cue_card": "Describe a time when you witnessed or experienced an extreme weather event.\n\nYou should say:\n• What type of weather event it was and where it occurred\n• What you saw or experienced during the event\n• How you and the people around you responded to the situation\n• And explain what impact this event had on you personally or on the community around you.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a wide range of weather and disaster-related vocabulary such as 'torrential rainfall,' 'catastrophic flooding,' 'swept away,' and 'devastating impact' to demonstrate lexical range and achieve Band 7+.",
+        "Organise your response clearly using temporal markers such as 'initially,' 'as the situation escalated,' and 'in the aftermath' to show coherent discourse management and logical progression of ideas.",
+        "Elevate your response to Band 8-9 by reflecting on the emotional and societal dimensions of the event — discuss not just what happened physically, but how it affected your sense of security, community bonds, or attitudes toward environmental issues."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare communities for extreme weather events such as flash floods and hurricanes?",
+        "q_zh": "你認為政府是否為社區應對山洪暴發和颶風等極端天氣事件做了足夠的準備？",
+        "key_points": [
+          "Many governments invest heavily in meteorological forecasting and early warning systems, but implementation in rural or economically disadvantaged areas is often inadequate and inconsistent.",
+          "Preparedness requires long-term urban planning — including flood-resistant infrastructure and zoning laws that prevent construction in high-risk areas — which demands sustained political will and funding.",
+          "Community education and emergency drills are equally critical, as technological warning systems are ineffective if residents lack the knowledge or resources to respond appropriately."
+        ]
+      },
+      {
+        "q": "How do you think climate change is affecting the frequency and severity of extreme weather events around the world?",
+        "q_zh": "你認為氣候變化如何影響全球極端天氣事件的頻率和嚴重程度？",
+        "key_points": [
+          "Scientific consensus indicates that rising global temperatures are intensifying the hydrological cycle, resulting in more frequent and more severe precipitation events, droughts, and tropical storms.",
+          "Warmer ocean surface temperatures provide greater energy to tropical cyclones, meaning hurricanes and typhoons are increasingly likely to reach higher categories and deposit larger volumes of rainfall.",
+          "While individual weather events cannot be attributed solely to climate change, the statistical trend toward more extreme weather is well-documented and demands urgent, globally coordinated policy responses."
+        ]
+      },
+      {
+        "q": "In your opinion, should wealthier nations bear greater responsibility for helping developing countries recover from natural disasters? Why or why not?",
+        "q_zh": "你認為富裕國家是否應該承擔更大的責任來幫助發展中國家從自然災害中恢復？為什麼？",
+        "key_points": [
+          "There is a compelling moral argument that wealthy industrialised nations, as the primary historical contributors to greenhouse gas emissions, bear a heightened ethical responsibility to support climate-vulnerable developing nations financially and technically.",
+          "International frameworks such as the United Nations Loss and Damage Fund represent formal recognition of this principle, though critics argue that funding commitments remain insufficient relative to the scale of need.",
+          "Conversely, some argue that national sovereignty and bilateral aid agreements are more effective mechanisms than multilateral obligations, as they allow for more targeted and accountable assistance delivery."
+        ]
+      },
+      {
+        "q": "What role can technology and scientific innovation play in reducing the human cost of natural disasters in the future?",
+        "q_zh": "科技和科學創新在未來減少自然災害人員傷亡方面能發揮什麼作用？",
+        "key_points": [
+          "Advanced satellite imaging and artificial intelligence-powered weather modelling can dramatically improve the accuracy and lead time of disaster warnings, enabling more effective mass evacuations before events strike.",
+          "Innovations in construction materials and engineering — such as flood-resistant building designs and reinforced infrastructure — can significantly reduce the physical destruction caused by extreme weather in high-risk zones.",
+          "However, technology alone is insufficient without equitable access; the digital divide means that the communities most vulnerable to natural disasters are often the least able to benefit from technological advances, highlighting the need for inclusive implementation strategies."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Natural disasters such as floods, hurricanes, and mudslides are becoming increasingly frequent and destructive. Some people believe that individuals and local communities should take primary responsibility for disaster preparedness, while others argue that it is the duty of national governments and international organisations to lead these efforts. Discuss both views and give your own opinion.",
+    "task2_question_zh": "洪水、颶風和泥石流等自然災害正變得越來越頻繁和具有破壞性。一些人認為個人和當地社區應對災害防備承擔主要責任，而另一些人則認為這是國家政府和國際組織的職責。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "bear a disproportionate burden",
+        "when_to_use": "Use when arguing that one group suffers or is responsible for more than their fair share of something, particularly in discussions about inequality and social justice",
+        "when_to_use_zh": "用於論述某一群體承擔了不成比例的責任或苦難，特別適合討論不平等和社會公正議題",
+        "example": "Economically marginalised communities tend to bear a disproportionate burden in the aftermath of natural disasters due to limited access to resources and support networks."
+      },
+      {
+        "phrase": "cascading consequences",
+        "when_to_use": "Use to describe a series of problems or effects where one issue triggers further complications in a chain reaction, ideal for problem-solution and discussion essays",
+        "when_to_use_zh": "用於描述一系列連鎖問題，其中一個問題引發更多複雜情況，適合問題解決和討論類文章",
+        "example": "The destruction of critical infrastructure during a flood can have cascading consequences, disrupting healthcare, food supply, and economic activity simultaneously."
+      },
+      {
+        "phrase": "it is widely acknowledged that",
+        "when_to_use": "Use as an academic hedging device to introduce a commonly accepted viewpoint before presenting a contrasting or nuanced argument",
+        "when_to_use_zh": "用作學術性鋪陳，引出普遍接受的觀點，之後再提出對比或細緻入微的論點",
+        "example": "It is widely acknowledged that no single entity can effectively manage the multifaceted challenges posed by large-scale natural disasters in isolation."
+      },
+      {
+        "phrase": "sustained investment in",
+        "when_to_use": "Use when arguing for long-term, consistent financial or resource commitment to a cause, particularly in essays about infrastructure, education, or public policy",
+        "when_to_use_zh": "用於論述對某項事業需要長期、持續的財務或資源投入，特別適合基礎設施、教育或公共政策類文章",
+        "example": "Effective disaster risk reduction requires sustained investment in both physical infrastructure and community education programmes over multiple decades."
+      },
+      {
+        "phrase": "a compelling case can be made for",
+        "when_to_use": "Use to introduce a strong argument in favour of a position in a balanced and academic way, showing critical evaluation rather than absolute assertion",
+        "when_to_use_zh": "用於以平衡、學術的方式引出支持某立場的有力論點，體現批判性評估而非絕對斷言",
+        "example": "A compelling case can be made for greater international cooperation in disaster response, given that the effects of climate change transcend national boundaries."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the increasing frequency of natural disasters in the era of climate change, then clearly paraphrase the essay question. Present a thesis statement that acknowledges the merits of both perspectives before indicating your own position — that shared responsibility between individuals, governments, and international bodies is the most effective approach.",
+      "body1": "Explore the argument that individuals and local communities should take primary responsibility. Discuss how community-level preparedness — such as emergency drills, local early warning networks, and household disaster kits — can be faster and more contextually appropriate than top-down government responses. Acknowledge that local knowledge of terrain and community dynamics is invaluable in immediate crisis situations.",
+      "body2": "Present the counterargument that national governments and international organisations must lead disaster preparedness efforts, as they alone possess the financial capacity, technical expertise, and legislative authority required to build resilient infrastructure, fund meteorological research, and coordinate large-scale evacuations. Argue that relying solely on individuals places an unfair burden on those with the fewest resources. Then integrate your own view that a collaborative, multi-tiered approach — combining grassroots preparedness with strong governmental frameworks and international financial mechanisms — is the most effective and equitable solution.",
+      "conclusion": "Restate your position that disaster preparedness is a shared responsibility requiring coordinated action at every level of society. Emphasise that while community resilience is essential, it cannot substitute for strong governance and international solidarity. End with a forward-looking statement about the urgency of building such frameworks in the context of accelerating climate change."
+    }
+  }
+}
