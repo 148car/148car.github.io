@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T02:50:49.552250Z",
+  "listening": {
+    "title": "How soon will the drought be over?",
+    "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "This episode explores the science behind droughts, explaining why they cannot end with just a few days of rain and how water resources need time to fully recover.",
+    "topic_zh": "本集探討乾旱的科學原理，說明為何幾天降雨無法終結乾旱，以及水資源需要時間才能完全恢復。",
+    "transcript_excerpt": "When people see rain falling after weeks of dry weather, many assume the drought is over. But scientists say this is a widespread misconception. A drought does not simply end when rainfall returns — it ends when water resources have genuinely recovered. That means rivers must rise to healthy levels, reservoirs must refill, and crucially, the groundwater stored deep beneath the soil must be replenished. This process can take months, or even years, depending on how severe the drought has been. Experts distinguish between several types of drought that develop in sequence. First comes meteorological drought, which occurs when rainfall drops significantly below the long-term average. This is the kind most people notice. Then comes soil moisture drought, which begins to damage agriculture as the ground dries out and plants struggle to survive. After that, river flow drought sets in as water levels in rivers decline dramatically. Finally, if dry conditions persist, groundwater and reservoir drought develops, representing the most serious and hardest-to-reverse stage. What makes the current situation particularly complex, according to Dr Katie Facer-Childs from the UK Centre for Ecology and Hydrology, is that this drought has been driven not only by a lack of rainfall, but also by above-average temperatures, which accelerate evaporation and increase the amount of water lost from both soils and plants. The good news, however, is that groundwater levels have not yet reached record lows, meaning recovery is still very much possible.",
+    "vocabulary": [
+      {
+        "word": "meteorological drought",
+        "type": "noun",
+        "definition": "A period during which rainfall is significantly below the long-term average for a given region, representing the earliest and most commonly recognised stage of drought.",
+        "definition_zh": "氣象乾旱：某地區降雨量明顯低於長期平均值的時期，是乾旱最早也是最常被認識的階段。",
+        "example": "The region entered a meteorological drought after recording less than half its expected annual rainfall by mid-summer."
+      },
+      {
+        "word": "groundwater",
+        "type": "noun",
+        "definition": "Fresh water found beneath the Earth's surface, stored in the tiny spaces within rock, soil, and sand, which supplies wells, springs, and rivers.",
+        "definition_zh": "地下水：儲存於地表下岩石、土壤和沙子微小空隙中的淡水，是水井、泉水和河流的重要來源。",
+        "example": "Over-extraction of groundwater for irrigation has caused water tables to drop alarmingly in several farming regions."
+      },
+      {
+        "word": "depleted",
+        "type": "adjective",
+        "definition": "Significantly reduced in quantity or exhausted through overuse or excessive demand, to the point where supply is critically low.",
+        "definition_zh": "耗盡的、大量減少的：因過度使用或需求過高而使數量大幅減少，以致供應嚴重不足。",
+        "example": "The nation's depleted water reservoirs sparked urgent calls for stricter conservation measures across all sectors."
+      },
+      {
+        "word": "evaporation",
+        "type": "noun",
+        "definition": "The process by which liquid water is converted into water vapour and rises into the atmosphere, accelerated by high temperatures and dry air.",
+        "definition_zh": "蒸發：液態水轉化為水蒸氣並上升至大氣層的過程，在高溫和乾燥空氣條件下加速進行。",
+        "example": "Increased evaporation during the heatwave caused lake levels to fall by nearly two metres within a single month."
+      },
+      {
+        "word": "replenished",
+        "type": "verb",
+        "definition": "Refilled or restored to a former level after being reduced or used up, typically referring to water stores, natural resources, or supplies.",
+        "definition_zh": "補充、恢復：在減少或耗盡後重新填滿或恢復至先前水平，通常指水源、自然資源或供應量。",
+        "example": "After several months of steady rainfall, the aquifer was gradually replenished to near-normal levels."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the episode, what is the main reason a drought does not end after a few days of rain?",
+        "options": [
+          "A: Because rain often evaporates before reaching the ground during a drought",
+          "B: Because water must flow back into rivers, reservoirs, and underground stores, which takes months",
+          "C: Because hosepipe bans prevent water from being collected efficiently",
+          "D: Because meteorological drought is the most severe and longest stage of water shortage"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that a drought does not end with a few days of rain because water must flow back into rivers, reservoirs, and the stores beneath the ground, a process that can take months."
+      },
+      {
+        "q": "Which factor, in addition to lack of rainfall, has made the current drought particularly difficult to resolve?",
+        "options": [
+          "A: Increased agricultural water usage due to crop failures",
+          "B: Record low groundwater levels across the UK",
+          "C: Higher than average temperatures accelerating water loss",
+          "D: A significant increase in urban population demanding more water"
+        ],
+        "answer": "C",
+        "explanation": "Dr Katie Facer-Childs specifically states that this drought has been caused not simply by a lack of rainfall, but also by higher than average temperatures, which increase evaporation and compound the water shortage."
+      },
+      {
+        "q": "What reason does Dr Katie Facer-Childs give for believing there is still hope for recovery from the drought?",
+        "options": [
+          "A: Rainfall levels have already returned to the long-term average for the season",
+          "B: River flow drought has not yet developed in most parts of the UK",
+          "C: Groundwater and reservoir drought have not yet reached the severe stage",
+          "D: Soil moisture levels in agricultural areas have fully recovered"
+        ],
+        "answer": "C",
+        "explanation": "Dr Facer-Childs clearly states that the UK has not yet reached severe groundwater and reservoir drought, and concludes that this means there is still hope for a full recovery."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Understanding Drought: Stages, Causes, and the Long Road to Recovery",
+    "passage": "Drought is one of the most economically and ecologically damaging natural phenomena, yet it remains widely misunderstood by the general public. A common misconception is that a drought concludes as soon as rainfall returns. In reality, the recovery of water resources following a prolonged dry period is a complex, multi-stage process that can extend over many months or even years. Understanding the distinct phases of drought development is essential for effective water resource management and public policy.\n\nHydrologists typically classify drought into four progressive stages. The first is meteorological drought, defined by a statistically significant deficiency in precipitation relative to long-term averages. If dry conditions persist, soil moisture drought follows, as the upper layers of earth become parched, adversely affecting agriculture and ecosystems dependent on surface water. Subsequently, river flow drought develops as watercourses diminish, disrupting freshwater supply chains and aquatic habitats. The most severe and slow-to-recover stage is groundwater drought, in which aquifers — vast underground reservoirs of fresh water — are gradually depleted. Replenishing these subterranean stores requires sustained periods of above-average rainfall, as water must percolate slowly through layers of rock and sediment.\n\nClimate change has added a further dimension of complexity to drought management. Rising average temperatures increase the rate of evapotranspiration — the combined loss of water through evaporation from soil and transpiration from vegetation — meaning that even moderate precipitation may fail to replenish resources adequately. Scientists warn that the frequency and intensity of droughts are projected to increase across many regions of the world as global temperatures continue to rise. Consequently, governments and water authorities are being urged to adopt long-term, adaptive strategies rather than relying solely on short-term emergency responses when drought conditions are declared.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Groundwater drought is the easiest and quickest stage of drought to recover from, as underground aquifers refill rapidly once rain returns.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that groundwater drought is 'the most severe and slow-to-recover stage' and that replenishing aquifers 'requires sustained periods of above-average rainfall' as water percolates slowly through rock and sediment, directly contradicting this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Soil moisture drought can have a negative impact on farming and natural ecosystems.",
+        "answer": "True",
+        "explanation": "The passage directly states that soil moisture drought 'adversely affects agriculture and ecosystems dependent on surface water,' confirming that both farming and natural environments are negatively impacted."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The British government has already implemented a comprehensive long-term water management strategy to address future droughts.",
+        "answer": "Not Given",
+        "explanation": "While the passage mentions that governments and water authorities are 'being urged to adopt long-term, adaptive strategies,' it provides no specific information about whether the British government has actually implemented such a strategy."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what effect does climate change have on drought conditions?",
+        "options": [
+          "A: It increases the amount of rainfall in most regions, making drought less frequent",
+          "B: It raises temperatures, which increases evapotranspiration and may prevent moderate rainfall from replenishing water resources",
+          "C: It causes groundwater aquifers to fill more quickly due to changes in precipitation patterns",
+          "D: It reduces agricultural water demand by shortening the growing season in drought-prone regions"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'rising average temperatures increase the rate of evapotranspiration' and warns that 'even moderate precipitation may fail to replenish resources adequately,' directly supporting option B as the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you were affected by an extreme weather event or environmental problem.",
+    "topic_zh": "描述一次你受到極端天氣事件或環境問題影響的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you were affected by an extreme weather event or environmental problem.\n\nYou should say:\n• what the weather event or environmental problem was\n• when and where it happened\n• how it affected you and the people around you\n\nAnd explain what you think should be done to prevent or reduce the impact of such events in the future.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of sophisticated vocabulary related to weather and the environment — words such as 'unprecedented,' 'prolonged,' 'adversely impacted,' and 'exacerbated by climate change' will demonstrate lexical range and push your score toward Band 8.",
+        "Structure your response clearly: briefly set the scene (when and where), then develop the impact in detail using specific examples, and finish with a forward-looking perspective on solutions — this shows coherence and the ability to handle complex ideas.",
+        "Incorporate a mix of past tenses for narrating events and conditionals or modal verbs for discussing future solutions, for example: 'Had the authorities implemented water restrictions earlier, the impact might have been significantly reduced,' demonstrating grammatical range and accuracy."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments around the world are doing enough to prepare for the increasing frequency of droughts and other water-related crises?",
+        "q_zh": "你認為世界各國政府是否已採取足夠措施來應對日益頻繁的乾旱及其他水資源危機？",
+        "key_points": [
+          "Many governments still rely on reactive rather than proactive water management, investing in emergency responses only after drought conditions are declared rather than building long-term infrastructure such as desalination plants or inter-basin water transfer systems.",
+          "International cooperation is often inadequate — rivers and aquifers frequently cross national borders, yet binding multilateral agreements on shared water resources remain rare, leaving populations vulnerable to upstream overuse.",
+          "However, some nations, such as Singapore and Israel, have demonstrated that forward-thinking investment in water recycling technology and conservation education can dramatically reduce vulnerability to drought, providing models for others to follow."
+        ]
+      },
+      {
+        "q": "How can individuals change their daily habits to help conserve water during a drought, and do you think people take this responsibility seriously enough?",
+        "q_zh": "個人如何改變日常習慣以在乾旱期間節約用水？你認為人們是否足夠認真對待這項責任？",
+        "key_points": [
+          "Practical individual actions include installing water-efficient appliances, fixing household leaks promptly, reducing shower durations, collecting rainwater for garden use, and avoiding water-intensive activities such as washing cars with hosepipes.",
+          "Public awareness campaigns tend to be effective in the short term during declared droughts, but behavioural change rarely persists once restrictions are lifted, suggesting that financial incentives or tiered pricing structures may be more sustainably effective than appeals to civic responsibility alone.",
+          "There is also a significant disparity in individual water consciousness between communities with direct experience of water scarcity and those in water-abundant regions, where water is often taken for granted due to historically low prices and reliable supply."
+        ]
+      },
+      {
+        "q": "To what extent do you think climate change is responsible for the increasing severity and frequency of droughts globally?",
+        "q_zh": "你認為氣候變遷在多大程度上是造成全球乾旱日益嚴重和頻繁的原因？",
+        "key_points": [
+          "The scientific consensus is clear that rising global temperatures, driven primarily by greenhouse gas emissions, are intensifying the water cycle — causing wet regions to receive more rainfall and dry regions to experience more prolonged and severe droughts, a phenomenon often described as 'wet gets wetter, dry gets drier.'",
+          "Higher temperatures directly increase evapotranspiration rates, meaning that even where rainfall amounts remain unchanged, more water is lost from soils and vegetation, effectively reducing the water available to ecosystems and human populations.",
+          "While climate change is the dominant driver, other human factors such as deforestation, the over-extraction of groundwater for agriculture, and the proliferation of impermeable urban surfaces that prevent water from infiltrating the soil also compound the problem considerably."
+        ]
+      },
+      {
+        "q": "Should water be treated as a basic human right that is freely available to all, or as an economic resource whose price reflects its scarcity?",
+        "q_zh": "水應被視為所有人均可免費獲得的基本人權，還是應被視為價格反映其稀缺性的經濟資源？",
+        "key_points": [
+          "From a human rights perspective, access to clean water is universally recognised as fundamental to life and dignity, and pricing it in ways that make it unaffordable for lower-income populations is deeply ethically problematic and can entrench inequality.",
+          "Conversely, treating water as an entirely free public good removes the economic incentive to conserve it, often leading to overuse and wasteful practices — tiered pricing systems, where a basic lifeline volume is free or heavily subsidised but excess consumption is charged at a premium, represent a potential middle-ground approach.",
+          "The debate reflects a broader tension between market-based solutions and social equity in environmental policy, and the most equitable and effective systems tend to be those that combine guaranteed minimum access for all citizens with progressive pricing structures to discourage unsustainable consumption patterns."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Water scarcity is becoming one of the most serious environmental challenges of the 21st century. Some people argue that individuals must take greater responsibility for reducing their personal water consumption, while others believe that only large-scale government policies and technological solutions can meaningfully address the global water crisis. Discuss both views and give your own opinion.",
+    "task2_question_zh": "水資源短缺正成為21世紀最嚴峻的環境挑戰之一。有些人認為個人必須承擔更大責任以減少個人用水量，而另一些人則認為只有大規模的政府政策和技術解決方案才能有效應對全球水資源危機。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "contrary to widespread belief",
+        "when_to_use": "Use this phrase at the start of a sentence to challenge a popular but inaccurate assumption, helping you demonstrate critical thinking and a nuanced perspective.",
+        "when_to_use_zh": "用於句子開頭，挑戰一個普遍但不準確的假設，有助於展現批判性思考和細緻的觀點。",
+        "example": "Contrary to widespread belief, reducing individual shower times, while admirable, has a negligible impact on water scarcity compared to the volumes consumed by industrial agriculture."
+      },
+      {
+        "phrase": "the crux of the matter is",
+        "when_to_use": "Use this to signal that you are identifying the most fundamental or central issue within a complex debate, demonstrating your ability to analyse arguments at a deeper level.",
+        "when_to_use_zh": "用於表明你正在指出複雜辯論中最根本或核心的問題，展現你深層分析論點的能力。",
+        "example": "The crux of the matter is not whether individuals or governments bear greater responsibility, but how the two levels of action can be most effectively coordinated."
+      },
+      {
+        "phrase": "while it is undeniable that ... , it is equally important to recognise that ...",
+        "when_to_use": "Use this balanced concession structure when presenting the discussion essay's two sides to show you can acknowledge the merits of opposing views before asserting your own position.",
+        "when_to_use_zh": "在討論型作文中呈現兩方觀點時使用此平衡讓步結構，顯示你能承認對立觀點的優點，然後再陳述自己的立場。",
+        "example": "While it is undeniable that government infrastructure investment is essential for large-scale water conservation, it is equally important to recognise that cultural attitudes towards water use must shift at the individual level if lasting change is to be achieved."
+      },
+      {
+        "phrase": "in the long run",
+        "when_to_use": "Use this phrase when distinguishing between short-term fixes and sustainable, lasting solutions, which is particularly effective in problem-solution and discussion essays about environmental issues.",
+        "when_to_use_zh": "用於區分短期應急措施和可持續長期解決方案，在關於環境問題的問題解決型和討論型作文中特別有效。",
+        "example": "In the long run, investment in advanced water recycling infrastructure will prove far more effective than public awareness campaigns alone in securing national water security."
+      },
+      {
+        "phrase": "a multifaceted approach is required",
+        "when_to_use": "Use this phrase in conclusions or topic sentences to argue that complex problems require solutions operating simultaneously at multiple levels — individual, corporate, and governmental — rather than a single silver-bullet solution.",
+        "when_to_use_zh": "在結論或主題句中使用此短語，論證複雜問題需要在個人、企業和政府等多個層面同時推進的解決方案，而非單一萬能解決方法。",
+        "example": "Given the scale and complexity of global water scarcity, a multifaceted approach is required, integrating regulatory frameworks, technological innovation, and shifts in public behaviour."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a striking statement about the scale of the global water crisis — for example, referencing projections that billions of people may face water scarcity by 2050 — then paraphrase the question clearly and state your position: that while both individual action and systemic policy are necessary, structural government-led solutions must form the foundation, with individual responsibility playing a complementary rather than primary role.",
+      "body1": "Present and develop the argument in favour of individual responsibility: personal habits such as reducing consumption, fixing household leaks, and choosing water-efficient products collectively amount to significant volumes when adopted on a societal scale. Acknowledge that cultural shifts in how water is perceived — from an infinite resource to a precious and finite one — are genuinely important. However, concede that individual action alone is insufficient because the largest consumers of fresh water globally are the agricultural and industrial sectors, which can only be effectively regulated through binding government policy.",
+      "body2": "Present and develop the case for large-scale government and technological solutions: only governments have the authority and resources to invest in desalination plants, water recycling infrastructure, smart irrigation systems, and the legislative frameworks needed to regulate commercial water extraction. Use specific examples where possible, such as Israel's pioneering drip irrigation technology or Singapore's NEWater programme, to illustrate the transformative impact of state-led innovation. Argue that without this structural foundation, individual efforts remain fragmented and ultimately insufficient to address the systemic roots of water scarcity.",
+      "conclusion": "Restate your nuanced position: the most effective response to water scarcity requires both levels of action working in concert, but the burden of responsibility must be allocated proportionately — governments and industries, as the largest consumers and regulators, must lead. End with a forward-looking statement about the urgency of integrated action as climate change continues to intensify drought frequency and severity globally."
+    }
+  }
+}
