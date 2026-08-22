@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T02:47:22.707431Z",
+  "listening": {
+    "title": "How this 1960s ex-council house is managing to stay cool without air con",
+    "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A south London architect has retrofitted her 1960s home to the Passivhaus standard, keeping it 10°C cooler than outside without air conditioning.",
+    "topic_zh": "一位南倫敦建築師將她1960年代的住宅改造為被動式節能屋標準，在沒有空調的情況下使室內比室外低10°C。",
+    "transcript_excerpt": "As the UK braces itself for what could be its hottest summer on record, millions of homeowners are struggling to keep their properties cool. Air conditioning units are flying off the shelves, electricity bills are climbing, and yet for many people, the inside of their homes still feels unbearably hot. But in south London, one remarkable house tells a very different story. On a sweltering 35-degree day, Marion Baeli's 1960s former council house is a full ten degrees cooler than the street outside — and there is not a single air conditioning unit in sight. Baeli, who is both the homeowner and a professional architect, has spent over a decade carefully retrofitting her property to meet the Passivhaus standard, an internationally recognised building certification developed in Germany roughly 35 years ago. The principle behind Passivhaus is elegantly simple: seal your home so effectively against the outside elements that the internal temperature remains constant regardless of what is happening outdoors. Baeli describes her home using a memorable analogy. She compares it to a well-insulated flask — one whose cap is firmly closed so that no cold escapes. This approach is not merely about comfort. Passivhaus-certified buildings are estimated to consume up to 90 percent less energy than conventionally built homes, making them a powerful tool in the fight against climate change. With more than half of UK homes already at risk of overheating, and that figure projected to reach 92 percent by 2050 under current climate trajectories, the case for passive cooling solutions has never been more urgent.",
+    "vocabulary": [
+      {
+        "word": "retrofit",
+        "type": "verb",
+        "definition": "to add new technology or features to an older system or building that it did not have when originally constructed",
+        "definition_zh": "翻新改裝；為舊建築加裝新技術或設施",
+        "example": "The council plans to retrofit hundreds of social housing blocks with better insulation to reduce energy consumption."
+      },
+      {
+        "word": "Passivhaus standard",
+        "type": "phrase",
+        "definition": "an internationally recognised building certification originating in Germany that prioritises extreme energy efficiency by sealing buildings tightly against external temperature changes",
+        "definition_zh": "被動式節能屋標準；一種源自德國的國際建築認證，透過嚴密隔絕外部溫度變化來達到極高能源效率",
+        "example": "Buildings constructed to the Passivhaus standard typically require very little additional heating or cooling throughout the year."
+      },
+      {
+        "word": "overheating",
+        "type": "noun",
+        "definition": "the process by which indoor spaces become excessively hot, particularly due to poor insulation or inadequate ventilation during warm weather",
+        "definition_zh": "過熱；室內空間因隔熱不足或通風不良而變得過度炎熱的狀況",
+        "example": "Urban overheating is a growing public health concern as global temperatures continue to rise each decade."
+      },
+      {
+        "word": "insulation",
+        "type": "noun",
+        "definition": "material or a method used to prevent heat, sound, or electricity from passing through walls, floors, or ceilings",
+        "definition_zh": "隔熱（隔音）材料；用於防止熱量、聲音或電力穿透牆壁、地板或天花板的材料或方法",
+        "example": "Proper roof insulation can dramatically reduce the amount of energy needed to heat or cool a home."
+      },
+      {
+        "word": "constant",
+        "type": "adjective",
+        "definition": "remaining the same level or rate without changing over a period of time",
+        "definition_zh": "恆定的；在一段時間內保持相同水平或速率不變的",
+        "example": "Maintaining a constant indoor temperature without mechanical systems requires careful architectural design and high-quality building materials."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the episode, what percentage of UK homes are currently at risk of overheating?",
+        "options": [
+          "A: More than half",
+          "B: Around one quarter",
+          "C: Approximately 92 percent",
+          "D: Nearly all homes"
+        ],
+        "answer": "A",
+        "explanation": "The episode states that 'more than half of homes in the UK are already at risk of overheating,' making A the correct answer. 92% refers to a future projection for 2050, not the current figure."
+      },
+      {
+        "q": "How does Marion Baeli describe the concept behind her home's cooling system?",
+        "options": [
+          "A: She compares it to a modern refrigerator with sealed compartments",
+          "B: She likens it to a well-insulated flask with a firmly closed cap",
+          "C: She describes it as similar to an underground cellar staying naturally cool",
+          "D: She compares it to a greenhouse that traps cold air inside"
+        ],
+        "answer": "B",
+        "explanation": "Baeli explicitly uses the analogy of a well-insulated flask, saying 'You wouldn't put holes in your flask if you wanted to keep the ice in,' making B the correct answer."
+      },
+      {
+        "q": "Approximately how much less energy do Passivhaus buildings consume compared to typical houses?",
+        "options": [
+          "A: Up to 50 percent less",
+          "B: Around 75 percent less",
+          "C: Up to 90 percent less",
+          "D: Exactly 35 percent less"
+        ],
+        "answer": "C",
+        "explanation": "The episode clearly states that Passivhaus buildings 'consume up to 90% less energy than typical houses,' making C the only correct option."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Passive Cooling Architecture: Designing Homes for a Warmer Future",
+    "passage": "As climate change accelerates and urban heat events become increasingly frequent, architects and policymakers alike are being forced to reconsider fundamental assumptions about how residential buildings should be designed. In the United Kingdom alone, projections suggest that 92 percent of homes will be at risk of dangerous overheating by 2050 if no significant adaptations are made to existing housing stock. This looming crisis has renewed interest in a building philosophy known as the Passivhaus standard, a rigorous certification system developed in Germany in the late 1980s that prioritises thermal efficiency above all else.\n\nThe core principle of Passivhaus design is deceptively straightforward: construct or retrofit a building so thoroughly that it maintains a stable internal temperature without relying on mechanical heating or cooling systems. This is achieved through a combination of superior insulation, triple-glazed windows, controlled mechanical ventilation with heat recovery, and meticulous attention to eliminating thermal bridges — points where heat can escape or enter a structure. Buildings that meet this standard typically consume between 75 and 90 percent less energy than conventionally built properties, offering substantial environmental and financial benefits over their lifetime.\n\nProponents of passive design argue that the approach is not merely a technological solution but a fundamental shift in architectural philosophy. Rather than compensating for poor building design through energy-intensive air conditioning or heating systems, Passivhaus treats the building envelope itself as the primary climate control mechanism. This distinction is particularly significant in older housing stock, where decades of inadequate insulation have left millions of households vulnerable to extreme temperatures.\n\nCritics, however, note that retrofitting existing homes to meet Passivhaus standards can be prohibitively expensive for ordinary homeowners, and that government subsidies or regulatory incentives will be essential to achieve meaningful scale. Without systemic policy intervention, passive cooling solutions risk remaining the preserve of affluent professionals rather than becoming accessible to the broader population most at risk from climate-driven heat stress.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "By 2050, all homes in the United Kingdom will be at risk of overheating regardless of any adaptations made.",
+        "answer": "False",
+        "explanation": "The passage states that 92% of homes will be at risk 'if no significant adaptations are made,' implying that adaptations can reduce this figure. The statement incorrectly says 'regardless of any adaptations.'"
+      },
+      {
+        "type": "TFNG",
+        "statement": "Passivhaus buildings use triple-glazed windows as one of several methods to achieve thermal efficiency.",
+        "answer": "True",
+        "explanation": "The passage explicitly lists 'triple-glazed windows' among the combination of methods used to achieve a stable internal temperature in Passivhaus buildings."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The German government provided direct financial support for the initial development of the Passivhaus standard.",
+        "answer": "Not Given",
+        "explanation": "The passage only states that the standard was 'developed in Germany in the late 1980s.' No information is provided about German government funding or financial support for its development."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the fundamental difference between Passivhaus design and conventional building approaches?",
+        "options": [
+          "A: Passivhaus buildings are always newly constructed rather than retrofitted from older properties",
+          "B: Passivhaus treats the building's structure itself as the primary climate control rather than relying on mechanical systems",
+          "C: Conventional buildings use more advanced ventilation technology than Passivhaus designs",
+          "D: Passivhaus design is exclusively applied to government-owned social housing projects"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that 'Passivhaus treats the building envelope itself as the primary climate control mechanism' rather than 'compensating for poor building design through energy-intensive air conditioning or heating systems,' making B the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a building or home that impressed you with its design or environmental features",
+    "topic_zh": "描述一棟令你印象深刻的建築或住宅——其設計或環保特色",
+    "part2": {
+      "cue_card": "Describe a building or home that impressed you with its design or environmental features.\n\nYou should say:\n• What the building is and where it is located\n• What specific design or environmental features make it impressive\n• How you first learned about or visited this building\n• And explain why you think this kind of design is important for the future",
+      "band_tips": [
+        "Use sophisticated architectural vocabulary such as 'thermal efficiency,' 'passive cooling,' 'building envelope,' and 'retrofitted' to demonstrate lexical range and impress the examiner.",
+        "Develop a coherent narrative arc: move from your first encounter with the building, through its specific features, to a broader reflection on why sustainable design matters — this shows cohesion and the ability to organise ideas logically.",
+        "Incorporate a vivid sensory comparison or analogy, similar to how the architect in the episode compared her home to a flask, as this demonstrates creative language use and helps you speak fluently and naturally for the full two minutes."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should make it compulsory for new buildings to meet environmental standards such as Passivhaus?",
+        "q_zh": "你認為政府是否應該強制要求新建築達到被動式節能屋等環保標準？",
+        "key_points": [
+          "Mandatory standards accelerate systemic change more effectively than voluntary incentives, as market forces alone are insufficient to address climate urgency",
+          "However, strict regulations may increase construction costs, potentially exacerbating housing affordability crises in already overheated property markets",
+          "A phased regulatory approach — gradually tightening standards over time while offering transitional subsidies — could balance environmental ambition with economic feasibility"
+        ]
+      },
+      {
+        "q": "How do you think the design of cities and buildings will change as global temperatures continue to rise?",
+        "q_zh": "隨著全球氣溫持續上升，你認為城市和建築的設計將如何改變？",
+        "key_points": [
+          "Urban planners will likely integrate more green infrastructure such as rooftop gardens, tree-lined streets, and reflective surfaces to mitigate the urban heat island effect",
+          "Architects may increasingly adopt bioclimatic design principles, orienting buildings to maximise shade and natural ventilation rather than relying on energy-intensive mechanical systems",
+          "Smart building technology — including sensors that automatically adjust ventilation, shading, and insulation in response to real-time temperature data — will become standard in residential and commercial properties"
+        ]
+      },
+      {
+        "q": "Is it fair that wealthier homeowners are better able to adapt their homes to cope with climate change?",
+        "q_zh": "富裕的屋主更能改造住宅以應對氣候變化，你認為這公平嗎？",
+        "key_points": [
+          "This disparity represents a significant climate justice concern, as lower-income households — who often live in older, poorly insulated properties — face the greatest health risks from extreme heat while having the fewest resources to respond",
+          "Governments have a moral and practical obligation to fund retrofitting programmes for vulnerable populations, particularly elderly residents and those in social housing",
+          "Without redistribution of the costs of climate adaptation, environmental policy risks deepening existing social inequalities rather than alleviating them"
+        ]
+      },
+      {
+        "q": "Some people argue that individual actions like adapting one's home are less important than large-scale industrial or policy changes. To what extent do you agree?",
+        "q_zh": "有人認為像改造住宅這樣的個人行動，其重要性不及大規模工業或政策變革。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Structural changes — such as decarbonising energy grids, regulating industrial emissions, and reforming building codes — undeniably have a far greater aggregate impact than individual consumer choices",
+          "Nevertheless, individual actions carry symbolic and social value: early adopters of sustainable technology normalise new behaviours and generate demand that drives down costs for broader adoption",
+          "The most effective approach is likely a synergistic one, in which ambitious policy frameworks create the conditions and incentives for individuals and businesses to make environmentally responsible choices at scale"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "As global temperatures rise, some argue that all new residential buildings should be legally required to meet high energy-efficiency standards in order to reduce the need for air conditioning. Others believe that homeowners should be free to choose how they design and adapt their own homes. Discuss both views and give your own opinion.",
+    "task2_question_zh": "隨著全球氣溫上升，有人認為所有新建住宅應依法達到高能效標準，以減少對空調的依賴。另一些人則認為屋主應有自由選擇如何設計和改造自己的住宅。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "proponents of this view contend that",
+        "when_to_use": "Use when introducing arguments in favour of a position before presenting counterarguments, particularly in discussion essays requiring balanced analysis",
+        "when_to_use_zh": "用於在討論文章中介紹某一立場的支持論點，尤其在呈現反駁觀點之前",
+        "example": "Proponents of this view contend that mandatory energy standards are the only reliable mechanism for achieving the scale of change that the climate crisis demands."
+      },
+      {
+        "phrase": "it is worth acknowledging that",
+        "when_to_use": "Use to concede a valid point from the opposing side while maintaining your own overall argument, demonstrating intellectual balance",
+        "when_to_use_zh": "用於承認對立觀點中的有效論點，同時保持自身整體論點，展現思維的平衡性",
+        "example": "It is worth acknowledging that retrofitting older properties to meet Passivhaus standards can impose a significant financial burden on homeowners with limited means."
+      },
+      {
+        "phrase": "the long-term ramifications of",
+        "when_to_use": "Use when discussing future consequences or implications of a policy, decision, or trend, adding academic weight to your argument",
+        "when_to_use_zh": "用於討論某項政策、決定或趨勢的未來後果或影響，為論點增添學術份量",
+        "example": "The long-term ramifications of failing to improve residential energy efficiency are likely to include both a public health crisis and unsustainable pressure on national electricity grids."
+      },
+      {
+        "phrase": "strikes a balance between ... and ...",
+        "when_to_use": "Use in your conclusion or when proposing a middle-ground solution that reconciles two competing priorities",
+        "when_to_use_zh": "用於結論段或提出調和兩種相互競爭的優先事項的折衷方案時",
+        "example": "A phased regulatory framework strikes a balance between environmental urgency and the practical constraints facing homeowners and construction industries."
+      },
+      {
+        "phrase": "cannot be overstated",
+        "when_to_use": "Use to emphasise the critical importance of a point, typically when discussing significant social, environmental, or economic implications",
+        "when_to_use_zh": "用於強調某一論點的極端重要性，通常在討論重大的社會、環境或經濟影響時使用",
+        "example": "The significance of designing climate-resilient housing for future generations simply cannot be overstated, given the accelerating pace of global warming."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the debate: note that rising global temperatures have made energy-efficient building design an urgent policy question. Paraphrase the question's two positions clearly, then state your own view — that while personal freedom is valuable, government regulation of building standards is ultimately necessary and justifiable given the scale of the climate challenge.",
+      "body1": "Discuss the case for mandatory energy-efficiency standards. Argue that voluntary measures have historically proven insufficient to drive systemic change at the required pace; that Passivhaus-style buildings demonstrably reduce energy consumption by up to 90%; and that the long-term public health and economic benefits of cooler, more efficient homes far outweigh short-term construction cost increases. Use data about the projected 92% of UK homes at risk of overheating by 2050 to reinforce urgency.",
+      "body2": "Present the counterargument for homeowner freedom, acknowledging that mandatory standards can increase building costs, potentially restricting housing supply and affordability. Concede that for retrofit projects on existing homes, strict standards may be disproportionately burdensome. However, rebut by arguing that well-designed government subsidy schemes and phased implementation timelines can mitigate these concerns, and that the right to individual choice does not extend to choices that impose collective environmental harm.",
+      "conclusion": "Restate your position that a regulated but supportively implemented approach — combining legally mandated efficiency standards for new builds with generous incentives for retrofitting — represents the most balanced and effective response. End with a forward-looking statement about the role of architecture in shaping a sustainable and equitable future."
+    }
+  }
+}
