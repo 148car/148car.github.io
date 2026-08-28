@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T13:34:17.739454Z",
+  "listening": {
+    "title": "Bank holiday weekend to see more thunderstorms and rain",
+    "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A severe weather report warning of thunderstorms, heavy rain, and flash flooding across parts of England and Wales during a bank holiday weekend.",
+    "topic_zh": "一篇關於英格蘭和威爾斯在銀行假日週末期間面臨雷暴、暴雨及閃洪警告的嚴峻天氣報導。",
+    "transcript_excerpt": "Good morning and welcome to today's weather update. It's looking like a turbulent bank holiday weekend for much of England and Wales, with thunderstorms and heavy downpours set to dominate the forecast. The Met Office has already issued a yellow warning for thunderstorms covering the majority of Wales, the Midlands, and significant portions of the North West and North East of England. Drivers are being urged to exercise extreme caution, as spray and standing water on the roads are making conditions particularly hazardous. The Environment Agency has stepped in as well, issuing multiple flood warnings and over twenty flood alerts, primarily across the Midlands. Areas such as Birmingham and Staffordshire have already experienced what officials are describing as significant flooding. The concern now is that further heavy rainfall could trigger additional flash flooding events throughout the day. Despite these unsettled conditions, temperatures remain broadly in line with what we'd expect for late August — around twenty to twenty-three degrees Celsius across England and Wales. After a period of unusually warm and humid weather, conditions are expected to feel notably fresher as we head into the weekend. Looking ahead, Saturday and Sunday are unlikely to offer much relief, with the risk of thunderstorms and further rain persisting across many regions. Stay safe, stay informed, and keep checking for updated warnings as the situation continues to develop.",
+    "vocabulary": [
+      {
+        "word": "downpour",
+        "type": "noun",
+        "definition": "A sudden and very heavy fall of rain, often occurring in a short period of time.",
+        "definition_zh": "傾盆大雨；突然而來的大量降雨。",
+        "example": "The unexpected downpour caught commuters off guard, flooding several underpasses in the city centre."
+      },
+      {
+        "word": "unseasonably",
+        "type": "adverb",
+        "definition": "In a manner that is unusual or unexpected for the time of year, often referring to weather conditions.",
+        "definition_zh": "不合時節地；指天氣狀況與該季節的正常情況不符。",
+        "example": "Temperatures were unseasonably high for November, prompting concerns about long-term climate patterns."
+      },
+      {
+        "word": "flash flooding",
+        "type": "phrase",
+        "definition": "A rapid and sudden flood caused by heavy or excessive rainfall in a short period of time, often with little warning.",
+        "definition_zh": "閃洪；因短時間內大量降雨而迅速發生的洪水，通常預警時間極短。",
+        "example": "Emergency services responded to multiple calls after flash flooding submerged ground-floor properties overnight."
+      },
+      {
+        "word": "unsettled",
+        "type": "adjective",
+        "definition": "Used to describe weather that is changeable, unstable, and likely to bring rain, cloud, or storms.",
+        "definition_zh": "（天氣）不穩定的；多變的，可能帶來降雨、雲層或風暴。",
+        "example": "The forecast remains unsettled throughout the week, with scattered showers expected on most days."
+      },
+      {
+        "word": "humid",
+        "type": "adjective",
+        "definition": "Describing air or weather conditions that contain a high level of water vapour, making the atmosphere feel warm and damp.",
+        "definition_zh": "潮濕的；形容空氣中水蒸氣含量高，使大氣感覺溫暖且悶熱。",
+        "example": "The humid conditions made it difficult for athletes to maintain their performance during the outdoor event."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Which regions are covered by the Met Office yellow thunderstorm warning issued for Friday?",
+        "options": [
+          "A: Scotland, Northern Ireland, and the South East of England",
+          "B: Wales, the Midlands, and parts of the North West and North East of England",
+          "C: London, the South West, and East Anglia",
+          "D: Northern Ireland, Yorkshire, and the East Midlands"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that the yellow warning for thunderstorms covers most of Wales, the Midlands, and parts of the North West and North East of England."
+      },
+      {
+        "q": "What temperature range is expected across England and Wales on Friday?",
+        "options": [
+          "A: 16–20°C",
+          "B: 25–28°C",
+          "C: 20–23°C",
+          "D: 12–16°C"
+        ],
+        "answer": "C",
+        "explanation": "The transcript clearly states that temperatures of around 20–23°C are expected in England and Wales, described as around average for late August."
+      },
+      {
+        "q": "According to the report, which area has been described as one of the worst affected by flooding this week?",
+        "options": [
+          "A: London and the South East",
+          "B: Scotland and Northern Ireland",
+          "C: The Midlands, including Birmingham and Staffordshire",
+          "D: Wales and the South West"
+        ],
+        "answer": "C",
+        "explanation": "The passage specifically identifies the Midlands, including areas such as Birmingham and Staffordshire, as having experienced significant flooding and being among the worst affected areas."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Extreme Weather Events and the Challenge of Urban Flood Management",
+    "passage": "In recent decades, the frequency and intensity of extreme weather events across the United Kingdom have increased considerably, placing significant strain on both infrastructure and emergency response systems. Events such as the bank holiday thunderstorms of August 2026, which brought flash flooding to large parts of the Midlands, serve as a stark reminder of the growing vulnerability of urban environments to sudden and severe meteorological phenomena.\n\nFlash flooding, in particular, poses unique challenges for urban planners and local authorities. Unlike river flooding, which typically develops over a number of hours or days, flash floods can inundate streets, homes, and transport networks within minutes of a heavy rainfall event. The speed and unpredictability of such events make timely evacuation and damage mitigation exceptionally difficult. Cities such as Birmingham, with their extensive networks of impermeable surfaces — roads, car parks, and paved areas — are especially susceptible, as rainwater has limited capacity to drain naturally into the soil.\n\nMeteorological agencies, including the Met Office and the Environment Agency, play a critical role in managing public risk through the issuance of tiered warning systems. Yellow, amber, and red alerts allow authorities and citizens to calibrate their response according to the perceived severity of incoming conditions. However, critics argue that the effectiveness of such warnings is undermined when the public becomes desensitised to lower-level alerts through repeated exposure, a phenomenon sometimes referred to as warning fatigue.\n\nAddressing these challenges requires a multi-pronged approach. Investment in sustainable urban drainage systems, the expansion of green infrastructure such as parks and permeable pavements, and the reinforcement of flood barriers all contribute to building urban resilience. Equally important is public education — ensuring that communities understand the risks associated with extreme weather and know how to respond safely and swiftly when warnings are issued.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Flash flooding develops more slowly than river flooding, giving authorities more time to respond.",
+        "answer": "False",
+        "explanation": "The passage explicitly states the opposite — that flash floods can inundate areas within minutes, making them faster and more unpredictable than river flooding, which develops over hours or days."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Met Office uses a tiered colour-coded warning system to communicate the severity of weather threats.",
+        "answer": "True",
+        "explanation": "The passage directly confirms that the Met Office and Environment Agency issue yellow, amber, and red alerts as part of a tiered warning system calibrated to the severity of conditions."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Government investment in flood management across the UK has declined significantly over the past decade.",
+        "answer": "Not Given",
+        "explanation": "The passage discusses the need for investment in drainage systems and flood barriers but makes no specific claim about whether government funding has increased or decreased in recent years."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, why are cities like Birmingham particularly vulnerable to flash flooding?",
+        "options": [
+          "A: They are located near large rivers that frequently overflow their banks.",
+          "B: Their extensive impermeable surfaces prevent rainwater from draining naturally into the soil.",
+          "C: Their emergency services are underfunded and poorly equipped to respond.",
+          "D: They experience higher annual rainfall than rural areas of the UK."
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly attributes Birmingham's vulnerability to its extensive networks of impermeable surfaces — roads, car parks, and paved areas — which limit the natural drainage of rainwater into the soil."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced or witnessed extreme weather conditions.",
+    "topic_zh": "描述一次你親身經歷或目睹極端天氣狀況的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when you experienced or witnessed extreme weather conditions.\n\nYou should say:\n• what the weather event was and where it took place\n• what you were doing at the time it occurred\n• how it affected you and the people around you\n\nAnd explain how you felt during and after the experience.",
+      "band_tips": [
+        "Use a wide range of weather-related and emotional vocabulary — words like 'torrential', 'relentless', 'unsettled', and 'apprehensive' will impress the examiner and demonstrate lexical range.",
+        "Structure your response clearly with a brief introduction, a detailed narrative of the event, and a reflective conclusion about how the experience affected your views on weather or preparedness.",
+        "Use a variety of tenses accurately — past simple and past continuous to describe the event, past perfect to add background context, and present perfect or present simple to reflect on lasting impacts."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare cities for extreme weather events?",
+        "q_zh": "你認為政府是否已採取足夠措施讓城市應對極端天氣事件？",
+        "key_points": [
+          "Acknowledge progress in early warning systems and flood defence infrastructure, but argue that urban planning still lags behind the pace of climate change.",
+          "Discuss the tension between short-term economic priorities and long-term investment in climate resilience, noting that reactive spending after disasters often exceeds the cost of proactive prevention.",
+          "Suggest that international cooperation and knowledge-sharing between governments is essential, as extreme weather is a global challenge that transcends national borders."
+        ]
+      },
+      {
+        "q": "How has climate change affected the types of weather that people experience in your country?",
+        "q_zh": "氣候變化如何影響你的國家人民所經歷的天氣類型？",
+        "key_points": [
+          "Describe observable shifts such as more frequent heatwaves, heavier precipitation events, or more unpredictable seasonal patterns compared to previous generations.",
+          "Reference the scientific consensus that human activity — particularly the burning of fossil fuels — is driving these changes, leading to more extreme and erratic weather patterns globally.",
+          "Consider how these shifts are affecting agriculture, public health, and daily life, and whether public awareness of climate change as the underlying cause is sufficiently widespread."
+        ]
+      },
+      {
+        "q": "To what extent do you think individuals are responsible for reducing the risks associated with extreme weather?",
+        "q_zh": "你認為個人在多大程度上應對降低極端天氣風險承擔責任？",
+        "key_points": [
+          "Argue that individuals play a meaningful role through behavioural choices — reducing carbon footprints, staying informed about warnings, and making homes more resilient — but that systemic change requires government and corporate action.",
+          "Examine the concept of shared responsibility, where neither governments nor individuals can address climate-related risks in isolation; effective solutions require coordinated effort at every level of society.",
+          "Consider the role of education and media in empowering individuals to make informed decisions, particularly in communities that are disproportionately exposed to flood or storm risk."
+        ]
+      },
+      {
+        "q": "How important is it for schools to teach children about weather patterns and climate science?",
+        "q_zh": "在學校教導兒童天氣模式與氣候科學有多重要？",
+        "key_points": [
+          "Emphasise that early education in climate and weather literacy equips future generations with the critical thinking skills needed to engage with complex environmental challenges as adults and voters.",
+          "Highlight the practical safety dimension — children who understand severe weather warnings and appropriate responses are better able to protect themselves and inform their families during emergencies.",
+          "Discuss the broader civic value of an informed citizenry, arguing that scientific literacy around climate enables more productive public debate and supports evidence-based policymaking."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events such as floods and storms are becoming increasingly common in many parts of the world. Some people believe that governments alone are responsible for managing the risks these events pose to society. Others argue that individuals and communities must also take an active role. Discuss both views and give your own opinion.",
+    "task2_question_zh": "洪水和風暴等極端天氣事件在世界許多地方日趨頻繁。一些人認為政府單獨負有管理這些事件對社會造成風險的責任，而另一些人則認為個人和社區也必須積極參與。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use when describing the dangers or risks that a phenomenon presents to people, infrastructure, or the environment.",
+        "when_to_use_zh": "用於描述某一現象對人員、基礎設施或環境所構成的危險或風險。",
+        "example": "The increasing frequency of flash flooding poses a significant threat to urban infrastructure and public safety across the region."
+      },
+      {
+        "phrase": "it is widely acknowledged that",
+        "when_to_use": "Use to introduce a point that is broadly accepted or supported by evidence, lending authority to your argument before developing it further.",
+        "when_to_use_zh": "用於引出一個被廣泛認可或有證據支持的論點，在進一步發展之前為你的論點增加權威性。",
+        "example": "It is widely acknowledged that climate change is intensifying the severity of weather events that communities must now prepare for."
+      },
+      {
+        "phrase": "a multi-faceted approach is required",
+        "when_to_use": "Use in problem-solution essays or discussion essays to argue that a single solution is insufficient and that several strategies must work in combination.",
+        "when_to_use_zh": "用於問題解決型或討論型作文，說明單一解決方案不足，需要多種策略共同發揮作用。",
+        "example": "Given the complexity of flood risk management, a multi-faceted approach is required, encompassing policy reform, infrastructure investment, and community education."
+      },
+      {
+        "phrase": "while it is true that … , it must also be recognised that …",
+        "when_to_use": "Use to concede a valid point from the opposing view before introducing a counterargument, demonstrating balanced and sophisticated reasoning.",
+        "when_to_use_zh": "用於承認對立觀點的有效性，然後再引入反駁論點，展示平衡而成熟的推理能力。",
+        "example": "While it is true that governments bear primary responsibility for national flood defences, it must also be recognised that individual preparedness plays a vital complementary role."
+      },
+      {
+        "phrase": "in the long run",
+        "when_to_use": "Use to shift discussion from immediate or short-term effects to broader, enduring consequences or benefits of a course of action.",
+        "when_to_use_zh": "用於將討論從即時或短期影響轉向某一行動方案的更廣泛、持久的後果或效益。",
+        "example": "Investing in sustainable drainage infrastructure may be costly initially, but in the long run it significantly reduces the economic damage caused by repeated flooding."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the global rise in extreme weather events, acknowledging the debate around responsibility. Use a concession structure to signal that the essay will explore both governmental and individual roles before presenting a balanced personal position that favours shared responsibility.",
+      "body1": "Examine the case for governmental responsibility: only central authorities have the resources, legislative power, and technical capacity to build large-scale flood defences, fund early warning systems, regulate urban planning, and coordinate emergency responses. Use the Met Office warning system and Environment Agency flood alerts as illustrative examples of state-level intervention.",
+      "body2": "Argue that individual and community action is equally indispensable: citizens who remain informed, reduce their environmental impact, prepare emergency plans, and advocate for local resilience measures create a bottom-up layer of protection that complements top-down policy. Acknowledge, however, that placing excessive burden on individuals is unfair without adequate governmental support and education.",
+      "conclusion": "Restate your view that extreme weather risk is a shared responsibility requiring coordinated action at every level of society. Avoid a simple summary — instead, offer a forward-looking statement about how integrating governmental policy with empowered, informed communities represents the most effective and equitable path toward climate resilience."
+    }
+  }
+}
