@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T08:26:50.600738Z",
+  "listening": {
+    "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+    "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A specialist team at the UK Met Office monitors space weather around the clock to protect critical infrastructure on Earth from solar activity.",
+    "topic_zh": "英國氣象局的專業團隊全天候監測太空天氣，以保護地球上的關鍵基礎設施免受太陽活動影響。",
+    "transcript_excerpt": "Most people check the weather forecast before leaving the house, but there is a team of scientists whose job is to monitor a very different kind of weather — one that originates not in the clouds above us, but in the blazing heart of the Sun, approximately 150 million kilometres away. At the Met Office headquarters in the United Kingdom, a dedicated space weather prediction team works around the clock, every single day of the year, scanning close-up imagery of the Sun's surface for signs of dangerous activity. Space weather is primarily driven by events on the Sun, such as solar flares — intense, sudden bursts of electromagnetic radiation that can travel across space and interact with Earth's magnetic field. When these interactions are severe enough, they have the potential to disrupt the technologies that modern society depends upon most heavily: GPS navigation systems, electricity power grids, and the satellites that relay communications across the globe. The financial stakes could not be higher. A 2025 estimate by the insurance market Lloyds calculated that a major space weather event could cost the global economy as much as 2.4 trillion US dollars over a five-year period. To address this growing threat, the Met Office has collaborated with researchers at Aberystwyth University and has been working with key infrastructure operators since 2014, providing forecasts and alerts so that vulnerable industries can take protective action before disaster strikes.",
+    "vocabulary": [
+      {
+        "word": "solar flare",
+        "type": "noun",
+        "definition": "A sudden, intense burst of radiation and energy released from the Sun's surface, capable of disrupting electronic systems on Earth.",
+        "definition_zh": "太陽耀斑，指太陽表面突然爆發的強烈輻射和能量，可能干擾地球上的電子系統。",
+        "example": "Scientists issued a warning after detecting a powerful solar flare that could interfere with satellite communications within 48 hours."
+      },
+      {
+        "word": "infrastructure",
+        "type": "noun",
+        "definition": "The fundamental systems and facilities, such as power grids, transport networks, and communication systems, that a society needs to function.",
+        "definition_zh": "基礎設施，指社會運作所需的基本系統與設施，例如電網、交通網絡和通訊系統。",
+        "example": "A severe space weather event poses a serious risk to critical infrastructure, including electricity supply and internet connectivity."
+      },
+      {
+        "word": "mitigating",
+        "type": "adjective",
+        "definition": "Describing actions or measures taken to reduce the severity, seriousness, or negative impact of a problem or risk.",
+        "definition_zh": "緩解的，指採取行動或措施以降低問題或風險的嚴重程度或負面影響。",
+        "example": "Engineers implemented mitigating strategies to protect the power grid from the effects of geomagnetic storms."
+      },
+      {
+        "word": "vulnerable",
+        "type": "adjective",
+        "definition": "Exposed to the possibility of being harmed, damaged, or adversely affected by a particular threat or hazard.",
+        "definition_zh": "脆弱的，指暴露於可能受到特定威脅或危害損害的狀況中。",
+        "example": "GPS systems are especially vulnerable to disruption during periods of intense solar activity."
+      },
+      {
+        "phrase": "make great strides",
+        "type": "phrase",
+        "definition": "To make significant and impressive progress in a particular area or field of activity.",
+        "definition_zh": "取得重大進展，指在某一領域取得顯著而令人印象深刻的進步。",
+        "example": "Researchers have made great strides in predicting space weather events, though accurate forecasting remains a challenge."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, what is the primary cause of space weather?",
+        "options": [
+          "A: Changes in the Earth's magnetic field caused by human technology",
+          "B: Activity on the surface of the Sun, such as solar flares",
+          "C: Satellite malfunctions orbiting in the upper atmosphere",
+          "D: Extreme weather events occurring in the upper atmosphere"
+        ],
+        "answer": "B",
+        "explanation": "The transcript clearly states that 'space weather is primarily driven by events on the Sun, such as solar flares,' making B the correct answer."
+      },
+      {
+        "q": "How much could a severe space weather event potentially cost the global economy, according to the 2025 Lloyds estimate?",
+        "options": [
+          "A: 2.4 billion dollars over ten years",
+          "B: 24 trillion dollars over five years",
+          "C: 2.4 trillion dollars over five years",
+          "D: 240 billion dollars over one year"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that Lloyds estimated a severe space weather event could cost '2.4 trillion US dollars over a five-year period,' which corresponds exactly to option C."
+      },
+      {
+        "q": "Since which year has the Met Office been working with key infrastructure operators to protect against space weather impacts?",
+        "options": [
+          "A: 2010",
+          "B: 2014",
+          "C: 2019",
+          "D: 2025"
+        ],
+        "answer": "B",
+        "explanation": "The transcript explicitly mentions that the Met Office 'has been working with key infrastructure operators since 2014,' making B the correct answer."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Space Weather: An Emerging Threat to Modern Civilisation",
+    "passage": "In an era of unprecedented technological dependence, a hazard originating 150 million kilometres from Earth has emerged as one of the most significant systemic risks facing modern civilisation. Space weather — the term used to describe the dynamic environmental conditions in near-Earth space driven primarily by solar activity — has the potential to cause widespread disruption to the critical systems upon which contemporary society relies. Among the most consequential solar phenomena are solar flares, which are sudden, intense releases of electromagnetic radiation from the Sun's surface. When directed towards Earth, these bursts can interact with the planet's magnetosphere, inducing electrical currents in ground-based conductors and saturating the signals that GPS and communication satellites depend upon. The societal consequences of a major space weather event could be profound. Power grids, which form the backbone of economic activity, are particularly susceptible, as geomagnetic storms can damage high-voltage transformers that take months or even years to replace. Aviation routes passing over polar regions, where Earth's magnetic shielding is weakest, face elevated radiation exposure during intense solar events. Financial analysts at the insurance market Lloyds estimated in 2025 that a severe space weather incident could inflict economic losses of 2.4 trillion dollars on the global economy across a five-year window. In response to this growing awareness, the United Kingdom's Met Office established a dedicated Space Weather Operations Centre, staffed continuously around the clock. Working in collaboration with Aberystwyth University, the team employs ground-based instrumentation and space-borne sensors to monitor solar activity in real time. Critically, the centre issues advance warnings to operators of vulnerable infrastructure, enabling them to implement protective procedures — such as temporarily taking power grid components offline — before the brunt of a solar storm arrives. While space weather forecasting has advanced considerably, scientists acknowledge that reliable long-range prediction remains a formidable challenge, as the precise behaviour of the Sun continues to resist comprehensive modelling.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Solar flares are gradual releases of energy from the Sun that build up slowly over several days.",
+        "answer": "False",
+        "explanation": "The passage describes solar flares as 'sudden, intense releases of electromagnetic radiation,' which directly contradicts the idea that they are gradual and slow-building."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Met Office's Space Weather Operations Centre is staffed continuously throughout the entire year.",
+        "answer": "True",
+        "explanation": "The passage states the centre is 'staffed continuously around the clock,' which confirms it operates 24 hours a day, every day, consistent with a True answer."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Aberystwyth University has been developing its own independent space weather forecasting system separate from the Met Office.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions collaboration between the Met Office and Aberystwyth University but provides no information about whether the university has developed an independent system of its own."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best explains why aviation routes over polar regions are especially at risk during solar events?",
+        "options": [
+          "A: Polar regions experience more frequent solar flares than other areas of the globe",
+          "B: Earth's magnetic shielding is at its weakest over the polar regions",
+          "C: Satellites used for polar navigation are older and more easily disrupted",
+          "D: Aviation fuel is less effective at high altitudes near the poles during solar storms"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that polar aviation routes 'face elevated radiation exposure during intense solar events' because 'Earth's magnetic shielding is weakest' at those locations, making B the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when technology failed or was disrupted in a way that affected your daily life.",
+    "topic_zh": "描述一次科技故障或中斷影響您日常生活的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when technology failed or was disrupted in a way that affected your daily life.\n\nYou should say:\n• what technology was affected and how it failed\n• when and where this happened\n• how the disruption affected you and people around you\n\nAnd explain what this experience made you realise about society's dependence on technology.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of past tenses accurately — simple past for completed events, past continuous for background context, and past perfect to show what had happened before the disruption — to demonstrate grammatical range and flexibility.",
+        "Incorporate sophisticated vocabulary related to technology and dependency, such as 'infrastructure,' 'interconnected systems,' 'cascade of failures,' and 'overreliance,' to push your lexical resource score towards Band 8.",
+        "Extend your answer beyond the basic narrative by reflecting on broader societal implications — examiners reward candidates who can move from personal experience to abstract ideas fluently and cohesively."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think modern societies have become dangerously overdependent on technology?",
+        "q_zh": "您認為現代社會是否已對科技過度依賴到危險的程度？",
+        "key_points": [
+          "Argue that interdependence of systems means a single point of failure — such as a GPS outage or power grid collapse — can cascade into widespread societal disruption across healthcare, finance, and transport.",
+          "Acknowledge the counterargument that technology has also created redundancies and backup systems that make societies more resilient than they appear.",
+          "Use the example of space weather threats to illustrate that risks to critical technology can originate from entirely unpredictable natural sources beyond human control."
+        ]
+      },
+      {
+        "q": "Who do you think should be responsible for protecting a country's critical infrastructure from threats like space weather — governments, private companies, or international organisations?",
+        "q_zh": "您認為誰應該負責保護一個國家的關鍵基礎設施免受太空天氣等威脅——政府、私人企業還是國際組織？",
+        "key_points": [
+          "Governments bear primary responsibility as they can coordinate national responses, regulate industries, and fund long-term scientific research that private actors would not prioritise due to low short-term returns.",
+          "Private companies that own and operate much of the affected infrastructure — such as satellite operators and electricity utilities — should share responsibility and be required to invest in protective technology.",
+          "Space weather is inherently a global, borderless phenomenon, suggesting that international cooperation through bodies like the United Nations or the World Meteorological Organization is ultimately necessary for effective protection."
+        ]
+      },
+      {
+        "q": "How important is it for governments to invest in scientific research into threats that may only occur rarely but could be catastrophic?",
+        "q_zh": "政府投資研究罕見但可能具有災難性影響的威脅有多重要？",
+        "key_points": [
+          "Low-probability but high-impact events — sometimes called 'tail risks' — are precisely the threats that markets tend to under-prepare for, making government investment essential to fill this gap.",
+          "Historical precedents such as pandemic preparedness failures demonstrate the enormous human and economic cost of neglecting rare but foreseeable catastrophic risks.",
+          "Framing such investment not as a cost but as insurance for the entire economy can help justify the expenditure to sceptical policymakers and the general public."
+        ]
+      },
+      {
+        "q": "In what ways might advances in space weather forecasting benefit fields beyond protecting technology, such as science or medicine?",
+        "q_zh": "太空天氣預報的進步除了保護科技之外，在科學或醫學等領域可能帶來哪些益處？",
+        "key_points": [
+          "Improved understanding of solar activity and its interaction with Earth's magnetosphere could yield insights applicable to fields such as plasma physics, atmospheric science, and climate research.",
+          "Research into how cosmic radiation affects the human body — particularly for astronauts on long-duration missions — has direct implications for radiation medicine and the treatment of cancer.",
+          "The data collection infrastructure built for space weather monitoring, including advanced satellites and global sensor networks, can be repurposed to study a wide range of Earth and space science questions."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people argue that governments should prioritise funding for space weather research and forecasting to protect modern infrastructure. Others believe that resources would be better spent addressing more immediate environmental threats such as climate change. Discuss both views and give your own opinion.",
+    "task2_question_zh": "有些人認為政府應該優先為太空天氣研究和預報提供資金，以保護現代基礎設施。另一些人則認為資源應該更好地用於應對氣候變化等更緊迫的環境威脅。討論兩種觀點並給出您自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use when introducing a danger or risk associated with a particular phenomenon or trend.",
+        "when_to_use_zh": "用於介紹與特定現象或趨勢相關的危險或風險。",
+        "example": "Severe space weather poses a significant threat to the power grids and satellite systems upon which contemporary economies depend."
+      },
+      {
+        "phrase": "the financial implications of ... cannot be overstated",
+        "when_to_use": "Use to emphasise that the economic consequences of something are extremely serious and deserve full attention.",
+        "when_to_use_zh": "用於強調某事的經濟後果極為嚴重，值得充分重視。",
+        "example": "The financial implications of a catastrophic solar storm cannot be overstated, given estimates suggesting losses of trillions of dollars."
+      },
+      {
+        "phrase": "allocating resources strategically",
+        "when_to_use": "Use when discussing how governments or organisations should make deliberate, considered decisions about where to direct funding or effort.",
+        "when_to_use_zh": "用於討論政府或組織應如何就資金或努力的方向做出深思熟慮的決策。",
+        "example": "Allocating resources strategically between space weather preparedness and climate mitigation need not be a mutually exclusive choice."
+      },
+      {
+        "phrase": "in the long run",
+        "when_to_use": "Use to indicate that you are considering effects or outcomes over an extended period of time rather than immediately.",
+        "when_to_use_zh": "用於表示您正在考慮較長時間段內的效果或結果，而非立即的影響。",
+        "example": "Investing in early warning systems for space weather events could save significantly more money in the long run than recovering from a catastrophic infrastructure failure."
+      },
+      {
+        "phrase": "it is short-sighted to assume that",
+        "when_to_use": "Use to critique a view that fails to consider long-term or broader consequences, adding a persuasive and evaluative tone.",
+        "when_to_use_zh": "用於批評未能考慮長遠或更廣泛後果的觀點，增添說服力和評估性語氣。",
+        "example": "It is short-sighted to assume that only visible, immediate threats merit government attention, as low-probability catastrophic risks can prove equally devastating."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the debate: modern civilisation depends on fragile technological systems simultaneously threatened by both terrestrial climate change and extraterrestrial space weather events. Paraphrase the question and state clearly that this essay will discuss both perspectives before offering a reasoned personal position.",
+      "body1": "Present the case for prioritising climate change funding, acknowledging its immediacy, the established scientific consensus, the visible ongoing damage to ecosystems and human communities, and the argument that its effects are already being felt globally, making delay increasingly costly.",
+      "body2": "Present the case for greater space weather investment, emphasising that a single extreme solar event could instantly neutralise the very renewable energy and communication infrastructure being built to combat climate change — and that prevention through forecasting is far cheaper than recovery. Argue that these two priorities need not be mutually exclusive, as monitoring infrastructure serves dual purposes.",
+      "conclusion": "Conclude by affirming that while climate change demands urgent and sustained attention, a truly resilient society cannot afford to ignore low-probability but high-consequence threats like extreme space weather. Advocate for proportional, strategic allocation of scientific funding that addresses both immediate and long-term systemic risks simultaneously."
+    }
+  }
+}
