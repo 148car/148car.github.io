@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T07:56:36.125411Z",
+  "listening": {
+    "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+    "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "NASA's Nancy Grace Roman Space Telescope has launched from Florida with a mission to explore dark energy, exoplanets, and the mysteries of the Universe.",
+    "topic_zh": "NASA的南希·葛瑞絲·羅曼太空望遠鏡從佛羅里達州發射升空，任務是探索暗能量、系外行星以及宇宙的奧秘。",
+    "transcript_excerpt": "It was a moment scientists had waited years for. On a clear Sunday morning at the Kennedy Space Center in Florida, NASA's next-generation Nancy Grace Roman Space Telescope blasted off into space aboard a SpaceX Falcon Heavy rocket. The atmosphere was electric — engineers, astronomers, and space enthusiasts gathered to witness what many are calling a giant leap forward in our understanding of the Universe.\n\nUnlike its predecessors, the Hubble and James Webb telescopes, Roman offers something truly extraordinary: a field of vision one hundred times wider, capable of capturing vast panoramic images of deep space in a single frame. This remarkable capability means Roman can survey enormous regions of the cosmos far more efficiently than any telescope before it.\n\nAbout thirty minutes after launch, the telescope successfully separated from its rocket and began its 100-day journey to a vantage point roughly one million miles from Earth. Once in position, Roman will begin its ambitious mission — charting thousands of exoplanets, investigating the nature of dark energy, and helping scientists tackle one of humanity's oldest and most profound questions: are we alone in the Universe?\n\nNASA administrator Nicky Fox captured the excitement perfectly, saying, 'Roman is going to change the way we look at the Universe.' Project manager Jackie Townsend described the launch as glorious, noting that the rocket placed the telescope exactly where it needed to be. The successful mission marks a new chapter in humanity's exploration of the cosmos.",
+    "vocabulary": [
+      {
+        "word": "panoramic",
+        "type": "adjective",
+        "definition": "providing a wide, unobstructed view of a large area, often used to describe a very broad visual perspective",
+        "definition_zh": "全景的；提供廣闊、無遮蔽視野的",
+        "example": "The Roman telescope's panoramic field of view allows it to capture vast regions of space that would require hundreds of images from the Hubble telescope."
+      },
+      {
+        "word": "vantage point",
+        "type": "noun",
+        "definition": "a position that provides a clear and advantageous view of something, whether physical or metaphorical",
+        "definition_zh": "有利位置；能清楚觀察某事物的位置",
+        "example": "Scientists chose a vantage point one million miles from Earth so the telescope could observe deep space without interference from our planet's atmosphere."
+      },
+      {
+        "word": "exoplanet",
+        "type": "noun",
+        "definition": "a planet that orbits a star outside of our own solar system, often studied for potential signs of habitability",
+        "definition_zh": "系外行星；在我們太陽系以外繞其他恆星運行的行星",
+        "example": "The discovery of thousands of exoplanets has raised hopes that some may harbour conditions suitable for life."
+      },
+      {
+        "word": "dark energy",
+        "type": "noun",
+        "definition": "a mysterious form of energy that is hypothesised to permeate all of space and is thought to be responsible for the accelerating expansion of the Universe",
+        "definition_zh": "暗能量；一種被假設充滿整個宇宙空間、並被認為導致宇宙加速膨脹的神秘能量形式",
+        "example": "Understanding dark energy remains one of the greatest unsolved problems in modern physics and cosmology."
+      },
+      {
+        "word": "blasted off",
+        "type": "phrase",
+        "definition": "launched into the air with great force and speed, typically used to describe the launch of a rocket or spacecraft",
+        "definition_zh": "（火箭或太空船）強力發射升空",
+        "example": "The Roman telescope blasted off from the Kennedy Space Center, marking the beginning of its ambitious scientific mission."
+      }
+    ],
+    "questions": [
+      {
+        "q": "How does the Nancy Grace Roman telescope's field of vision compare to those of the Hubble and James Webb telescopes?",
+        "options": [
+          "A: It is 10 times larger than both telescopes combined.",
+          "B: It is 100 times larger than each of those telescopes.",
+          "C: It is the same size but captures higher resolution images.",
+          "D: It is 100 times larger than both combined."
+        ],
+        "answer": "B",
+        "explanation": "The passage states that Roman will have 'a field of vision 100 times larger than both the Hubble and James Webb space telescopes,' meaning 100 times larger than each one individually."
+      },
+      {
+        "q": "How long will the Roman telescope take to reach its final orbiting point?",
+        "options": [
+          "A: 30 minutes after launch",
+          "B: 30 days",
+          "C: 100 days",
+          "D: One year"
+        ],
+        "answer": "C",
+        "explanation": "The transcript clearly states that 'the mission begins with a 100-day journey to a vantage point roughly one million miles from Earth.'"
+      },
+      {
+        "q": "According to NASA administrator Nicky Fox, why is the study of exoplanets particularly important?",
+        "options": [
+          "A: Because exoplanets may contain valuable mineral resources.",
+          "B: Because understanding exoplanets helps explain dark energy.",
+          "C: Because one of NASA's main goals is to answer whether we are alone in the Universe.",
+          "D: Because exoplanets are closer to Earth than previously thought."
+        ],
+        "answer": "C",
+        "explanation": "Nicky Fox explicitly states, 'one of our main goals at NASA is answering the question, Are we alone in the universe?' as the primary reason for studying exoplanets."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Nancy Grace Roman Space Telescope: Expanding the Frontiers of Cosmological Research",
+    "passage": "The successful launch of NASA's Nancy Grace Roman Space Telescope in August 2026 represents a watershed moment in the history of space exploration. Departing from the Kennedy Space Center in Florida aboard a SpaceX Falcon Heavy rocket, the observatory embarked on a 100-day transit to a gravitationally stable position approximately one million miles from Earth, known as the second Lagrange point. From this vantage point, Roman will conduct its primary scientific investigations, which encompass the study of dark energy, dark matter, exoplanets, and the large-scale structure of the Universe.\n\nWhat distinguishes Roman from its illustrious predecessors — the Hubble Space Telescope and the James Webb Space Telescope — is its extraordinary wide-field imaging capability. Roman's field of view is approximately 100 times broader than that of either Hubble or Webb, enabling it to survey vast swathes of the cosmos in a fraction of the time previously required. This unprecedented panoramic perspective will allow astronomers to construct detailed statistical surveys of galaxies, stellar populations, and gravitational lensing events at a scale and speed never before achieved.\n\nOf particular scientific significance is Roman's mission to detect and characterise exoplanets — planets orbiting stars beyond our own solar system. NASA scientists project that Roman could identify tens of thousands, and potentially up to 100,000, previously unknown exoplanets during its operational lifetime. This data will prove instrumental in addressing one of science's most enduring questions: whether conditions conducive to life exist elsewhere in the Universe.\n\nThe telescope is also expected to shed light on dark energy, the enigmatic force believed to be driving the accelerating expansion of the Universe. By mapping the distribution of galaxies across billions of light-years, Roman will provide cosmologists with the most comprehensive dataset ever assembled on this elusive phenomenon, potentially transforming humanity's understanding of the cosmos and its ultimate fate.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Nancy Grace Roman Space Telescope has a field of view approximately 100 times wider than the Hubble and James Webb telescopes combined.",
+        "answer": "False",
+        "explanation": "The passage states that Roman's field of view is '100 times broader than that of either Hubble or Webb,' meaning 100 times larger than each one individually, not both combined."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Roman is expected to reach its operational orbiting position within 100 days of launch.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that Roman 'embarked on a 100-day transit to a gravitationally stable position approximately one million miles from Earth.'"
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Roman telescope was funded jointly by NASA and the European Space Agency.",
+        "answer": "Not Given",
+        "explanation": "The passage makes no mention of the European Space Agency or any details about the telescope's funding sources, so this cannot be confirmed or contradicted."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is one of the primary ways in which Roman's data on dark energy will be collected?",
+        "options": [
+          "A: By directly measuring the temperature of black holes near the telescope.",
+          "B: By mapping the distribution of galaxies across billions of light-years.",
+          "C: By analysing the atmospheric composition of nearby exoplanets.",
+          "D: By comparing images taken by Hubble and James Webb with Roman's observations."
+        ],
+        "answer": "B",
+        "explanation": "The final paragraph states that Roman will shed light on dark energy 'by mapping the distribution of galaxies across billions of light-years,' providing cosmologists with comprehensive data on this phenomenon."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a scientific achievement or discovery that you find particularly impressive or inspiring.",
+    "topic_zh": "描述一項你覺得特別令人印象深刻或鼓舞人心的科學成就或發現。",
+    "part2": {
+      "cue_card": "Describe a scientific achievement or discovery that you find particularly impressive or inspiring.\n\nYou should say:\n• What the scientific achievement or discovery is\n• When and how you first learned about it\n• Why you think it is significant or important\n\nAnd explain why you find this achievement or discovery so inspiring.",
+      "band_tips": [
+        "Use a range of sophisticated vocabulary related to science and space exploration, such as 'groundbreaking,' 'unprecedented,' 'paradigm shift,' and 'far-reaching implications,' to demonstrate lexical resource at Band 7-9 level.",
+        "Employ a variety of grammatical structures including relative clauses, conditionals, and passive constructions — for example, 'what makes this discovery so compelling is that it could fundamentally alter the way in which we perceive our place in the cosmos' — to showcase grammatical range and accuracy.",
+        "Develop your answer with personal reflection and abstract thinking, not just factual description. Discuss how this achievement made you feel, what it changed about your worldview, and what broader implications it holds for humanity, as examiners reward depth of thought and coherent discourse management."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should prioritise funding for space exploration over other scientific research areas? Why or why not?",
+        "q_zh": "你認為政府應該優先資助太空探索而非其他科學研究領域嗎？為什麼？",
+        "key_points": [
+          "Acknowledge the argument for space exploration funding by citing tangible spin-off technologies such as GPS, satellite communications, and medical imaging that have transformed everyday life.",
+          "Counter-balance with the view that pressing Earth-bound challenges — climate change, disease, food insecurity — may warrant more immediate scientific investment given their direct human impact.",
+          "Suggest a nuanced middle-ground position: strategic, diversified science funding that recognises space research as a long-term investment in human survival rather than a luxury expenditure."
+        ]
+      },
+      {
+        "q": "How important is international cooperation in advancing space science and exploration?",
+        "q_zh": "國際合作在推進太空科學與探索方面有多重要？",
+        "key_points": [
+          "Highlight that landmark achievements such as the International Space Station demonstrate how pooling resources, expertise, and financial investment across nations produces outcomes no single country could accomplish alone.",
+          "Discuss how geopolitical rivalries — such as those between the United States and China — can both hinder cooperation and stimulate competitive innovation, yielding a complex but ultimately productive dynamic.",
+          "Argue that the universal scientific questions posed by space exploration — including the search for extraterrestrial life — inherently transcend national borders, making collaborative frameworks not merely beneficial but arguably essential."
+        ]
+      },
+      {
+        "q": "Some people argue that money spent on space exploration is wasted when there are so many problems on Earth. To what extent do you agree?",
+        "q_zh": "有些人認為，當地球上存在如此多問題時，花費在太空探索上的金錢是一種浪費。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Acknowledge the moral weight of this argument by recognising that global poverty, healthcare deficits, and environmental degradation represent urgent, life-or-death priorities that compete for limited public funds.",
+          "Refute the zero-sum framing by pointing out that space science generates economic returns through technology transfer, job creation, and industries that far exceed the initial public investment.",
+          "Offer the long-term existential perspective: understanding cosmic phenomena such as asteroid trajectories, solar activity, and planetary habitability is not mere intellectual curiosity but a form of civilisational risk management."
+        ]
+      },
+      {
+        "q": "In what ways might the discovery of exoplanets change how humans think about their place in the Universe?",
+        "q_zh": "系外行星的發現可能以哪些方式改變人類對自身在宇宙中地位的看法？",
+        "key_points": [
+          "Explore the philosophical dimension: confirming that Earth-like planets are abundant could challenge long-held anthropocentric beliefs and prompt a profound cultural and spiritual reassessment of human uniqueness and significance.",
+          "Consider the scientific ramification that detecting biosignatures — chemical indicators of life — on an exoplanet would be the single most transformative discovery in human history, fundamentally redefining biology, religion, and geopolitics simultaneously.",
+          "Reflect on the psychological and societal impact: the knowledge that we may share the cosmos with other intelligent beings could foster a sense of collective human identity and solidarity, transcending national and cultural divisions."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Space exploration requires enormous financial investment, yet its benefits are often indirect and long-term. Some people believe that governments should redirect funding away from space programmes and towards solving immediate problems such as poverty, disease, and climate change. To what extent do you agree or disagree with this view?",
+    "task2_question_zh": "太空探索需要龐大的財政投入，然而其利益往往是間接且長期的。有些人認為，政府應將資金從太空計畫轉移，用於解決貧困、疾病和氣候變遷等當前迫切問題。你在多大程度上同意或不同意這一觀點？",
+    "essay_type": "opinion",
+    "useful_phrases": [
+      {
+        "phrase": "While it is undeniable that ... , it would be overly simplistic to conclude that ...",
+        "when_to_use": "Use in the introduction or a body paragraph to acknowledge a valid opposing viewpoint before presenting a more nuanced argument that challenges an either/or framing.",
+        "when_to_use_zh": "用於引言或正文段落，在承認有效的對立觀點後，提出更細緻的論點來挑戰非此即彼的框架。",
+        "example": "While it is undeniable that poverty and disease demand urgent attention, it would be overly simplistic to conclude that funding space exploration is therefore unjustifiable."
+      },
+      {
+        "phrase": "The long-term ramifications of ... cannot be overstated",
+        "when_to_use": "Use when emphasising the profound and far-reaching consequences of a scientific programme, discovery, or policy decision, particularly when arguing for its significance.",
+        "when_to_use_zh": "用於強調某項科學計畫、發現或政策決定的深遠影響，特別是在論證其重要性時。",
+        "example": "The long-term ramifications of mapping thousands of exoplanets cannot be overstated, as this data may ultimately determine whether humanity has viable refuge beyond Earth."
+      },
+      {
+        "phrase": "A compelling case can be made for ...",
+        "when_to_use": "Use to introduce a strong argument or position in a measured, academic tone, avoiding overly assertive language while still expressing a clear stance.",
+        "when_to_use_zh": "用於以學術、有節制的語氣引出一個有力的論點或立場，避免過於強硬的表達方式。",
+        "example": "A compelling case can be made for sustained investment in space science, given the transformative technological innovations it has historically generated."
+      },
+      {
+        "phrase": "Rather than viewing these as mutually exclusive priorities, ...",
+        "when_to_use": "Use when arguing against a false dichotomy, proposing that two seemingly competing concerns can both be addressed simultaneously with appropriate policy design.",
+        "when_to_use_zh": "用於反駁錯誤的二元對立，提出兩個看似相互競爭的問題可以透過適當的政策設計同時得到解決。",
+        "example": "Rather than viewing these as mutually exclusive priorities, policymakers should explore how space technology can actively contribute to solving terrestrial challenges such as climate monitoring."
+      },
+      {
+        "phrase": "It is worth considering the extent to which ...",
+        "when_to_use": "Use to introduce a nuanced analytical point or to signal that the writer is about to examine an issue from a more critical or reflective angle, demonstrating sophisticated reasoning.",
+        "when_to_use_zh": "用於引入細緻的分析觀點，或表示作者即將從更批判性或反思性的角度審視某個問題，展現高層次的推理能力。",
+        "example": "It is worth considering the extent to which the economic returns generated by space research — including GPS technology and satellite communications — already benefit society in measurable ways."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a thought-provoking statement about humanity's dual obligation — to address present suffering and to invest in its long-term future. Paraphrase the question and state a clear, partially-agreeing thesis: while the concerns raised are legitimate, completely defunding space exploration would be both short-sighted and counterproductive.",
+      "body1": "Acknowledge the strongest arguments in favour of redirecting funding: the moral urgency of global poverty, preventable disease, and accelerating climate change; the immediacy of these threats compared to the abstract nature of space science benefits; and the democratic accountability of governments to prioritise citizens' tangible well-being. Use specific examples such as malaria treatment funding or renewable energy infrastructure to ground the argument.",
+      "body2": "Argue persuasively against wholesale redirection of space funding by presenting three interconnected points: first, the documented technological spin-offs of space research — including MRI scanners, water purification systems, and solar panel efficiency improvements — directly address earthly problems; second, space-based tools such as climate satellites are indispensable for monitoring and responding to global warming; third, the potential discovery of exoplanets capable of supporting life represents an existential insurance policy for civilisation that justifies long-term investment.",
+      "conclusion": "Restate the thesis and synthesise both sides: governments should not choose between space and Earth, but rather optimise funding allocation through evidence-based policy that maximises dual returns. End with a forward-looking statement affirming that the questions posed by telescopes like Roman — about our origins, our place in the cosmos, and our future — are ultimately inseparable from the human questions we face here on Earth."
+    }
+  }
+}
