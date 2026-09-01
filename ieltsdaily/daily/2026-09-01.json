@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T07:00:30.377802Z",
+  "listening": {
+    "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+    "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A devastating flash flood struck the Nepal-China border on 26 August, destroying the Friendship Bridge and border facilities at Rasuwagadhi and Gyirong.",
+    "topic_zh": "毀滅性山洪暴發於8月26日襲擊尼泊爾-中國邊境，摧毀了友誼橋及拉蘇瓦加迪和吉隆的邊境設施。",
+    "transcript_excerpt": "On the morning of 26 August, security cameras at the Gyirong border crossing captured something that looked almost unreal. A dark wall appeared from behind the buildings — at first resembling a black cloud drifting through the valley. Within seconds, however, it revealed its true nature: a catastrophic flash flood carrying water, mud, boulders, ice and rock, surging down the narrow gorge at terrifying speed. The timestamp on the footage read 10:59:53 local time. What followed was nothing short of total destruction. The Friendship Bridge, which had long connected Nepal and China across this remote Himalayan frontier, was completely swept away. Nepal's immigration and customs facilities vanished along with it. The small trading settlement of Timure, which had grown up around the border crossing over generations, was devastated beyond recognition. Experts say this region has always been geologically vulnerable. Deep gorges channel rivers that flow at exceptionally high velocity, carrying enormous amounts of sediment and capable of transporting boulders the size of houses downstream. Hydrologist Ajay Dixit, based in Kathmandu, described the area as inherently unstable, shaped by forces of nature that have always made human settlement precarious. Yet people have crossed this route for centuries. It serves as a critical gateway for traders, pilgrims travelling to Mount Kailash, and diplomatic connections between Nepal and China. The full scale of the disaster is still being assessed, as satellite imagery slowly reveals just how much of the valley floor was erased in those few catastrophic minutes.",
+    "vocabulary": [
+      {
+        "word": "flash flood",
+        "type": "noun",
+        "definition": "A sudden and severe flood caused by heavy rainfall or a rapid release of water, typically in a short time over a localised area",
+        "definition_zh": "山洪暴發；因短時間內大量降雨或水源突然釋放而引起的急速洪水",
+        "example": "The remote mountain village was completely cut off after a flash flood destroyed the only bridge connecting it to the main road."
+      },
+      {
+        "word": "geologically vulnerable",
+        "type": "phrase",
+        "definition": "Describing an area that is at high risk of natural disasters such as landslides, earthquakes or floods due to its underlying rock structure and terrain",
+        "definition_zh": "地質脆弱；因地質結構和地形特徵而極易受到自然災害影響的地區",
+        "example": "Scientists warned that the geologically vulnerable coastline would be at increasing risk as sea levels continued to rise."
+      },
+      {
+        "word": "sediment",
+        "type": "noun",
+        "definition": "Natural material such as sand, silt, and mud that is carried and deposited by water, wind or glaciers",
+        "definition_zh": "沉積物；由水、風或冰川搬運並沉積的天然物質，如沙、泥和淤泥",
+        "example": "The river carried vast quantities of sediment downstream, gradually raising the level of the riverbed over decades."
+      },
+      {
+        "word": "surging",
+        "type": "verb",
+        "definition": "Moving suddenly and powerfully forward or upward in large quantities, typically used to describe water or crowds",
+        "definition_zh": "急湧；突然且猛烈地向前或向上大量移動，常用於描述水流或人群",
+        "example": "Floodwaters came surging through the streets within minutes of the dam breaching its banks."
+      },
+      {
+        "word": "reconstruct",
+        "type": "verb",
+        "definition": "To piece together an account or understanding of a past event using available evidence, when direct observation was not possible",
+        "definition_zh": "重建；利用現有證據拼湊出過去事件的經過，尤其是在無法直接觀察的情況下",
+        "example": "Investigators worked for weeks to reconstruct the sequence of events that led to the industrial accident."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What did the CCTV footage at Gyirong first appear to show before the flood became visible?",
+        "options": [
+          "A: A landslide of rocks tumbling down the hillside",
+          "B: A dark wall that initially resembled a black cloud",
+          "C: Crowds of people fleeing across the bridge",
+          "D: A river breaking its banks and flooding the road"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that the dark wall appearing from behind the buildings 'looks almost like a black cloud' before revealing itself as floodwater carrying mud and boulders."
+      },
+      {
+        "q": "According to hydrologist Ajay Dixit, why is the Nepal-Tibet border region especially at risk from flooding?",
+        "options": [
+          "A: It experiences the highest annual rainfall in Asia",
+          "B: Its infrastructure is poorly maintained by local authorities",
+          "C: Deep gorges and fast-moving rivers carry heavy sediment and boulders",
+          "D: Glaciers in the area are melting at an unprecedented rate"
+        ],
+        "answer": "C",
+        "explanation": "Dixit specifically describes the area as 'geologically vulnerable, characterised by deep gorges and steep rivers that flow at high velocity, carry heavy sediment and can bring down huge boulders,' matching option C precisely."
+      },
+      {
+        "q": "Which important structure connecting Nepal and China was destroyed in the flood?",
+        "options": [
+          "A: The Kathmandu-Tibet Highway tunnel",
+          "B: The Rasuwa Mountain Railway Bridge",
+          "C: The Friendship Bridge",
+          "D: The Gyirong Trade Checkpoint Gate"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that 'The Friendship Bridge linking Nepal and China was swept away,' making option C the correct answer."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Flash Floods and Geological Hazards in the Himalayan Border Region",
+    "passage": "The catastrophic flash flood that struck the Nepal-China border on 26 August serves as a stark reminder of the extreme geological hazards inherent to the Himalayan region. The event, which devastated the border crossing at Rasuwagadhi in Nepal and Gyirong on the Chinese side, unfolded with terrifying speed, leaving little opportunity for organised evacuation or protective response.\n\nThe Himalayas represent one of the world's youngest and most tectonically active mountain ranges. Formed by the ongoing collision between the Indian and Eurasian tectonic plates, the region is characterised by steep gradients, narrow gorges and highly erodible rock formations. Rivers flowing through these valleys accumulate enormous kinetic energy over short distances, making them capable of transporting not merely water and fine sediment but also massive boulders that can act as battering rams against any infrastructure in their path.\n\nGlacial lake outburst floods, commonly abbreviated as GLOFs, represent a particularly significant threat in this region. As climate change accelerates glacial retreat across the Himalayas, meltwater accumulates behind natural dams of ice and moraine. When these barriers fail — often with little warning — they release enormous volumes of water in a matter of minutes. Scientists have documented a substantial increase in the number and size of glacial lakes across the Tibetan Plateau and the Nepalese highlands over recent decades, correspondingly elevating the risk of catastrophic outburst events.\n\nThe destruction of the Friendship Bridge and the border facilities at Rasuwagadhi has significant geopolitical and economic implications. This crossing serves as a vital corridor for bilateral trade between Nepal and China, as well as a route for pilgrims travelling to the sacred site of Mount Kailash. The rebuilding process is expected to be both technically challenging and costly, given the remoteness of the location and the persistent geological instability of the surrounding terrain. Experts advocate for comprehensive hazard mapping and early warning systems as essential tools for reducing future losses in similarly vulnerable border zones.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The flash flood at the Nepal-China border on 26 August gave local residents sufficient time to evacuate safely before impact.",
+        "answer": "False",
+        "explanation": "The passage states the event 'unfolded with terrifying speed, leaving little opportunity for organised evacuation or protective response,' directly contradicting the idea that residents had sufficient warning time."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Glacial lake outburst floods in the Himalayan region are becoming more likely due to accelerating glacial retreat caused by climate change.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that 'as climate change accelerates glacial retreat across the Himalayas, meltwater accumulates behind natural dams' and that scientists have documented increased glacial lake sizes, 'correspondingly elevating the risk of catastrophic outburst events.'"
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Nepalese government had installed an early warning system along the Rasuwagadhi river corridor prior to the August flood.",
+        "answer": "Not Given",
+        "explanation": "While the passage recommends early warning systems as a future measure, it makes no reference to whether such a system existed or was in place before the flood occurred at Rasuwagadhi."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what makes rivers in the Himalayan region capable of transporting massive boulders?",
+        "options": [
+          "A: The exceptionally high volume of annual rainfall feeding the rivers",
+          "B: The steep gradients and narrow gorges that allow rivers to accumulate enormous kinetic energy",
+          "C: The presence of glacial ice that increases the density and force of the water",
+          "D: The deliberate engineering of river channels to increase water flow speed"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'rivers flowing through these valleys accumulate enormous kinetic energy over short distances' due to 'steep gradients, narrow gorges and highly erodible rock formations,' making option B the correct and complete answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a natural disaster or extreme weather event that had a significant impact on a community",
+    "topic_zh": "描述一場對某個社區產生重大影響的自然災害或極端天氣事件",
+    "part2": {
+      "cue_card": "Describe a natural disaster or extreme weather event that had a significant impact on a community.\n\nYou should say:\n• What the disaster was and where it occurred\n• When it happened and how it unfolded\n• What damage or destruction it caused to the community\n• And explain how people and authorities responded to the event\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use vivid, specific vocabulary to describe the sequence of events — words like 'catastrophic,' 'devastating,' 'surging,' and 'unfolded' signal a wide lexical range to the examiner and push your score toward Band 8.",
+        "Organise your response clearly by moving through a logical timeline: before the disaster, the moment of impact, immediate aftermath, and longer-term consequences. This demonstrates coherence and cohesion without sounding mechanical.",
+        "Incorporate speculative or evaluative language in your conclusion — for example, 'What struck me most was...' or 'I believe events like this force us to reconsider...' — to show the complex sentence structures and abstract thinking associated with Band 7 and above."
+      ]
+    },
+    "part3": [
+      {
+        "q": "How well do you think governments in developing countries are prepared for natural disasters?",
+        "q_zh": "您認為發展中國家的政府在應對自然災害方面準備得如何？",
+        "key_points": [
+          "Many developing nations lack the financial resources to invest in sophisticated early warning systems and resilient infrastructure, leaving vulnerable communities exposed to preventable losses",
+          "Institutional capacity and inter-agency coordination are often underdeveloped, meaning that even when warnings are issued, the logistical response can be slow and poorly organised",
+          "International aid and knowledge-sharing frameworks, such as those facilitated by the UN's Sendai Framework for Disaster Risk Reduction, can partially compensate for national resource gaps, though dependency on external support has its own limitations"
+        ]
+      },
+      {
+        "q": "To what extent do you think climate change is responsible for increasing the frequency and severity of natural disasters?",
+        "q_zh": "您認為氣候變化在多大程度上導致自然災害的頻率和嚴重性增加？",
+        "key_points": [
+          "The scientific consensus strongly links rising global temperatures to increased frequency of extreme weather events, including intensified rainfall that triggers flash floods and landslides in mountainous regions",
+          "Climate change accelerates glacial melting across high-altitude regions such as the Himalayas, directly elevating the risk of glacial lake outburst floods that can devastate downstream communities with almost no warning",
+          "However, some scientists caution that attributing individual events solely to climate change oversimplifies the issue, since geological factors, land-use changes and population growth in hazard-prone areas also significantly amplify disaster risk"
+        ]
+      },
+      {
+        "q": "What role should international cooperation play in disaster prevention and relief efforts?",
+        "q_zh": "國際合作在災害預防和救援工作中應扮演什麼角色？",
+        "key_points": [
+          "Cross-border disasters, such as floods affecting both Nepal and China simultaneously, demonstrate that natural hazards do not respect political boundaries and therefore require coordinated bilateral or multilateral monitoring and response mechanisms",
+          "Wealthier nations and international organisations can provide not only financial aid but also technical expertise, satellite monitoring capabilities and logistical support that smaller, less resourced countries cannot independently generate",
+          "Long-term capacity building — training local engineers, establishing regional early warning networks and sharing climate data — is arguably more valuable than reactive emergency aid, as it empowers communities to protect themselves proactively"
+        ]
+      },
+      {
+        "q": "How can urban planners and engineers reduce the impact of natural disasters on communities living in geologically hazardous areas?",
+        "q_zh": "城市規劃師和工程師如何減少自然災害對居住在地質危險地區的社區的影響？",
+        "key_points": [
+          "Rigorous hazard mapping using satellite imagery, geological surveys and historical flood data can identify high-risk zones and inform strict land-use regulations that prevent settlement or construction in the most vulnerable areas",
+          "Engineers can design flood-resilient infrastructure, such as reinforced bridges with higher clearance, flexible foundations and sacrificial barriers, that can withstand or deflect the forces generated by flash floods and debris flows",
+          "Community-level education and preparedness programmes are equally critical, as even the most sophisticated physical infrastructure cannot fully protect populations who are unaware of evacuation routes, warning signals or appropriate emergency responses"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Natural disasters such as floods, landslides and earthquakes are becoming increasingly destructive, particularly in developing regions. Some people argue that governments should prioritise investment in disaster prevention infrastructure, while others believe that improving emergency response and relief systems is more important. Discuss both views and give your own opinion.",
+    "task2_question_zh": "洪水、山體滑坡和地震等自然災害造成的破壞日益嚴重，尤其是在發展中地區。一些人認為政府應優先投資於災害預防基礎設施，而另一些人則認為改善緊急應對和救援系統更為重要。討論兩種觀點並給出您自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "The scale of destruction wrought by...",
+        "when_to_use": "Use in your introduction or body paragraph to emphasise the severity of a disaster or problem before introducing your argument",
+        "when_to_use_zh": "用於引言或主體段落，在提出論點前強調某一災害或問題的嚴重程度",
+        "example": "The scale of destruction wrought by the Himalayan flash floods underscores the urgent need for comprehensive hazard prevention strategies."
+      },
+      {
+        "phrase": "Proponents of this view argue that...",
+        "when_to_use": "Use to introduce and fairly represent one side of a discussion argument before contrasting it with the opposing perspective",
+        "when_to_use_zh": "用於引入並公正呈現討論中的一方觀點，然後再與對立觀點形成對比",
+        "example": "Proponents of this view argue that investing in early warning systems yields far greater returns than spending equivalent sums on post-disaster reconstruction."
+      },
+      {
+        "phrase": "While this perspective has considerable merit, it overlooks the fact that...",
+        "when_to_use": "Use to acknowledge a valid argument before introducing a counterargument or complication, demonstrating balanced critical thinking",
+        "when_to_use_zh": "用於承認一個有效論點後引入反駁或複雜因素，展示平衡的批判性思維",
+        "example": "While this perspective has considerable merit, it overlooks the fact that prevention measures alone cannot eliminate the risk posed by sudden geological events."
+      },
+      {
+        "phrase": "The evidence strongly suggests that a dual approach — encompassing both... and... — is most effective in...",
+        "when_to_use": "Use in your conclusion or opinion paragraph to advocate for a balanced, integrated solution rather than an either-or position",
+        "when_to_use_zh": "用於結論或觀點段落，主張平衡整合的解決方案而非非此即彼的立場",
+        "example": "The evidence strongly suggests that a dual approach — encompassing both structural prevention and rapid-response capability — is most effective in minimising disaster-related losses."
+      },
+      {
+        "phrase": "It is worth noting that in geologically vulnerable regions...",
+        "when_to_use": "Use to introduce context-specific qualifications or nuances that distinguish high-risk environments from general cases",
+        "when_to_use_zh": "用於引入特定情境的限定條件或細微差別，將高風險環境與一般情況區分開來",
+        "example": "It is worth noting that in geologically vulnerable regions, even state-of-the-art infrastructure may prove insufficient against extreme natural forces without equally robust community preparedness."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a striking reference to the increasing frequency and impact of natural disasters globally, particularly in mountainous developing regions. Paraphrase the question accurately and present a clear thesis stating that while both prevention and response are essential, effective disaster management requires a strategically balanced investment in both approaches rather than prioritising one exclusively.",
+      "body1": "Present and analyse the case for prioritising disaster prevention infrastructure. Argue that early warning systems, hazard-resistant construction, land-use regulation and geological monitoring address the root causes of vulnerability before disaster strikes. Use evidence such as reduced casualties in countries with robust flood forecasting networks to support the argument. Acknowledge the higher upfront cost but argue that prevention is economically and humanistically more efficient in the long run.",
+      "body2": "Present and evaluate the argument for prioritising emergency response and relief systems. Concede that in regions of extreme geological volatility — such as the Himalayas — no infrastructure can fully eliminate risk, meaning rapid and effective post-disaster response is indispensable. Discuss the importance of trained rescue teams, supply chains, field hospitals and international coordination. Then introduce your own opinion: that the most resilient societies invest proportionally in both pillars, using prevention to reduce frequency and impact while maintaining strong response capacity for residual unavoidable events.",
+      "conclusion": "Restate your balanced position clearly without introducing new arguments. Emphasise that for developing nations in high-risk zones, external support from international partners and organisations is critical to achieving the dual investment required. End with a forward-looking statement about the role of climate adaptation strategies in reshaping how governments across the world plan for increasingly severe natural hazards."
+    }
+  }
+}
