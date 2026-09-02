@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T06:39:12.468705Z",
+  "listening": {
+    "title": "Watch: Astronauts set out on rare all-female spacewalk",
+    "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Two female astronauts completed only the sixth all-female spacewalk in history outside the International Space Station in a landmark moment for gender representation in space exploration.",
+    "topic_zh": "兩名女性太空人在國際太空站外完成了歷史上第六次全女性太空漫步，這是性別平等在太空探索領域的重要里程碑。",
+    "transcript_excerpt": "For only the sixth time in the history of human spaceflight, two women have stepped outside the International Space Station together to conduct a spacewalk. NASA astronaut Jessica Meir and French astronaut Sophie Adenot suited up in their extravehicular mobility units — the highly technical spacesuits designed to protect astronauts from the extreme conditions of outer space — before embarking on a demanding six-and-a-half-hour mission. During the spacewalk, Meir rode the station's Canadarm2 robotic arm, a sophisticated piece of engineering that allows astronauts to travel between worksites on the exterior of the station, while Adenot remained tethered securely to the structure to prevent drifting into space. This milestone event was particularly meaningful for Meir, who previously made history back in 2019 alongside fellow NASA astronaut Christina Koch when the pair became the first women ever to complete an all-female spacewalk. The recent mission marked the 284th spacewalk conducted in support of the space station's ongoing assembly, maintenance, and upgrades, and the seventh such outing of the current year. Scientists and space agencies worldwide have celebrated this achievement as a powerful symbol of progress in creating a more inclusive and diverse environment within the field of space exploration.",
+    "vocabulary": [
+      {
+        "word": "spacewalk",
+        "type": "noun",
+        "definition": "An activity in which an astronaut moves and works outside a spacecraft while in space, also known as an extravehicular activity (EVA)",
+        "definition_zh": "太空漫步；太空人在太空船外活動的行為，又稱艙外活動",
+        "example": "The astronaut's first spacewalk lasted over seven hours and required months of underwater training."
+      },
+      {
+        "word": "tethered",
+        "type": "adjective",
+        "definition": "Fastened or connected to something with a rope or cable in order to prevent free movement or drifting away",
+        "definition_zh": "被繫住的；用繩索或纜線固定以防飄走的",
+        "example": "The diver remained tethered to the boat by a safety line throughout the expedition."
+      },
+      {
+        "word": "milestone",
+        "type": "noun",
+        "definition": "An important event or achievement that marks a significant stage in a process or development",
+        "definition_zh": "里程碑；標誌重要發展階段的重大事件或成就",
+        "example": "Winning the Nobel Prize was a milestone in her extraordinary scientific career."
+      },
+      {
+        "word": "extravehicular",
+        "type": "adjective",
+        "definition": "Relating to or taking place outside a vehicle, especially a spacecraft, used most commonly in the context of space exploration",
+        "definition_zh": "艙外的；指在太空船外部進行的活動",
+        "example": "The crew spent weeks rehearsing extravehicular procedures in NASA's underwater training facility."
+      },
+      {
+        "word": "assembly",
+        "type": "noun",
+        "definition": "The process of fitting together the parts of a complex structure or machine, or the structure itself when brought together",
+        "definition_zh": "組裝；拼合複雜結構各部分的過程",
+        "example": "The assembly of the International Space Station involved contributions from sixteen different nations."
+      }
+    ],
+    "questions": [
+      {
+        "q": "How long did the all-female spacewalk conducted by Jessica Meir and Sophie Adenot last?",
+        "options": [
+          "A: 5 hours",
+          "B: 6.5 hours",
+          "C: 7 hours",
+          "D: 8 hours"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that the spacewalk lasted 6.5 hours, making B the correct answer."
+      },
+      {
+        "q": "What was Jessica Meir's role during the spacewalk described in the episode?",
+        "options": [
+          "A: She remained tethered to the station at all times",
+          "B: She operated the space station's control systems from inside",
+          "C: She rode the Canadarm2 robotic arm to reach worksites",
+          "D: She monitored Sophie Adenot's movements from a distance"
+        ],
+        "answer": "C",
+        "explanation": "The text explicitly states that Meir rode the station's Canadarm2 robotic arm to the worksites, while Adenot remained tethered."
+      },
+      {
+        "q": "Which of the following statements best describes the historical significance of this spacewalk?",
+        "options": [
+          "A: It was the first ever spacewalk conducted outside the ISS",
+          "B: It was the first time a French astronaut had performed a spacewalk",
+          "C: It was only the sixth all-female spacewalk in the history of spaceflight",
+          "D: It was the 300th spacewalk in support of the space station"
+        ],
+        "answer": "C",
+        "explanation": "The passage states this was only the sixth time in history that two women completed a spacewalk together, confirming answer C."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Gender Milestones in Space Exploration: The Rise of Women in Extravehicular Activity",
+    "passage": "The history of human spaceflight has been punctuated by landmark achievements that reflect not only technological progress but also the evolving social landscape of the societies that pursue exploration beyond Earth's atmosphere. Among the most symbolically significant of these milestones has been the gradual inclusion and recognition of women in roles that were historically dominated by men, particularly in the physically demanding and highly technical domain of extravehicular activity, commonly known as spacewalking.\n\nIn October 2019, NASA astronauts Jessica Meir and Christina Koch made history by conducting the first all-female spacewalk, a six-hour mission focused on replacing a failed battery charge and discharge unit on the exterior of the International Space Station. This achievement came decades after women first began participating in NASA's astronaut programme, highlighting how slowly institutional change can unfold even within forward-thinking scientific organisations.\n\nMore recently, Meir joined French astronaut Sophie Adenot for what became only the sixth all-female spacewalk in history, a 6.5-hour mission that represented the 284th spacewalk conducted in support of the station's assembly, maintenance, and ongoing upgrades. During the mission, Meir utilised the Canadarm2, a sophisticated robotic arm jointly developed by the Canadian Space Agency, to navigate between worksites on the station's exterior, while Adenot remained securely tethered to the structure.\n\nProponents of gender diversity in space exploration argue that increasing female representation sends a powerful message to younger generations about the accessibility of careers in science, technology, engineering, and mathematics. Critics, however, caution against viewing such achievements merely through a symbolic lens, emphasising instead the importance of systemic policy changes within space agencies to ensure equitable recruitment, training, and mission assignment practices. Regardless of one's perspective, these missions unquestionably represent meaningful steps forward in the broader project of making space exploration a truly inclusive human endeavour.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Jessica Meir has participated in more than one all-female spacewalk during her career.",
+        "answer": "True",
+        "explanation": "The passage states that Meir was involved in the first all-female spacewalk in 2019 with Christina Koch, and subsequently conducted another all-female spacewalk with Sophie Adenot, confirming she has participated in at least two."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Canadarm2 robotic arm was developed exclusively by NASA engineers in the United States.",
+        "answer": "False",
+        "explanation": "The passage clearly states the Canadarm2 was jointly developed by the Canadian Space Agency, not exclusively by NASA, making this statement false."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Sophie Adenot had previously conducted a spacewalk before her mission with Jessica Meir.",
+        "answer": "Not Given",
+        "explanation": "The passage provides no information about whether Adenot had previously participated in any spacewalk, so this cannot be confirmed or denied based on the text alone."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what do critics of the gender diversity narrative in space exploration argue?",
+        "options": [
+          "A: Women should not be assigned to physically demanding spacewalks",
+          "B: Symbolic achievements are less important than structural policy reforms within space agencies",
+          "C: The International Space Station should prioritise scientific missions over political ones",
+          "D: Female astronauts lack sufficient training compared to their male counterparts"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that critics caution against viewing achievements merely through a symbolic lens and emphasise the importance of systemic policy changes for equitable practices, which corresponds directly to answer B."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a significant achievement by a woman that inspired you",
+    "topic_zh": "描述一位女性的重大成就，這個成就對你有所啟發",
+    "part2": {
+      "cue_card": "Describe a significant achievement by a woman that inspired you.\n\nYou should say:\n• who this woman is and what she achieved\n• when and where this achievement took place\n• why this achievement was considered significant or groundbreaking\n• and explain how this achievement inspired or influenced you personally.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of complex grammatical structures such as relative clauses, conditionals, and passive voice to demonstrate syntactic flexibility and achieve a higher band score.",
+        "Incorporate topic-specific vocabulary naturally, for example words like 'groundbreaking', 'pioneering', 'milestone', and 'trailblazer', to show lexical sophistication without sounding rehearsed or artificial.",
+        "Develop your personal response genuinely by linking the achievement to your own aspirations or values, as examiners reward depth of reflection and coherent thematic development throughout your response."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think gender diversity in science and technology fields has improved significantly over recent decades?",
+        "q_zh": "你認為近幾十年來，科學與科技領域的性別多元化是否有顯著改善？",
+        "key_points": [
+          "Acknowledge measurable progress such as increased female enrolment in STEM university programmes and greater representation in research roles, while noting persistent gaps at leadership levels",
+          "Discuss structural barriers that continue to hinder progress, including unconscious bias in hiring, lack of mentorship networks for women, and the underrepresentation of female role models in textbooks and media",
+          "Consider regional and cultural variations, noting that progress has been uneven globally, with some societies making significant strides while others still face deeply entrenched gender norms that discourage women from pursuing scientific careers"
+        ]
+      },
+      {
+        "q": "Some people argue that highlighting gender in achievements such as the all-female spacewalk is counterproductive. To what extent do you agree?",
+        "q_zh": "有人認為，在強調成就時突出性別，例如全女性太空漫步，是適得其反的。你在多大程度上同意這個觀點？",
+        "key_points": [
+          "Present the counterargument that overemphasising gender risks reducing complex professional achievements to identity markers, potentially undermining the individuals involved by implying their gender rather than their competence defines the significance of their work",
+          "Argue conversely that in contexts of historical exclusion, explicitly naming gender representation serves a vital social function by making achievement visible and inspiring underrepresented groups who may otherwise feel excluded from such fields",
+          "Offer a nuanced balanced position by suggesting that the framing of gender significance should evolve over time, becoming less necessary as true equality of opportunity and representation is established within institutions"
+        ]
+      },
+      {
+        "q": "How important are role models in encouraging young people to pursue careers in space exploration or scientific research?",
+        "q_zh": "榜樣對於鼓勵年輕人追求太空探索或科學研究職業有多重要？",
+        "key_points": [
+          "Emphasise the psychological principle of aspirational identification, whereby young people are significantly more likely to pursue a path when they can see someone who shares their background, gender, or ethnicity succeeding in that field",
+          "Discuss the role of media representation and education in amplifying the influence of role models, noting that astronauts who receive widespread media coverage can inspire millions of children simultaneously in ways that individual mentors cannot",
+          "Acknowledge the limitations of role models alone, arguing that systemic supports such as accessible education, financial scholarships, and inclusive institutional cultures are equally essential to translating inspiration into actual career participation"
+        ]
+      },
+      {
+        "q": "Should governments invest more public funding in space exploration, or should those resources be redirected to address pressing issues on Earth?",
+        "q_zh": "政府是否應該在太空探索上投入更多公共資金，還是應該將這些資源重新用於解決地球上的緊迫問題？",
+        "key_points": [
+          "Defend investment in space exploration by citing its practical spin-off benefits including advances in medicine, telecommunications, climate monitoring, and materials science that have directly improved quality of life on Earth",
+          "Present the opposing view that with urgent global challenges such as climate change, food insecurity, and public health crises demanding immediate attention and resources, diverting significant public funds to space programmes may reflect misaligned governmental priorities",
+          "Propose a reconciled position suggesting that space investment and social spending are not mutually exclusive, and that international cooperation through bodies like the United Nations can distribute the costs and benefits of space exploration more equitably across nations"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "In recent years, the number of women participating in space exploration has increased significantly. Some people believe that achieving gender equality in fields such as space science is largely a symbolic gesture, while others argue it brings genuine practical benefits to society. Discuss both views and give your own opinion.",
+    "task2_question_zh": "近年來，參與太空探索的女性人數顯著增加。一些人認為，在太空科學等領域實現性別平等在很大程度上是象徵性的姿態，而另一些人則認為這為社會帶來了真正的實際利益。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "It is widely acknowledged that",
+        "when_to_use": "Use to introduce a broadly accepted viewpoint or established fact before developing your argument further",
+        "when_to_use_zh": "用於在進一步發展論點之前，引入一個被廣泛認可的觀點或既定事實",
+        "example": "It is widely acknowledged that increasing diversity within scientific institutions leads to a broader range of perspectives and more innovative research outcomes."
+      },
+      {
+        "phrase": "Proponents of this view contend that",
+        "when_to_use": "Use to introduce the supporting arguments of a particular position, especially when presenting the side you may not personally agree with",
+        "when_to_use_zh": "用於介紹某一特定立場的支持論點，尤其是在呈現你可能不完全同意的一方時",
+        "example": "Proponents of this view contend that symbolic milestones, while emotionally resonant, do little to address the structural inequalities that prevent women from entering STEM careers in the first place."
+      },
+      {
+        "phrase": "On the other hand, it can be argued that",
+        "when_to_use": "Use to introduce a contrasting perspective or counterargument after presenting one side of the debate",
+        "when_to_use_zh": "用於在呈現辯論的一方之後，引入對比觀點或反駁論點",
+        "example": "On the other hand, it can be argued that high-profile achievements by female astronauts create aspirational role models that meaningfully influence the career choices of young women worldwide."
+      },
+      {
+        "phrase": "The evidence suggests that",
+        "when_to_use": "Use when referring to research, data, or observable trends to lend authority and objectivity to your argument",
+        "when_to_use_zh": "用於參考研究、數據或可觀察趨勢，為你的論點增添權威性和客觀性",
+        "example": "The evidence suggests that countries with higher female participation in scientific research demonstrate greater innovation output and more comprehensive approaches to complex global challenges."
+      },
+      {
+        "phrase": "In light of the above considerations",
+        "when_to_use": "Use in the conclusion to signal that your final opinion or recommendation is drawn from the arguments presented throughout the essay",
+        "when_to_use_zh": "用於結論部分，表示你的最終觀點或建議是根據整篇文章中呈現的論點得出的",
+        "example": "In light of the above considerations, it becomes clear that gender equality in space exploration is neither purely symbolic nor exclusively practical, but rather a multifaceted development with far-reaching implications for society as a whole."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the debate with a brief reference to the growing presence of women in space exploration, paraphrase the question to demonstrate understanding, then clearly state that the essay will examine both perspectives before presenting your own balanced opinion.",
+      "body1": "Present the argument that gender equality in space exploration is primarily symbolic by explaining that individual milestone achievements do not automatically dismantle structural barriers, may serve political agendas rather than scientific ones, and risk being used as a substitute for deeper institutional reform within space agencies and educational systems.",
+      "body2": "Counter by arguing that gender diversity in space exploration delivers concrete practical benefits, including the introduction of diverse cognitive approaches that enhance problem-solving, the creation of widely visible role models that measurably increase female participation in STEM education, and the development of more inclusive institutional cultures that improve overall organisational performance and innovation.",
+      "conclusion": "Restate your position that while symbolic value should not be dismissed, the genuine practical benefits of gender diversity in space exploration are more substantial and therefore more deserving of emphasis; urge space agencies and governments to pursue systemic policy changes that transform symbolic milestones into lasting structural equality."
+    }
+  }
+}
