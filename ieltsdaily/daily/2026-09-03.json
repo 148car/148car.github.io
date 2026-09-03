@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T06:41:22.106960Z",
+  "listening": {
+    "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+    "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UN warns that an exceptionally powerful El Niño weather phenomenon is pushing the world into a danger zone of extreme weather events.",
+    "topic_zh": "聯合國警告，一個異常強烈的聖嬰現象正將全球推入極端天氣的危險區域。",
+    "transcript_excerpt": "The world's top meteorological agencies are sounding the alarm over what could be the most powerful El Niño event in over seven decades. UN Secretary-General António Guterres described the situation in stark terms, saying the planet has entered a danger zone of extreme weather. The World Meteorological Organization, or WMO, has released alarming data suggesting this El Niño could last until at least February 2027, making it not only exceptionally strong but also unusually prolonged. El Niño is a natural climate phenomenon originating in the Pacific Ocean, where warming sea surface temperatures disrupt weather patterns across the globe. Some regions face devastating droughts, while others are battered by intense typhoons, flooding, and landslides. What makes this event particularly concerning is that it is unfolding against a backdrop of human-induced climate change, which is already pushing global temperatures to record highs. Scientists warn these two forces are combining to create conditions the world has simply never experienced before. Guterres put it bluntly: El Niño is being supersized before our eyes, and the planet is in uncharted waters. In response, governments and international agencies are scrambling to prepare. Early warning systems have been upgraded, pre-emptive medical assistance is being deployed, and the WMO has launched a major mobilisation effort to reach as many vulnerable communities as possible with accurate forecasts before disaster strikes.",
+    "vocabulary": [
+      {
+        "word": "supersized",
+        "type": "adjective",
+        "definition": "made significantly larger or more extreme than what is considered normal or expected",
+        "definition_zh": "超大規模的；異常強烈的",
+        "example": "Scientists fear a supersized storm season could overwhelm emergency response systems."
+      },
+      {
+        "word": "uncharted waters",
+        "type": "phrase",
+        "definition": "a situation or set of circumstances that is completely new, unknown, and without precedent",
+        "definition_zh": "未知領域；前所未有的處境",
+        "example": "The rapid pace of technological change has led humanity into uncharted waters."
+      },
+      {
+        "word": "pre-emptive",
+        "type": "adjective",
+        "definition": "taken as a precautionary measure before a problem or harmful event occurs, in order to prevent or minimise damage",
+        "definition_zh": "預防性的；先發制人的",
+        "example": "The government took pre-emptive action by evacuating coastal communities before the hurricane made landfall."
+      },
+      {
+        "word": "displacement",
+        "type": "noun",
+        "definition": "the forced movement of people from their homes or regions, typically due to conflict, natural disaster, or environmental change",
+        "definition_zh": "流離失所；被迫遷移",
+        "example": "The flooding caused widespread displacement, with thousands of families forced to seek shelter in temporary camps."
+      },
+      {
+        "word": "mobilisation",
+        "type": "noun",
+        "definition": "the process of organising and preparing people, resources, or systems for a specific large-scale purpose or response",
+        "definition_zh": "動員；調度",
+        "example": "The charity announced a major mobilisation of volunteers to distribute food and medicine to affected areas."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the episode, how long could the current El Niño event last?",
+        "options": [
+          "A: Until the end of 2025",
+          "B: Until at least February 2027",
+          "C: For approximately six months",
+          "D: Until the early 2030s"
+        ],
+        "answer": "B",
+        "explanation": "The World Meteorological Organization's data indicates that this El Niño could last until at least February 2027, making it an exceptionally prolonged event."
+      },
+      {
+        "q": "What does UN Secretary-General António Guterres mean when he says El Niño is being 'supersized'?",
+        "options": [
+          "A: That El Niño is moving faster across the Pacific than normal",
+          "B: That El Niño affects more ocean species than previous events",
+          "C: That El Niño is becoming far more extreme and powerful than typical events",
+          "D: That El Niño is primarily caused by industrial pollution"
+        ],
+        "answer": "C",
+        "explanation": "Guterres uses the term 'supersized' to convey that this El Niño event is reaching a scale of intensity and impact far beyond what would normally be expected, compounded by climate change."
+      },
+      {
+        "q": "Which of the following measures is mentioned as part of the global response to El Niño?",
+        "options": [
+          "A: Reducing greenhouse gas emissions by 50% immediately",
+          "B: Strengthening early warning systems and deploying pre-emptive medical assistance",
+          "C: Building sea walls along all Pacific coastlines",
+          "D: Relocating vulnerable populations to inland cities permanently"
+        ],
+        "answer": "B",
+        "explanation": "The episode explicitly states that early warning systems have been strengthened and pre-emptive medical assistance has been deployed as part of the global response effort."
+      }
+    ]
+  },
+  "reading": {
+    "title": "El Niño: A Supercharged Climate Phenomenon in a Warming World",
+    "passage": "The emergence of an exceptionally powerful El Niño event has prompted urgent warnings from leading international scientific and governmental bodies. The World Meteorological Organization, a specialised agency of the United Nations, has characterised the current phenomenon as potentially the strongest on record in more than seven decades, with projections suggesting it could persist until at least early 2027. These findings have intensified global concern about the compounding effects of natural climate variability and anthropogenic climate change.\n\nEl Niño is a periodic and naturally occurring climate phenomenon driven by the warming of sea surface temperatures in the central and eastern tropical Pacific Ocean. This warming disrupts the atmospheric circulation patterns that govern weather systems worldwide. The consequences are far-reaching and asymmetric: while certain regions experience prolonged and severe drought conditions that threaten agricultural output and freshwater supplies, others face dramatically intensified precipitation, leading to catastrophic flooding, landslides, and the strengthening of tropical cyclones.\n\nWhat distinguishes the current El Niño from historical predecessors is the context in which it is occurring. The baseline global temperature has already been elevated substantially by decades of fossil fuel combustion and deforestation, meaning that El Niño's warming impulse is superimposed upon an already anomalously warm climate system. Scientists and policymakers alike describe this convergence as placing the planet in genuinely uncharted territory.\n\nIn response, international agencies have undertaken coordinated preparedness efforts. The WMO has prioritised the dissemination of high-resolution forecasts to vulnerable communities, while national governments have invested in upgraded early warning infrastructure and pre-positioned emergency medical and humanitarian resources. Nevertheless, experts caution that the scale of socioeconomic disruption—ranging from food insecurity to mass displacement—may exceed the adaptive capacity of the world's most vulnerable nations, underscoring the urgent need for sustained international climate cooperation.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The current El Niño event is projected by the WMO to be the most powerful ever recorded in human history.",
+        "answer": "False",
+        "explanation": "The passage states it could be the strongest in more than seven decades, not the strongest ever recorded in all of human history. This is a subtle but important distinction."
+      },
+      {
+        "type": "TFNG",
+        "statement": "El Niño produces identical weather outcomes across all regions of the world simultaneously.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that El Niño's consequences are 'asymmetric,' with some regions experiencing drought while others face flooding and stronger storms, indicating highly varied regional impacts."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The WMO has specifically targeted its forecasting dissemination efforts towards communities considered most at risk.",
+        "answer": "True",
+        "explanation": "The passage directly states that the WMO 'prioritised the dissemination of high-resolution forecasts to vulnerable communities,' confirming this statement as accurate."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what makes the current El Niño particularly dangerous compared to previous events?",
+        "options": [
+          "A: It originated in a different part of the Pacific Ocean than usual",
+          "B: It is occurring alongside already elevated global temperatures caused by human activity",
+          "C: It has triggered more powerful earthquakes and volcanic eruptions than past events",
+          "D: It has caused international governments to reduce their climate budgets"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly explains that the current El Niño is superimposed upon a climate system already warmed by anthropogenic factors such as fossil fuel combustion and deforestation, making its combined impact uniquely severe."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a natural disaster or extreme weather event that had a significant impact on people.",
+    "topic_zh": "描述一個對人們產生重大影響的自然災害或極端天氣事件。",
+    "part2": {
+      "cue_card": "Describe a natural disaster or extreme weather event that had a significant impact on people.\n\nYou should say:\n• what the event was and where it took place\n• when it occurred and how long it lasted\n• what effects it had on the people and environment affected\n\nAnd explain why you think this event was particularly significant or memorable.",
+      "band_tips": [
+        "Use a range of sophisticated vocabulary related to climate and disaster, such as 'catastrophic flooding,' 'widespread displacement,' and 'long-term environmental degradation,' to demonstrate lexical range at Band 7-9 level.",
+        "Employ a variety of grammatical structures, including conditionals ('Had early warning systems been in place, casualties might have been significantly reduced') and passive constructions, to showcase grammatical accuracy and complexity.",
+        "Organise your response with a clear narrative arc—set the scene vividly, describe the unfolding disaster with specific details, and then reflect thoughtfully on its broader significance to demonstrate coherent discourse management."
+      ]
+    },
+    "part3": [
+      {
+        "q": "How effective do you think international organisations like the UN are in responding to global climate crises?",
+        "q_zh": "您認為像聯合國這樣的國際組織在應對全球氣候危機方面有多有效？",
+        "key_points": [
+          "Acknowledge the genuine strengths of international bodies, such as coordinating data sharing, mobilising resources across borders, and providing early warning systems that individual nations could not maintain alone.",
+          "Critically evaluate limitations, including the challenge of enforcing binding agreements, the disparity between wealthy and developing nations' ability to implement recommendations, and the slow pace of bureaucratic decision-making during fast-moving emergencies.",
+          "Argue that international organisations are most effective when they complement rather than replace strong national-level governance and community-based preparedness initiatives."
+        ]
+      },
+      {
+        "q": "Do you believe that wealthier nations have a greater responsibility to help poorer countries cope with extreme weather events? Why or why not?",
+        "q_zh": "您是否認為富裕國家有更大的責任幫助較貧窮的國家應對極端天氣事件？為什麼？",
+        "key_points": [
+          "Support the argument by referencing the principle of common but differentiated responsibilities—wealthier nations have historically contributed far more to greenhouse gas emissions yet vulnerable low-income countries bear a disproportionate share of climate impacts.",
+          "Consider the counterargument that all nations face climate threats and each government is primarily accountable to its own citizens, raising questions about the political feasibility of sustained foreign climate aid.",
+          "Explore middle-ground positions such as technology transfer, capacity building, and multilateral climate finance mechanisms like the Loss and Damage Fund as practical pathways for sharing responsibility equitably."
+        ]
+      },
+      {
+        "q": "How can governments better prepare their populations for the increasing frequency of extreme weather events?",
+        "q_zh": "政府如何更好地讓民眾為日益頻繁的極端天氣事件做好準備？",
+        "key_points": [
+          "Emphasise investment in robust, community-level early warning systems that use multiple communication channels—including mobile alerts and local radio—to ensure information reaches even the most isolated or marginalised populations.",
+          "Discuss the importance of integrating climate resilience into urban planning and infrastructure development, such as building flood-resistant housing, maintaining natural buffers like mangroves and wetlands, and updating building codes.",
+          "Highlight the critical role of public education and community drills in fostering a culture of preparedness, ensuring that individuals know how to respond effectively when official warnings are issued."
+        ]
+      },
+      {
+        "q": "To what extent do you think media coverage of events like El Niño influences public behaviour and government policy?",
+        "q_zh": "您認為媒體對聖嬰現象等事件的報導在多大程度上影響公眾行為和政府政策？",
+        "key_points": [
+          "Argue that sustained, high-quality media coverage can raise public awareness, build political will, and create the social pressure necessary to push governments toward stronger climate commitments and emergency preparedness investments.",
+          "Acknowledge the risk of 'disaster fatigue,' whereby audiences exposed to repeated coverage of climate catastrophes become desensitised, reducing the long-term impact of media reporting on both individual behaviour change and policy momentum.",
+          "Note the growing influence of social media in amplifying both accurate scientific information and dangerous misinformation, and discuss how this dual role complicates the relationship between media coverage and evidence-based policy responses."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Natural disasters and extreme weather events are becoming increasingly frequent and severe. Some people argue that governments should focus primarily on building better infrastructure and early warning systems to protect their populations. Others believe that the only effective long-term solution is to address the root causes of climate change by reducing fossil fuel use. Discuss both views and give your own opinion.",
+    "task2_question_zh": "自然災害和極端天氣事件正變得越來越頻繁和嚴重。一些人認為政府應主要專注於建設更好的基礎設施和預警系統來保護民眾。另一些人則認為，唯一有效的長期解決方案是通過減少化石燃料使用來解決氣候變化的根本原因。討論兩種觀點並給出您自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "compound the severity of",
+        "when_to_use": "Use when describing how one negative factor makes another existing problem significantly worse, particularly in the context of interacting causes.",
+        "when_to_use_zh": "當描述一個負面因素如何使另一個已存在的問題顯著惡化時使用，特別是在相互作用的原因背景下。",
+        "example": "The El Niño phenomenon compounds the severity of heatwaves already intensified by decades of carbon emissions."
+      },
+      {
+        "phrase": "adaptive capacity",
+        "when_to_use": "Use in academic writing to refer to a community's or nation's ability to adjust to and recover from adverse conditions such as climate events or economic shocks.",
+        "when_to_use_zh": "在學術寫作中，用於指一個社區或國家調整並從氣候事件或經濟衝擊等不利條件中恢復的能力。",
+        "example": "Nations with limited financial resources often have a significantly lower adaptive capacity when confronted with large-scale natural disasters."
+      },
+      {
+        "phrase": "in the absence of",
+        "when_to_use": "Use to introduce a conditional scenario in which a particular measure, policy, or factor does not exist, typically to highlight its importance by imagining its removal.",
+        "when_to_use_zh": "用於介紹一個特定措施、政策或因素不存在的條件性情境，通常通過想像其缺失來強調其重要性。",
+        "example": "In the absence of robust international climate agreements, individual nations' efforts to curb emissions will remain insufficient."
+      },
+      {
+        "phrase": "it is worth acknowledging that",
+        "when_to_use": "Use as a concession phrase to recognise the validity or merit of an opposing argument before presenting a counterpoint or qualification.",
+        "when_to_use_zh": "用作讓步短語，在提出反駁或限定條件之前，承認對立論點的有效性或價值。",
+        "example": "It is worth acknowledging that infrastructure investment can save lives in the short term, even if it does not address the underlying drivers of climate change."
+      },
+      {
+        "phrase": "a multifaceted approach",
+        "when_to_use": "Use when arguing that a complex problem requires several different strategies working in combination rather than a single solution, demonstrating sophisticated analytical thinking.",
+        "when_to_use_zh": "當論證一個複雜問題需要幾種不同策略相互配合而非單一解決方案時使用，展示出成熟的分析思維。",
+        "example": "Effectively managing the escalating risks of El Niño demands a multifaceted approach combining emissions reduction, infrastructure resilience, and international humanitarian cooperation."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the growing threat of extreme weather events such as El Niño, briefly acknowledging the two schools of thought presented in the question. State your thesis clearly—that while both approaches have merit, a truly effective response demands their integration rather than a choice between them.",
+      "body1": "Examine the case for prioritising infrastructure and early warning systems. Argue that such measures deliver immediate, tangible protection for vulnerable populations, citing examples such as upgraded flood defences, community shelters, and real-time meteorological alert systems. Acknowledge the particular importance of these interventions for developing nations that face acute near-term risks.",
+      "body2": "Present the argument for addressing root causes through fossil fuel reduction, explaining that without curbing emissions, adaptation measures will eventually be overwhelmed by increasingly severe climate events. Argue that this is the only approach that offers a sustainable long-term solution, and introduce your own view that both strategies are complementary and mutually necessary rather than mutually exclusive.",
+      "conclusion": "Restate your position that a false dichotomy exists between adaptation and mitigation. Conclude by calling for coordinated international action that simultaneously funds resilient infrastructure for those most at risk today while aggressively transitioning global energy systems away from fossil fuels to protect future generations."
+    }
+  }
+}
