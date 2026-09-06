@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T06:41:27.870434Z",
+  "listening": {
+    "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+    "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "How climate change is making extreme weather events more frequent, causing serious disruption to aviation across Europe and beyond.",
+    "topic_zh": "氣候變遷如何使極端天氣事件更加頻繁，對歐洲及全球航空業造成嚴重干擾。",
+    "transcript_excerpt": "It was supposed to be a perfectly ordinary summer Saturday at Heathrow and Gatwick airports. Thousands of passengers had packed their bags, booked their taxis, and arrived at the terminal in good spirits, ready to begin their holidays. But as the morning wore on, something was clearly going wrong. Towering thunderclouds had been building over southern England for hours, and air traffic controllers were finding it increasingly difficult to safely route aircraft through the congested and stormy skies. Flights that were scheduled to depart simply sat on the tarmac, engines idle, passengers growing restless. In the end, around 900 flights were delayed — some by as many as eleven hours — and dozens more were cancelled outright. The chaos rippled outward across Europe, leaving passengers at airports in Paris, Amsterdam, and Frankfurt stranded and uncertain about when, or even whether, they would reach their destinations. For many travellers, it was an unforgettable and deeply frustrating experience. Yet aviation experts and risk consultants are now arguing that incidents like this are not merely bad luck — they are a glimpse of the future. As global temperatures rise and weather systems become increasingly unstable due to climate change, the aviation industry may need to fundamentally rethink how it manages disruption, capacity, and passenger expectations in the years ahead.",
+    "vocabulary": [
+      {
+        "word": "congested",
+        "type": "adjective",
+        "definition": "Overcrowded or blocked, especially with traffic or in this context, aircraft competing for limited airspace.",
+        "definition_zh": "擁擠的；阻塞的，尤指交通或空域因過多載具而無法順暢流通。",
+        "example": "The airspace over London became so congested during the storm that controllers had to hold dozens of planes in a holding pattern."
+      },
+      {
+        "word": "disruption",
+        "type": "noun",
+        "definition": "A serious disturbance or interruption to a system, process, or event that prevents it from continuing normally.",
+        "definition_zh": "中斷；擾亂，指對某系統、流程或事件造成嚴重干擾，使其無法正常進行。",
+        "example": "Severe weather caused widespread disruption to flight schedules across northern Europe throughout the summer."
+      },
+      {
+        "word": "sweltered",
+        "type": "verb",
+        "definition": "To suffer from or be uncomfortably hot, often used to describe people or places experiencing intense heat.",
+        "definition_zh": "酷熱難耐；揮汗如雨，用來形容人或地方承受極度高溫的不舒適狀態。",
+        "example": "Commuters sweltered on underground trains as the city recorded its highest temperature in decades."
+      },
+      {
+        "word": "mount up",
+        "type": "phrase",
+        "definition": "To gradually increase or accumulate over time, often referring to problems, costs, or pressures that grow steadily.",
+        "definition_zh": "逐漸累積；不斷增加，通常指問題、費用或壓力隨時間持續擴大。",
+        "example": "As the effects of climate change mount up, airlines will face ever-greater operational challenges."
+      },
+      {
+        "word": "exposed",
+        "type": "adjective",
+        "definition": "Vulnerable or at risk from a particular danger or negative influence, with little protection against it.",
+        "definition_zh": "暴露於風險中的；易受影響的，指在某種危險或負面因素面前缺乏保護而易受衝擊。",
+        "example": "Coastal communities are particularly exposed to the threat of rising sea levels and more intense storms."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the passage, what was the primary reason for the chaos at Heathrow and Gatwick airports on that Saturday?",
+        "options": [
+          "A: A sudden increase in passenger numbers overwhelmed ground staff",
+          "B: Air traffic controllers struggled to route planes safely around severe thunderstorms",
+          "C: A technical failure in the airports' radar and navigation systems",
+          "D: Strikes by airline workers led to mass cancellations across the region"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that 'air traffic controllers struggled to route aircraft around the storms,' causing airspace to become heavily congested and forcing planes to wait on the ground."
+      },
+      {
+        "q": "How many flights were delayed during the disruption described in the episode?",
+        "options": [
+          "A: Around 600",
+          "B: Fewer than 500",
+          "C: Approximately 900",
+          "D: More than 1,200"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states 'some 900 flights to and from both airports were delayed,' making C the correct answer."
+      },
+      {
+        "q": "What does airline risk consultant Tim Atkinson suggest is a particular concern for London specifically?",
+        "options": [
+          "A: That passenger numbers will soon exceed airport runway capacity permanently",
+          "B: That all of London's airports could be simultaneously affected by storms",
+          "C: That airlines will relocate their hubs to less storm-prone regions of Europe",
+          "D: That air traffic controllers lack the training to handle modern weather systems"
+        ],
+        "answer": "B",
+        "explanation": "Tim Atkinson specifically warns that 'there is a real risk that all of London's airports could be affected by storms at the same time,' making this a uniquely serious vulnerability for the region."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Climate Change and the Future of Aviation: Navigating an Era of Atmospheric Instability",
+    "passage": "The aviation industry, long accustomed to managing operational risk, now faces what many experts describe as an unprecedented challenge: the accelerating instability of the global climate system. As greenhouse gas concentrations continue to rise, the atmosphere is undergoing fundamental changes that have direct and measurable consequences for air travel. Extreme heat events, intensifying storm systems, and shifting jet streams are no longer distant projections — they are present-day realities reshaping the operational landscape for airlines and airports worldwide.\n\nOne of the most immediate effects is the increasing frequency and severity of convective weather events — thunderstorms of the kind that caused approximately 900 flight delays at London's Heathrow and Gatwick airports during a single summer weekend. Air traffic management systems, designed around historical weather norms, struggle to absorb the sheer volume of rerouting decisions required when large-scale storm systems develop rapidly and unpredictably. In densely trafficked airspace, such as that above the United Kingdom and northern Europe, the margin for error is vanishingly small, and the cascading effect of even a single bottleneck can ripple across an entire continent's flight network within hours.\n\nBeyond storm disruption, rising ambient temperatures present a separate but equally pressing challenge. Aircraft performance is directly affected by air density, which decreases as temperatures rise. In extreme heat, runways that were engineered for cooler climatic conditions may require airlines to reduce passenger loads or fuel quantities, diminishing both commercial viability and operational flexibility. Airports located at higher altitudes or in already hot climates are especially vulnerable to these aerodynamic constraints.\n\nIndustry analysts argue that adaptation must become a strategic priority. Investments in more sophisticated weather-prediction technology, redesigned air traffic management protocols, and infrastructure upgrades are all being discussed. However, the scale and cost of such adaptation efforts mean that passengers may, in the short to medium term, simply need to accept a higher baseline level of travel disruption as an unavoidable consequence of a warming world.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The disruption at Heathrow and Gatwick was caused by a failure in air traffic control software systems.",
+        "answer": "False",
+        "explanation": "The passage attributes the disruption to severe convective weather events — thunderstorms — that made rerouting aircraft extremely difficult, not to any software or technical failure."
+      },
+      {
+        "type": "TFNG",
+        "statement": "High temperatures can reduce the number of passengers an aircraft is permitted to carry on a single flight.",
+        "answer": "True",
+        "explanation": "The passage states that in extreme heat, airlines may need to 'reduce passenger loads or fuel quantities' because rising temperatures decrease air density and thus affect aircraft performance."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The aviation industry has already fully implemented new weather-prediction technologies across all major European airports.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that investments in more sophisticated weather-prediction technology 'are being discussed,' but provides no information about whether any such technology has already been fully implemented."
+      },
+      {
+        "type": "MCQ",
+        "q": "What does the passage suggest will most likely happen to passengers in the near future as a result of climate change?",
+        "options": [
+          "A: They will benefit from cheaper airfares as airlines seek to retain customers during disruptions",
+          "B: They will need to accept a greater level of travel disruption as a normal part of flying",
+          "C: They will be offered comprehensive compensation packages mandated by new aviation regulations",
+          "D: They will shift en masse to alternative forms of long-distance transport such as high-speed rail"
+        ],
+        "answer": "B",
+        "explanation": "The passage concludes that 'passengers may, in the short to medium term, simply need to accept a higher baseline level of travel disruption as an unavoidable consequence of a warming world,' making B the most accurate reflection of the author's argument."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when your travel plans were seriously disrupted or delayed.",
+    "topic_zh": "描述一次你的旅行計劃受到嚴重干擾或延誤的經歷。",
+    "part2": {
+      "cue_card": "Describe a time when your travel plans were seriously disrupted or delayed.\n\nYou should say:\n• where you were planning to travel to and why\n• what caused the disruption or delay\n• how you felt and what you did while you were waiting\n\nAnd explain what you learned from the experience or how it changed the way you think about travel.",
+      "band_tips": [
+        "Use a wide range of narrative tenses naturally — past simple, past continuous, and past perfect — to show grammatical range. For example: 'I had been waiting for nearly six hours when the airline finally announced the flight was cancelled.'",
+        "Incorporate sophisticated vocabulary related to travel and emotions, such as 'exasperated,' 'stranded,' 'compensation,' 'contingency plan,' and 'cascade of cancellations,' to demonstrate lexical range beyond Band 6 level.",
+        "Extend your answer well beyond the two-minute minimum by reflecting on the broader implications of the experience — for example, discussing what it revealed about the fragility of modern transport systems or the importance of travel insurance — to show the ability to develop ideas fully."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think airlines and governments are doing enough to prepare aviation infrastructure for the effects of climate change?",
+        "q_zh": "你認為航空公司和政府是否在為航空基礎設施應對氣候變遷的影響做足夠的準備？",
+        "key_points": [
+          "Many existing airports and air traffic management systems were designed decades ago based on historical weather data that no longer reflects current climate realities, suggesting significant underpreparedness.",
+          "While some forward-thinking aviation authorities have begun investing in upgraded weather-prediction technology and more flexible routing protocols, the pace of change remains far behind the speed of climate deterioration.",
+          "Governments face competing budget priorities, and the aviation sector's own commercial pressures often discourage the kind of long-term, costly infrastructure investment that genuine climate resilience would require."
+        ]
+      },
+      {
+        "q": "Should passengers be entitled to greater compensation when flights are cancelled or delayed due to extreme weather events?",
+        "q_zh": "當航班因極端天氣而取消或延誤時，乘客是否應該獲得更多賠償？",
+        "key_points": [
+          "From a consumer protection standpoint, passengers invest significant money and planning into travel, and being stranded for many hours — especially with children or elderly relatives — causes real and measurable hardship that arguably warrants financial redress.",
+          "Airlines, however, argue that weather events are genuinely beyond their control and that imposing mandatory compensation for acts of nature would place an unsustainable financial burden on an industry already operating on thin margins.",
+          "A balanced approach might involve tiered compensation structures — for example, requiring airlines to cover reasonable hotel and meal costs during delays while exempting them from larger penalties when disruption is demonstrably weather-related."
+        ]
+      },
+      {
+        "q": "How might the increasing disruption caused by climate change affect people's willingness to fly in the future?",
+        "q_zh": "氣候變遷造成的日益頻繁的干擾，可能如何影響人們未來搭乘飛機的意願？",
+        "key_points": [
+          "Frequent and unpredictable delays may gradually erode consumer confidence in air travel, particularly for shorter routes where alternatives such as high-speed rail already offer competitive journey times without the uncertainty of weather-related cancellations.",
+          "For long-haul international travel, however, there are currently no viable alternatives, meaning most passengers will likely continue flying regardless of disruption levels, albeit with growing frustration and potentially altered booking behaviour such as choosing more flexible fare types.",
+          "There is also a growing segment of environmentally conscious travellers who already feel uncomfortable about their carbon footprint, and persistent climate-related disruption may accelerate a broader cultural shift toward reducing unnecessary air travel."
+        ]
+      },
+      {
+        "q": "To what extent should individuals change their personal travel habits to help address the climate crisis?",
+        "q_zh": "個人應該在多大程度上改變自己的旅行習慣來幫助應對氣候危機？",
+        "key_points": [
+          "Individual behavioural change undoubtedly has a role to play — the aviation sector accounts for a meaningful share of global carbon emissions, and a relatively small number of frequent flyers are responsible for a disproportionately large proportion of those emissions, suggesting that targeted changes in habits could have outsized impact.",
+          "Critics of the individual responsibility framing argue, however, that placing moral pressure on ordinary travellers distracts from the far more consequential systemic changes needed — such as investment in sustainable aviation fuels and stricter emissions regulations — that only governments and corporations have the power to implement at scale.",
+          "A more nuanced position holds that individual choice and systemic change are not mutually exclusive, and that a combination of personal mindfulness, such as consolidating trips and favouring rail where feasible, alongside robust policy intervention, represents the most realistic path forward."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Climate change is making extreme weather events more frequent and severe, causing significant disruption to aviation and other industries. Some people argue that passengers and consumers should simply accept higher levels of disruption as an inevitable consequence of climate change, while others believe that governments and industries must invest heavily to prevent such disruption. Discuss both views and give your own opinion.",
+    "task2_question_zh": "氣候變遷使極端天氣事件越來越頻繁和嚴重，對航空業及其他產業造成重大干擾。一些人認為乘客和消費者應該接受更高程度的干擾，視其為氣候變遷不可避免的後果；而另一些人則認為政府和產業必須大力投資以防止此類干擾。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "a cascading effect on",
+        "when_to_use": "Use this phrase when describing how one problem or disruption triggers a series of further problems across a connected system.",
+        "when_to_use_zh": "當描述一個問題或干擾如何在相互關聯的系統中引發一連串進一步問題時使用此短語。",
+        "example": "A single major storm over London can have a cascading effect on flight networks across the entire European continent."
+      },
+      {
+        "phrase": "the burden of adaptation",
+        "when_to_use": "Use this phrase in discussions about who should bear the cost or responsibility of adjusting to new challenges such as climate change.",
+        "when_to_use_zh": "在討論誰應承擔適應新挑戰（如氣候變遷）的成本或責任時使用此短語。",
+        "example": "A central question in climate policy is whether the burden of adaptation should fall on individual consumers or on the industries and governments that have historically contributed most to emissions."
+      },
+      {
+        "phrase": "is particularly exposed to",
+        "when_to_use": "Use this phrase to highlight that a specific group, region, or sector is especially vulnerable to a particular risk or threat.",
+        "when_to_use_zh": "用於強調某一特定群體、地區或行業對某種風險或威脅特別脆弱時使用。",
+        "example": "Densely trafficked airspace such as that above northern Europe is particularly exposed to the operational consequences of increasingly volatile weather systems."
+      },
+      {
+        "phrase": "far-reaching implications for",
+        "when_to_use": "Use this phrase to introduce a discussion of the wide and significant consequences of a trend, policy, or event across multiple areas.",
+        "when_to_use_zh": "用於引出對某一趨勢、政策或事件在多個領域產生廣泛且重大影響的討論。",
+        "example": "The increasing instability of global weather patterns has far-reaching implications for the long-term viability of the aviation industry's current operational model."
+      },
+      {
+        "phrase": "in the short to medium term",
+        "when_to_use": "Use this phrase to specify a timeframe that is neither immediate nor distant — typically the next few years — especially when contrasting short-term realities with long-term goals.",
+        "when_to_use_zh": "用於指定一個既非即時也非遙遠的時間範圍——通常是未來幾年——尤其是在對比短期現實與長期目標時使用。",
+        "example": "In the short to medium term, passengers may simply have to accept a higher frequency of weather-related delays while the industry develops more robust contingency infrastructure."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the issue: acknowledge that climate change is now causing measurable, real-world disruption to aviation and other industries, not merely as a future projection. Paraphrase the question and present a clear thesis stating that while some level of disruption is inevitable, governments and industries bear a primary responsibility to invest in adaptive measures rather than placing the burden of acceptance entirely on consumers.",
+      "body1": "Present and fairly evaluate the view that passengers must accept greater disruption. Acknowledge that some degree of weather-related unpredictability is genuinely unavoidable — no amount of investment can eliminate severe storms — and that consumer expectations may need to be recalibrated. However, critically assess the limitations of this view: passive acceptance risks removing the financial incentive for airlines and governments to invest in resilience, and disproportionately harms lower-income travellers who cannot afford flexible bookings or last-minute accommodation.",
+      "body2": "Argue for the opposing and personally supported view that substantial investment in adaptation is both necessary and possible. Discuss concrete measures such as upgrading air traffic management technology to handle more complex rerouting scenarios, developing next-generation weather-forecasting systems, redesigning airport infrastructure for higher temperature thresholds, and implementing clearer, more generous passenger protection regulations. Use the example of the 900 delayed flights as evidence of the cascading economic and human cost of inaction.",
+      "conclusion": "Restate your position clearly: while individuals must develop some tolerance for climate-related disruption, the primary responsibility lies with governments and industry to invest proactively in resilient infrastructure. Suggest that a combination of systemic adaptation, improved passenger compensation frameworks, and accelerated decarbonisation of the aviation sector represents the most balanced and effective path forward."
+    }
+  }
+}
