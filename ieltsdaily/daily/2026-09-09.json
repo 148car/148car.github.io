@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T06:54:29.335469Z",
+  "listening": {
+    "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
+    "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Hurricane Lowell struck western Hawaii with destructive winds and heavy rain, causing widespread power outages and raising fears of flash floods and mudslides.",
+    "topic_zh": "颶風洛厄爾以強風和暴雨襲擊夏威夷西部，造成大規模停電，並引發山洪暴發和泥石流的擔憂。",
+    "transcript_excerpt": "Welcome to today's programme. We're going to be talking about one of nature's most powerful and destructive forces — hurricanes. This week, Hurricane Lowell made headlines as it lashed the western coast of Hawaii with ferocious winds and torrential rain. Residents across the region experienced power outages lasting many hours, and emergency services issued urgent warnings about the risk of flash flooding and mudslides in low-lying and mountainous areas. The centre of the storm, known as the eye, passed west of the main islands in the early hours of Tuesday morning, bringing some relief to communities that had braced for a direct hit. However, meteorologists warned that the outer bands of the storm continued to dump significant rainfall across the archipelago. Trees were uprooted and roads were blocked by debris, making evacuation and rescue operations extremely difficult. Local authorities urged residents to stay indoors and avoid flooded roadways, reminding them that even shallow moving water can sweep a vehicle off the road. Events like this raise urgent questions about how communities can better prepare for increasingly severe weather events driven by climate change. Scientists have long argued that warmer ocean temperatures are intensifying tropical storms, making hurricanes like Lowell more frequent and more destructive than in previous decades.",
+    "vocabulary": [
+      {
+        "word": "torrential rain",
+        "type": "phrase",
+        "definition": "Extremely heavy and fast-flowing rainfall that falls in large quantities over a short period of time",
+        "definition_zh": "傾盆大雨；暴雨",
+        "example": "The region was battered by torrential rain for over twelve hours, causing rivers to burst their banks."
+      },
+      {
+        "word": "power outage",
+        "type": "noun",
+        "definition": "A temporary failure of the electrical supply to an area, often caused by severe weather or infrastructure damage",
+        "definition_zh": "停電；電力中斷",
+        "example": "The hurricane triggered widespread power outages, leaving thousands of homes without electricity for several days."
+      },
+      {
+        "word": "flash flooding",
+        "type": "noun",
+        "definition": "A sudden and rapid flooding of an area, typically caused by intense rainfall over a short duration and with little warning",
+        "definition_zh": "山洪暴發；驟發洪水",
+        "example": "Authorities issued a red alert for flash flooding after rivers in the valley began rising at an alarming rate."
+      },
+      {
+        "word": "mudslide",
+        "type": "noun",
+        "definition": "A large mass of mud and debris that flows rapidly down a hillside or mountain slope, usually triggered by heavy rainfall",
+        "definition_zh": "泥石流；山泥傾瀉",
+        "example": "Several mountain roads were completely blocked after a mudslide swept away tonnes of soil and rock."
+      },
+      {
+        "word": "batter",
+        "type": "verb",
+        "definition": "To hit or strike repeatedly and with great force; used figuratively to describe a storm striking a place with sustained violence",
+        "definition_zh": "猛烈襲擊；連續重擊",
+        "example": "The coastal town was battered by hurricane-force winds throughout the night, leaving a trail of destruction."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What two main weather hazards did Hurricane Lowell bring to western Hawaii?",
+        "options": [
+          "A: Snowstorms and hailstones",
+          "B: Powerful winds and torrential rain",
+          "C: Drought conditions and heat waves",
+          "D: Earthquakes and tsunamis"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that Hurricane Lowell lashed western Hawaii with powerful winds and torrential rain, making B the correct answer."
+      },
+      {
+        "q": "Where did the centre of Hurricane Lowell pass in the early hours of Tuesday?",
+        "options": [
+          "A: Directly over Honolulu",
+          "B: East of the main Hawaiian islands",
+          "C: West of the Hawaiian islands",
+          "D: Through the centre of the archipelago"
+        ],
+        "answer": "C",
+        "explanation": "The transcript states that the centre of the storm passed west of the islands early Tuesday, confirming option C."
+      },
+      {
+        "q": "According to scientists, what is causing hurricanes to become more intense?",
+        "options": [
+          "A: Increased volcanic activity in the Pacific",
+          "B: Declining ocean salinity levels",
+          "C: Warmer ocean temperatures linked to climate change",
+          "D: Changes in wind patterns caused by deforestation"
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly states that scientists argue warmer ocean temperatures are intensifying tropical storms, making C correct."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Hurricanes and Climate Change: Understanding the Growing Threat to Island Communities",
+    "passage": "Tropical cyclones, known as hurricanes in the Atlantic and eastern Pacific, represent one of the most formidable natural hazards facing coastal and island communities worldwide. Recent events, such as Hurricane Lowell's assault on western Hawaii, have drawn renewed attention to both the immediate destructive power of these storms and the longer-term vulnerabilities faced by populations living in their path.\n\nHurricanes derive their energy from warm ocean surface temperatures, typically requiring water of at least 26 degrees Celsius to form and sustain themselves. As global average temperatures continue to rise due to greenhouse gas emissions, oceanographers and meteorologists have observed a discernible trend: tropical storms are intensifying more rapidly and reaching higher wind speeds than historical records would suggest. This phenomenon, known as rapid intensification, poses particular challenges for emergency management agencies, as it reduces the window of time available for effective evacuation and preparation.\n\nThe consequences of a major hurricane extend well beyond the initial storm event. Flash flooding, triggered by torrential rainfall, can persist for days after a storm passes, inundating low-lying areas and contaminating freshwater supplies. Mudslides, particularly common in mountainous island terrain, destroy infrastructure and render roads impassable, severely hampering rescue and relief operations. Power outages, which may last weeks in severely affected regions, disrupt hospitals, communications networks, and supply chains.\n\nIsland communities like Hawaii face unique challenges in hurricane preparedness. Geographic isolation means that external aid and resources cannot arrive quickly, placing enormous pressure on local emergency services and pre-positioned supplies. Moreover, tourism-dependent economies may suffer prolonged financial damage as visitor numbers decline in the aftermath of a major storm. Consequently, investment in resilient infrastructure, early warning systems, and community education programmes is increasingly regarded by policymakers as an economic and humanitarian necessity rather than a discretionary expenditure.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "Hurricanes require ocean surface temperatures of at least 26 degrees Celsius in order to form and sustain themselves.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that hurricanes typically require water of at least 26 degrees Celsius to form and sustain themselves, confirming this statement as True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Hawaiian government has already invested significantly in early warning systems prior to Hurricane Lowell's arrival.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that investment in early warning systems is increasingly regarded as necessary, but provides no specific information about what Hawaii's government has or has not already invested, making this Not Given."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Rapid intensification gives emergency management agencies more time to organise evacuation procedures.",
+        "answer": "False",
+        "explanation": "The passage states that rapid intensification reduces the window of time available for effective evacuation, which is the opposite of what the statement claims, making it False."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following best describes the economic impact of hurricanes on island communities like Hawaii?",
+        "options": [
+          "A: The impact is limited to the cost of repairing physical infrastructure after the storm.",
+          "B: Financial damage includes prolonged declines in tourism revenue in addition to direct storm damage.",
+          "C: Island economies recover quickly because of strong international financial support systems.",
+          "D: The primary economic concern is the cost of pre-positioned emergency supplies."
+        ],
+        "answer": "B",
+        "explanation": "The passage states that tourism-dependent economies may suffer prolonged financial damage as visitor numbers decline in the aftermath of a major storm, in addition to direct storm destruction, making B the most comprehensive and accurate answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced or learned about an extreme weather event",
+    "topic_zh": "描述一次你親身經歷或了解到的極端天氣事件",
+    "part2": {
+      "cue_card": "Describe a time when you experienced or learned about an extreme weather event.\n\nYou should say:\n• What the weather event was and where it occurred\n• How you first found out about it\n• What effects it had on people or the environment\n\nAnd explain how this experience or knowledge changed the way you think about nature or climate change.",
+      "band_tips": [
+        "Use a range of sophisticated weather-related vocabulary such as 'torrential downpours', 'catastrophic flooding', and 'widespread devastation' to demonstrate lexical range and precision.",
+        "Employ narrative techniques such as sequencing language ('initially', 'subsequently', 'as the situation unfolded') and vivid descriptive language to make your account engaging and coherent.",
+        "Extend your answer naturally by reflecting on broader implications, such as the role of climate change in intensifying extreme weather, which demonstrates the ability to connect personal experience to abstract ideas — a hallmark of Band 8+ speaking."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prepare communities for extreme weather events?",
+        "q_zh": "你認為政府在為社區應對極端天氣事件做足夠的準備嗎？",
+        "key_points": [
+          "Many governments invest in early warning systems and evacuation infrastructure, but funding is often insufficient in lower-income regions where vulnerability is highest.",
+          "Preparedness requires long-term political commitment, yet governments tend to prioritise visible, short-term policies over sustained investment in disaster resilience.",
+          "International cooperation frameworks such as the Sendai Framework for Disaster Risk Reduction show that global awareness exists, but implementation remains uneven across nations."
+        ]
+      },
+      {
+        "q": "How has climate change affected the frequency and severity of natural disasters in recent years?",
+        "q_zh": "近年來，氣候變化如何影響自然災害的頻率和嚴重程度？",
+        "key_points": [
+          "Scientific consensus indicates that rising global temperatures are intensifying tropical storms by fuelling them with warmer ocean water, leading to faster intensification and heavier rainfall.",
+          "Extreme weather events such as heatwaves, wildfires, and hurricanes are becoming statistically more frequent, as documented by bodies like the Intergovernmental Panel on Climate Change.",
+          "The compounding effect of multiple climate-related stressors — sea level rise, coastal erosion, and storm surge — means that individual disasters cause disproportionately greater harm than in previous decades."
+        ]
+      },
+      {
+        "q": "What responsibilities do individuals have when it comes to responding to or preventing climate-related disasters?",
+        "q_zh": "在應對或預防氣候相關災害方面，個人有哪些責任？",
+        "key_points": [
+          "Individuals can reduce their carbon footprint through lifestyle changes such as reducing energy consumption and choosing sustainable transport, thereby contributing to broader emissions reductions.",
+          "Community-level preparedness, such as participating in evacuation drills and maintaining emergency supply kits, directly enhances resilience at the local level.",
+          "Civic engagement, including supporting environmentally responsible policies and holding elected officials accountable for climate action, empowers individuals to drive systemic change beyond their personal choices."
+        ]
+      },
+      {
+        "q": "Should wealthier nations provide financial support to help poorer countries recover from extreme weather events? Why or why not?",
+        "q_zh": "富裕國家是否應提供財政支援，幫助貧窮國家從極端天氣事件中恢復？為什麼？",
+        "key_points": [
+          "There is a strong moral argument for wealthy nation support, as historically high-emitting industrialised countries bear the greatest responsibility for the climate change driving these disasters, yet developing nations suffer disproportionately.",
+          "Mechanisms such as the Loss and Damage fund established at COP27 represent international recognition of this principle, though critics argue that pledged amounts remain far below what is actually required.",
+          "From a pragmatic standpoint, preventing economic collapse in disaster-prone developing nations serves the global interest by maintaining regional stability and preventing humanitarian crises that can have far-reaching geopolitical consequences."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Extreme weather events such as hurricanes, floods, and droughts are becoming increasingly common around the world. Some people believe that governments should take primary responsibility for protecting citizens from these events, while others argue that individuals and communities must also play a significant role. Discuss both views and give your own opinion.",
+    "task2_question_zh": "颶風、洪水和乾旱等極端天氣事件在全球範圍內日益頻繁。一些人認為政府應對保護公民免受這些事件的影響承擔主要責任，而另一些人則認為個人和社區也必須發揮重要作用。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use when describing the danger or risk that a phenomenon presents to people, places, or systems",
+        "when_to_use_zh": "用於描述某一現象對人們、地方或系統構成的危險或風險",
+        "example": "The increasing frequency of category-four hurricanes poses a significant threat to low-lying coastal communities worldwide."
+      },
+      {
+        "phrase": "bears the primary responsibility for",
+        "when_to_use": "Use when arguing that a particular party has the greatest obligation to address a problem or take action",
+        "when_to_use_zh": "用於主張某一特定方對解決問題或採取行動負有最大義務",
+        "example": "While citizens can take precautions, it is the government that bears the primary responsibility for funding large-scale flood defence infrastructure."
+      },
+      {
+        "phrase": "in the aftermath of",
+        "when_to_use": "Use to describe the period following a major event, particularly when discussing consequences or responses",
+        "when_to_use_zh": "用於描述重大事件發生後的時期，特別是在討論後果或應對措施時",
+        "example": "In the aftermath of Hurricane Lowell, emergency services worked around the clock to restore power and clear debris from blocked roads."
+      },
+      {
+        "phrase": "a multi-faceted approach",
+        "when_to_use": "Use when arguing that a complex problem requires several different types of solutions working together rather than a single remedy",
+        "when_to_use_zh": "用於主張複雜問題需要多種不同類型的解決方案共同運作，而非單一補救措施",
+        "example": "Addressing the growing threat of extreme weather demands a multi-faceted approach encompassing government policy, community resilience, and individual behavioural change."
+      },
+      {
+        "phrase": "exacerbated by",
+        "when_to_use": "Use when explaining that an existing problem is being made worse or more severe by an additional factor",
+        "when_to_use_zh": "用於解釋現有問題因額外因素而變得更嚴重",
+        "example": "The devastation caused by flash flooding is frequently exacerbated by inadequate urban drainage systems and the removal of natural forest cover."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question using different vocabulary — for example, reframe 'extreme weather events' as 'increasingly severe climatic phenomena'. Briefly acknowledge both perspectives before presenting a clear thesis that advocates for a collaborative model in which governmental leadership and individual responsibility complement each other.",
+      "body1": "Argue the case for government responsibility. Governments possess the financial resources, legislative authority, and organisational capacity to implement large-scale solutions such as early warning systems, flood barriers, building codes, and coordinated evacuation plans. Use the example of hurricanes like Lowell to illustrate that individual citizens lack the means to construct coastal defences or coordinate region-wide emergency responses, making state intervention indispensable.",
+      "body2": "Present the argument for individual and community responsibility. Even the most well-resourced government cannot protect every household without active citizen participation. Personal preparedness — stockpiling emergency supplies, understanding evacuation routes, and building community support networks — significantly reduces casualties and speeds recovery. Furthermore, individual lifestyle choices that reduce carbon emissions address the root cause of increasingly severe weather rather than merely its symptoms.",
+      "conclusion": "Restate your balanced opinion clearly: while government must lead in policy and infrastructure, effective disaster resilience is ultimately achieved through a partnership between state institutions and engaged, informed citizens. Avoid introducing new arguments; instead, synthesise the two body paragraphs into a coherent final position."
+    }
+  }
+}
