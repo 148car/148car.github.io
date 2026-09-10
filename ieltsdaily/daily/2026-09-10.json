@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T06:51:17.638784Z",
+  "listening": {
+    "title": "August was joint hottest month on record, says European climate agency",
+    "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "August 2023 tied with July 2023 as the hottest month ever recorded, driven by climate change and El Niño, pushing global temperatures 1.65°C above pre-industrial levels.",
+    "topic_zh": "2023年8月與同年7月並列有史以來最熱月份，受氣候變化與聖嬰現象驅動，全球氣溫較工業化前水準高出1.65°C。",
+    "transcript_excerpt": "Welcome to today's programme. We're talking about something that affects every single person on this planet — rising global temperatures. According to the Copernicus Climate Change Service, the European Union's leading climate monitoring agency, August 2023 was the joint-hottest month ever recorded in human history, tying with July 2023. That is an extraordinary and deeply alarming statistic. What made August so exceptionally warm? Scientists point to two main drivers. The first is long-term climate change, caused primarily by the burning of fossil fuels over centuries of industrial activity. The second is El Niño, a natural but powerful climate pattern in which unusually warm water spreads across the eastern Pacific Ocean, releasing enormous amounts of stored heat into the atmosphere above. Together, these two forces pushed average global temperatures to 1.65 degrees Celsius above pre-industrial levels — that is above the critical 1.5-degree threshold that world governments agreed to avoid in the Paris Agreement. Now, one month above that threshold does not mean we have permanently crossed it. But scientists warn it is a deeply troubling sign of the direction we are heading. Dr Samantha Burgess of Copernicus called August 'a remarkable month in the global climate record', noting its impacts on communities, economies and ecosystems worldwide. The UN climate chief added that the evidence is, in his words, 'irrefutable'.",
+    "vocabulary": [
+      {
+        "word": "pre-industrial levels",
+        "type": "phrase",
+        "definition": "The baseline conditions of the Earth's climate before widespread industrialisation and fossil fuel use, typically referring to the period before 1850, used as a reference point for measuring climate change.",
+        "definition_zh": "工業化前水準，指大規模工業化與化石燃料使用之前（通常為1850年前）的地球氣候基準狀態，用作衡量氣候變化的參考點。",
+        "example": "Global temperatures have risen by more than 1.5 degrees Celsius above pre-industrial levels, alarming climate scientists worldwide."
+      },
+      {
+        "word": "irrefutable",
+        "type": "adjective",
+        "definition": "Impossible to deny, disprove, or argue against; so clearly true or well-supported by evidence that it cannot be questioned.",
+        "definition_zh": "無可辯駁的、不可反駁的；有充分證據支持以至無法質疑。",
+        "example": "The data collected over decades provides irrefutable evidence that human activity is the primary cause of global warming."
+      },
+      {
+        "word": "threshold",
+        "type": "noun",
+        "definition": "A critical level or point that, once crossed, triggers significant consequences or a change in conditions; in climate science, often refers to a temperature limit beyond which severe impacts occur.",
+        "definition_zh": "臨界值、門檻；一旦超越便會引發重大後果的關鍵水準，在氣候科學中常指超過後會造成嚴重影響的溫度限制。",
+        "example": "Keeping global warming below the 1.5-degree threshold is considered essential to preventing the most catastrophic effects of climate change."
+      },
+      {
+        "word": "El Niño",
+        "type": "noun",
+        "definition": "A naturally occurring climate phenomenon characterised by the unusual warming of surface waters in the central and eastern Pacific Ocean, which disrupts global weather patterns and can amplify extreme weather events.",
+        "definition_zh": "聖嬰現象，一種自然發生的氣候現象，特徵為中東太平洋海面水溫異常升高，擾亂全球天氣型態並可能加劇極端天氣事件。",
+        "example": "The arrival of a strong El Niño last year contributed significantly to record-breaking droughts and storms across several continents."
+      },
+      {
+        "word": "fossil fuel addiction",
+        "type": "phrase",
+        "definition": "A metaphorical expression describing humanity's deep economic and societal dependence on coal, oil, and natural gas, implying that this reliance is harmful yet difficult to abandon, much like an addiction.",
+        "definition_zh": "化石燃料成癮，一種比喻說法，描述人類社會對煤炭、石油和天然氣的深度經濟與社會依賴，暗示這種依賴有害且難以戒除，如同成癮。",
+        "example": "World leaders agree that breaking humanity's fossil fuel addiction is the most urgent challenge of the twenty-first century."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the Copernicus Climate Change Service, what was remarkable about August 2023?",
+        "options": [
+          "A: It was the hottest month ever recorded, beating all previous records by a large margin.",
+          "B: It tied with July 2023 as the joint-hottest month ever recorded in history.",
+          "C: It was the hottest August on record but not the hottest month overall.",
+          "D: It was the second hottest month ever, just behind August 2022."
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that August 2023 was the 'joint-hottest month ever recorded, tying with July 2023', meaning both months share the record equally. Option A is incorrect because no single record was broken outright. Options C and D are not supported by the text."
+      },
+      {
+        "q": "What two factors did scientists identify as driving the record temperatures in August 2023?",
+        "options": [
+          "A: Solar activity and volcanic eruptions releasing heat into the atmosphere.",
+          "B: Deforestation in tropical regions and increased industrial pollution.",
+          "C: Long-term climate change caused by fossil fuels and the El Niño climate pattern.",
+          "D: Rising ocean temperatures and reduced polar ice reflecting less sunlight."
+        ],
+        "answer": "C",
+        "explanation": "The passage explicitly identifies two drivers: 'climate change' from fossil fuel use and 'the rising influence of El Niño', which pushes heat into the atmosphere across the Pacific. The other options introduce factors not mentioned in the text."
+      },
+      {
+        "q": "What did UN climate chief Simon Stiell say about the record temperatures?",
+        "options": [
+          "A: He called for an immediate global summit to discuss emergency climate measures.",
+          "B: He said the evidence irrefutably shows the cost of humanity's dependence on fossil fuels.",
+          "C: He suggested that natural factors like El Niño were more responsible than human activity.",
+          "D: He warned that the 1.5-degree threshold had been permanently and irreversibly crossed."
+        ],
+        "answer": "B",
+        "explanation": "Stiell is quoted as saying 'The evidence is irrefutable: this is the spiralling price of humanity's fossil fuel addiction.' He directly blamed fossil fuel dependence. Option C contradicts his statement, option D misrepresents the text which says one month above 1.5°C does not mean it is permanently crossed, and option A is not mentioned."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Record Global Temperatures in 2023: Climate Change and the Role of El Niño",
+    "passage": "In August 2023, the Copernicus Climate Change Service — the European Union's authoritative body for climate monitoring — confirmed that the month had tied with July 2023 as the joint-hottest month ever documented in the historical climate record. Average global temperatures during August reached 1.65 degrees Celsius above pre-industrial levels, a figure that surpasses the critical 1.5-degree Celsius threshold enshrined in the Paris Agreement, which world governments adopted as the upper limit for safe warming.\n\nScientists attribute the record primarily to two compounding forces. The first is anthropogenic climate change — the long-term warming of the planet driven by greenhouse gas emissions from the combustion of fossil fuels, deforestation, and industrial processes. Decades of accumulated carbon dioxide and methane in the atmosphere have steadily raised baseline global temperatures, making record-breaking heat events increasingly probable. The second contributing factor is El Niño, a periodic natural climate phenomenon in which sea surface temperatures in the central and eastern Pacific Ocean rise abnormally, releasing vast quantities of stored oceanic heat into the overlying atmosphere and disrupting established weather patterns across multiple continents.\n\nDr Samantha Burgess, strategic lead for climate at Copernicus, characterised August 2023 as 'a remarkable month in the global climate record', emphasising that its consequences were being felt across communities, economies, and ecosystems on a global scale. The month also concluded western Europe's warmest summer on record, eclipsing even the devastating heatwave of 2003, which was responsible for tens of thousands of deaths across the continent.\n\nWhile a single month exceeding the 1.5-degree threshold does not constitute a permanent breach of that limit — which is assessed over multi-decadal averages — climate scientists warn that such events signal an unmistakable and accelerating trend. The convergence of record air temperatures, unprecedented ocean heat, and extreme seasonal conditions illustrates how anthropogenic climate change is simultaneously intensifying conditions across both atmospheric and oceanic systems. UN Secretary-General for Climate Simon Stiell described the evidence as 'irrefutable', framing the crisis explicitly as the consequence of humanity's continued dependence on fossil fuels.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "August 2023 set a new individual record as the single hottest month ever measured, surpassing July 2023.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that August 2023 'tied with July 2023 as the joint-hottest month', meaning they share the record equally. August did not surpass July; they are equal. Therefore the statement is False."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The 1.5-degree Celsius threshold referenced in the passage was established as part of the Paris Agreement.",
+        "answer": "True",
+        "explanation": "The passage directly states that 1.5 degrees Celsius is 'the critical threshold enshrined in the Paris Agreement, which world governments adopted as the upper limit for safe warming', confirming the statement is True."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The European heatwave of 2003 caused more deaths than the summer of 2023 did in western Europe.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that the summer of 2023 eclipsed the 2003 heatwave in terms of temperature records and notes that the 2003 event caused tens of thousands of deaths. However, it does not provide a death toll for 2023 or make a direct comparison of fatalities between the two events. Therefore the answer is Not Given."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the correct scientific interpretation of a single month exceeding the 1.5-degree Celsius threshold?",
+        "options": [
+          "A: It confirms that the world has permanently and irreversibly crossed the safe warming limit agreed in Paris.",
+          "B: It indicates that the Paris Agreement has officially failed and new targets must be negotiated immediately.",
+          "C: It does not mean the threshold has been permanently crossed, but it signals an accelerating warming trend.",
+          "D: It proves that El Niño alone is responsible for breaching the agreed temperature limits."
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that 'a single month exceeding the 1.5-degree threshold does not constitute a permanent breach', as the limit is assessed over multi-decadal averages. However, the passage also says such events 'signal an unmistakable and accelerating trend.' Option A contradicts the passage, B is not mentioned, and D oversimplifies the cause by ignoring anthropogenic climate change."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a time when you experienced or witnessed extreme weather conditions.",
+    "topic_zh": "描述一次你經歷或目擊極端天氣狀況的時光。",
+    "part2": {
+      "cue_card": "Describe a time when you experienced or witnessed extreme weather conditions.\n\nYou should say:\n• What the weather event was and where it took place\n• When it happened and how long it lasted\n• How it affected you and the people around you\n\nAnd explain what you felt about this experience and what it made you think about climate change or the environment.",
+      "band_tips": [
+        "Use a wide range of weather and climate-related vocabulary naturally throughout your response, such as 'sweltering', 'unprecedented', 'relentless heat', 'humidity', 'heatwave', and 'scorching temperatures', to demonstrate lexical range and impress the examiner.",
+        "Structure your response clearly with a brief introduction, a detailed description of the event and its effects, and a reflective conclusion about what the experience taught you about climate change — this demonstrates coherence and cohesion at a high level.",
+        "Incorporate speculative and evaluative language to extend your answer beyond simple description, for example: 'What struck me most was...', 'It made me wonder whether...', 'Looking back, I believe this was a direct consequence of...' — this signals sophisticated thinking expected at Band 7-9."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to address the problem of climate change and rising global temperatures?",
+        "q_zh": "你認為各國政府在應對氣候變化與全球氣溫上升問題上做得夠嗎？",
+        "key_points": [
+          "Acknowledge that while international agreements such as the Paris Agreement set important targets, implementation and enforcement remain critically insufficient in many countries.",
+          "Argue that short-term political and economic pressures often cause governments to prioritise growth over environmental commitments, creating a significant gap between pledges and action.",
+          "Suggest that stronger international accountability mechanisms, carbon pricing schemes, and green energy subsidies are necessary steps that many governments have yet to take decisively."
+        ]
+      },
+      {
+        "q": "How do you think individuals can contribute to reducing the effects of climate change in their daily lives?",
+        "q_zh": "你認為個人在日常生活中可以如何為減少氣候變化的影響做出貢獻？",
+        "key_points": [
+          "Highlight behavioural changes such as reducing meat consumption, using public transport, minimising air travel, and choosing energy-efficient appliances as meaningful individual actions.",
+          "Acknowledge the debate around individual versus systemic responsibility, noting that while personal choices matter, structural change driven by governments and corporations has a far greater overall impact.",
+          "Emphasise the importance of consumer power — when individuals make environmentally conscious purchasing decisions collectively, they can drive significant market and policy changes."
+        ]
+      },
+      {
+        "q": "Some people argue that economic development is more important than environmental protection, especially in developing countries. To what extent do you agree?",
+        "q_zh": "有些人認為，尤其對發展中國家而言，經濟發展比環境保護更重要。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Acknowledge that developing nations have legitimate aspirations for economic growth and that it would be unfair to restrict their development while wealthier nations built prosperity through environmentally damaging industrialisation.",
+          "Counter this by arguing that the economic costs of unchecked climate change — through extreme weather events, crop failures, and rising sea levels — will ultimately far exceed the short-term gains of fossil-fuel-led development.",
+          "Propose that sustainable development models, green technology transfer from wealthy to developing nations, and climate financing represent a viable path that does not force a choice between growth and environmental protection."
+        ]
+      },
+      {
+        "q": "How might rising global temperatures affect different sectors of society, such as agriculture, public health, and tourism?",
+        "q_zh": "全球氣溫上升可能如何影響農業、公共衛生和旅遊業等不同社會領域？",
+        "key_points": [
+          "Explain that agriculture faces severe disruption through shifting rainfall patterns, prolonged droughts, and increased frequency of extreme heat events, threatening food security particularly in tropical and subtropical regions.",
+          "Discuss public health impacts including the increased spread of vector-borne diseases like malaria and dengue as warmer temperatures expand the habitats of disease-carrying insects, alongside greater risks from heat-related illness and mortality.",
+          "Note that tourism faces paradoxical pressures — traditional destinations such as Mediterranean beach resorts and mountain ski areas are becoming less viable, while new regions may temporarily benefit, though long-term environmental degradation will ultimately harm the entire sector."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some scientists and politicians argue that the world has already passed critical climate tipping points and that irreversible damage to the planet is now inevitable. Others believe that decisive action taken now can still prevent the worst consequences of climate change. Discuss both views and give your own opinion.",
+    "task2_question_zh": "一些科學家和政治家認為，世界已越過關鍵的氣候臨界點，對地球造成的不可逆損害已無法避免。另一些人則認為，現在採取決定性行動仍能防止氣候變化最嚴重的後果。討論兩種觀點並給出你自己的看法。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "The evidence is increasingly irrefutable that...",
+        "when_to_use": "Use when introducing well-supported scientific or factual claims to establish credibility and authority in your argument.",
+        "when_to_use_zh": "當引入有充分科學或事實支撐的論點時使用，以建立論證的可信度和權威性。",
+        "example": "The evidence is increasingly irrefutable that continued reliance on fossil fuels will drive global temperatures to catastrophic levels within this century."
+      },
+      {
+        "phrase": "While it is tempting to conclude that..., a closer examination reveals...",
+        "when_to_use": "Use to introduce a counter-argument or nuanced qualification after acknowledging an opposing perspective, demonstrating critical thinking.",
+        "when_to_use_zh": "在承認對立觀點後，用於引入反駁論點或細緻的補充說明，展示批判性思維。",
+        "example": "While it is tempting to conclude that individual action is futile given the scale of the crisis, a closer examination reveals that collective behavioural change can drive significant policy and market transformations."
+      },
+      {
+        "phrase": "Proponents of this view contend that...",
+        "when_to_use": "Use when presenting and attributing a particular argument to a group of people or side in a debate, helping to structure a balanced discussion essay clearly.",
+        "when_to_use_zh": "在討論文中呈現並歸屬某一特定論點給某群體或辯論方時使用，有助於清晰架構平衡的討論。",
+        "example": "Proponents of this view contend that without immediate and dramatic reductions in carbon emissions, the feedback loops already set in motion will make climate stabilisation impossible."
+      },
+      {
+        "phrase": "The consequences of inaction far outweigh...",
+        "when_to_use": "Use when arguing that the costs or risks of failing to act on a problem are significantly greater than the costs of taking action, particularly effective in problem-solution or opinion essays.",
+        "when_to_use_zh": "當論證對某問題不採取行動的代價或風險遠大於採取行動的成本時使用，在問題解決型或觀點論述型文章中特別有效。",
+        "example": "The economic consequences of climate inaction far outweigh the short-term financial costs of transitioning to renewable energy sources."
+      },
+      {
+        "phrase": "It would be premature to suggest that... without first considering...",
+        "when_to_use": "Use to introduce a caveat or to slow down a sweeping conclusion, showing the examiner that you can think critically and avoid overgeneralisation.",
+        "when_to_use_zh": "用於引入保留意見或對過於武斷的結論加以緩和，向考官展示你能夠批判性思考並避免過度概括。",
+        "example": "It would be premature to suggest that climate tipping points have been irreversibly crossed without first considering the remarkable capacity of ecosystems to adapt under the right policy conditions."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the debate with a striking reference to recent climate data — such as the record temperatures of 2023 — to immediately engage the reader. Paraphrase the question carefully, present both sides briefly, and end with a clear thesis statement indicating that while certain damage is unavoidable, meaningful action remains both necessary and capable of preventing the worst outcomes.",
+      "body1": "Present and analyse the pessimistic view: discuss how record-breaking temperatures, the crossing of the 1.5°C threshold, accelerating ice melt, and ocean heat records suggest that some climate tipping points may already have been triggered. Use scientific authority by referencing climate bodies like Copernicus. Acknowledge that this perspective has merit and is supported by growing evidence, giving it a fair and substantive treatment.",
+      "body2": "Present and develop the optimistic-yet-urgent counter-view: argue that the difference between 1.5°C and 2°C or 3°C of warming is enormous in terms of human suffering and ecosystem loss, meaning decisive action now — rapid decarbonisation, renewable energy transition, carbon capture, and international cooperation — can still significantly limit catastrophic outcomes. Connect to your own opinion here by asserting that defeatism is itself a danger, and that the framing of 'inevitable damage' must not be used as a reason for inaction.",
+      "conclusion": "Restate your position clearly without introducing new arguments. Emphasise that acknowledging past damage and acting urgently for the future are not mutually exclusive positions. End with a forward-looking statement about the moral and practical imperative for governments, industries, and individuals to act decisively, reinforcing the essay's central argument with confidence and authority."
+    }
+  }
+}
