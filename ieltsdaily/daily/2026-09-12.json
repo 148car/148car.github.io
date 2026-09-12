@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T06:42:39.451103Z",
+  "listening": {
+    "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+    "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Conservationists are racing to save the glutinous snail, one of Europe's rarest species, now found in only one Welsh lake.",
+    "topic_zh": "保育人士正競相拯救歐洲最稀有物種之一的黏性蝸牛，目前該物種僅存於威爾斯一個湖泊中。",
+    "transcript_excerpt": "Welcome to today's programme. We're looking at one of Britain's most endangered creatures — a tiny, gooey snail called Myxas glutinosa, or the glutinous snail. Now, when you think of rare wildlife, you might picture tigers or polar bears, but today we're focusing on something far smaller — a mollusc no bigger than a human fingertip. This remarkable little creature was once widespread across British lakes and rivers, but today it survives in just one place: Llyn Tegid, Wales' largest natural lake, located in Snowdonia National Park. So what happened? Conservationists largely blame water pollution and habitat loss for driving the snail to extinction across England. Its disappearance is particularly worrying because the glutinous snail is considered an indicator species — meaning its presence tells us the water around it is clean and healthy. Lose the snail, and you lose that signal. Fortunately, one man has made it his mission to bring this creature back from the brink. Ian Hughes, a conservationist in Ceredigion, has been breeding the snails in homemade tanks in his back garden since 2014, under special licence from Natural Resources Wales. At one point, he had more snails in his garden than had ever been recorded in the wild. British zoos are now establishing so-called ark populations — a conservation strategy inspired by Noah's Ark — to ensure the species survives even if its wild habitat is lost. Hughes describes the snails as precious as Egyptian artefacts, and his passion for protecting them is truly life-defining.",
+    "vocabulary": [
+      {
+        "word": "glutinous",
+        "type": "adjective",
+        "definition": "Having a thick, sticky, glue-like texture; used to describe substances or surfaces that are gooey or viscous",
+        "definition_zh": "黏稠的；膠狀的，用來形容具有黏糊糊質地的物質",
+        "example": "The glutinous secretion on the snail's shell helps it cling to rocks beneath the water's surface."
+      },
+      {
+        "word": "conservationist",
+        "type": "noun",
+        "definition": "A person who actively works to protect the natural environment, wildlife, and endangered species from harm or extinction",
+        "definition_zh": "保育人士；積極致力於保護自然環境和瀕危物種的人",
+        "example": "The conservationist spent decades campaigning for stricter laws to protect wetland habitats."
+      },
+      {
+        "word": "indicator species",
+        "type": "phrase",
+        "definition": "A plant or animal whose presence, absence, or relative abundance in an ecosystem reflects the overall health or condition of that environment",
+        "definition_zh": "指標物種；其存在或消失能反映該生態系統整體健康狀況的動植物",
+        "example": "Salmon are often used as an indicator species to assess the ecological quality of river systems."
+      },
+      {
+        "word": "ark population",
+        "type": "phrase",
+        "definition": "A captive group of animals maintained in zoos or reserves as a safeguard against extinction in the wild, analogous to Noah's Ark",
+        "definition_zh": "方舟族群；在動物園或保護區中人工圈養的動物群體，作為防止野外滅絕的保障",
+        "example": "The zoo established an ark population of the endangered frog species to ensure its long-term survival."
+      },
+      {
+        "word": "mollusc",
+        "type": "noun",
+        "definition": "A large group of invertebrate animals, typically soft-bodied and often protected by a shell, including snails, slugs, clams, and octopuses",
+        "definition_zh": "軟體動物；一大類無脊椎動物，通常身體柔軟並常有外殼，包括蝸牛、蛞蝓、蛤蜊和章魚等",
+        "example": "Marine molluscs such as oysters and mussels are highly sensitive to changes in ocean acidity."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the programme, why is the glutinous snail considered especially important to scientists and ecologists?",
+        "options": [
+          "A: Because it is commercially valuable as a food source in Wales",
+          "B: Because its presence indicates that surrounding water is clean and ecologically healthy",
+          "C: Because it is the only snail species capable of surviving in cold mountain lakes",
+          "D: Because it produces a unique chemical compound used in medical research"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that the glutinous snail is 'considered an indicator of healthy lakes and rivers,' meaning its presence or absence tells scientists about water quality, making option B correct."
+      },
+      {
+        "q": "What conservation strategy have several British zoos adopted to help protect the glutinous snail?",
+        "options": [
+          "A: Releasing captive-bred snails directly into rivers across England",
+          "B: Lobbying the government to ban water pollution near Llyn Tegid",
+          "C: Establishing ark populations using snails bred by Ian Hughes",
+          "D: Importing snails from other European countries to boost numbers"
+        ],
+        "answer": "C",
+        "explanation": "The programme states that 'several British zoos are setting up so-called ark populations of the glutinous snail, using creatures bred in a back garden in Ceredigion' by Ian Hughes, making C the correct answer."
+      },
+      {
+        "q": "How does Ian Hughes describe the cultural or historical value of the glutinous snail?",
+        "options": [
+          "A: He compares them to ancient Roman coins discovered in Welsh rivers",
+          "B: He says they are as precious as Egyptian artefacts",
+          "C: He likens them to Viking-era manuscripts found in national museums",
+          "D: He describes them as more valuable than any natural gemstone"
+        ],
+        "answer": "B",
+        "explanation": "The passage quotes Hughes directly: the snails were 'something to preserve and cherish like Egyptian artefacts,' making B the only accurate match to his words."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Conservation of the Glutinous Snail: A Race Against Extinction",
+    "passage": "The glutinous snail, Myxas glutinosa, represents one of Britain's most critical conservation challenges. Once distributed widely across the freshwater lakes and rivers of England, Scotland, and Wales, this diminutive mollusc has been progressively eliminated from most of its former range due to a combination of water pollution, agricultural run-off, and the degradation of aquatic habitats. Today, the species survives in only one confirmed location in the United Kingdom: Llyn Tegid, the largest natural lake in Wales, situated within the boundaries of Eryri National Park, commonly known as Snowdonia.\n\nThe snail's ecological significance extends beyond its rarity. As an indicator species, Myxas glutinosa provides scientists with a reliable proxy measure for assessing water quality. Its decline and eventual disappearance from English waterways closely mirrored the deterioration of aquatic ecosystems during the industrial and post-war agricultural eras. Conversely, its continued presence in Llyn Tegid suggests that this particular body of water maintains a relatively high standard of ecological integrity.\n\nIn response to the species' perilous status, conservationist Ian Hughes, operating under licence from Natural Resources Wales since 2014, has established a captive breeding programme in his private garden in Ceredigion. At the programme's peak, Hughes maintained approximately 2,000 individual snails in purpose-built tanks, a figure that exceeded the total number of individuals ever documented in the wild. Concrete shelters have also been installed on the lakebed at Llyn Tegid to provide additional refuge for wild populations.\n\nRecognising the fragility of relying on a single wild population, several British zoological institutions have begun establishing so-called ark populations — captive reserves maintained as an insurance policy against catastrophic habitat loss. This multi-institutional approach mirrors strategies employed for other critically endangered species globally and represents a significant escalation in the effort to prevent the glutinous snail from vanishing entirely from the British Isles. The species' fate is now widely regarded as a litmus test for the broader health of UK freshwater ecosystems.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The glutinous snail has never been found outside of Wales in the United Kingdom.",
+        "answer": "False",
+        "explanation": "The passage clearly states that the snail 'was once distributed widely across the freshwater lakes and rivers of England, Scotland, and Wales,' indicating it previously existed in England and Scotland as well, making this statement false."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Ian Hughes installed concrete shelters within Llyn Tegid itself to help the wild snail population.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that 'concrete shelters have also been installed on the lakebed at Llyn Tegid to provide additional refuge for wild populations,' directly confirming this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The Welsh government provided direct financial funding to Ian Hughes for his captive breeding programme.",
+        "answer": "Not Given",
+        "explanation": "While the passage mentions that Hughes operates 'under licence from Natural Resources Wales,' it makes no mention of any financial funding being provided by the Welsh government or any other body, so this cannot be confirmed or denied."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the primary reason multiple British zoos have begun maintaining ark populations of the glutinous snail?",
+        "options": [
+          "A: To enable scientific research into the snail's unique biochemistry",
+          "B: To generate public interest and funding for broader wildlife conservation",
+          "C: To serve as a safeguard in case the single remaining wild population is lost",
+          "D: To reintroduce the species into rivers and lakes across England"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that ark populations function as 'an insurance policy against catastrophic habitat loss,' directly addressing the risk of the sole wild population at Llyn Tegid being destroyed. Option C best captures this reasoning, while the other options are not supported by the text."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a person you know or have heard about who is passionate about protecting the environment or wildlife.",
+    "topic_zh": "描述一位你認識或聽說過的、對保護環境或野生動物充滿熱情的人。",
+    "part2": {
+      "cue_card": "Describe a person you know or have heard about who is passionate about protecting the environment or wildlife.\n\nYou should say:\n• Who this person is and how you know about them\n• What they do to protect the environment or a particular species\n• What challenges or difficulties they have faced\n• And explain why you find their work admirable or inspiring.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of complex sentence structures and cohesive devices such as 'not only... but also,' 'despite the fact that,' and 'what makes this particularly remarkable is' to demonstrate grammatical range and accuracy at Band 7-9 level.",
+        "Incorporate topic-specific and sophisticated vocabulary such as 'conservation,' 'biodiversity,' 'endangered species,' 'ecological integrity,' and 'life-defining mission' to showcase lexical resource beyond everyday words.",
+        "Develop your answer with personal reflection and abstract commentary — for example, explain what this person's dedication reveals about the relationship between individual action and large-scale environmental change — to show the depth of thinking expected at higher bands."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments do enough to protect endangered species in your country?",
+        "q_zh": "你認為你國家的政府是否為保護瀕危物種做了足夠的努力？",
+        "key_points": [
+          "Acknowledge any existing legislation such as environmental protection acts or wildlife reserves, but point out gaps in enforcement or funding",
+          "Argue that economic pressures often lead governments to prioritise development over conservation, citing examples such as wetland drainage for agriculture",
+          "Suggest that international cooperation and binding treaties are necessary because wildlife conservation cannot be handled effectively by individual nations alone"
+        ]
+      },
+      {
+        "q": "How can ordinary people contribute to the conservation of wildlife in their daily lives?",
+        "q_zh": "普通人在日常生活中可以如何為野生動物保育做出貢獻？",
+        "key_points": [
+          "Reducing pollution and waste, such as minimising single-use plastics that enter waterways and harm aquatic ecosystems",
+          "Supporting conservation organisations financially or through volunteering, which amplifies the impact of professional efforts",
+          "Making informed consumer choices, such as avoiding products linked to habitat destruction like unsustainably sourced palm oil"
+        ]
+      },
+      {
+        "q": "Some people argue that resources spent saving a single rare species would be better used addressing human poverty. To what extent do you agree?",
+        "q_zh": "有些人認為，用於拯救單一稀有物種的資源，不如用於解決人類貧困問題。你在多大程度上同意這一觀點？",
+        "key_points": [
+          "Challenge the false dichotomy by arguing that ecosystem health directly supports human livelihoods, particularly for communities dependent on fisheries, agriculture, or clean water",
+          "Point out that losing an indicator species like the glutinous snail signals broader ecosystem collapse that will ultimately harm human populations too",
+          "Acknowledge that prioritisation is necessary but advocate for integrated policy frameworks where environmental and social goals are pursued simultaneously"
+        ]
+      },
+      {
+        "q": "How has public awareness of environmental issues changed in recent decades, and what has driven this change?",
+        "q_zh": "近幾十年來，公眾對環境議題的認識有何變化？是什麼推動了這種變化？",
+        "key_points": [
+          "The rise of social media and documentary filmmaking has made environmental issues far more visible and emotionally resonant for general audiences worldwide",
+          "Scientific consensus on climate change and biodiversity loss has gradually shifted from academic debate to mainstream public concern, influencing political discourse",
+          "Youth-led movements and high-profile activists have galvanised younger generations to demand systemic change, creating political pressure that was largely absent in previous decades"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that protecting endangered species is essential and should be a government priority, while others argue that the money and resources involved would be better spent on more pressing human needs. Discuss both views and give your own opinion.",
+    "task2_question_zh": "一些人認為保護瀕危物種至關重要，應成為政府的優先事項；而另一些人則認為，相關的資金和資源最好用於解決更緊迫的人類需求。討論兩種觀點並給出你自己的看法。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "a compelling case can be made for",
+        "when_to_use": "Use when introducing an argument you are about to present fairly and thoroughly before offering a counterpoint or your own position",
+        "when_to_use_zh": "用於在提出反駁或自身觀點之前，公平且充分地介紹一個論點",
+        "example": "A compelling case can be made for redirecting conservation budgets toward urban poverty alleviation, particularly in developing nations with limited fiscal resources."
+      },
+      {
+        "phrase": "the ramifications of ... extend far beyond",
+        "when_to_use": "Use when arguing that the consequences of an issue or action are broader and more complex than they initially appear",
+        "when_to_use_zh": "用於論證某一問題或行動的後果比表面看起來更廣泛、更複雜",
+        "example": "The ramifications of losing indicator species extend far beyond mere biodiversity statistics, ultimately threatening the stability of entire freshwater ecosystems."
+      },
+      {
+        "phrase": "it would be an oversimplification to suggest that",
+        "when_to_use": "Use to introduce a nuanced critique of a widely held but reductive viewpoint, demonstrating critical thinking",
+        "when_to_use_zh": "用於對普遍但過於簡化的觀點進行有細緻的批判，展現批判性思維",
+        "example": "It would be an oversimplification to suggest that environmental protection and poverty reduction are mutually exclusive policy goals."
+      },
+      {
+        "phrase": "proponents of this view contend that",
+        "when_to_use": "Use when presenting the arguments of one side in a discussion essay in a formal and balanced academic manner",
+        "when_to_use_zh": "用於在討論型作文中以正式且平衡的學術方式呈現一方的論點",
+        "example": "Proponents of this view contend that preserving biodiversity is not a luxury but a prerequisite for long-term human survival and economic stability."
+      },
+      {
+        "phrase": "on balance, the evidence suggests that",
+        "when_to_use": "Use in a conclusion or when synthesising arguments to signal your considered, evidence-based final judgement",
+        "when_to_use_zh": "用於結論段或綜合論點時，表示你經過深思熟慮、基於證據的最終判斷",
+        "example": "On balance, the evidence suggests that protecting endangered species and addressing human welfare are complementary rather than competing priorities."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a thought-provoking observation about the accelerating rate of species extinction globally, then introduce the tension between conservation spending and human welfare needs. Paraphrase the question and clearly state that while both perspectives have merit, the essay will argue that conservation and human development are ultimately complementary rather than competing priorities.",
+      "body1": "Present the argument in favour of prioritising human needs, acknowledging that in countries with extreme poverty, limited government budgets, and urgent public health crises, allocating substantial funds to protecting a single rare species can appear difficult to justify morally and politically. Use specific examples such as resource allocation trade-offs in developing nations to give this viewpoint credibility before transitioning with a concessive phrase.",
+      "body2": "Argue that protecting endangered species is not only an ethical obligation but a practical necessity for human survival, using the concept of indicator species and ecosystem services to demonstrate that healthy biodiversity underpins food security, clean water, and climate regulation. Reference how the loss of species like the glutinous snail signals broader ecological collapse that will ultimately harm human communities most severely, particularly the rural and agricultural populations who depend directly on clean waterways.",
+      "conclusion": "Restate your position that the framing of conservation versus human welfare is a false dichotomy, and call for integrated policy frameworks that pursue both goals simultaneously. End with a forward-looking statement about the long-term consequences of inaction, reinforcing the idea that investing in biodiversity today is an investment in human wellbeing tomorrow."
+    }
+  }
+}
