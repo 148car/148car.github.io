@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T06:58:50.517015Z",
+  "listening": {
+    "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
+    "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UK oil and gas industry is calling for government support to unlock over 100 new North Sea projects and reduce reliance on energy imports.",
+    "topic_zh": "英國石油和天然氣行業呼籲政府支持，以解鎖北海超過100個新項目，減少對能源進口的依賴。",
+    "transcript_excerpt": "The North Sea has been at the heart of British energy production for decades, but the industry is now facing a critical crossroads. According to a new report by Offshore Energies UK, the country could supply as much as half of its oil and gas needs domestically, but only if the government takes decisive action. The report argues that scrapping the current windfall tax on energy companies — known as the Energy Profits Levy — and approving two controversial fields, Rosebank and Jackdaw, could unlock as many as 111 new projects. That would attract investment worth around fifty billion pounds and support hundreds of thousands of jobs across the UK. However, critics are deeply sceptical. Environmental campaigners at Uplift have dismissed the industry's claims as little more than fantasy, accusing oil companies of pushing self-interested demands that ignore the urgent need to transition to clean energy. What makes this debate so complex is that the UK is caught between two pressing concerns: energy security and climate responsibility. North Sea output has been declining sharply, and projections suggest domestic supplies will cover only about one third of demand by 2050. Meanwhile, the complete absence of new exploration drilling last year — a first in the North Sea's history — has alarmed industry leaders who warn that without reform, the sector faces an irreversible decline.",
+    "vocabulary": [
+      {
+        "word": "windfall tax",
+        "type": "noun",
+        "definition": "An unexpected or additional tax imposed by a government on companies that have made unusually large profits, often due to external circumstances such as rising commodity prices.",
+        "definition_zh": "暴利稅：政府對因外部情況（如商品價格上漲）而獲得異常高額利潤的公司徵收的額外稅款。",
+        "example": "The government introduced a windfall tax on oil companies after their profits surged due to the global energy crisis."
+      },
+      {
+        "word": "stifle",
+        "type": "verb",
+        "definition": "To suppress, restrict, or prevent something from developing or happening, often used in economic or creative contexts.",
+        "definition_zh": "抑制、阻礙：壓制或限制某事物的發展，常用於經濟或創意領域。",
+        "example": "Critics argued that excessive regulation would stifle investment in the renewable energy sector."
+      },
+      {
+        "word": "fiscal reform",
+        "type": "phrase",
+        "definition": "Changes made to a government's tax policies or public spending frameworks, typically intended to stimulate economic activity or address financial imbalances.",
+        "definition_zh": "財政改革：對政府稅收政策或公共支出框架進行調整，通常旨在刺激經濟活動或解決財政失衡。",
+        "example": "Industry leaders insisted that fiscal reform was essential to attract long-term capital into the North Sea."
+      },
+      {
+        "word": "energy security",
+        "type": "noun",
+        "definition": "A country's ability to ensure a stable, reliable and affordable supply of energy, reducing vulnerability to supply disruptions or price shocks.",
+        "definition_zh": "能源安全：一個國家確保穩定、可靠且負擔得起的能源供應的能力，減少對供應中斷或價格衝擊的脆弱性。",
+        "example": "Domestic oil production is often justified on the grounds of energy security, particularly during periods of geopolitical instability."
+      },
+      {
+        "word": "exploration well",
+        "type": "noun",
+        "definition": "A borehole drilled in a new or unproven area to determine whether commercially viable deposits of oil or gas exist underground.",
+        "definition_zh": "勘探井：在新的或未經證實的地區鑽探的孔洞，用以確定地下是否存在具商業價值的石油或天然氣儲量。",
+        "example": "Not a single exploration well was drilled in the North Sea last year, signalling a sharp decline in industry confidence."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report by Offshore Energies UK, what could unlock 111 new oil and gas projects?",
+        "options": [
+          "A: Building new renewable energy infrastructure alongside existing oil fields",
+          "B: Scrapping the Energy Profits Levy and approving the Rosebank and Jackdaw fields",
+          "C: Increasing imports from neighbouring countries to reduce domestic pressure",
+          "D: Introducing a new government-owned energy company to manage North Sea resources"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that changes to the windfall tax (the EPL) and approval of the Rosebank and Jackdaw fields could unlock 111 projects, making B the correct answer."
+      },
+      {
+        "q": "What happened in the North Sea last year that had never occurred before in its history?",
+        "options": [
+          "A: The government nationalised all offshore energy assets",
+          "B: Oil prices fell to their lowest recorded level",
+          "C: Not a single exploration well was drilled",
+          "D: A major oil spill caused widespread environmental damage"
+        ],
+        "answer": "C",
+        "explanation": "The transcript states that for the first time since North Sea production began, not a single exploration well was drilled last year, which is a historic milestone highlighting the sector's decline."
+      },
+      {
+        "q": "How does the environmental group Uplift describe the industry's report?",
+        "options": [
+          "A: A well-researched but overly optimistic projection",
+          "B: A fantasy driven by self-interested demands",
+          "C: A reasonable proposal that deserves government consideration",
+          "D: An accurate analysis of the UK's energy security needs"
+        ],
+        "answer": "B",
+        "explanation": "The passage directly quotes Uplift branding the report a 'fantasy' and accusing oil companies of making 'self-interested demands', making B the correct choice."
+      }
+    ]
+  },
+  "reading": {
+    "title": "North Sea Energy Production: Balancing Economic Interests and Environmental Responsibility",
+    "passage": "The United Kingdom's North Sea oil and gas sector stands at a pivotal juncture, with industry leaders pressing the government for substantial policy reform while environmental advocates argue for accelerating the transition to renewable energy. At the centre of this debate is a report published by Offshore Energies UK (OEUK), which contends that with appropriate fiscal and regulatory changes, the country could supply approximately half of its own oil and gas requirements, significantly reducing its dependence on imports.\n\nCentral to the industry's demands is the abolition of the Energy Profits Levy (EPL), a windfall tax introduced in response to the surge in energy company profits following global supply disruptions. OEUK argues that the levy has severely dampened investment incentives, particularly because it continues to apply even when wholesale energy prices fall, creating financial uncertainty for long-term project planning. The organisation proposes replacing the EPL with an alternative mechanism — the Oil and Gas Revenue Levy — which would only be triggered during periods of elevated prices, thereby offering greater stability to investors.\n\nThe report also calls for the approval of the Rosebank and Jackdaw fields, both of which have been subject to legal challenges brought by environmental groups. OEUK estimates that unlocking these projects, alongside broader regulatory reform, could attract investment worth £50 billion and preserve approximately 180,000 jobs that the sector currently supports across the United Kingdom.\n\nHowever, critics contend that expanding fossil fuel extraction contradicts the UK's climate commitments and that investment in domestic oil and gas merely delays an inevitable transition. Environmental campaigners insist that true energy security lies in accelerating the deployment of renewables rather than prolonging dependence on finite hydrocarbon reserves. With North Sea output projected to satisfy only one third of domestic demand by 2050, the debate over the sector's future carries profound implications for both national energy policy and international climate obligations.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Energy Profits Levy currently applies only when wholesale oil and gas prices exceed a certain threshold.",
+        "answer": "False",
+        "explanation": "The passage states the opposite — the EPL remains in place even when wholesale prices fall, which is precisely why the industry argues it stifles investment."
+      },
+      {
+        "type": "TFNG",
+        "statement": "OEUK estimates that the unlocking of new projects could attract £50 billion in investment.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that fiscal reform and project approvals 'could attract investment worth £50 billion', confirming this statement as true."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The UK government has officially rejected the OEUK report's recommendations as incompatible with its climate targets.",
+        "answer": "Not Given",
+        "explanation": "The passage does not mention any official government response to the OEUK report, making this statement impossible to verify from the information provided."
+      },
+      {
+        "type": "MCQ",
+        "q": "What is the primary reason OEUK gives for why the Energy Profits Levy has harmed the North Sea sector?",
+        "options": [
+          "A: It has forced energy companies to relocate their headquarters outside the UK",
+          "B: It reduces government revenue during periods of high oil prices",
+          "C: It continues to apply even when energy prices are low, discouraging investment",
+          "D: It was introduced without proper consultation with the oil and gas industry"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that the EPL 'continues to apply even when wholesale energy prices fall, creating financial uncertainty', which OEUK identifies as the key reason it stifles investment."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a debate or controversy about an environmental or energy issue that you have heard or read about.",
+    "topic_zh": "描述一個你曾聽過或讀過的有關環境或能源問題的爭論或爭議。",
+    "part2": {
+      "cue_card": "Describe a debate or controversy about an environmental or energy issue that you have heard or read about.\n\nYou should say:\n- What the issue or controversy was about\n- Where you first heard or read about it\n- What the different sides of the argument were\n\nAnd explain what you personally think about this issue and why.",
+      "band_tips": [
+        "Use precise academic vocabulary related to energy and environment such as 'fossil fuel extraction', 'fiscal incentives', 'energy sovereignty' and 'carbon transition' to demonstrate a wide lexical range and boost your Lexical Resource score.",
+        "Structure your response clearly by using discourse markers such as 'To begin with', 'On the one hand', 'By contrast' and 'Ultimately' to guide the examiner through your ideas and strengthen your Coherence and Cohesion score.",
+        "Express your personal opinion with hedged but confident language such as 'I would argue that', 'It seems to me that' and 'From my perspective' to demonstrate grammatical sophistication and avoid sounding overly assertive or one-sided."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should prioritise domestic energy production over environmental concerns during times of economic difficulty?",
+        "q_zh": "你認為在經濟困難時期，政府應該優先考慮國內能源生產而非環境問題嗎？",
+        "key_points": [
+          "Energy security is a legitimate short-term concern, particularly when global supply chains are unstable and vulnerable to geopolitical disruptions",
+          "However, prioritising fossil fuel extraction over environmental protection risks locking countries into carbon-intensive infrastructure for decades, making future transitions more costly",
+          "A balanced approach involving investment in both transitional domestic production and accelerated renewables deployment may offer the most pragmatic solution"
+        ]
+      },
+      {
+        "q": "How effective do you think taxation policies such as windfall taxes are in regulating the behaviour of large energy corporations?",
+        "q_zh": "你認為像暴利稅這樣的稅收政策在規範大型能源公司行為方面有多大效果？",
+        "key_points": [
+          "Windfall taxes can serve as an effective short-term mechanism to redistribute extraordinary profits and fund public services or green energy transitions",
+          "However, if poorly designed or applied indiscriminately regardless of market conditions, they risk deterring long-term investment and undermining the stability that capital-intensive industries require",
+          "Governments must strike a careful balance between capturing excess profits and maintaining an investment environment that encourages domestic production and innovation"
+        ]
+      },
+      {
+        "q": "To what extent do you believe that ordinary citizens have a responsibility to reduce their personal consumption of fossil fuels?",
+        "q_zh": "你在多大程度上認為普通市民有責任減少個人對化石燃料的消耗？",
+        "key_points": [
+          "Individual behavioural change can contribute meaningfully to emissions reduction, particularly through choices around transportation, diet and home energy use",
+          "Nevertheless, structural factors such as inadequate public transport, high costs of electric vehicles and lack of renewable energy access often constrain individual choices, suggesting that systemic change is more impactful than personal responsibility alone",
+          "There is a risk that overemphasising personal responsibility diverts attention from the much larger emissions generated by corporations and governments, who arguably bear greater accountability"
+        ]
+      },
+      {
+        "q": "Do you think international cooperation or national policy is more important in addressing global energy and climate challenges?",
+        "q_zh": "你認為在應對全球能源和氣候挑戰方面，國際合作還是國家政策更為重要？",
+        "key_points": [
+          "Climate change and energy security are inherently transboundary issues, and unilateral national policies are insufficient to address phenomena that transcend borders, making international frameworks such as the Paris Agreement essential",
+          "At the same time, national governments retain primary authority over their own energy mix, taxation systems and regulatory environments, meaning domestic policy remains the most direct lever for change",
+          "Ideally, the two levels are mutually reinforcing — international agreements set binding targets and accountability mechanisms, while national policies translate those commitments into concrete legislative and fiscal action"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people argue that governments should continue to support domestic oil and gas production in order to ensure energy security and protect jobs. Others believe that such support is incompatible with the urgent need to transition to renewable energy sources. Discuss both views and give your own opinion.",
+    "task2_question_zh": "一些人認為政府應繼續支持國內石油和天然氣生產，以確保能源安全並保護就業機會。另一些人則認為這種支持與緊迫的可再生能源轉型需求不相容。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "proponents of this view contend that",
+        "when_to_use": "Use to introduce the supporting arguments for one side of a debate in a neutral and academic manner",
+        "when_to_use_zh": "用於以中立且學術的方式介紹辯論中某一方的支持論點",
+        "example": "Proponents of this view contend that domestic oil production is essential for maintaining energy sovereignty during periods of global instability."
+      },
+      {
+        "phrase": "it is worth acknowledging that",
+        "when_to_use": "Use to concede a valid point made by the opposing side before presenting a counter-argument, demonstrating balanced reasoning",
+        "when_to_use_zh": "用於在提出反駁論點之前承認對立方的有效觀點，展示平衡的推理能力",
+        "example": "It is worth acknowledging that the transition to renewable energy cannot happen overnight and that interim reliance on fossil fuels may be unavoidable."
+      },
+      {
+        "phrase": "the long-term consequences of",
+        "when_to_use": "Use to shift the discussion toward broader temporal implications of a policy or decision, which is particularly effective in conclusion paragraphs",
+        "when_to_use_zh": "用於將討論引向某項政策或決定的更廣泛時間影響，在結論段落中特別有效",
+        "example": "The long-term consequences of continued fossil fuel investment may include irreversible environmental damage that outweighs any short-term economic gains."
+      },
+      {
+        "phrase": "strikes a pragmatic balance between",
+        "when_to_use": "Use to describe or propose a moderate solution that reconciles two competing priorities, demonstrating sophisticated analytical thinking",
+        "when_to_use_zh": "用於描述或提出一個能調和兩種競爭優先事項的溫和解決方案，展示成熟的分析思維",
+        "example": "A well-designed energy policy strikes a pragmatic balance between maintaining domestic supply and investing in clean alternatives."
+      },
+      {
+        "phrase": "is fundamentally at odds with",
+        "when_to_use": "Use to highlight a clear incompatibility or contradiction between two positions, arguments or values",
+        "when_to_use_zh": "用於強調兩種立場、論點或價值觀之間存在明顯的不相容性或矛盾",
+        "example": "Expanding offshore drilling infrastructure is fundamentally at odds with a country's commitment to achieving net-zero carbon emissions by mid-century."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the global energy dilemma — nations are simultaneously facing energy insecurity and climate urgency. Paraphrase the question and clearly state that this essay will examine both sides before presenting a nuanced personal opinion that favours a transitional approach rather than an absolute position.",
+      "body1": "Present the case for continued government support of domestic oil and gas. Argue that energy security is a legitimate national interest, particularly given geopolitical volatility, that domestic production can reduce import dependency, and that the sector supports a substantial number of skilled jobs that cannot be eliminated overnight without serious economic and social consequences.",
+      "body2": "Present the opposing argument that prolonging fossil fuel dependence undermines climate commitments and delays the structural shift that science demands. Argue that windfall profits from oil companies could instead fund renewable energy infrastructure, that job losses in fossil fuels can be offset by employment in the growing green economy, and that continued approval of new extraction projects contradicts net-zero targets.",
+      "conclusion": "Conclude by offering a personally reasoned position: governments should avoid a binary choice and instead pursue a managed energy transition — using conditional, time-limited support for domestic fossil fuels to ensure near-term security while simultaneously redirecting investment and policy incentives firmly toward renewables, with clear legislative milestones to hold both industry and government accountable."
+    }
+  }
+}
