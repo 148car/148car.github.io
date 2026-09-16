@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T07:00:46.224958Z",
+  "listening": {
+    "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+    "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The UK government's advisers say Heathrow's third runway can only proceed if airlines fund cleaner fuels and carbon removal technologies to meet net zero targets.",
+    "topic_zh": "英國政府顧問表示，希思羅機場第三條跑道只有在航空公司資助清潔燃料和碳移除技術以實現淨零目標的前提下才能推進。",
+    "transcript_excerpt": "The debate over Heathrow Airport's long-proposed third runway has reached a critical turning point. The Climate Change Committee, the UK government's independent advisory body on emissions, has issued a stark warning: expansion cannot go ahead under current climate policies. While the committee does not have the power to block the runway outright, it is urging lawmakers to pass legislation that would force the aviation industry to shoulder the financial burden of decarbonisation. This means airlines would be required to invest in sustainable aviation fuels and in direct air capture technology — machines that literally suck carbon dioxide out of the atmosphere. The cost of implementing these measures would almost certainly be passed on to passengers. Economists estimate that a return flight to Alicante could cost around one hundred and fifty pounds more by 2050, while a transatlantic return to New York might increase by as much as four hundred pounds in today's money. The expanded airport, if approved in a parliamentary vote expected later this year, would raise Heathrow's capacity from 85 million to 150 million passengers annually. Critics argue that such growth is fundamentally incompatible with the UK's legally binding net zero commitments. Supporters, however, insist that economic growth and environmental responsibility are not mutually exclusive goals, and that with the right policy framework, both can be achieved simultaneously.",
+    "vocabulary": [
+      {
+        "word": "decarbonisation",
+        "type": "noun",
+        "definition": "The process of reducing or eliminating carbon dioxide emissions from an industry or economy, typically by switching to cleaner energy sources or technologies.",
+        "definition_zh": "去碳化：通過轉向清潔能源或技術，減少或消除某個行業或經濟體中的二氧化碳排放的過程。",
+        "example": "The government's decarbonisation strategy requires all major industries to reach net zero emissions by 2050."
+      },
+      {
+        "word": "compatible",
+        "type": "adjective",
+        "definition": "Able to exist or work together without conflict; in harmony with another thing or set of conditions.",
+        "definition_zh": "相容的；能夠共存或協調運作的，與另一事物或條件不衝突的。",
+        "example": "Rapid economic expansion is not always compatible with ambitious environmental targets."
+      },
+      {
+        "word": "legislation",
+        "type": "noun",
+        "definition": "Laws that have been officially enacted by a government or parliament, or the process of making such laws.",
+        "definition_zh": "立法；由政府或議會正式頒布的法律，或制定此類法律的過程。",
+        "example": "Environmental campaigners are calling for stronger legislation to limit carbon emissions from the transport sector."
+      },
+      {
+        "word": "sustainable aviation fuel",
+        "type": "phrase",
+        "definition": "A category of jet fuel produced from renewable or waste-based sources that generates significantly fewer lifecycle carbon emissions than conventional fossil-based jet fuel.",
+        "definition_zh": "永續航空燃料：一種由可再生或廢棄物來源生產的噴射燃料，其全生命週期碳排放量遠低於傳統化石燃料。",
+        "example": "Several major airlines have pledged to replace a portion of their conventional fuel with sustainable aviation fuel by 2030."
+      },
+      {
+        "word": "direct air capture",
+        "type": "phrase",
+        "definition": "A technology that mechanically removes carbon dioxide directly from the ambient atmosphere and stores it underground or uses it for other purposes.",
+        "definition_zh": "直接空氣捕獲：一種從環境大氣中直接機械性地移除二氧化碳並將其儲存於地下或作其他用途的技術。",
+        "example": "Although direct air capture is promising, critics note that it remains extremely expensive and energy-intensive at scale."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the Climate Change Committee, what is the main condition for Heathrow expansion to proceed?",
+        "options": [
+          "A: The government must hold a public referendum on the runway",
+          "B: The aviation industry must fund cleaner fuels and carbon removal technologies",
+          "C: Heathrow must reduce its current passenger capacity before expanding",
+          "D: Airlines must agree to stop operating long-haul flights by 2050"
+        ],
+        "answer": "B",
+        "explanation": "The CCC explicitly stated that expansion can go ahead only if the aviation industry funds sustainable fuels and direct air capture machines, making airlines financially responsible for decarbonisation."
+      },
+      {
+        "q": "What would the financial impact on passengers likely be for a return flight from the UK to New York by 2050?",
+        "options": [
+          "A: An increase of approximately £150",
+          "B: No change, as costs would be absorbed by the government",
+          "C: An increase of approximately £400",
+          "D: A reduction due to greater airport efficiency"
+        ],
+        "answer": "C",
+        "explanation": "The passage states that a return trip to New York could cost up to £400 more in today's prices by 2050, reflecting the cost of decarbonisation measures being passed on to travellers."
+      },
+      {
+        "q": "What is the role of the Climate Change Committee regarding the Heathrow runway decision?",
+        "options": [
+          "A: It has the legal authority to block construction of the runway",
+          "B: It advises the government but cannot directly prevent the runway from being built",
+          "C: It will cast the deciding vote in the House of Commons",
+          "D: It manages the public consultation on behalf of the Department for Transport"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that the CCC report cannot block a new runway; it can only advise and urge the government to pass appropriate legislation, with the final approval coming via a Commons vote."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Aviation Expansion and Net Zero: Balancing Growth with Climate Responsibility",
+    "passage": "The proposed expansion of Heathrow Airport through the construction of a third runway has reignited a longstanding debate about the tension between economic development and environmental sustainability. At the heart of this controversy lies a fundamental question: can one of the world's busiest airports continue to grow while the United Kingdom remains committed to its legally binding net zero emissions target for 2050?\n\nThe Climate Change Committee (CCC), an independent statutory body that advises the UK government on climate action, has concluded that expansion is not currently compatible with national climate goals. In a comprehensive report, the committee argued that the aviation industry must be made financially responsible for its own decarbonisation. Specifically, it recommended that airlines be required to invest in sustainable aviation fuels — derived from sources such as agricultural waste or synthetic processes — and in direct air capture technology, which mechanically extracts carbon dioxide from the atmosphere.\n\nThe economic implications of such measures are considerable. Analysts estimate that absorbing these costs would raise the price of a return flight to a short-haul European destination by approximately £150, and a long-haul return to North America by as much as £400, calculated in present-day monetary values. Critics of the expansion argue that placing this financial burden solely on the airline industry will inevitably translate into higher fares for ordinary passengers, disproportionately affecting lower-income travellers who have only recently gained access to affordable air travel.\n\nProponents of the expansion, including Heathrow Airport itself, maintain that environmental targets and infrastructure growth are not mutually exclusive. They argue that a modern, expanded airport equipped with the latest efficiency technologies could actually improve emissions performance per passenger. The £33 billion project, if approved by Parliament, would increase annual passenger capacity from 85 million to 150 million, making Heathrow the largest single source of carbon emissions in the UK economy by 2050. The government has indicated it will weigh the proposal against four criteria: economic benefit, climate impact, air quality, and noise pollution.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Climate Change Committee has the legal power to prevent the construction of Heathrow's third runway.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that the CCC cannot block the runway; it can only advise the government and recommend legislation. The final decision rests with a parliamentary vote."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Sustainable aviation fuels can be produced from agricultural waste materials.",
+        "answer": "True",
+        "explanation": "The passage directly mentions that sustainable aviation fuels can be 'derived from sources such as agricultural waste or synthetic processes,' confirming this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The majority of lower-income passengers currently support the Heathrow expansion project.",
+        "answer": "Not Given",
+        "explanation": "While the passage mentions that lower-income travellers could be disproportionately affected by higher fares, it provides no information about their opinions or levels of support for or against the expansion."
+      },
+      {
+        "type": "MCQ",
+        "q": "What does the passage suggest about the relationship between airport expansion and environmental targets, according to Heathrow's supporters?",
+        "options": [
+          "A: Expansion will inevitably worsen the UK's overall carbon emissions record",
+          "B: Economic growth and climate goals can be pursued simultaneously with the right technology",
+          "C: The government should delay the project until net zero is already achieved",
+          "D: Lower passenger capacity is the only effective way to reduce aviation emissions"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that Heathrow's proponents 'maintain that environmental targets and infrastructure growth are not mutually exclusive,' and suggest that modern efficiency technologies could improve emissions per passenger, directly supporting option B."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a significant infrastructure project in your country or a country you know well.",
+    "topic_zh": "描述你的國家或你熟悉的國家中一個重要的基礎設施項目。",
+    "part2": {
+      "cue_card": "Describe a significant infrastructure project in your country or a country you know well.\n\nYou should say:\n• What the project is and where it is located\n• What its main purpose or function would be\n• What controversies or challenges surround it\n• And explain whether you think the project should go ahead and why.",
+      "band_tips": [
+        "Use a range of complex sentence structures and hedging language such as 'it could be argued that' or 'proponents contend that' to demonstrate Band 7-9 sophistication.",
+        "Incorporate topic-specific vocabulary such as 'carbon footprint,' 'net zero commitments,' 'sustainable development,' and 'infrastructure capacity' to show lexical range.",
+        "Organise your response clearly using discourse markers like 'In terms of its purpose,' 'On the other hand,' and 'Ultimately,' and aim to speak fluently for the full two minutes without excessive hesitation."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Should governments prioritise economic growth or environmental protection when making decisions about large infrastructure projects?",
+        "q_zh": "政府在決定大型基礎設施項目時，應優先考慮經濟增長還是環境保護？",
+        "key_points": [
+          "Acknowledge the false dichotomy — modern policy frameworks increasingly argue that green growth is possible, meaning both goals can be pursued together with the right investment and regulation.",
+          "Note that short-term economic benefits must be weighed against long-term environmental costs, which can themselves become economic liabilities, such as through climate-related disasters or regulatory penalties.",
+          "Suggest that the polluter pays principle — where industries responsible for emissions fund their own clean-up — offers a balanced compromise that does not require choosing one goal over the other."
+        ]
+      },
+      {
+        "q": "How effective do you think carbon taxes or financial penalties are in changing the behaviour of large corporations?",
+        "q_zh": "你認為碳稅或罰款對改變大型企業行為的效果如何？",
+        "key_points": [
+          "Financial instruments can be highly effective when the cost of non-compliance exceeds the cost of adaptation, incentivising genuine behavioural change rather than greenwashing.",
+          "However, corporations may simply pass costs onto consumers rather than investing in cleaner technologies, meaning the burden shifts without actual systemic change occurring.",
+          "Long-term effectiveness depends on consistent and robust regulatory enforcement, with escalating penalties over time that keep pace with the scale of climate ambition."
+        ]
+      },
+      {
+        "q": "Do you think ordinary people should bear higher travel costs in order to pay for greener aviation technology?",
+        "q_zh": "你認為普通民眾是否應該承擔更高的旅行費用來支付更環保的航空技術？",
+        "key_points": [
+          "There is a strong equity argument that frequent flyers — who tend to be wealthier — should bear a proportionally greater share of the cost through progressive taxation on air travel rather than flat fare increases.",
+          "Some argue that slightly higher fares are a reasonable and necessary reflection of the true environmental cost of flying, and that artificially cheap air travel has historically been subsidised at the planet's expense.",
+          "Governments could consider targeted subsidies or travel vouchers to protect access to air travel for lower-income groups while still incentivising the industry to decarbonise."
+        ]
+      },
+      {
+        "q": "To what extent do you believe international cooperation is necessary to address the environmental impact of global aviation?",
+        "q_zh": "你在多大程度上認為國際合作對於解決全球航空業的環境影響是必要的？",
+        "key_points": [
+          "Aviation is inherently a cross-border industry, meaning unilateral national policies risk creating carbon leakage, where airlines simply reroute through less regulated countries to avoid stricter rules.",
+          "International bodies such as the International Civil Aviation Organisation (ICAO) already exist to coordinate global standards, but critics argue their targets are insufficiently ambitious and legally unenforceable.",
+          "Successful precedents such as the Montreal Protocol on ozone-depleting substances demonstrate that binding international agreements on environmental issues are both achievable and effective when there is political will."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that the expansion of major airports is essential for economic growth and should be approved regardless of the environmental consequences. Others argue that no new airport infrastructure should be built until the aviation industry fully meets its climate targets. Discuss both views and give your own opinion.",
+    "task2_question_zh": "一些人認為，主要機場的擴建對經濟增長至關重要，應不顧環境後果予以批准。另一些人則認為，在航空業完全達到其氣候目標之前，不應建設任何新的機場基礎設施。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "proponents of this view contend that",
+        "when_to_use": "Use when introducing the arguments of one side in a balanced discussion essay, particularly to present a position you may later challenge or qualify.",
+        "when_to_use_zh": "在討論型作文中介紹某一方觀點時使用，尤其是在你之後可能會質疑或修正該立場時。",
+        "example": "Proponents of this view contend that airport expansion generates tens of thousands of jobs and catalyses broader regional economic development."
+      },
+      {
+        "phrase": "it is worth acknowledging that",
+        "when_to_use": "Use to concede a valid point made by the opposing side before introducing your own counterargument, demonstrating balanced and nuanced reasoning.",
+        "when_to_use_zh": "在提出反駁之前，用於承認對立方的有效觀點，展現平衡且細緻的論述能力。",
+        "example": "It is worth acknowledging that aviation has historically been one of the most difficult sectors to decarbonise, given the current technological limitations of electric aircraft."
+      },
+      {
+        "phrase": "the polluter pays principle dictates that",
+        "when_to_use": "Use when arguing that industries or individuals responsible for environmental damage should bear the financial cost of remediation, a key concept in environmental economics.",
+        "when_to_use_zh": "用於主張對環境造成損害的行業或個人應承擔修復費用，這是環境經濟學中的核心概念。",
+        "example": "The polluter pays principle dictates that aviation companies, rather than taxpayers, should fund the development of carbon capture and sustainable fuel technologies."
+      },
+      {
+        "phrase": "striking a balance between ... and ...",
+        "when_to_use": "Use in conclusions or thesis statements to express the idea that two competing priorities can and should be pursued together rather than treated as mutually exclusive.",
+        "when_to_use_zh": "在結論或論點陳述中使用，表達兩個相互競爭的優先事項可以且應該同時被追求，而非相互排斥。",
+        "example": "Policymakers must focus on striking a balance between facilitating economic connectivity and upholding legally binding environmental commitments."
+      },
+      {
+        "phrase": "conditional upon meeting stringent environmental criteria",
+        "when_to_use": "Use when proposing that approval or progress on a project should only be granted if specific environmental standards or conditions are first satisfied.",
+        "when_to_use_zh": "當提議某項目的批准或推進應以首先滿足特定環境標準或條件為前提時使用。",
+        "example": "The committee recommended that any runway approval be made conditional upon meeting stringent environmental criteria, including verified reductions in net carbon output."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question to highlight the central tension between infrastructure-driven economic growth and climate responsibility. Present a clear thesis stating that while expansion can deliver genuine economic benefits, it should only proceed on the condition that the aviation industry is legally required to fund its own decarbonisation — a compromise that avoids treating growth and sustainability as mutually exclusive.",
+      "body1": "Present the case for airport expansion: discuss its role in boosting trade, tourism, and employment; note that modern infrastructure can improve operational efficiency per passenger; and acknowledge that economic connectivity is a legitimate government priority, especially in post-pandemic recovery contexts. Use phrases like 'proponents contend' and 'it is undeniable that' to frame this view fairly before introducing qualifications.",
+      "body2": "Present the environmental counter-argument: explain that unchecked expansion risks making airports the single largest source of national carbon emissions, undermining legally binding net zero targets. Argue that the polluter pays principle is the most equitable solution — requiring airlines to invest in sustainable aviation fuels and direct air capture technology rather than externalising environmental costs onto society. Acknowledge the short-term impact on fare prices while arguing this reflects the true cost of flying.",
+      "conclusion": "Restate your position that expansion and environmental responsibility are not inherently incompatible, but that robust legislative conditions must be in place before construction begins. Emphasise that without enforceable requirements for industry-funded decarbonisation, approval would set a damaging precedent for other high-emission sectors seeking to grow without accountability."
+    }
+  }
+}
