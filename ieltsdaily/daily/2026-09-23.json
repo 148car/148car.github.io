@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T07:00:13.357127Z",
+  "listening": {
+    "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+    "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "Indonesia's devastating wildfires have caused over 175,000 respiratory illness cases, worsened by El Niño conditions and vast peatland fires affecting multiple Southeast Asian nations.",
+    "topic_zh": "印尼的毀滅性野火造成超過17.5萬人患呼吸道疾病，受到聖嬰現象惡化及大面積泥炭地火災影響，並波及多個東南亞國家。",
+    "transcript_excerpt": "Welcome to today's programme. We're looking at a serious environmental and public health crisis unfolding in Southeast Asia. Indonesia is currently battling some of the worst wildfires it has seen in years, and the consequences are devastating. More than 175,000 people have suffered respiratory illnesses since August alone, according to the country's health ministry. That's an alarming figure, and it includes over 40,000 toddlers — very young children who are particularly vulnerable to air pollution. The fires have blanketed large parts of Indonesia, as well as neighbouring countries like Malaysia and Singapore, in thick, toxic smog. Air quality indices in many areas have been pushed into what officials describe as 'unhealthy' territory. So what's making this year so much worse than usual? Indonesia does experience wildfires every dry season, typically between July and October. But this year, a phenomenon known as a 'Godzilla' El Niño has turbocharged conditions, creating exceptionally dry weather that has allowed fires to spread far more rapidly. The independent monitoring platform Nusantara Atlas has recorded around 734,000 hotspots across the country — a figure more than 30% higher than during 2019, which was itself one of Indonesia's worst wildfire seasons on record. Nearly 900,000 hectares of land have already burned. The government has deployed over 54,000 officials and dozens of aircraft for water-bombing operations, but challenging peatland geography continues to hamper firefighting efforts significantly.",
+    "vocabulary": [
+      {
+        "word": "respiratory",
+        "type": "adjective",
+        "definition": "relating to the process of breathing and the organs involved in it, such as the lungs and airways",
+        "definition_zh": "呼吸的；與呼吸系統相關的",
+        "example": "Prolonged exposure to wildfire smoke can lead to serious respiratory conditions, including bronchitis and pneumonia."
+      },
+      {
+        "word": "peatland",
+        "type": "noun",
+        "definition": "a type of wetland terrain composed of thick layers of partially decomposed organic matter, which is highly flammable when dry",
+        "definition_zh": "泥炭地；由部分分解的有機物質構成的濕地，乾燥時極易燃燒",
+        "example": "Firefighters found it extremely difficult to extinguish blazes in peatland areas because the fire burns deep underground."
+      },
+      {
+        "word": "turbocharged",
+        "type": "verb",
+        "definition": "(informal) to significantly intensify or accelerate something, making it much more powerful or severe than it would otherwise be",
+        "definition_zh": "大幅增強；使更加劇烈或嚴重",
+        "example": "Scientists warned that climate change has turbocharged hurricane seasons, resulting in storms of unprecedented intensity."
+      },
+      {
+        "word": "hotspot",
+        "type": "noun",
+        "definition": "a location where a fire or source of heat has been detected, typically identified by satellite monitoring systems",
+        "definition_zh": "熱點；通常由衛星監測系統偵測到的火源或熱源位置",
+        "example": "Satellite imagery identified thousands of new hotspots across the forest within just 48 hours of the drought beginning."
+      },
+      {
+        "word": "deploy",
+        "type": "verb",
+        "definition": "to move and organize people or resources into position so they are ready and available for a specific purpose or operation",
+        "definition_zh": "部署；調動人員或資源就位以執行特定任務",
+        "example": "The government deployed emergency medical teams and military aircraft to the worst-affected regions of the country."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the programme, how many hotspots has the Nusantara Atlas monitoring platform detected across Indonesia as of the recording?",
+        "options": [
+          "A: Approximately 540,000",
+          "B: Approximately 734,000",
+          "C: Approximately 895,000",
+          "D: Approximately 175,000"
+        ],
+        "answer": "B",
+        "explanation": "The passage clearly states that the Nusantara Atlas platform detected around 734,000 hotspots across the country. The other figures refer to officials deployed (54,000), hectares burned (895,657), and respiratory cases (175,000)."
+      },
+      {
+        "q": "What is described as the primary reason why this year's wildfire season in Indonesia is significantly worse than in previous years?",
+        "options": [
+          "A: A sharp increase in illegal land clearing by farmers",
+          "B: A reduction in the number of firefighting personnel available",
+          "C: A 'Godzilla' El Niño phenomenon creating exceptionally dry conditions",
+          "D: Unusually strong winds spreading fires to neighbouring countries"
+        ],
+        "answer": "C",
+        "explanation": "The transcript explicitly states that a so-called 'Godzilla' El Niño has 'turbocharged' conditions by fuelling extremely dry weather, making this year's fires far more severe. No mention is made of illegal farming, reduced personnel, or wind as the primary cause."
+      },
+      {
+        "q": "Which of the following best describes the challenge Indonesian authorities face in fighting the wildfires?",
+        "options": [
+          "A: A lack of international support and funding for firefighting operations",
+          "B: The vast territory and difficult peatland conditions hampering efforts",
+          "C: Opposition from local communities to water-bombing operations",
+          "D: Insufficient aircraft and personnel to cover affected areas"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'the vast territory and challenging peatland conditions make it hard to put out the fires.' Authorities have in fact deployed large numbers of personnel and aircraft, so option D is incorrect, and options A and C are not mentioned."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Wildfires, Haze and Public Health: The Escalating Crisis in Southeast Asia",
+    "passage": "Every year, the onset of Indonesia's dry season brings with it the threat of widespread wildfires. However, the 2023 season has proven to be one of exceptional severity, driven by a confluence of climatic and geographic factors that have overwhelmed both firefighting capacity and public health infrastructure across the region. More than 175,000 Indonesians have been treated for respiratory illnesses since August, a figure that encompasses conditions ranging from mild coughs and bronchitis to life-threatening pneumonia. Of particular concern is the disproportionate impact on young children, with over 40,000 toddlers among those affected — a demographic especially susceptible to the damaging effects of particulate matter in polluted air.\n\nThe fires, concentrated primarily on the islands of Borneo and Sumatra, have generated vast plumes of toxic smog that have drifted far beyond Indonesian borders, degrading air quality in neighbouring Malaysia and Singapore and prompting diplomatic discussions about regional environmental responsibility. Air quality indices across affected areas have consistently registered in the 'unhealthy' and 'hazardous' categories, leading authorities to enforce school closures and issue public health advisories urging residents to remain indoors.\n\nA critical factor amplifying this year's crisis is the El Niño weather phenomenon, which meteorologists have characterised as unusually powerful — colloquially termed a 'Godzilla' El Niño. This climatic event has produced prolonged drought conditions across the archipelago, rendering vegetation and, crucially, peatland soils highly susceptible to ignition. Peatland fires are notoriously difficult to extinguish, as combustion occurs beneath the soil surface, making conventional firefighting techniques largely ineffective.\n\nThe Indonesian government has mobilised over 54,000 personnel and deployed aircraft for water-bombing operations. Independent monitoring by the Nusantara Atlas platform has recorded approximately 734,000 hotspots nationally — exceeding 2019 figures by more than 30%. Since January, nearly 895,657 hectares have burned, underscoring the urgent need for both immediate emergency response and longer-term forest management policy reform.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The 2023 Indonesian wildfire season has resulted in a greater number of detected hotspots than the 2019 season, which was previously considered one of the worst on record.",
+        "answer": "True",
+        "explanation": "The passage states that the Nusantara Atlas platform recorded approximately 734,000 hotspots, a figure 'more than 30% higher than that of 2019, one of Indonesia's worst wildfire seasons,' directly confirming this statement."
+      },
+      {
+        "type": "TFNG",
+        "statement": "The governments of Malaysia and Singapore have jointly deployed firefighting aircraft to assist Indonesia in combating the wildfires.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions that smog has drifted into Malaysia and Singapore and that diplomatic discussions have occurred, but it provides no information about those countries deploying any firefighting resources to assist Indonesia."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Peatland fires are considered easier to manage than surface-level forest fires because they burn at lower temperatures.",
+        "answer": "False",
+        "explanation": "The passage explicitly states that peatland fires are 'notoriously difficult to extinguish' because combustion occurs beneath the soil surface, making conventional firefighting 'largely ineffective.' This directly contradicts the statement."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, which of the following most accurately describes the role of El Niño in the 2023 wildfire crisis?",
+        "options": [
+          "A: It directly ignited fires by producing lightning storms across Borneo and Sumatra",
+          "B: It created prolonged drought conditions that made vegetation and peatlands highly flammable",
+          "C: It redirected seasonal rainfall away from Indonesia towards neighbouring countries",
+          "D: It increased average temperatures to record highs, melting permafrost across the archipelago"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that the El Niño phenomenon 'produced prolonged drought conditions across the archipelago, rendering vegetation and peatland soils highly susceptible to ignition.' Options A, C, and D introduce mechanisms not mentioned or supported by the passage."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an environmental problem that has affected your country or region.",
+    "topic_zh": "描述一個影響你的國家或地區的環境問題。",
+    "part2": {
+      "cue_card": "Describe an environmental problem that has affected your country or region.\n\nYou should say:\n• what the environmental problem is\n• when and how it started or became serious\n• how it has affected people's daily lives and health\n• and explain what you think should be done to solve this problem.\n\nYou will have one minute to prepare and should speak for one to two minutes.",
+      "band_tips": [
+        "Use a range of sophisticated vocabulary related to environmental issues, such as 'particulate matter,' 'air quality index,' 'exacerbated by,' and 'long-term ecological consequences,' to demonstrate lexical resource at Band 7-9 level.",
+        "Organise your response with a clear structure — briefly introduce the problem, describe its development and impact, then move to solutions — using discourse markers like 'What is particularly alarming is,' 'As a consequence,' and 'In the long run' to show coherence.",
+        "Extend your answers naturally by giving specific data, personal observations, or hypothetical scenarios — for example, referencing how schools or hospitals have been affected — to demonstrate fluency and the ability to develop ideas fully."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments are doing enough to prevent environmental disasters like wildfires?",
+        "q_zh": "你認為政府在預防野火等環境災難方面做得足夠嗎？",
+        "key_points": [
+          "Many governments focus on reactive measures such as deploying firefighting resources rather than proactive deforestation controls and land-use regulation, which would address root causes.",
+          "Budgetary constraints and political pressures from agricultural and industrial lobbies often limit the implementation of stricter environmental protection policies.",
+          "International cooperation frameworks, such as ASEAN's Agreement on Transboundary Haze Pollution, exist but frequently lack enforcement mechanisms, reducing their practical effectiveness."
+        ]
+      },
+      {
+        "q": "How does air pollution from events like wildfires affect vulnerable groups in society differently from the general population?",
+        "q_zh": "野火等事件引起的空氣污染如何對社會中的弱勢群體產生與一般人群不同的影響？",
+        "key_points": [
+          "Young children, the elderly, and individuals with pre-existing respiratory or cardiovascular conditions face a disproportionately higher risk of severe health outcomes from exposure to particulate matter and toxic smog.",
+          "Low-income communities are often more exposed because they cannot afford air purifiers, quality healthcare, or the option to relocate temporarily, deepening existing social inequalities.",
+          "Outdoor workers such as farmers, construction workers, and street vendors are unable to avoid prolonged exposure, placing them at significantly elevated occupational health risk during haze events."
+        ]
+      },
+      {
+        "q": "To what extent do you think climate change phenomena like El Niño will make environmental crises more frequent and severe in the future?",
+        "q_zh": "你認為聖嬰現象等氣候變化現象在未來會在多大程度上使環境危機變得更加頻繁和嚴重？",
+        "key_points": [
+          "Scientific consensus increasingly links the intensification of El Niño events to rising global temperatures caused by greenhouse gas emissions, suggesting that such phenomena will become both more frequent and more extreme.",
+          "As climate systems become more volatile, regions that already experience seasonal droughts or monsoon patterns may see these weather cycles become more unpredictable and damaging.",
+          "Without significant reductions in global carbon emissions and the transition to renewable energy sources, adaptation measures alone will be insufficient to offset the compounding effects of climate change on natural disaster frequency."
+        ]
+      },
+      {
+        "q": "Should countries that are significantly affected by pollution originating in a neighbouring country have the legal right to demand compensation or intervention?",
+        "q_zh": "受到鄰國污染嚴重影響的國家是否應該擁有要求賠償或干預的法律權利？",
+        "key_points": [
+          "International environmental law, including the principle of 'no-harm,' suggests that states have an obligation not to allow their territory to be used in ways that cause significant harm to other nations, providing a legal basis for such claims.",
+          "Practical challenges arise around establishing causality, quantifying economic and health damages, and enforcing rulings against sovereign nations, which can make legal remedies difficult to pursue effectively.",
+          "Diplomatic and cooperative approaches, including bilateral agreements and multilateral environmental treaties with binding provisions, may ultimately prove more effective than litigation in fostering sustainable regional solutions."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Wildfires and the toxic haze they produce have become an increasingly serious problem in many parts of the world, causing significant damage to both human health and the natural environment. What are the main causes of this problem, and what measures can governments and individuals take to address it? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "task2_question_zh": "野火及其產生的有毒霾害已成為世界許多地區日益嚴重的問題，對人類健康和自然環境造成重大損害。這一問題的主要原因是什麼？政府和個人可以採取哪些措施來解決它？請給出理由，並可結合你自己的知識或經驗舉出相關例子。",
+    "essay_type": "problem-solution",
+    "useful_phrases": [
+      {
+        "phrase": "is further exacerbated by",
+        "when_to_use": "Use this phrase to introduce an additional factor that makes an already serious problem even worse, particularly when discussing compounding causes.",
+        "when_to_use_zh": "用於介紹使已有問題更加惡化的額外因素，特別適合討論複合成因時使用。",
+        "example": "The public health crisis caused by wildfire smoke is further exacerbated by inadequate healthcare infrastructure in rural communities."
+      },
+      {
+        "phrase": "poses a significant threat to",
+        "when_to_use": "Use this phrase when identifying specific risks or dangers that a problem presents to people, ecosystems, economies, or other entities.",
+        "when_to_use_zh": "用於指出某一問題對人群、生態系統、經濟或其他對象所帶來的具體風險或危險。",
+        "example": "The unchecked spread of transboundary haze poses a significant threat to both regional biodiversity and the respiratory health of millions of people."
+      },
+      {
+        "phrase": "a multifaceted approach is required",
+        "when_to_use": "Use this phrase in introductions or conclusions to argue that solving a complex problem demands action on several different fronts simultaneously rather than a single solution.",
+        "when_to_use_zh": "用於引言或結論，主張解決複雜問題需要同時在多個層面採取行動，而非單一解決方案。",
+        "example": "Given the scale and complexity of the wildfire crisis, a multifaceted approach is required, encompassing stricter land-use legislation, international cooperation, and public awareness campaigns."
+      },
+      {
+        "phrase": "in the long run",
+        "when_to_use": "Use this phrase to distinguish between short-term emergency responses and the more sustainable, durable solutions that are needed over time.",
+        "when_to_use_zh": "用於區分短期緊急應對措施與長期所需的更可持續、更持久的解決方案。",
+        "example": "While water-bombing operations may contain immediate blazes, in the long run, restoring degraded peatlands and enforcing zero-burning policies will prove far more effective."
+      },
+      {
+        "phrase": "disproportionately affects",
+        "when_to_use": "Use this phrase when highlighting that the impact of a problem or policy is not evenly distributed and falls more heavily on particular groups or regions.",
+        "when_to_use_zh": "用於強調某一問題或政策的影響分佈不均，對特定群體或地區造成更沉重的負擔。",
+        "example": "Air pollution from seasonal wildfires disproportionately affects young children and the elderly, who are physiologically more vulnerable to airborne toxins."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by acknowledging that wildfire-related haze has escalated from a localised seasonal inconvenience into a transboundary crisis with profound health and environmental consequences. Paraphrase the question clearly and present a thesis stating that both human-driven and climatic causes underlie the problem, and that coordinated government policy combined with individual responsibility constitutes the most effective response.",
+      "body1": "Discuss the primary causes of the wildfire and haze problem. Address human-driven causes first — such as deliberate land-clearing through burning for agricultural purposes, particularly in peatland regions — and then introduce the role of climate phenomena like El Niño, which intensify drought conditions and make forests far more susceptible to ignition. Use Indonesia as a concrete example to anchor the discussion.",
+      "body2": "Present a range of solutions at both governmental and individual levels. Governmental measures should include stricter enforcement of no-burn legislation, investment in sustainable land management, international cooperation through binding regional agreements, and early warning systems. Individual measures may include reducing consumption of products linked to deforestation, supporting environmental NGOs, and practising responsible behaviour in fire-prone areas. Emphasise that long-term prevention is more effective than emergency response alone.",
+      "conclusion": "Summarise the two-pronged nature of the problem — human activity compounded by climate change — and reaffirm that addressing it demands coordinated action at multiple levels. Close with a forward-looking statement about the consequences of inaction, stressing that the health and ecological costs of continued negligence far outweigh the economic and political costs of meaningful reform."
+    }
+  }
+}
