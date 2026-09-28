@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T07:59:19.643138Z",
+  "listening": {
+    "title": "Late September warmth before wind and rain return this week",
+    "url": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "A BBC weather report describes an unusual late-September warm spell across the UK before an Atlantic depression brings wetter and windier conditions.",
+    "topic_zh": "BBC天氣預報描述英國九月下旬異常溫暖天氣，隨後大西洋低氣壓將帶來更潮濕多風的氣候。",
+    "transcript_excerpt": "Welcome to this week's weather outlook. As we move into the final days of September, an area of low pressure sitting out in the Atlantic is pulling warm, south to south-easterly winds across much of the United Kingdom. Tuesday is shaping up to be the warmest day of the week, with temperatures in England and Wales potentially climbing as high as 26 degrees Celsius — quite remarkable for this time of year. However, this warmth will not last. The approaching depression is expected to bring a spell of unsettled weather, with Scotland, Northern Ireland, and western parts of England and Wales bearing the brunt of the rain and stronger winds. Interestingly, many central, southern, and eastern areas of England — regions that have already been experiencing drought conditions — may receive considerably less rainfall than hoped. We are also noticing the classic hallmarks of autumn. Since the equinox last week, our nights are now longer than our days, and clear overnight skies are causing temperatures to dip noticeably. Monday morning could feel quite chilly, with fog patches developing in some areas. Commuters should plan accordingly. Once that fog lifts, however, a brighter picture will emerge, with sunny spells likely across many parts of the country. High pressure will keep the worst of the weather at bay for one more day before conditions deteriorate later in the week.",
+    "vocabulary": [
+      {
+        "word": "depression",
+        "type": "noun",
+        "definition": "A meteorological term referring to an area of low atmospheric pressure that typically brings cloud, rain, and strong winds.",
+        "definition_zh": "氣象術語，指低氣壓區域，通常帶來陰雲、降雨及強風。",
+        "example": "The approaching depression from the Atlantic caused forecasters to issue wind warnings for coastal regions."
+      },
+      {
+        "word": "unsettled",
+        "type": "adjective",
+        "definition": "Used to describe weather that is unpredictable and changeable, often involving rain, wind, or storms.",
+        "definition_zh": "用於描述不穩定、多變的天氣，通常伴有雨、風或暴風。",
+        "example": "Unsettled conditions are expected to persist throughout the weekend, so outdoor events may be disrupted."
+      },
+      {
+        "word": "equinox",
+        "type": "noun",
+        "definition": "The time of year, occurring twice annually, when the sun crosses the celestial equator and day and night are approximately equal in length.",
+        "definition_zh": "一年中發生兩次的時間點，此時晝夜長度幾乎相等，即春分或秋分。",
+        "example": "After the autumn equinox, residents notice that evenings grow darker much earlier each day."
+      },
+      {
+        "word": "drought",
+        "type": "noun",
+        "definition": "A prolonged period of abnormally low rainfall, leading to a shortage of water in an area.",
+        "definition_zh": "長期降雨量異常稀少的時期，導致某地區水資源短缺。",
+        "example": "The prolonged drought had severely affected crop yields across the southern counties."
+      },
+      {
+        "word": "southerly",
+        "type": "adjective",
+        "definition": "Coming from or moving towards the south, used especially to describe wind direction.",
+        "definition_zh": "來自南方或朝向南方移動的，尤其用於描述風向。",
+        "example": "A strengthening southerly wind brought unusually mild air to Scotland later in the week."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the report, which day is expected to be the warmest of the week?",
+        "options": [
+          "A: Monday",
+          "B: Tuesday",
+          "C: Wednesday",
+          "D: Thursday"
+        ],
+        "answer": "B",
+        "explanation": "The report clearly states that 'Tuesday looks as if it will be the warmest day', with temperatures potentially reaching 26°C in parts of England and Wales."
+      },
+      {
+        "q": "Which regions are most likely to experience the most unsettled weather conditions?",
+        "options": [
+          "A: Central and southern England",
+          "B: Eastern England and the Midlands",
+          "C: Scotland, Northern Ireland, and western parts of England and Wales",
+          "D: South-east England exclusively"
+        ],
+        "answer": "C",
+        "explanation": "The report specifies that 'the most unsettled conditions likely to affect Scotland, Northern Ireland and western parts of England and Wales', making option C correct."
+      },
+      {
+        "q": "Why are some areas of central and eastern England unlikely to see much rain despite the approaching depression?",
+        "options": [
+          "A: High pressure will block all rainfall from reaching these areas",
+          "B: These areas have been affected by drought and the depression may pass them by",
+          "C: The depression is expected to weaken before reaching inland areas",
+          "D: Southerly winds will push the rain northward away from these areas"
+        ],
+        "answer": "B",
+        "explanation": "The report notes that 'many central, southern and eastern areas of England, which have been affected by drought, may see far less rain', indicating the rain distribution will be uneven and these drought-hit areas may receive little benefit."
+      }
+    ]
+  },
+  "reading": {
+    "title": "Seasonal Weather Transitions and Their Impacts on the British Isles",
+    "passage": "The British Isles are renowned for their highly variable climate, shaped by the country's position at the intersection of several major air masses and its exposure to the prevailing westerly winds of the North Atlantic. As summer gives way to autumn, the meteorological patterns affecting the United Kingdom undergo significant transformation, with the balance of power shifting from settled anticyclonic conditions to more turbulent depressions sweeping in from the Atlantic Ocean.\n\nThe autumn equinox, which occurs around the 22nd or 23rd of September each year, marks the astronomical beginning of autumn in the Northern Hemisphere. From this point onwards, nights lengthen progressively, and the angle of incoming solar radiation decreases, reducing the atmosphere's capacity to retain warmth. Despite this, episodes of anomalous warmth can still occur in late September and early October — a phenomenon sometimes referred to as an 'Indian summer' — when southerly or south-easterly winds transport warm air masses northward from continental Europe or the subtropics.\n\nHowever, such warm spells are invariably transient. The Atlantic Ocean acts as a vast conveyor of weather systems, and depressions — regions of low atmospheric pressure — frequently develop and travel eastward towards the British Isles, bringing with them frontal systems that deliver cloud, rainfall, and strong winds. The distribution of this rainfall is rarely uniform. Orographic enhancement, whereby moist air is forced to rise over hills and mountains, concentrates precipitation in western and northern upland areas, while rain shadows often leave eastern and central regions considerably drier.\n\nThis uneven distribution carries significant consequences. In recent years, drought conditions have become increasingly common in south-eastern England during summer, yet these same areas may receive inadequate rainfall even when Atlantic depressions do arrive, as the most intense precipitation typically occurs well to the west. Climatologists warn that such patterns may intensify under projected climate change scenarios, presenting complex challenges for water resource management across the United Kingdom.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The autumn equinox in the Northern Hemisphere always falls on the 22nd of September.",
+        "answer": "False",
+        "explanation": "The passage states the equinox 'occurs around the 22nd or 23rd of September', indicating it can fall on either date, so stating it 'always' falls on the 22nd is false."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Orographic enhancement causes rainfall to be concentrated in western and northern upland regions of the UK.",
+        "answer": "True",
+        "explanation": "The passage explicitly states that 'orographic enhancement, whereby moist air is forced to rise over hills and mountains, concentrates precipitation in western and northern upland areas', confirming this statement as true."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Climatologists believe that current drought patterns in south-eastern England will decrease in frequency as global temperatures rise.",
+        "answer": "False",
+        "explanation": "The passage states climatologists warn that such patterns 'may intensify under projected climate change scenarios', which is the opposite of decreasing in frequency, making this statement false."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what is the primary reason why central and eastern England often remain drier when Atlantic depressions arrive?",
+        "options": [
+          "A: These regions are protected by high pressure systems that deflect incoming weather fronts",
+          "B: Rain shadows caused by orographic enhancement leave these areas with less precipitation",
+          "C: The depressions weaken significantly before they reach inland areas of England",
+          "D: South-easterly winds prevent Atlantic rain from penetrating these regions"
+        ],
+        "answer": "B",
+        "explanation": "The passage explains that orographic enhancement concentrates rainfall in western and northern uplands, and that 'rain shadows often leave eastern and central regions considerably drier'. This directly answers why these regions receive less rain, making B the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe an unusual or memorable weather event you have experienced.",
+    "topic_zh": "描述一次你曾經歷的不尋常或難忘的天氣事件。",
+    "part2": {
+      "cue_card": "Describe an unusual or memorable weather event you have experienced.\n\nYou should say:\n• When and where this weather event occurred\n• What the weather conditions were like\n• How the event affected you or the people around you\n\nAnd explain why this weather event has stayed in your memory.",
+      "band_tips": [
+        "Use a wide range of precise meteorological and descriptive vocabulary such as 'precipitation', 'unseasonably warm', 'blustery', and 'overcast' to demonstrate lexical sophistication rather than relying on basic words like 'rainy' or 'windy'.",
+        "Employ a variety of complex grammatical structures, including perfect tenses to describe events leading up to the weather event, conditional sentences to speculate on what might have happened, and participle clauses to add descriptive detail fluently.",
+        "Organise your response with a clear narrative arc — set the scene vividly, build to the climax of the weather event, describe its immediate impact, and conclude with personal reflection — to demonstrate coherent discourse management."
+      ]
+    },
+    "part3": [
+      {
+        "q": "How do you think climate change is affecting seasonal weather patterns in your country?",
+        "q_zh": "你認為氣候變遷如何影響你所在國家的季節性天氣模式？",
+        "key_points": [
+          "Discuss observable shifts such as delayed seasonal transitions, more frequent extreme weather events, and unpredictable rainfall patterns that differ significantly from historical norms.",
+          "Reference the concept of intensification of existing patterns — wet regions becoming wetter and dry regions experiencing more prolonged droughts — as a widely documented consequence of climate change.",
+          "Acknowledge regional variation, noting that some areas may experience more flooding while others suffer water scarcity, creating unequal burdens on different communities and economic sectors."
+        ]
+      },
+      {
+        "q": "To what extent do weather conditions influence people's daily routines and lifestyle choices?",
+        "q_zh": "天氣狀況在多大程度上影響人們的日常作息與生活方式選擇？",
+        "key_points": [
+          "Explore direct impacts on commuting, outdoor activities, clothing choices, and mood, noting that persistent poor weather has been linked to decreased productivity and increased rates of seasonal affective disorder.",
+          "Consider how urban planning and infrastructure design — such as drainage systems, green spaces, and building insulation standards — are increasingly shaped by prevailing weather patterns.",
+          "Contrast attitudes in countries with predictably harsh climates versus temperate zones like the UK, where weather unpredictability means it dominates daily conversation and planning to an unusual degree."
+        ]
+      },
+      {
+        "q": "Do you believe governments are doing enough to prepare their countries for extreme weather events?",
+        "q_zh": "你認為各國政府是否在為極端天氣事件做足夠的準備？",
+        "key_points": [
+          "Argue that while awareness has increased and some investment in flood defences, early warning systems, and heat emergency plans has occurred, implementation often lags behind the pace of climate change.",
+          "Highlight the tension between short-term political cycles and the long-term investment required for robust climate adaptation infrastructure, which can discourage bold government action.",
+          "Suggest that effective preparation requires international cooperation, adequate funding for developing nations most vulnerable to extreme weather, and stronger integration of climate science into national policy frameworks."
+        ]
+      },
+      {
+        "q": "How important is it for people to have access to accurate and timely weather information?",
+        "q_zh": "人們獲取準確且即時的天氣資訊有多重要？",
+        "key_points": [
+          "Emphasise the critical safety dimension — timely warnings about storms, heatwaves, or floods can directly save lives and allow communities to take protective action before conditions deteriorate.",
+          "Consider the economic dimension, noting that industries such as agriculture, aviation, construction, and outdoor events rely heavily on accurate forecasting to minimise losses and optimise operations.",
+          "Discuss the role of modern technology, including satellite data, AI-driven modelling, and smartphone apps, in democratising access to weather information, while noting that digital divides may leave some vulnerable populations without access."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "In recent years, extreme weather events such as droughts, floods, and storms have become more frequent and severe. Some people argue that individuals should take greater responsibility for adapting to these changes, while others believe that governments and international organisations must lead the response. Discuss both views and give your own opinion.",
+    "task2_question_zh": "近年來，乾旱、洪水和風暴等極端天氣事件愈來愈頻繁且嚴重。有些人認為個人應承擔更大責任來適應這些變化，而另一些人則認為政府和國際組織必須主導應對。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "bears the brunt of",
+        "when_to_use": "Use this phrase to describe who or what suffers the worst effects of a negative situation, particularly useful when discussing unequal impacts of climate change or extreme weather.",
+        "when_to_use_zh": "用於描述誰或什麼事物承受了某負面情況最嚴重的影響，特別適合討論氣候變遷或極端天氣的不平等衝擊時使用。",
+        "example": "Developing nations, which contribute least to global carbon emissions, often bear the brunt of the most devastating extreme weather events."
+      },
+      {
+        "phrase": "is set to",
+        "when_to_use": "Use this phrase to introduce a predicted or highly anticipated future development, lending an authoritative and formal tone when making projections in academic writing.",
+        "when_to_use_zh": "用於引入被預測或高度預期的未來發展，在學術寫作中進行預測時能呈現權威且正式的語氣。",
+        "example": "Without coordinated international action, the frequency of Category 5 hurricanes is set to increase significantly by the end of this century."
+      },
+      {
+        "phrase": "far from guaranteed",
+        "when_to_use": "Use this phrase to express measured uncertainty about an outcome, allowing you to acknowledge complexity and avoid overstatement, which is essential for a balanced academic argument.",
+        "when_to_use_zh": "用於表達對某結果有所保留的不確定性，讓你承認複雜性並避免過度陳述，這在均衡的學術論點中至關重要。",
+        "example": "While international climate agreements represent progress, meaningful reductions in global temperatures are far from guaranteed without robust enforcement mechanisms."
+      },
+      {
+        "phrase": "carries significant consequences",
+        "when_to_use": "Use this phrase to transition from describing a situation to explaining its impact, helping to build a logically connected argument in body paragraphs.",
+        "when_to_use_zh": "用於從描述某情況過渡到解釋其影響，有助於在正文段落中構建邏輯連貫的論點。",
+        "example": "The increasing privatisation of water resources carries significant consequences for communities in drought-prone regions that already lack reliable access to clean water."
+      },
+      {
+        "phrase": "presents complex challenges for",
+        "when_to_use": "Use this sophisticated phrase to introduce a nuanced problem that resists simple solutions, ideal for demonstrating critical thinking and analytical depth in your conclusion or topic sentences.",
+        "when_to_use_zh": "使用此精緻短語來引入難以簡單解決的複雜問題，非常適合在結論或主題句中展示批判性思維和分析深度。",
+        "example": "The growing mismatch between where rainfall occurs and where water is most urgently needed presents complex challenges for urban planners and policymakers alike."
+      }
+    ],
+    "outline": {
+      "intro": "Open with a striking observation about the accelerating frequency of extreme weather events globally, paraphrase the question to demonstrate understanding, then present a clear thesis that, while individual adaptation has value, systemic government-led and internationally coordinated responses are ultimately indispensable for meaningful climate resilience.",
+      "body1": "Present the case for individual responsibility: personal behavioural changes such as reducing carbon footprints, investing in home insulation or water-saving technologies, and community-level preparedness can collectively contribute to resilience. Acknowledge that empowered, informed individuals reduce the burden on emergency services and can respond more flexibly than slow-moving institutions.",
+      "body2": "Argue more persuasively for the primacy of government and international action: only state-level actors can fund large-scale flood defences, enforce building codes, coordinate evacuation plans, and redistribute resources to vulnerable populations. International agreements are essential because climate change transcends borders, and developing nations that contribute least to emissions often suffer most, requiring financial and technical support from wealthier countries.",
+      "conclusion": "Restate your position that both levels of action are necessary but that top-down leadership must set the framework within which individual efforts can be most effective. End with a forward-looking statement about the urgency of integrated, multilevel responses given the trajectory of climate projections."
+    }
+  }
+}
