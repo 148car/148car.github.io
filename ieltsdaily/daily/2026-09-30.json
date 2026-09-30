@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T07:43:38.575429Z",
+  "listening": {
+    "title": "Orionid meteor shower to streak across night sky this week",
+    "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The Orionid meteor shower, caused by debris from Halley's Comet, peaks in late October and offers stunning celestial displays visible to the naked eye.",
+    "topic_zh": "獵戶座流星雨由哈雷彗星的碎片引起，在十月下旬達到高峰，肉眼即可觀賞壯觀的天文奇景。",
+    "transcript_excerpt": "Every October, skywatchers around the world turn their eyes upward in anticipation of one of the year's most spectacular celestial events — the Orionid meteor shower. This annual display occurs as our planet passes through a trail of dust and debris left behind by none other than Halley's Comet, one of the most celebrated comets in astronomical history. As these tiny particles plunge into Earth's atmosphere at roughly 41 miles per second, they burn up and produce brilliant streaks of light that we commonly refer to as shooting stars. The Orionids are active from early October through to early November, but they reach their peak intensity overnight between the 21st and 22nd of October. Under ideal conditions, observers can expect to see anywhere between 10 and 20 meteors per hour. What makes this shower particularly impressive is the speed at which the meteors travel — fast enough to leave glowing trails that linger in the sky for several seconds after the meteor itself has vanished. The shower appears to originate from the constellation of Orion, which gives it its distinctive name. For the best viewing experience, astronomers recommend finding a location well away from light pollution, giving your eyes approximately 15 to 20 minutes to adjust to the darkness, and simply lying back and enjoying the show. The connection to Halley's Comet adds a layer of historical fascination, as this comet has been observed and recorded by civilisations for centuries.",
+    "vocabulary": [
+      {
+        "word": "meteor shower",
+        "type": "noun",
+        "definition": "A celestial event in which numerous meteors are observed to radiate from one point in the night sky, caused by Earth passing through debris left by a comet.",
+        "definition_zh": "流星雨；地球穿越彗星碎片時，大量流星從天空某一點向外輻射的天文現象。",
+        "example": "The Perseid meteor shower attracts thousands of amateur astronomers to remote areas every August."
+      },
+      {
+        "word": "debris",
+        "type": "noun",
+        "definition": "Scattered fragments or remnants left behind by a comet or other celestial body as it travels through space.",
+        "definition_zh": "碎片；彗星或其他天體在太空中移動時留下的散落殘骸或遺留物。",
+        "example": "The spacecraft was damaged by debris from a disintegrating asteroid passing nearby."
+      },
+      {
+        "word": "radiate",
+        "type": "verb",
+        "definition": "To spread outward from a central point in all directions, as meteors appear to do from a specific point in the night sky.",
+        "definition_zh": "輻射；從中心點向四周散射，如流星看似從天空某一特定點向外擴散。",
+        "example": "The meteors appeared to radiate from a single point near the constellation of Leo during the shower's peak."
+      },
+      {
+        "word": "atmosphere",
+        "type": "noun",
+        "definition": "The layer of gases surrounding a planet, which meteors enter at high speed, causing them to heat up and produce light.",
+        "definition_zh": "大氣層；圍繞行星的氣體層，流星高速進入時會因摩擦升溫並發光。",
+        "example": "When the space capsule re-entered the atmosphere, it was surrounded by a fiery glow due to extreme friction."
+      },
+      {
+        "word": "orbit",
+        "type": "noun",
+        "definition": "The curved path followed by a celestial object, such as a comet or planet, around a larger body in space due to gravitational forces.",
+        "definition_zh": "軌道；天體（如彗星或行星）在重力作用下繞較大天體運行的曲線路徑。",
+        "example": "Halley's Comet completes a single orbit around the Sun approximately every 76 years."
+      }
+    ],
+    "questions": [
+      {
+        "q": "At what speed do Orionid meteors enter the Earth's atmosphere?",
+        "options": [
+          "A: Around 14 miles per second",
+          "B: Around 41 miles per second",
+          "C: Around 76 miles per second",
+          "D: Around 22 miles per second"
+        ],
+        "answer": "B",
+        "explanation": "The passage explicitly states that the Orionids enter the atmosphere at around 41 miles per second, which is what makes them particularly fast compared to other meteor showers."
+      },
+      {
+        "q": "How many times per year does the Earth encounter material left behind by Halley's Comet?",
+        "options": [
+          "A: Once a year, in October only",
+          "B: Three times a year, in different seasons",
+          "C: Twice a year, producing two separate meteor showers",
+          "D: Only once every 76 years when the comet is visible"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that the Earth encounters material left by Halley's Comet twice a year, resulting in the Eta Aquariid meteor shower in May and the Orionids in October."
+      },
+      {
+        "q": "What should observers do to maximise their chances of seeing the Orionids?",
+        "options": [
+          "A: Use a telescope pointed at the constellation of Orion",
+          "B: Watch only between 9pm and midnight before the sky gets too cold",
+          "C: Find a dark location and allow 15 to 20 minutes for eyes to adjust",
+          "D: Travel to the Southern Hemisphere where Orion is most visible"
+        ],
+        "answer": "C",
+        "explanation": "The passage recommends finding a dark location away from street lights with a wide view of the sky, and allowing around 15 to 20 minutes for your eyes to adjust to the darkness."
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Orionid Meteor Shower: Celestial Spectacle Born from Halley's Comet",
+    "passage": "Each October, astronomers and casual stargazers alike direct their attention skyward to witness one of the most reliably spectacular annual astronomical events: the Orionid meteor shower. Occurring between 2 October and 7 November, with its peak intensity concentrated in the overnight period of 21 to 22 October, the shower represents a direct physical connection between Earth and one of the Solar System's most storied comets — Halley's Comet.\n\nThe mechanism behind the Orionids is well understood. As Halley's Comet travels its elongated elliptical orbit around the Sun, it sheds a continuous trail of dust, ice, and rocky fragments. When Earth's own orbit intersects with this debris trail, individual particles — many no larger than a grain of sand — plunge into the upper atmosphere. Travelling at approximately 41 miles per second, these particles generate intense frictional heat, vaporising rapidly and producing the luminous streaks that observers on the ground perceive as shooting stars. The relatively high velocity of Orionid meteors distinguishes them from slower showers and accounts for the persistent glowing trails that can remain visible for several seconds after the meteor itself has disintegrated.\n\nThe shower derives its name from the constellation of Orion, the apparent point from which the meteors seem to radiate. However, this radiant point is simply a perspective effect; the meteors themselves can appear anywhere across the entire night sky. Under optimal viewing conditions — a clear, moonless sky far from urban light pollution — an observer might witness between 10 and 20 meteors per hour during peak activity.\n\nHalley's Comet last passed close enough to Earth to be observed with the naked eye in 1986 and is not expected to return until approximately 2061. Nevertheless, its legacy persists through the annual meteor showers it produces. The Eta Aquariids in May constitute the comet's second annual contribution to Earth's celestial calendar, ensuring that even in the comet's long absence, its presence is felt twice each year.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Orionid meteor shower occurs because Earth passes through debris left by Halley's Comet.",
+        "answer": "True",
+        "explanation": "The passage clearly confirms this mechanism, stating that when Earth's orbit intersects with the debris trail shed by Halley's Comet, particles enter the atmosphere and produce the meteor shower."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Orionid meteors can only be seen within the boundaries of the constellation of Orion in the night sky.",
+        "answer": "False",
+        "explanation": "The passage explicitly clarifies that although meteors appear to radiate from Orion, this is a perspective effect, and the meteors themselves can appear anywhere across the entire night sky."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Scientists are uncertain about what causes the Orionid meteor shower and continue to research its origins.",
+        "answer": "False",
+        "explanation": "The passage states that the mechanism behind the Orionids is 'well understood,' directly contradicting any suggestion of scientific uncertainty about its cause."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what distinguishes Orionid meteors from those of slower meteor showers?",
+        "options": [
+          "A: They are significantly larger in physical size than meteors from other showers",
+          "B: Their high velocity produces persistent glowing trails visible for several seconds",
+          "C: They are exclusively visible in the Southern Hemisphere during October",
+          "D: They originate from a comet that orbits the Sun every 100 years"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'the relatively high velocity of Orionid meteors distinguishes them from slower showers and accounts for the persistent glowing trails that can remain visible for several seconds,' making B the correct answer."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a memorable natural event or natural phenomenon you have witnessed or would like to witness.",
+    "topic_zh": "描述一個你曾親眼目睹或希望能目睹的難忘自然現象或自然事件。",
+    "part2": {
+      "cue_card": "Describe a memorable natural event or natural phenomenon you have witnessed or would like to witness.\n\nYou should say:\n• What the natural event or phenomenon is\n• Where and when you witnessed it or would like to witness it\n• What you saw or what you imagine you would see\n• And explain why it was or would be a memorable experience for you.\n\nYou will have one minute to prepare. Then speak for one to two minutes.",
+      "band_tips": [
+        "Use sophisticated astronomical or nature-related vocabulary such as 'celestial spectacle,' 'luminous streaks,' 'radiant point,' and 'cosmic debris' to demonstrate lexical range and boost your Lexical Resource score.",
+        "Employ a variety of grammatical structures including conditional sentences for hypothetical events (e.g., 'If I were to witness a meteor shower, I would...'), perfect tenses for past experiences, and relative clauses to add descriptive depth to your narrative.",
+        "Develop your response beyond simple description by reflecting on the philosophical or emotional significance of the event — for example, discussing how witnessing a meteor shower connects you to the vastness of the universe or the passage of geological time, which demonstrates higher-order thinking valued at Band 7 and above."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should invest more in space exploration and astronomical research? Why or why not?",
+        "q_zh": "你認為政府應該在太空探索和天文研究上投入更多資金嗎？為什麼？",
+        "key_points": [
+          "Space research yields practical technological benefits such as satellite communications, weather forecasting, and GPS navigation that directly improve daily life.",
+          "Funding astronomical research inspires younger generations to pursue careers in STEM fields, which has long-term economic and scientific benefits for society.",
+          "Critics argue that finite government budgets should prioritise urgent earthly concerns such as poverty, healthcare, and climate change before allocating resources to space exploration."
+        ]
+      },
+      {
+        "q": "How has technology changed the way ordinary people engage with astronomy and natural phenomena?",
+        "q_zh": "科技如何改變了普通人與天文學及自然現象互動的方式？",
+        "key_points": [
+          "Smartphone applications and online platforms now allow amateur astronomers to identify constellations, track meteor showers, and access live telescope feeds with minimal expertise or equipment.",
+          "Social media enables rapid sharing of astronomical event information and citizen science participation, where non-experts contribute valuable observational data to professional researchers.",
+          "However, increased screen time and urban light pollution — both byproducts of technological advancement — paradoxically make it harder for many people to actually observe natural night sky phenomena directly."
+        ]
+      },
+      {
+        "q": "Some people argue that humans have lost their connection to the natural world. Do you agree?",
+        "q_zh": "有些人認為人類已經失去了與自然世界的連結。你同意嗎？",
+        "key_points": [
+          "Urbanisation and the dominance of digital entertainment have undeniably reduced the amount of time most people spend outdoors engaging with natural environments in meaningful ways.",
+          "Conversely, growing environmental awareness movements and the popularity of activities like ecotourism, wildlife photography, and stargazing suggest a renewed desire to reconnect with nature.",
+          "The relationship between humans and nature may not be weakening uniformly but rather shifting in form — becoming more curated and event-driven rather than embedded in everyday lived experience."
+        ]
+      },
+      {
+        "q": "Why do you think celestial events like meteor showers continue to capture public imagination despite advances in scientific understanding?",
+        "q_zh": "儘管科學理解已大幅進步，為什麼流星雨等天文事件仍能持續吸引大眾的想像力？",
+        "key_points": [
+          "Meteor showers occupy a unique intersection between scientific fact and aesthetic wonder, offering a rare experience that simultaneously satisfies intellectual curiosity and emotional awe.",
+          "Unlike most natural phenomena, meteor showers are universally accessible — requiring no specialist equipment, expertise, or financial investment — which contributes to their broad and democratic appeal.",
+          "Celestial events carry deep cultural and historical resonance across virtually all human societies, connecting contemporary observers to ancient traditions of myth-making, navigation, and timekeeping that predate modern science."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that funding scientific research into space and astronomical phenomena is a waste of resources that could be better spent solving problems on Earth. Others argue that such research is essential for the long-term benefit of humanity. Discuss both views and give your own opinion.",
+    "task2_question_zh": "有些人認為資助太空和天文現象的科學研究是浪費資源，這些資源本可用於解決地球上的問題。另一些人則認為此類研究對人類長遠利益至關重要。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "yields tangible practical benefits",
+        "when_to_use": "Use when arguing that an activity or investment produces concrete, real-world positive outcomes rather than purely theoretical ones.",
+        "when_to_use_zh": "當論證某項活動或投資能產生具體、實際的正面成果而非純理論成果時使用。",
+        "example": "Investment in astronomical research yields tangible practical benefits, including advances in satellite technology that underpin modern telecommunications and navigation systems."
+      },
+      {
+        "phrase": "it would be shortsighted to overlook",
+        "when_to_use": "Use to introduce a counterargument or to warn against ignoring an important consideration that opponents of your view may be dismissing too quickly.",
+        "when_to_use_zh": "用於引出反駁論點，或警告不應忽視某個重要考量，尤其當反對方過於輕率地忽略它時。",
+        "example": "While the costs of space programmes are considerable, it would be shortsighted to overlook the transformative scientific discoveries they have produced over the past century."
+      },
+      {
+        "phrase": "finite resources necessitate difficult prioritisation",
+        "when_to_use": "Use when acknowledging that budgets and resources are limited and that choices must be made between competing valid needs, lending nuance to your argument.",
+        "when_to_use_zh": "當承認預算和資源有限、必須在相互競爭的合理需求之間做出選擇時使用，為論點增添細緻度。",
+        "example": "In an era where finite resources necessitate difficult prioritisation, governments must carefully weigh the immediate humanitarian returns of social spending against the longer-term gains of scientific investment."
+      },
+      {
+        "phrase": "far from being mutually exclusive",
+        "when_to_use": "Use to argue that two things often presented as opposites or alternatives are not actually contradictory and can coexist or be pursued simultaneously.",
+        "when_to_use_zh": "用於論證兩件常被視為對立或互斥的事物實際上並不矛盾，可以同時並存或推進。",
+        "example": "Investing in space research and addressing poverty on Earth are far from being mutually exclusive; the technologies developed for one frequently benefit the other in unexpected ways."
+      },
+      {
+        "phrase": "captures the collective imagination",
+        "when_to_use": "Use when describing how a topic, event, or idea generates widespread public fascination, enthusiasm, or emotional engagement across different groups of people.",
+        "when_to_use_zh": "用於描述某一話題、事件或想法如何在不同群體中引發廣泛的公眾迷戀、熱情或情感共鳴。",
+        "example": "Few scientific fields capture the collective imagination quite as powerfully as astronomy, inspiring generations of young people to pursue careers in science and engineering."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by contextualising the debate with a brief reference to recent high-profile astronomical events or space programmes to establish relevance. Paraphrase the question carefully, then present a clear thesis statement that acknowledges the validity of both perspectives before indicating your own position — that while earthly problems are urgent, space research is a complementary rather than competing investment.",
+      "body1": "Present the opposing view fairly and in depth: critics argue that vast sums spent on space exploration could be redirected to address pressing humanitarian crises such as global poverty, inadequate healthcare infrastructure, and climate change adaptation. Acknowledge that this perspective reflects a reasonable concern about moral priorities and the opportunity cost of government spending.",
+      "body2": "Develop your own supported argument: space and astronomical research has historically generated significant technological spin-offs — including GPS, weather satellites, and medical imaging technologies — that directly improve life on Earth. Additionally, understanding celestial phenomena has practical implications for planetary defence against asteroid impacts and long-term climate modelling. Conclude this paragraph by reinforcing that the two goals are not mutually exclusive.",
+      "conclusion": "Restate your balanced position clearly without introducing new information. Emphasise that a diversified approach to scientific funding, which prioritises both immediate humanitarian needs and long-term exploratory research, represents the most rational and forward-looking policy strategy for governments to adopt."
+    }
+  }
+}
