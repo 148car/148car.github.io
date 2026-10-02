@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T07:45:35.491124Z",
+  "listening": {
+    "title": "How to see the Orionid meteor shower from Friday",
+    "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC 6 Minute English",
+    "topic": "The Orionid meteor shower, caused by debris from Halley's Comet, peaks in October and can be observed with the naked eye under dark skies.",
+    "topic_zh": "獵戶座流星雨由哈雷彗星留下的碎片引發，每年十月達到高峰，在黑暗的環境下可用肉眼觀測。",
+    "transcript_excerpt": "Every autumn, skywatchers around the world look forward to one of the most spectacular natural light shows the universe has to offer — the Orionid meteor shower. Active from late September all the way through to early November, the Orionids are produced when the Earth passes through a trail of dust and debris left behind by one of the most famous comets in our solar system: Halley's Comet. What makes the Orionids particularly impressive is their speed. These tiny particles enter our atmosphere at roughly 41 miles per second, which is extraordinarily fast compared to other meteor showers. As they burn up, they create brilliant streaks of light across the night sky, and some even leave glowing trails that linger for a few seconds after the meteor itself has disappeared. The shower gets its name from the constellation of Orion, because the meteors appear to originate from that region of the sky. However, they can actually appear anywhere overhead, so there's no need to focus your gaze on one particular spot. The peak of the shower occurs overnight between the 21st and 22nd of October, when observers in ideal conditions can expect to see between 10 and 20 meteors per hour. To maximise your chances of a good sighting, head to a location well away from urban light pollution, give your eyes about 15 to 20 minutes to adjust to the darkness, and simply lie back and enjoy the show. No telescope or binoculars are required — just patience and a clear sky.",
+    "vocabulary": [
+      {
+        "word": "debris",
+        "type": "noun",
+        "definition": "scattered fragments or remnants left behind by a larger body, especially in space contexts referring to dust and rocky material",
+        "definition_zh": "碎片；殘骸（尤指太空中彗星或天體遺留的塵埃與岩石物質）",
+        "example": "The Earth passes through a trail of debris left behind by Halley's Comet twice each year, producing two distinct meteor showers."
+      },
+      {
+        "word": "radiate",
+        "type": "verb",
+        "definition": "to spread outward from a central point in all directions, often used to describe light, heat, or the apparent origin of meteors in the sky",
+        "definition_zh": "從中心向四周擴散；輻射（常用於描述光、熱或流星在天空中的視覺起源點）",
+        "example": "The meteors appear to radiate from the constellation of Orion, giving the shower its distinctive name."
+      },
+      {
+        "word": "constellation",
+        "type": "noun",
+        "definition": "a recognised pattern or grouping of stars in the night sky, traditionally given names from mythology or the shapes they resemble",
+        "definition_zh": "星座；指夜空中一組被命名的星星排列，通常源自神話或其形狀聯想",
+        "example": "Orion is one of the most easily recognisable constellations, identifiable by the distinctive hourglass shape formed by its brightest stars."
+      },
+      {
+        "word": "peak",
+        "type": "verb",
+        "definition": "to reach the highest point of intensity, activity, or frequency before declining",
+        "definition_zh": "達到頂峰；最高點（指活動或強度在下降前達到最高值）",
+        "example": "The Orionid meteor shower peaks overnight between the 21st and 22nd of October, when the greatest number of meteors per hour can be observed."
+      },
+      {
+        "word": "light pollution",
+        "type": "phrase",
+        "definition": "the excessive or misdirected artificial light produced by human activity that brightens the night sky and makes it difficult to observe stars and meteors",
+        "definition_zh": "光害；人工照明造成的夜空亮化現象，使天文觀測變得困難",
+        "example": "To see the meteor shower clearly, observers should travel well away from cities where light pollution significantly reduces visibility of the night sky."
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the audio, why are the Orionids considered particularly impressive compared to other meteor showers?",
+        "options": [
+          "A: They produce the highest number of meteors per hour of any annual shower",
+          "B: They travel at exceptional speed and can leave trails that persist after the meteor has passed",
+          "C: They are visible for a longer period of the year than any other shower",
+          "D: They can only be seen with specialised optical equipment"
+        ],
+        "answer": "B",
+        "explanation": "The transcript explicitly states that the Orionids are 'particularly fast' at 41 miles per second and that they 'can leave trails in the sky that last a few seconds after the meteor itself has gone,' which distinguishes them from other showers."
+      },
+      {
+        "q": "How many times per year does Earth encounter material left behind by Halley's Comet?",
+        "options": [
+          "A: Once, producing only the Orionid shower in October",
+          "B: Three times, with a minor shower in January",
+          "C: Twice, producing the Eta Aquariid shower in May and the Orionids in October",
+          "D: Four times, once in each season"
+        ],
+        "answer": "C",
+        "explanation": "The passage clearly states that 'the Earth encounters material left behind by it twice a year, resulting in the Eta Aquariid meteor shower in May and the Orionids in October.'"
+      },
+      {
+        "q": "What advice is given to observers who want the best chance of seeing the Orionids?",
+        "options": [
+          "A: Use a high-powered telescope and focus directly on the constellation of Orion",
+          "B: Observe from an elevated position such as a hilltop with binoculars",
+          "C: Find a dark location away from artificial light and allow the eyes time to adjust",
+          "D: Watch only during daylight hours when the shower is most active"
+        ],
+        "answer": "C",
+        "explanation": "The transcript advises finding 'a dark location away from street lights' and allowing 'around 15 to 20 minutes for your eyes to adjust,' and confirms that 'no telescope or binoculars are required.'"
+      }
+    ]
+  },
+  "reading": {
+    "title": "The Orionid Meteor Shower: Celestial Debris and Annual Spectacle",
+    "passage": "Each October, the Earth's orbital path carries it through a dense trail of cosmic material that produces one of the most reliably spectacular meteor showers visible from the Northern and Southern Hemispheres alike: the Orionids. Active from late September until early November, the shower reaches its peak intensity during the overnight period between 21 and 22 October, when observers under optimal conditions may witness between 10 and 20 meteors per hour streaking across the night sky.\n\nThe origin of the Orionids lies with Halley's Comet, arguably the most celebrated periodic comet known to humanity. As this icy body completes its elliptical orbit around the Sun approximately every 76 years, it sheds vast quantities of dust and small rocky particles. This material becomes distributed along the comet's orbital path, forming a diffuse cloud of debris that persists long after the comet itself has moved on. When Earth crosses this debris field annually, the particles — though typically no larger than a grain of sand — enter the upper atmosphere at velocities approaching 66 kilometres per second. The intense friction generated by this entry causes the particles to vaporise in a burst of luminous energy, creating the characteristic streaks of light that observers on the ground perceive as meteors.\n\nA defining feature of the Orionids is their apparent point of origin. To ground-based observers, the meteors seem to emerge from the direction of Orion, one of the most prominent and easily identifiable constellations in the night sky. This radiant point gives the shower its name. In practice, however, individual meteors can appear in any part of the sky, making a wide, unobstructed view far more important than knowing precisely where to look.\n\nHalley's Comet was last observed from Earth in 1986 and is not expected to return until approximately 2061. Despite this extended absence, its legacy persists annually through two distinct meteor showers: the Eta Aquariids in May and the Orionids in October. No specialist equipment is required to enjoy either display; the principal requirements are a dark observing site, patience, and sufficient time for the human eye to adapt to low-light conditions.",
+    "questions": [
+      {
+        "type": "TFNG",
+        "statement": "The Orionid meteor shower is produced by debris from a comet that completes one full orbit of the Sun every 76 years.",
+        "answer": "True",
+        "explanation": "The passage states that Halley's Comet 'completes its elliptical orbit around the Sun approximately every 76 years' and that it is the source of the Orionid shower's debris."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Observers must point binoculars directly at the constellation of Orion to see the greatest number of meteors during the shower's peak.",
+        "answer": "False",
+        "explanation": "The passage explicitly contradicts this, stating that 'individual meteors can appear in any part of the sky' and that 'a wide, unobstructed view' is far more important than focusing on Orion."
+      },
+      {
+        "type": "TFNG",
+        "statement": "Scientists have determined that Halley's Comet will shed significantly more debris during its 2061 return than it did in 1986.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions the expected return of Halley's Comet in 2061 but provides no information whatsoever about predicted debris quantities or comparisons with the 1986 appearance."
+      },
+      {
+        "type": "MCQ",
+        "q": "According to the passage, what physical process causes the particles from Halley's Comet to become visible as meteors?",
+        "options": [
+          "A: The particles reflect sunlight as they pass through the upper atmosphere",
+          "B: Intense friction during atmospheric entry causes the particles to vaporise and release luminous energy",
+          "C: Electrical charge from the Earth's magnetic field ignites the particles upon contact",
+          "D: Gravitational compression heats the particles as they descend toward the Earth's surface"
+        ],
+        "answer": "B",
+        "explanation": "The passage states that 'the intense friction generated by this entry causes the particles to vaporise in a burst of luminous energy, creating the characteristic streaks of light,' making B the only correct answer supported by the text."
+      }
+    ]
+  },
+  "speaking": {
+    "topic": "Describe a natural phenomenon or event in the night sky that you find fascinating",
+    "topic_zh": "描述一個你覺得令人著迷的自然現象或夜空中的天文事件",
+    "part2": {
+      "cue_card": "Describe a natural phenomenon or event in the night sky that you find fascinating.\n\nYou should say:\n• what the phenomenon is and when or where it occurs\n• how you first learned about or experienced it\n• what makes it visually or scientifically interesting to you\n\nAnd explain why you would recommend others to experience it.",
+      "band_tips": [
+        "Use precise astronomical vocabulary such as 'radiant point,' 'debris field,' 'atmospheric entry,' and 'orbital path' to demonstrate lexical range and impress the examiner at Band 7-9 level.",
+        "Structure your response with a clear narrative arc: introduce the phenomenon, describe a personal or imagined first encounter, analyse why it captivates you scientifically and emotionally, then conclude with a persuasive recommendation — this shows coherence and cohesion.",
+        "Incorporate speculative or hypothetical language such as 'I imagine that witnessing it in person would be,' 'one could argue that,' or 'what strikes me most is the idea that' to demonstrate grammatical range including conditionals and complex clauses."
+      ]
+    },
+    "part3": [
+      {
+        "q": "Do you think governments should invest more in public astronomy education and facilities such as observatories and planetariums?",
+        "q_zh": "你認為政府應該在公共天文教育和設施（如天文台和天文館）上投入更多資源嗎？",
+        "key_points": [
+          "Public investment in astronomy fosters scientific literacy and encourages young people to pursue STEM careers, which has long-term economic benefits for society",
+          "Astronomy has historically driven technological innovation, and accessible public facilities democratise scientific knowledge beyond elite academic institutions",
+          "Budget constraints mean governments must balance astronomy spending against pressing social needs such as healthcare and housing, requiring a nuanced approach to prioritisation"
+        ]
+      },
+      {
+        "q": "In what ways has modern technology changed the way people engage with and learn about the natural world compared to previous generations?",
+        "q_zh": "與前幾代人相比，現代科技如何改變了人們接觸和了解自然世界的方式？",
+        "key_points": [
+          "Smartphone applications, live-streaming telescopes, and social media platforms allow millions of people to access real-time astronomical data and participate in citizen science projects without specialist equipment",
+          "Digital connectivity can paradoxically reduce direct physical engagement with nature, as people may prefer viewing phenomena through screens rather than experiencing them firsthand outdoors",
+          "Online communities and educational platforms have globalised interest in natural phenomena, enabling people in light-polluted urban areas to still engage meaningfully with topics like meteor showers through virtual experiences"
+        ]
+      },
+      {
+        "q": "Some people argue that light pollution in cities is a serious environmental problem. To what extent do you agree, and what solutions might address it?",
+        "q_zh": "有些人認為城市光害是一個嚴重的環境問題。你在多大程度上同意這個觀點，有哪些解決方案可以解決這個問題？",
+        "key_points": [
+          "Light pollution disrupts nocturnal ecosystems by interfering with the behavioural patterns of insects, birds, and marine animals, representing a genuine and measurable environmental threat beyond merely obscuring stargazing",
+          "Smart lighting systems that direct illumination downward, use motion sensors, and reduce intensity during late-night hours can dramatically cut unnecessary sky glow without compromising public safety",
+          "The issue requires coordination between urban planners, businesses, and residents, since piecemeal individual action is insufficient against the cumulative effect of industrial and commercial lighting infrastructure"
+        ]
+      },
+      {
+        "q": "Why do you think human beings have been so consistently fascinated by space and celestial events throughout history, across many different cultures?",
+        "q_zh": "你認為為什麼人類在歷史上一直對太空和天文事件如此著迷，而且這種現象跨越了許多不同的文化？",
+        "key_points": [
+          "The night sky represents the unknown and the infinite, tapping into a fundamental human psychological drive to explore and understand phenomena that exist beyond the boundaries of everyday experience",
+          "Ancient civilisations relied on celestial observations for agriculture, navigation, and timekeeping, embedding astronomical awareness deeply into cultural, religious, and mythological traditions that persist to this day",
+          "Modern space exploration satisfies a collective desire for human significance and legacy, as missions to other planets and the search for extraterrestrial life address profound philosophical questions about humanity's place in the cosmos"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "task2_question": "Some people believe that funding space exploration and astronomical research is a waste of resources that should instead be directed towards solving problems on Earth, such as poverty and climate change. Others argue that space research brings essential long-term benefits to humanity. Discuss both views and give your own opinion.",
+    "task2_question_zh": "有些人認為，資助太空探索和天文研究是浪費資源，這些資源應該用於解決地球上的問題，例如貧困和氣候變遷。另一些人則認為太空研究為人類帶來重要的長期利益。討論兩種觀點並給出你自己的意見。",
+    "essay_type": "discussion",
+    "useful_phrases": [
+      {
+        "phrase": "Proponents of this view contend that",
+        "when_to_use": "Use when introducing the arguments of one side in a discussion essay, particularly before presenting the reasoning behind a position you may not personally endorse",
+        "when_to_use_zh": "用於在討論型作文中介紹某一方的論點，尤其是在陳述你未必認同的立場之前",
+        "example": "Proponents of this view contend that billions of dollars spent on Mars missions would be far better allocated to renewable energy research and poverty alleviation programmes."
+      },
+      {
+        "phrase": "It is undeniable that ... ; nevertheless, one must consider",
+        "when_to_use": "Use to concede a valid opposing point before pivoting to a counterargument, demonstrating balanced and sophisticated academic reasoning",
+        "when_to_use_zh": "用於承認對方的合理論點後，再轉向反駁，展現平衡且有深度的學術分析能力",
+        "example": "It is undeniable that immediate humanitarian crises demand urgent funding; nevertheless, one must consider that many technologies developed through space research, such as water purification systems, directly benefit vulnerable populations on Earth."
+      },
+      {
+        "phrase": "The long-term ramifications of ... extend far beyond",
+        "when_to_use": "Use when arguing that the consequences or benefits of an action or policy are broader or more significant than they might initially appear",
+        "when_to_use_zh": "用於論證某一行動或政策的影響或益處比表面上看起來更廣泛或更重要",
+        "example": "The long-term ramifications of astronomical research extend far beyond the scientific community, having generated innovations in satellite communication, medical imaging, and solar energy technology."
+      },
+      {
+        "phrase": "A compelling case can be made for the proposition that",
+        "when_to_use": "Use to introduce your own opinion or the argument you find most persuasive in a measured, academic manner that avoids overly assertive language",
+        "when_to_use_zh": "用於以學術且不過於武斷的方式引出你認為最具說服力的論點或個人觀點",
+        "example": "A compelling case can be made for the proposition that space exploration and earthbound problem-solving are not mutually exclusive priorities, but rather complementary endeavours."
+      },
+      {
+        "phrase": "Rather than viewing ... as mutually exclusive, it is more productive to",
+        "when_to_use": "Use in your conclusion or opinion paragraph to resolve an apparent contradiction between two positions and present a nuanced, synthesising argument",
+        "when_to_use_zh": "用於結論或個人觀點段落，化解兩種立場之間的表面矛盾，呈現更細緻的綜合性論點",
+        "example": "Rather than viewing space investment and social welfare spending as mutually exclusive, it is more productive to recognise that scientific discovery has historically underpinned the technological advances that address humanity's most pressing challenges."
+      }
+    ],
+    "outline": {
+      "intro": "Begin by paraphrasing the question using your own vocabulary — for example, reframe 'space exploration' as 'investment in astronomical and extraterrestrial research.' Briefly acknowledge that this is a genuinely contested issue before presenting a clear thesis that you will discuss both perspectives before offering a qualified personal position.",
+      "body1": "Present the argument against space funding by discussing opportunity cost: the vast financial resources required for missions and research could fund renewable energy infrastructure, global health initiatives, or climate adaptation programmes. Acknowledge that this view is understandable given the visibility and urgency of terrestrial crises, and use a specific example such as the cost of a Mars mission compared to global malaria eradication estimates to ground the argument concretely.",
+      "body2": "Argue in favour of space research by demonstrating that it is not purely abstract: GPS technology, weather satellites used in climate monitoring, and medical imaging systems all derive from space programme investment. Extend this by arguing that understanding phenomena such as cometary debris and planetary orbital mechanics contributes to long-term civilisational resilience, including the ability to predict and potentially deflect asteroid impact threats. Introduce your own view here — that the binary framing of the debate is itself flawed.",
+      "conclusion": "Restate your thesis that space research and solving earthly problems are complementary rather than competing priorities. Suggest that the question is not whether to fund space exploration, but how governments can ensure that the technological dividends of such research are efficiently translated into practical solutions for humanity's immediate challenges. End with a forward-looking statement about the role of scientific curiosity in human progress."
+    }
+  }
+}
